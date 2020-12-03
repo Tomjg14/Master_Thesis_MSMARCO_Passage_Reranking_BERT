@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7942370
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: Step 1. Find out where you stand. You need to know how much your retirement benefits will be and when, exactly, you'll reach what the Social Security Administration (SSA) considers full retirement age, the age at which you can receive those benefits without penalty.es, you'll be getting less, but you'll also start collecting earlier, and you might be surprised how long it takes to make up the difference. The government uses the example of someone who can receive $750 a month at 62 or $1,000 a month at a full retirement age of 66.
+subject_label:			2
+query_id:			257885

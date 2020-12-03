@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5638265
+query:			what is crossfit?
+passage:			Passage: Letâs figure out what CrossFit is, who itâs for, how it works, and if you should join your local CrossFit gym. WARNING: At 6,000 words, this is the longest post that has ever appeared on NF. If you have NO interest in CrossFit, check back in on Monday with your regularly scheduled nerdiness.
+subject_label:			no_input
+query_id:			736125

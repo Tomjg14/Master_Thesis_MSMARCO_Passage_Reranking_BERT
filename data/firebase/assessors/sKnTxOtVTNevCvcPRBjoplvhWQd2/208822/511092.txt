@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			511092
+query:			how big is a micron
+passage:			Passage: HOW INFRARED SAUNAS WORK 101. 1) Infrared heat is measured in microns. 2) Our bodies emit infrared heat naturally at 9.4 microns. 3) The closer your infrared heaters are to 9.4 microns the more your body will absorb as it strikes a balance resulting in a faster deeper sweat.
+subject_label:			1
+query_id:			208822

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7571104
+query:			can vcenter standard manage essentials plus
+passage:			Passage: The VMware vCenter Server in the essentials bundle CAN ONLY manage a maximum of three hosts. Essentials cannot be upgraded to any other version of vSphere, e.g. Standard, Enterprise or Enterprise Plus, you would have to purchase complete new licenses.
+subject_label:			4
+query_id:			75266

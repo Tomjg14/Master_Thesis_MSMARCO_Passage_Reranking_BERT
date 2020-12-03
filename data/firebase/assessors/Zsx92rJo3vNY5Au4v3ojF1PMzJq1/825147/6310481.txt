@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6310481
+query:			what is the hormone that makes you fat
+passage:			Passage: Whey Protein And Fat Loss: 3 Benefits. 1) Whey increases the secretion of CCK, which is a hormone that helps to regulate appetite. It also suppresses the output of grehlin which is a hormone that stimulates your appetite. The combination of these two effects may make it easier for you to stick to your fat burning diet.) Whey increases the secretion of CCK, which is a hormone that helps to regulate appetite. It also suppresses the output of grehlin which is a hormone that stimulates your appetite. The combination of these two effects may make it easier for you to stick to your fat burning diet.
+subject_label:			3
+query_id:			825147

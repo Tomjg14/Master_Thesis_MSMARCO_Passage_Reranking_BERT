@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2598890
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Gumbo is made with vegetables such as okra, onions, celery and green pepper, meat and thickened stock. â¢ There are different types of gumbo such as Cajun gumbo, Creole gumbo and Gumbo zâherbes. There are different types of jambalaya too. They are Cajun jambalaya, Creole jambalaya and white jambalaya.
+subject_label:			1
+query_id:			931726

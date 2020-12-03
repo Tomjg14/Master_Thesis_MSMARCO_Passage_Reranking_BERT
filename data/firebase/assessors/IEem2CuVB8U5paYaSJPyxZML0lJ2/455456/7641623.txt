@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7641623
+query:			molar mass of phenol
+passage:			Passage: Find the molar mass of phenol - approx 12x6 + 1x6 + 16 = 94 g/mol (use atomic mass values expected in your course as I have used simple values.) 2.000g releases 64.98 kJ, so. 94g releases (64.98/2.000) x 94g.
+subject_label:			5
+query_id:			455456

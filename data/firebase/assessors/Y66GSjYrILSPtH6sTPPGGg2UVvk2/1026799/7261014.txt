@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7261014
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: xenotransplant; xenotransplantation. Hypernyms (xenotransplantation is a kind of...): organ transplant; transplant; transplantation (an operation moving an organ from one organism (the donor) to another (the recipient)) Learn English with...
+subject_label:			1
+query_id:			1026799

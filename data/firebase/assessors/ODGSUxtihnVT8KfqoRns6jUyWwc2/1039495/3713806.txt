@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3713806
+query:			who is the boss of google?
+passage:			Passage: If you know your boss is going to be a bad reference, seek out someone else in the company to provide a reference for you. If the boss who fired you was not always your boss, list a previous boss, even if that person is no longer with the company.
+subject_label:			1
+query_id:			1039495

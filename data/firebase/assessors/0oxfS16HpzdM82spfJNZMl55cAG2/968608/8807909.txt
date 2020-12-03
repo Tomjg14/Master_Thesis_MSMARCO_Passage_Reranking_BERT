@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8807909
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Thomas Edison was born in 1847 in Milan, Ohio. Like Ben Franklin, he was both a scientist and an inventor. In fact, Edison patented 1,093 inventions in his lifetime including the kinetoscope, the phonograph, and his most famous - the incandescent light bulb. The Menlo Laboratory in Newark, New Jersey, was to become the first research and development lab in the world. Edison called this lab his invention factory.. In 1879, after 1,200 experiments, Edison made a light bulb using carbonized filaments from cotton that burned for two days.
+subject_label:			5
+query_id:			968608

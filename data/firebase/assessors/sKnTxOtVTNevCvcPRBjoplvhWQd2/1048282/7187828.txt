@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187828
+query:			what is pivx
+passage:			Passage: At the point of writing this article, the total available circulating supply of PIVX is approximately 55,169,505 PIVX units, and the price of each unit of PIVX is worth $3.56. Hence, the market capitalization of PIVX is $196 million.
+subject_label:			2
+query_id:			1048282

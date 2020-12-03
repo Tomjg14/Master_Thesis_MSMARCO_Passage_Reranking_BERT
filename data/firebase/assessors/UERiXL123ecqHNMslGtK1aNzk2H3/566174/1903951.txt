@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1903951
+query:			what are stand up paddle boards made of
+passage:			Passage: That's the simple reason why SUP ATX is #1 maker and seller of Stand Up Paddle boards on Earth. More About SUP ATX Stand Up Paddle Boards: 1) SUP ATX stand paddle boards are shaped and designed for use on oceans, lakes and rivers.
+subject_label:			1
+query_id:			566174

@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			2552630
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: As already mentioned, this biome is most frequent from 30 to 40 north or south latitude (see map). The largest cluster is in the Mediterranean basin, but significant areas of this habitat exist also in South America, the western coast of southern Africa, California, and in the southwestern tip of Australia.arge animals simply can't stand the heat of day in many of these locations, and it's hard for a large animal to burrow. Mediterranean Gecko-Hemidactylus turcicus. Left: The Mediterranean Gecko is a nocturnal insectivore of the Mediterranean Biome.
+subject_label:			4
+query_id:			1003875

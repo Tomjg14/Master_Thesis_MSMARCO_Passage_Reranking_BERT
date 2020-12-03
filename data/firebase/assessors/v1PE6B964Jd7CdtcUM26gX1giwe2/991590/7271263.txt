@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7271263
+query:			where is ridgewood ny located
+passage:			Passage: Q: Where is Westchester Community College located? A: Westchester Community College is located at 175 Gramatan Ave, Mount Vernon, NY 10550. Ã
+subject_label:			1
+query_id:			991590

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1176427
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: NiccolÃ² Machiavelli is the Father of Modern Political Science Fact. NiccolÃ² Machiavelli can be considered the father of modern political science. NiccolÃ² Machiavelli, the First Modern Political Scientist, and The Prince, the First Major Work of Modern Political Philosophy. NiccolÃ² Machiavelli can be considered the father of modern political science, and his book The Prince one of the first works of modern political philosophy (if not just modern philosophy). [1] [2] [3]
+subject_label:			1
+query_id:			9083

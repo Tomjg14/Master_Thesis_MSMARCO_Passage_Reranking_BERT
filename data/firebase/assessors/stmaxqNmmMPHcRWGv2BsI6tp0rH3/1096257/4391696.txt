@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4391696
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Proposal Analyst make? These Glassdoor salary estimates are based on 19 reports of salaries, bonuses, wages, and hourly pay, submitted anonymously to Glassdoor by Senior Proposal Analyst employees.
+subject_label:			2
+query_id:			1096257

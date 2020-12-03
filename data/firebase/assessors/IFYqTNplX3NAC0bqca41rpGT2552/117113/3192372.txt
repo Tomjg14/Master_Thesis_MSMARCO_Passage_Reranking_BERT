@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3192372
+query:			define abraham lincoln during civil war
+passage:			Passage: The president of the US during the Civil War was Abraham Lincoln. For most of the war it was Abraham Lincoln (1809-1865), who proclaimed that the conflict was ultimately intended to preserve the Union of the United States. Actual hostilities began a month after his inauguration, on April 12, 1861.
+subject_label:			3
+query_id:			117113

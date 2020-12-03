@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7867875
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Continuous Improvement with Lean Six Sigma for Beginners. Six Sigma focuses on defects from variation. In statistics, the sigma is used to identify variation. Companies that adopt Six Sigma as a philosophy seek to reduce variation in the business processes that cause waste and inefficiencies.
+subject_label:			3
+query_id:			786937

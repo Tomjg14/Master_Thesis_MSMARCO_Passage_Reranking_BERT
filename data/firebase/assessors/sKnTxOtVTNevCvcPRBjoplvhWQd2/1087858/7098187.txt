@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7098187
+query:			what airport is in wilder ky
+passage:			Passage: Hotels near Beckfield College - Florence, KY Campus; Hotels near Brown Mackie - Northern Kentucky Fort Mitchell, KY; Hotels near Christ Hospital School of Nursing; Hotels near Cincinnati Christian University; Explore Hotels. Greater Cincinnati Hotels; All Wilder Restaurants; Restaurants near Hampton Inn & Suites Wilder; All things to do in Wilder
+subject_label:			1
+query_id:			1087858

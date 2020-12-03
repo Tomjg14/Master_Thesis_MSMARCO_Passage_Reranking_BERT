@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1183228
+query:			what are stand up paddle boards made of
+passage:			Passage: Washburn Board Across the Bay Washburn July 21 - July 22 The Washburn Board Across the Bay Race is a unique Stand Up Paddle Board Event for all paddling enthusiasts. It takes place on Lake Superiorâs Chequamegon Bay...
+subject_label:			1
+query_id:			566174

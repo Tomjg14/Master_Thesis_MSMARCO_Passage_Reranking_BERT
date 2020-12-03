@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7994421
+query:			definition of purse
+passage:			Passage: Learner's definition of PURSE. 1. [count]. a US: a usually leather or cloth bag used by women for carrying money and personal things: handbag. b chiefly British: change purse. 2. [singular] : an amount of money that a person, organization, or government has available to use. Many believe the work should be financed by the public purse. [=should be paid for by the government]. [+] more examples [-] hide examples [+] Example sentences [-] Hide examples.
+subject_label:			5
+query_id:			137508

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5105663
+query:			where do the ash borer come from
+passage:			Passage: Others concerns within the state are the emerald ash borer, pine shoot beetles, and oak wilt. The emerald ash borer, in particular, poses a serious threat to Missouri's ash population. This imported insect has killed hundreds of thousands of ash trees as it makes it's way west.
+subject_label:			2
+query_id:			971653

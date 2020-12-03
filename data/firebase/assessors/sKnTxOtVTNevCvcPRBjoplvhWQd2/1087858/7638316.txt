@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7638316
+query:			what airport is in wilder ky
+passage:			Passage: Major cities near Todd County, KY. This is a list of large cities closest to Todd County, KY. A big city usually has a population of at least 200,000 and you can often fly into a major airport. If you need to book a flight, search for the nearest airport to Todd County, KY. 1 50 miles to Nashville, TN. 2 126 miles to Louisville, KY.
+subject_label:			1
+query_id:			1087858

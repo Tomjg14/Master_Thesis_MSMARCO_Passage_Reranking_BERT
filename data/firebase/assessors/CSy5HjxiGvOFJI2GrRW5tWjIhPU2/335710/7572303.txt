@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7572303
+query:			how old is lil moco
+passage:			Passage: How Much Is Lil Income, How Much Is Lil Net Worth, How Much Is Lil Salary, How Much Lil Worth, Lil, Lil Age, Lil B, Lil Background, Lil Bibby, Lil Bio, Lil Boosie, Lil Boosie Crazy, Lil Boosie Release, Lil Bub, Lil Chris, Lil Cooperstown, Lil Country, Lil Date Of Birth, Lil Dicky, Lil Durk, Lil Eazy E, Lil Ethnicity, Lil Fizz, Lil Height, Lil Herb, ...
+subject_label:			1
+query_id:			335710

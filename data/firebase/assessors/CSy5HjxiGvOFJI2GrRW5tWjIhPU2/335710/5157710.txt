@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5157710
+query:			how old is lil moco
+passage:			Passage: Lil Yachty Is Unapologetically Atlanta On His âLil Boatâ. The Atlanta t/rap scene is thriving, the latest in offering is 18 year old Lil Yachty, whoâs just dropped a surprise 14 track mixtape, aptly named âLil Boatâ.
+subject_label:			2
+query_id:			335710

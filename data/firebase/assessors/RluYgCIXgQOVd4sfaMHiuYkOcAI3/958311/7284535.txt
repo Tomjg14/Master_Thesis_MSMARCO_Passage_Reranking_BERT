@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7284535
+query:			when was jim vance funeral
+passage:			Passage: Jim Davis was born as Marlin Jim Davis to Lucian Davis and Ethyl Offutt Davis in Edgerton, Missouri. His parents were the owners of a funeral home in Dearborn, Missouri. He studied in âWilliam Jewell Collegeâ in Liberty, Missouri.
+subject_label:			1
+query_id:			958311

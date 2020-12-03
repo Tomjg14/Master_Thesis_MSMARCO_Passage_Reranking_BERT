@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669622
+query:			is callahan an irish name
+passage:			Passage: The Callahan family crest and coat of arms. The Callahan coat of arms features a green field with a stand of trees, with a wolf emerging. For detailed Callahan name history information, our Framed Irish Family Name History (#1760) has more information on the Callahan family origins and surname. The Irish Rose has a large selection of Callahan coat of arms items.
+subject_label:			3
+query_id:			405238

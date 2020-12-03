@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6822139
+query:			architectural design
+passage:			Passage: Incoming search terms: 1 architecture software. 2 best architecture software. 3 architect software. 4 best home design software. 5 architectural design software. 6 architectural software. 7 best architect software. 8 best architectural software. 9 software for architects. 10 architecture design software.
+subject_label:			1
+query_id:			20597

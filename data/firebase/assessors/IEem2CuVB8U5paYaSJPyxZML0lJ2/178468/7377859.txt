@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7377859
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Relax your mind, body and soul with the benefits of Hot Stone Therapy. Stone therapy is an wonderful and relaxing treatment and is used to create balance within the body. It provides a deep massage using either hot or cold basalt stones.tone therapy can be traced back to ancient Egypt, China and Incas. Cold stones soothe the body and can reduce inflammation and muscular injury. This creates a type of thermo therapeutic âvascular gymnasticsâ in the circulatory system to help the body detoxify and heal.
+subject_label:			5
+query_id:			178468

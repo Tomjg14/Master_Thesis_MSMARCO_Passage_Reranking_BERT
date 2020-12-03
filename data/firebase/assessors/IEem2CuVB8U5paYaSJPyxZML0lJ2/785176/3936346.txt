@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3936346
+query:			what is polydextrose made from
+passage:			Passage: However, polydextrose is commonly used in food as a replacement for sugar, starch, and fat, resulting in a low calorie alternative. Foods that may contain polydextrose include cakes, dessert mixes, sweetes, breakfast cereals, puddings, and more.olydextrose is a tasteless synthetic form of soluble dietary fibre that is synthesised by combining glucose (AKA dextrose) molecules together with a little bit of sorbitol and citric acid.
+subject_label:			5
+query_id:			785176

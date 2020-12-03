@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2737045
+query:			what is njstart
+passage:			Passage: whats good; whats gooday [whats good] B; What's good boys? whats good family? what's good for the geese? whats good in the hood; What's good mo; What's good nigga; What's good wit chu; what's good with the butt? Whats good wit it; whats goody; What's goodybags? What's Goy? What's Grapes? What's Gravity; What's gravy; whats gravy in the navy; what's growin' long; whats guanin
+subject_label:			1
+query_id:			1049791

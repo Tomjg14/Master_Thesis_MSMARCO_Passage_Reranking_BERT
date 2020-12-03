@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6260864
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: Non-Clastic, or chemical, sedimentary rock is formed from dissolved minerals. These rocks are made of chemical sediments that have been dissolved from minerals. Solid minerals â¦ precipitate out of the solution in water.These minerals layer, and the water above them causes the pressure which forms the rock.hese rocks are made of chemical sediments that have been dissolved from minerals. Solid minerals â¦ precipitate out of the solution in water. These minerals layer, and the water above them causes the pressure which forms the rock.
+subject_label:			2
+query_id:			1007473

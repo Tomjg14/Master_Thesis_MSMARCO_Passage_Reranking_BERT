@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7956701
+query:			was the great wall of china breached
+passage:			Passage: Construction of the Great Wall of China. When was the great wall of china built? The construction of the Great Wall of China was a massive feat that took a ton of laborers to build. Its construction and reconstruction spans several centuries. Construction of the Great Wall began around 220 BC. It was built on and off for many centuries until the 1500s. Related article: history of the great wall of china. How it was Made.
+subject_label:			1
+query_id:			540906

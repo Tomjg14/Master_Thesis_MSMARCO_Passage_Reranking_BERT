@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4132982
+query:			what hormone secretion causes goiter
+passage:			Passage: This signal is called thyroid stimulating hormone (TSH). As the name implies, this hormone stimulates the thyroid to produce thyroid hormone and to grow in size. This abnormal growth in size produces what is termed a âgoiter.â Thus, iodine deficiency is one cause of goiter development. Wherever iodine deficiency is common, goiter will be common.
+subject_label:			5
+query_id:			669427

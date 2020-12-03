@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6898705
+query:			what are sensitive periods for brain development
+passage:			Passage: At the age of 3, children enter sensitive periods related to reading and writing. A fascination with tactile objects helps toddlers develop fine motor skills around age 2. According to Maria Montessori, the early childhood educator, children move through 11 distinct sensitive periods by the age of 6. Montessori hypothesized that a child's development may be enhanced by providing the right kind of stimuli during the sensitive periods.
+subject_label:			5
+query_id:			564668

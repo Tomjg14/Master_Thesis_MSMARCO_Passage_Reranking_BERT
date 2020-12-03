@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			47009
+query:			hydrocodone price per pill
+passage:			Passage: Hydrocodone addiction is seen in every age group, with the majority of cases occurring in women between the ages of 20 and 40. Young teens are quickly becoming addicted to the substance because of its ease of availability. It is also an affordable street drug, costing between $2 and $10 per pill.
+subject_label:			5
+query_id:			1094731

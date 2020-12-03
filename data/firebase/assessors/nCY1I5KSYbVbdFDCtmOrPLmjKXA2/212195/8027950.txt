@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8027950
+query:			how could the courts check the bureaucracy
+passage:			Passage: What is BUREAUCRACY? What does BUREAUCRACY mean? BUREAUCRACY meaning - BUREAUCRACY definition - BUREAUCRACY explanation - How to pronounce BUREAUCRACY? Source: Wikipedia.org article, adapted under https://creativecommons.org/licenses/... license. A bureaucracy is a body of non-elective government officials and/or an administrative policy-making group.
+subject_label:			1
+query_id:			212195

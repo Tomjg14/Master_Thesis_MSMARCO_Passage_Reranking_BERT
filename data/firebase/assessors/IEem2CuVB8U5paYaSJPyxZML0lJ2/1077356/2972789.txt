@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2972789
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: XEOMINÂ® is a prescription medicine that is injected into muscles and used: â¢ to treat increased muscle stiffness in the arm of adults with upper limb spasticity. â¢ to treat the abnormal head position and neck pain with cervical dystonia (CD).
+subject_label:			5
+query_id:			1077356

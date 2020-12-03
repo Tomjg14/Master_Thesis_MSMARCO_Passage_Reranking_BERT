@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			560303
+query:			hydrocodone price per pill
+passage:			Passage: For example, hydrocodone detection time in urine is about 2-4 days (on the safe side) , while hydrocodone can be detected in the hair for up to 3 months after your last pill. Most commercial drug tests for hydrocodone, however, detect hydrocodone in the urine for 6-24 hours after last use.
+subject_label:			1
+query_id:			1094731

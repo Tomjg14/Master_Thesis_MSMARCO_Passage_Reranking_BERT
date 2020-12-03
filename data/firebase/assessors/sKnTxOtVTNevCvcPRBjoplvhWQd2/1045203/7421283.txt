@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7421283
+query:			who owns cnn cable news network
+passage:			Passage: eye 3.2M. Cable News Network (CNN) is a U.S. cable news channel founded in 1980 by Ted Turner. Upon its launch, CNN was the first channel to provide 24-hour television news coverage, and the first all-news television channel in the United States.
+subject_label:			1
+query_id:			1045203

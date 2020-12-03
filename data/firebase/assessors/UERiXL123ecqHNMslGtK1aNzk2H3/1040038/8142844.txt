@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8142844
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: What is the formula for barium and phosphorus compound? Update: Predict the formula for the compound formed between barium and phosphorus? A) BaP B)Ba2P C)BaP2 D)Ba2P3 E)Ba3P2 and tell how positive you are, also name the binary compound formed between barium and phosphorus. A) Barium Phosphorus B) Barium Phosphide C) Barium Phosphate D) Barium Diphosphate E)... show more Predict the formula for the compound formed between barium and phosphorus? A) BaP.
+subject_label:			1
+query_id:			1040038

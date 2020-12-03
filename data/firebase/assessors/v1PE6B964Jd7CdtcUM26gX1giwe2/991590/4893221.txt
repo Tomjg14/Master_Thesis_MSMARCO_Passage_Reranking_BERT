@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4893221
+query:			where is ridgewood ny located
+passage:			Passage: Ridgewood, NY Other Information. 1 Located in QUEENS County, New York. 2 Ridgewood, NY is also known as: 3 FLUSHING, NY. FRESH POND, 1 NY. GLENDALE, 2 NY. QUEENS, NY.
+subject_label:			5
+query_id:			991590

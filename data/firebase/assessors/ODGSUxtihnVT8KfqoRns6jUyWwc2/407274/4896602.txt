@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4896602
+query:			is cortana smart???
+passage:			Passage: Microsoft's Windows Phone 8.1 just got an upgrade with the voice of Cortana. If you're an avid video game player, you're probably thrilled. Cortana is a character in the popular Halo video games series. She's sexy and smart and tries to save the world.
+subject_label:			5
+query_id:			407274

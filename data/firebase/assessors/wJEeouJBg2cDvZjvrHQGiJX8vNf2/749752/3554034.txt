@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3554034
+query:			what is gabba
+passage:			Passage: Yo Gabba Gabba! airs on the Nick Jr. cable network in the United States and the Nick Jr. networks in the United Kingdom & Ireland (where the characters had their voices overdubbed by British actors), Italy, France and Australia as well as Treehouse TV network in Canada and RTE2 on RTÃjr in Ireland.
+subject_label:			1
+query_id:			749752

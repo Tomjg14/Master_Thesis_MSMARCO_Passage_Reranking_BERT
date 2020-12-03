@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595982
+query:			what is included in a clutch kit
+passage:			Passage: Most often when you need to replace a clutch, it is recommended to buy a clutch kit, rather than purchasing and fitting separate clutch parts. Installing a full clutch kit means that all parts will be of the same age and should wear evenly, provided the new clutch kit is fitted and aligned correctly. If you only replace one part of the clutch kit, there is the risk that one of the older parts will fail, causing an unexpected clutch failure. **More on identifying when your clutch and parts are due for replacement in our FAQ section..
+subject_label:			3
+query_id:			758519

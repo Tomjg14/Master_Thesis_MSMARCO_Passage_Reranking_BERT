@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3094569
+query:			who paul clark
+passage:			Passage: Summary: Chapter 9. Grant takes Miss Emma to the jail in Bayonne. When they arrive, they meet two deputies, Clark and Paul. Clark orders Paul to search through the package Emma has brought for Jefferson.
+subject_label:			1
+query_id:			988142

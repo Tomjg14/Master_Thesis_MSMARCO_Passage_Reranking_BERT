@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2657752
+query:			where is ridgewood ny located
+passage:			Passage: Ridgewood Kennels has been placing Westie mixed puppies for sale in PA, NY, NJ, DE, MD, RI, and farther for 40 years! All of Ridgewoodâs Westie mixed puppies for sale go home with a written LIFETIME warranty. See Ridgewood Kennels Westie Mixed puppies for sale below!
+subject_label:			2
+query_id:			991590

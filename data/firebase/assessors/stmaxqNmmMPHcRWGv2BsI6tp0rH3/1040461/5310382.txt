@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5310382
+query:			who is the grinning man
+passage:			Passage: He may have served billions, but he was always first in line. The Founder is the story of the man who made McDonald's, Ray Kroc, played by Michael Keaton with the ingratiating grin of a perpetual salesman. But Kroc was hawking a lot more than hamburgers.
+subject_label:			1
+query_id:			1040461

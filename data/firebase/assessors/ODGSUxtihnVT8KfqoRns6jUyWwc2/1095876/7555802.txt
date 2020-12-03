@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7555802
+query:			how much is college in florida
+passage:			Passage: Florida Colleges, Cost and Affordability for 2016. How much does it cost to attend college in Florida? The average annual in-state college tuition in Florida was $13,634 for the 2016-2017 academic year. This is $48 higher than the U.S. average and ranks Florida in the middle of the pack as the 24th most expensive and 29th most affordable state or district to attend college.
+subject_label:			4
+query_id:			1095876

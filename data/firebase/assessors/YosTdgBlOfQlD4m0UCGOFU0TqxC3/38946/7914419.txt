@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7914419
+query:			average money market interest rates
+passage:			Passage: From 2010 to 2011, money market deposit account rates hovered at a level just narrowly above standard savings account rates, with interest levels for money market accounts during the week of Feb. 8, 2010 averaging just 1.4 percent.
+subject_label:			3
+query_id:			38946

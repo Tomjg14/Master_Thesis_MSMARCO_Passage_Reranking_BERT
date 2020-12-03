@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5969506
+query:			what hormone secretion causes goiter
+passage:			Passage: Thyroxine, also known as T4, is the primary hormone secreted by the thyroid gland; this hormone helps control our metabolism, a chemical process that turns our food into energy. A lack of iodine in your food can cause the thyroid to swell, a condition called a goiter.
+subject_label:			4
+query_id:			669427

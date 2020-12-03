@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4830070
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Project Engineer make? The average Senior Project Engineer salary is $94,657. Filter by location to see Senior Project Engineer salaries in your area. Salary estimates are based on 2,120 salaries submitted anonymously to Glassdoor by Senior Project Engineer employees.
+subject_label:			2
+query_id:			1096257

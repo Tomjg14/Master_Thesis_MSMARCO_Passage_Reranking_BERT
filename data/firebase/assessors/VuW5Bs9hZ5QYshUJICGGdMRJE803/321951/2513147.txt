@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2513147
+query:			how much is donald trump jr worth
+passage:			Passage: Donald Trump Jr. isnât the only child with a seat at the top table of The Trump Organization, however. Ivanka Trump, the middle child from Donald Trumpâs first marriage to Ivana Trump, also has an estimated net worth of $150 million, holding an equal position as executive vice president of The Trump Organization.
+subject_label:			1
+query_id:			321951

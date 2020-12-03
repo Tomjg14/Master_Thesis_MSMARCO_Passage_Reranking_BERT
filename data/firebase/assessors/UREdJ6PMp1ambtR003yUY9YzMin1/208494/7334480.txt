@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7334480
+query:			how big do newfypoo's get
+passage:			Passage: How big do dwarf Caimans get? I was wondering how big does a female dwarf Caimans get cause i was thinking of getting one cause i have a lot of free time on my hands: 03/08/05 10:56pm
+subject_label:			1
+query_id:			208494

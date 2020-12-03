@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2952957
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: Definitions and Synonyms of vomiting | Another word for vomiting | What is vomiting? Definition 1: the reflex act of ejecting the contents of the stomach through the mouth - [noun denoting act] Synonyms for vomiting in the sense of this definition. (vomiting is a kind of ...) the act of expelling or projecting or ejecting. (vomiting is a kind of ...) an automatic instinctive unlearned reaction to a stimulus.
+subject_label:			2
+query_id:			831784

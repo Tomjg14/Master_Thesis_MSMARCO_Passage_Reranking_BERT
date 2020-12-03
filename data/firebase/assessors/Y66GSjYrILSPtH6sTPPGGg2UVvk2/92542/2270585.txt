@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2270585
+query:			circulation money definition
+passage:			Passage: DEFINITION of 'Currency'. A generally accepted form of money, including coins and paper notes, which is issued by a government and circulated within an economy. Used as a medium of exchange for goods and services, currency is the basis for trade.
+subject_label:			2
+query_id:			92542

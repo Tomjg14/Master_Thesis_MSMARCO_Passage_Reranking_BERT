@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7866004
+query:			what is the plural of kohlrabies
+passage:			Passage: -Â·bies. a garden vegetable (Brassica oleracea var. gongylodes) of the crucifer family, similar to cabbage: the edible part is a bulbous portion of the stem just above the ground. Origin of kohlrabi. Ger, altered (infl. by kohl, cabbage) ; from Italian cavoli rape, plural of cavolo rapa, cole rape ; from Classical Latin caulis (from source cole) + rapa, turnip.
+subject_label:			3
+query_id:			839488

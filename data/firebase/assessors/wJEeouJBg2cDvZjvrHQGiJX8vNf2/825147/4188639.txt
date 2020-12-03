@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4188639
+query:			what is the hormone that makes you fat
+passage:			Passage: What happens, not only for progesterone cream, but for ANY hormone preparation you use by applying as a cream to your skin is that within a few weeks to a few months you will saturate the fat tissue with the hormones and they will actually stop working or can even make your symptoms worse.
+subject_label:			3
+query_id:			825147

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3158708
+query:			how could the courts check the bureaucracy
+passage:			Passage: 1. Describe the bureaucratsâwho they are, how they got there, and what they do. 2. Discuss how the federal bureaucracy is organized. 3. Explain how bureaucracies function as implementors of public policy. 4. Explain how bureaucracies function as regulators.
+subject_label:			1
+query_id:			212195

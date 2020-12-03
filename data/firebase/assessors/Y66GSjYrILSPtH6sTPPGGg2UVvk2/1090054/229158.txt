@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			229158
+query:			temperature diode
+passage:			Passage: A semiconductor diode, the most common type today, is a crystalline piece of semiconductor material with a pân junction connected to two electrical terminals. A vacuum tube diode has two electrodes, a plate (anode) and a heated cathode. Semiconductor diodes were the first semiconductor electronic devices. For a bias less than the PIV, the reverse current is very small. 2 For a normal PâN rectifier diode, the reverse current through the device in the micro-ampere (ÂµA) range. 3 However, this is temperature dependent, and at sufficiently high temperatures, a substantial amount of reverse current can be observed (mA or more).
+subject_label:			3
+query_id:			1090054

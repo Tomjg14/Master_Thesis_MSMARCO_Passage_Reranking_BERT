@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4635886
+query:			what is termis
+passage:			Passage: A notice to quit (15 days notice to vacate) is used when a landlord wishes to termi. rental. The landlord is not required to give a specific reason when this notice is served. Tenants. must be given a 15 day notice AT LEAST â15 days prior to when rent is dueâ again, excluding. date of service.
+subject_label:			1
+query_id:			1045227

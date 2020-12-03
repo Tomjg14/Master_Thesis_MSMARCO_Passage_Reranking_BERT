@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4024309
+query:			is the hawb the tracking number
+passage:			Passage: What does it mean 'Ups tracking number has correct format, but wrong check digit'? Ups tracking number contains checkdigit that depends on characters in the tracking number. If calculated checkdigit differs from checkdigit from UPS tracking number, this indicates misprint. Check tracking number and provide correct number.
+subject_label:			2
+query_id:			426442

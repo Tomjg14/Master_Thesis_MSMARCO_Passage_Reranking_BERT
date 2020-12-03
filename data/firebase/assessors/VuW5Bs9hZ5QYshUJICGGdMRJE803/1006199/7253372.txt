@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7253372
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: The X-Ray Crystallography that Propelled the Race for DNA: Astburyâs Pictures vs. Franklinâs Photo 51 Posted on July 9, 2009 by scarc Rosalind Franklin, March 1956
+subject_label:			1
+query_id:			1006199

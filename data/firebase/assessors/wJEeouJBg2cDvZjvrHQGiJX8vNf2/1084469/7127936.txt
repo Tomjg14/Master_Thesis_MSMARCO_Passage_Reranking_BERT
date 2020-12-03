@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7127936
+query:			what does a grassroots organization mean
+passage:			Passage: To me grassroots means having the voices and actions of the community of the issue in question, at the forefront, if not dominating, the organization, the leadership, the agenda. Second, is there a specific group you're referring to, Yiwah?
+subject_label:			4
+query_id:			1084469

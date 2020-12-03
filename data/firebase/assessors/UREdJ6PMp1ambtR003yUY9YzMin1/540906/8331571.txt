@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8331571
+query:			was the great wall of china breached
+passage:			Passage: 1 Facts About The Great Wall of China-Frequently asked questions & other facts about the Great Wall of China. 2 Great Wall of China Map-Maps of the Great Wall of China. 3 Pictures of The Great Wall of China-Assorted pictures of the Great Wall of China.
+subject_label:			1
+query_id:			540906

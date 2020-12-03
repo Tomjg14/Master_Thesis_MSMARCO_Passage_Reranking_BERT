@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6480791
+query:			is the hawb the tracking number
+passage:			Passage: Track by tracking number. 1 In the Tracking Number(s) box, enter a tracking number. To track more than one package, press Enter and then type another tracking number. Select the Track button to view your results.
+subject_label:			1
+query_id:			426442

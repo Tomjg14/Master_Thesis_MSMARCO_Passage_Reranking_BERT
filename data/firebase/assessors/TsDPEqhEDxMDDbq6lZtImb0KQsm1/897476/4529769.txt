@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4529769
+query:			what state has the easiest bar exam
+passage:			Passage: Because bar exams, no matter what state, test your competence to be a lawyer and not how great a lawyer you will be--and that means you need only earn a solid C on the exam to pass. If you've passed law school, there's no reason you can't pass the bar exam on the first try.
+subject_label:			1
+query_id:			897476

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			826689
+query:			what are stand up paddle boards made of
+passage:			Passage: Stand up paddle board: This is by far your most significant gear investment. Your board choice is determined by a combination of paddler weight and skill, your intended use and the local conditions. See the REI Expert Advice article, Stand Up Paddle Boards: How to Choose, for details.
+subject_label:			2
+query_id:			566174

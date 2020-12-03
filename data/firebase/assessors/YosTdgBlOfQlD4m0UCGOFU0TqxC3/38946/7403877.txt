@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7403877
+query:			average money market interest rates
+passage:			Passage: Average Bank Interest Rates in 2017: Checking, Savings, Money Market, and CD Rates. When you put money in a bank, you'll find that you earn different interest rates based on the type of deposit account you open and the institution you do business with.
+subject_label:			3
+query_id:			38946

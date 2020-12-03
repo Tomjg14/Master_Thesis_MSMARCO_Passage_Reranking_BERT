@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7267815
+query:			where is mathura
+passage:			Passage: According to the Garuda Purana, Mathura along with Ayodhya, Avantika, Kasi, Puri, Kanchi and Dwarka are the seven sites which grant moksha. Even though the city is linked mainly with the life of Lord Krishna, it is sacred to Jains and Buddhists also. The ghats and the serene banks of river Yamuna give Mathura a tranquil feel. The festivals celebrated in the city revolve around the life of Lord Krishna. Janmashtami and Holi are celebrated with great zeal. Barsana, 27 km from Mathura, is known for the celebration of Lathmaar Holi. Listing image: By Nico Crisafulli from USA/Wikimedia commons best places to stay in mathura
+subject_label:			1
+query_id:			998591

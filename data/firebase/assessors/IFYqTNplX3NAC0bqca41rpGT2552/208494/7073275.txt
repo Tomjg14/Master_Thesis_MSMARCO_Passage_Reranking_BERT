@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7073275
+query:			how big do newfypoo's get
+passage:			Passage: Newfypoo Size. The newfypoo is a large dog breed. They will reach full size (60-130 pounds) around 24 months of age. The adult size of the newfypoo is dependent upon the size of the parent's used in breeding.
+subject_label:			4
+query_id:			208494

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2422633
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: Calories Burned-Walking: 4 mph (15 minutes per mile). Find out how many calories you burn for Walking: 4 mph (15 minutes per mile) .The number of calories you burn while exercising is dependent on the exercise you do, your weight, and the time spent doing the exercise. Use the calories burned calculator below to see how many calories you burned during your workout.alories Burned-Walking: 4 mph (15 minutes per mile). Find out how many calories you burn for Walking: 4 mph (15 minutes per mile) .
+subject_label:			1
+query_id:			1096932

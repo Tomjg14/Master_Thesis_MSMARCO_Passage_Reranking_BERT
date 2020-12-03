@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2383437
+query:			definition, nepotism
+passage:			Passage: Define nepotism. nepotism synonyms, nepotism pronunciation, nepotism translation, English dictionary definition of nepotism. n. Favoritism shown or patronage granted to relatives, as in business. nepâ²oÂ·tist n. nepâ²oÂ·tisâ²tic , nepâ²oÂ·tisâ²tiÂ·cal adj. n favouritism shown to relatives...
+subject_label:			3
+query_id:			1101714

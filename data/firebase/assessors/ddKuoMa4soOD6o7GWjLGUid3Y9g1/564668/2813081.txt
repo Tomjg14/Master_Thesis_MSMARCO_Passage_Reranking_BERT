@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2813081
+query:			what are sensitive periods for brain development
+passage:			Passage: The period of pruning, in which the brain actually loses gray matter, is as important for brain development as is the period of growth. For instance, even though the brain of a teenager between 13 and 18 is maturing, they are losing 1 percent of their gray matter every year.hen people suffered brain damage or injury to particular parts of the brain, scientists could see what functions were impaired, and infer that the injured areas governed those functions. For example, people who had strokes in the area of the brain affecting speech lost the ability to speak.
+subject_label:			2
+query_id:			564668

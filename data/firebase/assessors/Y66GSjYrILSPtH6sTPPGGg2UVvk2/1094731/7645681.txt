@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7645681
+query:			hydrocodone price per pill
+passage:			Passage: The retail price of hydrocodone is typically $1.5 or less per pill; the price will depend on the pharmacy that you buy it at. There is a possibility to obtain hydrocodone cheaper using the drugs.com discount card. Most stores accept it. With that coupon you can expect to pay the following price: Liquid form of acetaminophen/hydrocodone: 1 $0.64 per unit of 108 mg â 2.5 mg/5 mL. 2 $0.36 per unit of 217 mg â 5 mg/10 mL.
+subject_label:			5
+query_id:			1094731

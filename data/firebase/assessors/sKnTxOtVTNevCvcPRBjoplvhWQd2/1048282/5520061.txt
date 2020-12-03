@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5520061
+query:			what is pivx
+passage:			Passage: Your price predictions seem fairly modest to me. I think PIVX is likely to surpass the numbers on your projected time scale. Additionally, other privacy projects will likely grow significantly, thus resulting in higher possible price targets for PIVX. I enjoyed your video. I hope you continue making more. Best to you in the meantime.
+subject_label:			1
+query_id:			1048282

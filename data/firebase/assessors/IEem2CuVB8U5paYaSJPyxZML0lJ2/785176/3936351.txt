@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3936351
+query:			what is polydextrose made from
+passage:			Passage: Side Effects. Polydextrose is generally well tolerated in those who use it in moderation. However, in large quantities or in particularly sensitive people, polydextrose can cause a variety of side effects, including abdominal cramping, bloating and excessive gas.ynthesized from dextrose, sorbitol and citric acid, polydextrose is used in a wide range of commercial food products for a variety of purposes. Used as a humectant, polydextrose helps keep foods moist.
+subject_label:			3
+query_id:			785176

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3745854
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: MYOBLOC Â® (rimabotulinumtoxinB) Injection is indicated for the treatment of adults with cervical dystonia to reduce the severity of abnormal head position and neck pain associated with cervical dystonia.
+subject_label:			3
+query_id:			1077356

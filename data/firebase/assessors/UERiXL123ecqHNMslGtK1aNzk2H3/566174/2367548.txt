@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2367548
+query:			what are stand up paddle boards made of
+passage:			Passage: Stand up paddle boarding is becoming more popular each year. Hawaiians have been using it for years as a means to keep fit when the waves are not adequate for surfing. By using a paddle board surfers were able to enjoy the water and obtain some exercise simultaneously. In the last several years millions of people have begun to enjoy paddle boarding, while standing (SUP). People now engage in stand-up paddling to enjoy the water, spend time with friends, and to improve their fitness level. An Intense Workout
+subject_label:			1
+query_id:			566174

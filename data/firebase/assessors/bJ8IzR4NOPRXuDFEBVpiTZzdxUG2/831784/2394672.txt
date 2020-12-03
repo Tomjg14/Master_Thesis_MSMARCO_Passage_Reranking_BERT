@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2394672
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: ject comes from the participle of jacio, jacere, jeci, jectus, an irregular verb meaning to throw. In English words like eject, project, object, deject the literal meaning â¦ is thrown. For example, eject literally means thrown out.
+subject_label:			5
+query_id:			831784

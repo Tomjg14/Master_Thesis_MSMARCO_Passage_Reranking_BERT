@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1776171
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Recycling your food waste could help grow more food for your next meal Much of our food waste ends up in landfill where it rots releasing methane, a harmful greenhouse gas. Food waste recycled by in-vessel composting creates soil improver and fertiliser which can be used to grow more food or feed plants in your local parks.
+subject_label:			2
+query_id:			1068726

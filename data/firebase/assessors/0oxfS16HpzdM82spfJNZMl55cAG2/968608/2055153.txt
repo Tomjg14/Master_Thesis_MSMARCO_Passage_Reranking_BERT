@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2055153
+query:			where did edison set up his first laboratory for research
+passage:			Passage: At his laboratory at Menlo Park, New Jersey, Edison merged the machine shop with sophisticated electrical and chemical laboratories and employed teams of researchers who could experiment on all aspects of his inventions and move them rapidly from research to development and commercialization.
+subject_label:			4
+query_id:			968608

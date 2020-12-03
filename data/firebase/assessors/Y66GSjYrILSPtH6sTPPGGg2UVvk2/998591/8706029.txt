@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8706029
+query:			where is mathura
+passage:			Passage: âIt was reported to the Emperor (Aurangzeb) that in the temple of Keshava Rai at Mathura, there is a stone railing presented by Bishukoh (one without dignity i.e. Prince Dara, Aurangzeb's elder brother).
+subject_label:			1
+query_id:			998591

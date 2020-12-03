@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			21568
+query:			architectural design
+passage:			Passage: In the field of architecture an architectural plan is a design and planning for a building, and can contain architectural drawings, specifications of the design, calculations, time planning of the building process, and other documentation. 1 1 The term Architectural plan. 2 Architectural plan aspects.
+subject_label:			2
+query_id:			20597

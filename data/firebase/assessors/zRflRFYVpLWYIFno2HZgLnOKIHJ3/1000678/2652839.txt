@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2652839
+query:			where did captain james cook explore?
+passage:			Passage: Captain James Cook stands for it all. He is definitely the greatest navigator and explorer who ever has been. The time Captain Cook lived must be the most exiting age of this millennium.ut I had other ideas, and made my own choice on the voting. Photo. Captain James Cook (1728-1779): the greatest explorer who ever has been! A portrait by Nathaniel Dance painted in 1776, the year in which Cook set off on his last journey (also used as cover on the book of ....).
+subject_label:			1
+query_id:			1000678

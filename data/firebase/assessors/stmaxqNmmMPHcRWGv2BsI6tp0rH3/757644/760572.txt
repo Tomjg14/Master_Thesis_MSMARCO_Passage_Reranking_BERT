@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			760572
+query:			what is impact ratio analysis
+passage:			Passage: What does dcr stand for in real estate? DCR in Real Estate means Debt Coverage Ratio (DCR) or Debt Service Coverage Ratio (DSCR) it is a widely used ratio in the case of buy-to-let property and in general in commercâ¦ial real estate investment analysis.
+subject_label:			1
+query_id:			757644

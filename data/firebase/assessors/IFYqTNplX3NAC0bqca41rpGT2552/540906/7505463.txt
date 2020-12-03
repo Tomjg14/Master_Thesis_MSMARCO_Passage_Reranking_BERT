@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7505463
+query:			was the great wall of china breached
+passage:			Passage: Topics: Destinations âº Asia âº Great Wall of China, Beijing, Attractions, China. The wall was designed to stop raids by the Xiongnu raiders, though they were the first to breach it in several places in 206 B.C. Login or Sign Up to answer this question. data-config-site-section=chacha>.
+subject_label:			5
+query_id:			540906

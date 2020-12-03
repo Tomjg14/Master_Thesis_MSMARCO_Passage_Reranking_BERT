@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			741804
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: To wear your heart on your cheek is the opposite of wearing your heart on your sleeve. A person who wears their heart on their cheek keeps their true emotions hidden, usually to keep themselves from getting hurt and/ or to hurt others. This term is from the song 'How to be a Heartbreaker' by Marina and The Diamonds. Rule number three, wear your heart on your cheek.
+subject_label:			5
+query_id:			1083663

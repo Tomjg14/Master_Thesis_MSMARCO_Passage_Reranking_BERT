@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			739572
+query:			where did captain james cook explore?
+passage:			Passage: Captain James Cook (1728 - 1779) Portrait of Captain James Cook, by John Webber Â© Cook was an 18th century explorer and navigator whose achievements in mapping the Pacific, New Zealand and Australia radically changed western perceptions of world geography.
+subject_label:			5
+query_id:			1000678

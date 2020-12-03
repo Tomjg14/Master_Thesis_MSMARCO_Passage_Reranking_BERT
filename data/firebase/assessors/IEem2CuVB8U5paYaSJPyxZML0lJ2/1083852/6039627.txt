@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6039627
+query:			what does extravert mean
+passage:			Passage: extraverted - being concerned with the social and physical environment. extravert, extravertive, extrovert, extrovertive, extroverted. extraversive, extroversive - directed outward; marked by interest in others or concerned with external reality.
+subject_label:			5
+query_id:			1083852

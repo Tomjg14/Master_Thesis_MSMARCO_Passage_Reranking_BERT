@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2137227
+query:			carbon reactivation facilities california
+passage:			Passage: Chemically some metals are more reactive than others. This can be deduced using the reactivity series of metals, which is an arrangement of metals (and carbon and hydrogen) from the most reactive to the least reactive. Any metal will displace another metal lower on the reactivity series from a solution of its ions. This does not apply to any metals that react with water, so can only be applied to magnesium and below. Using the displacement theory above we can also include carbon and hydrogen in the reactivity series.
+subject_label:			2
+query_id:			1085584

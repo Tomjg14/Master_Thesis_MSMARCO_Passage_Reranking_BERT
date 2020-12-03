@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7505469
+query:			was the great wall of china breached
+passage:			Passage: Starbucks breaches Great Wall of China. 1 Starbucks' long march into China has breached the Great Wall itself. Tourists will be able to drink cappuccino, frappuccino and other coffee concoctions at one of China's greatest cultural treasures after the Seattle-based company announced it had opened a shop at Badaling, 47 miles north of Beijing.
+subject_label:			1
+query_id:			540906

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7941521
+query:			what network is pickles on cartoon
+passage:			Passage: Nicktoons is the branding for Nickelodeon's original animated television series (although it has seldom been used by the network itself since the 2002 launch of the spin-off digital cable and satellite channel of the same name).One of its popular cartoons was Rugrats which focuses on the adventures of Tommy Pickles, a 1 year old baby as the shows ...
+subject_label:			1
+query_id:			881695

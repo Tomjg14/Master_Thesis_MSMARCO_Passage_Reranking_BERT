@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5472250
+query:			where do the ash borer come from
+passage:			Passage: Ash trees are susceptible to ash tree borers and other pests and disease. Keep ash trees as healthy as possible through regular monitoring, pruning, fertilizing and watering.By following these steps, you can help prevent ash tree problems from starting.sh trees are susceptible to ash tree borers and other pests and disease. Keep ash trees as healthy as possible through regular monitoring, pruning, fertilizing and watering.
+subject_label:			2
+query_id:			971653

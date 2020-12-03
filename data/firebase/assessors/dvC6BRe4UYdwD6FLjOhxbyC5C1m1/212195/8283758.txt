@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8283758
+query:			how could the courts check the bureaucracy
+passage:			Passage: However, the actual separation of powers amongst different branches of government can be traced to ancient Greece. The framers of the Constitution decided to base the American governmental system on this idea of three separate branches: executive, judicial, and legislative. The three branches are distinct and have checks and balances on each other. In this way, no one branch can gain absolute power or abuse the power they are given. In the United States, the executive branch is headed by the President and includes the bureaucracy. The legislative branch includes both houses of Congress: the Senate and the House of Representatives. The judicial branch consists of the Supreme Court and the lower federal courts.
+subject_label:			3
+query_id:			212195

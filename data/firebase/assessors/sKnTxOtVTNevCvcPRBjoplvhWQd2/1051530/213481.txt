@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			213481
+query:			what is mastoidectomy
+passage:			Passage: What is mastoid surgery? The mastoid bone, part of the skull, lies right behind the ear lobe. Sometimes the cells of the mastoid bone, and/or the small bones (ossicles) inside the ear, are destroyed by chronic infection or a growth (cholesteatoma).When this happens, the affected mastoid cells may need to be removed (mastoidectomy).ometimes the cells of the mastoid bone, and/or the small bones (ossicles) inside the ear, are destroyed by chronic infection or a growth (cholesteatoma). When this happens, the affected mastoid cells may need to be removed (mastoidectomy).
+subject_label:			5
+query_id:			1051530

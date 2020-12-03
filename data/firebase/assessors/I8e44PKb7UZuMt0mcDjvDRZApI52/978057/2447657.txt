@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2447657
+query:			where is berrimah
+passage:			Passage: Where is Italy Located; Airports in Italy; Major Cities in Italy; Where is Rome; Where is Florence; Where is Milan; Where is Afragola; Where is Alessandria; Where is Altamura; Where is Ancona; Where is Andria; Where is Arezzo; Where is Asti; Where is Bari; Where is Barletta; Where is Benevento; Where is Bergamo; Where is Bologna; Where is Bolzano; Where is Brescia; Where is Brindisi
+subject_label:			1
+query_id:			978057

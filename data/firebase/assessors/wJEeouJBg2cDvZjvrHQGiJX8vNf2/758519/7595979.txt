@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595979
+query:			what is included in a clutch kit
+passage:			Passage: Clutch kits come either in standard, racing, or performance varieties depending on the particular need of the vehicle and driver preference. However, a clutch kit does not include a flywheel. The clutch disc is mounted to the flywheel via the pressure plate. If the flywheel has mild wear, then it can most likely be resurfaced, but if it shows a higher level of wear including thermal cracks, it will require replacement. With higher performance clutch kits, lightweight aluminum flywheels are often included.
+subject_label:			5
+query_id:			758519

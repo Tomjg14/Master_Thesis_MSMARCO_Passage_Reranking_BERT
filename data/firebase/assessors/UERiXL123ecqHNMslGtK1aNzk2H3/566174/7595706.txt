@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595706
+query:			what are stand up paddle boards made of
+passage:			Passage: Indigo Custom Stand-Up Paddleboards (Indigo SUP, LLC) is a Company founded in Miami, Florida dedicated to design and build custom paddle boards, from beginning to end our line of SUP boards is 100% made in USA. Dealers are welcome.
+subject_label:			1
+query_id:			566174

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6065310
+query:			difference between watt and hertz
+passage:			Passage: 50Hz vs 60Hz in operating speed. The primary difference between 50 Hz (Hertz) and 60 Hz (Hertz) is, well, 60Hz is 20% higher in frequency. For a generator or induction motor pump (in simple terms) it means 1500/3000 RPM or 1800/3600 RPM (for 60Hz).
+subject_label:			3
+query_id:			149161

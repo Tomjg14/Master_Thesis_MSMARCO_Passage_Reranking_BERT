@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4018371
+query:			blue sky charge controller price
+passage:			Passage: A surcharge may mean: 1 an extra fee added onto another fee or charge. 2 fuel surcharge, sky freight charges which represents additions due to jet fuel prices. bunker adjustment factor, sea freight charges which represents additions due to oil prices.
+subject_label:			1
+query_id:			54819

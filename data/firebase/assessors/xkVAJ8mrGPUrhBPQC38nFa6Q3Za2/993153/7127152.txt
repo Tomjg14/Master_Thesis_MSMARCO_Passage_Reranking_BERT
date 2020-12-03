@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7127152
+query:			which situation does a company issue a note receivable
+passage:			Passage: Although smaller companies are not required to use GAAP, there are certain situations, such as obtaining credit or seeking investors, which require, by contract, those companies to also follow GAAP when preparing their financial statements. The SEC does not set GAAP; GAAP is primarily issued by the Financial Accounting Standards Board (FASB).
+subject_label:			3
+query_id:			993153

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2138210
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: In the term pyrexia, what is the root word and what does the root word mean The root word is pyrex-, and it means fever or heat. If rhino means nose, what is a surgical repair of a broken nose called
+subject_label:			1
+query_id:			831784

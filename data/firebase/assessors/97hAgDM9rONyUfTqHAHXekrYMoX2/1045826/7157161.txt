@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7157161
+query:			what is ssc je
+passage:			Passage: We've got 21 definitions for JES Â» What does JES stand for? What does JES mean? This page is about the various possible meanings of the acronym, abbreviation, shorthand or slang term: JES.
+subject_label:			1
+query_id:			1045826

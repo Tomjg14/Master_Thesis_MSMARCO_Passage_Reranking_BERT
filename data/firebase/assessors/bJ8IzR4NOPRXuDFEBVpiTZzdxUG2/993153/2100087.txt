@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2100087
+query:			which situation does a company issue a note receivable
+passage:			Passage: When to issue a credit note. There are several situations in which a credit note should be issued. There are two types of credit notes: those issued for outgoing payments and those issued for incoming payments. In other words, a credit note you receive or provide. For small business owners, both types are common.
+subject_label:			2
+query_id:			993153

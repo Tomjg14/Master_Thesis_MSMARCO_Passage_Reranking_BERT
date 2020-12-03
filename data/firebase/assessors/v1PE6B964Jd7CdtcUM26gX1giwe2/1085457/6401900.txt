@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6401900
+query:			carnation® evaporated milk total calories
+passage:			Passage: Substitute an equal amount of Carnation Evaporated Milk for the regular milk called for in your recipe. Substitute half Carnation Evaporated Milk and half water to replace the milk called for in your recipe. NOTE: For a lower fat option, use Carnation Evaporated Lowfat Milk or Carnation Evaporated Fat Free Milk.
+subject_label:			2
+query_id:			1085457

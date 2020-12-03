@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			7777154
+query:			how could the courts check the bureaucracy
+
+passage:			Passage: This paper starts with importance of bureaucracy and how it leads to policies. More importantly, it touches on decline in bureaucracy in policymaking in 3 countries â Japan, US and UK. First bureaucracy is important as policymaking and implementation cannot be separated. The transformation of bureaucracy as a mode of policy delivery during the NPM revolution is a topic of the greatest importance. Yet we have always been interested in bureaucracy not only because of its role in delivering policy but because of its role in making it. The bureaucracy plays a role in policy making partly because policy making and policy implementation cannot be entirely separated.
+subject_label:			2
+query_id:			212195

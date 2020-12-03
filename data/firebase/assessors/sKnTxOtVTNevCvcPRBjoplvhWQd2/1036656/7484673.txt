@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7484673
+query:			what is the meaning of chicken rice?
+passage:			Passage: Caramel Mango Chicken Lunch, with White Rice; Crispy Honey Chicken Lunch, with White Rice; Crispy Honey Shrimp Lunch, with White Rice; Dali Chicken Lunch, with White Rice; Edamame Steamed Dumplings Dim Sum Lunch, without sauce; Ginger Chicken Lunch, with Broccoli & White Rice; Gluten Free Beef A La Sichuan Combo Lunch, with White Rice
+subject_label:			2
+query_id:			1036656

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7185650
+query:			what is njstart
+passage:			Passage: Thank you for your interest in bidding opportunities with the NJEDA. The Authority is excited to announce that we are now partnering with the State of New Jersey and will be using their vendor eProcurement Portal Database (NJSTART) to help identify potential vendors. NJSTART is designed to streamline the procurement process and make it more efficient for companies looking to do business with the State.
+subject_label:			4
+query_id:			1049791

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1861646
+query:			how big do newfypoo's get
+passage:			Passage: Best Answer: how big is the pond...do not get koi unless its over 1000 gallons..trust me they need that big space..they grow over 3 feet..
+subject_label:			1
+query_id:			208494

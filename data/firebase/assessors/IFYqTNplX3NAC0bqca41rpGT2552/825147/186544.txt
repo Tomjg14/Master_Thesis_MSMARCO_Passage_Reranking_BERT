@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			186544
+query:			what is the hormone that makes you fat
+passage:			Passage: Leptin is a very powerful and influential hormone produced by your fat cells. Your fat, by way of leptin, tells your brain whether you should be hungry, eat and make more fat, whether you should reproduce, or (partly by controlling insulin) whether to engage in maintenance and repair.
+subject_label:			4
+query_id:			825147

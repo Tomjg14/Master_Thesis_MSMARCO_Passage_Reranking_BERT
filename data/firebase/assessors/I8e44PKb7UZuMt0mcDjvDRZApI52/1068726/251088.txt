@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			251088
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Cholera is an infection in the small intestine caused by the bacteria âvibrio chloraeâ. Its symptoms are diarrhea and vomiting. It is caused by drinking water or eating food that has been contaminated by feces, i.e waste products of an infected person.holera is an infection in the small intestine caused by the bacteria âvibrio chloraeâ. Its symptoms are diarrhea and vomiting. It is caused by drinking water or eating food that has been contaminated by feces, i.e waste products of an infected person.
+subject_label:			1
+query_id:			1068726

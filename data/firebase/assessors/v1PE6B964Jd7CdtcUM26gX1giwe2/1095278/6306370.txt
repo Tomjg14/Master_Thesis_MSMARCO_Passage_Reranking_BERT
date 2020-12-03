@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6306370
+query:			average temp in fort worth in march
+passage:			Passage: How much does a Paralegal make in Dallas-Fort Worth, TX? The average salary for a Paralegal is $52,185 in Dallas-Fort Worth, TX. Salaries estimates are based on 245 salaries submitted anonymously to Glassdoor by Paralegal employees in Dallas-Fort Worth, TX.
+subject_label:			1
+query_id:			1095278

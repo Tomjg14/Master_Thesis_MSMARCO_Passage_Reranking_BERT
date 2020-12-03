@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5277739
+query:			what is included in a clutch kit
+passage:			Passage: Like all of the car parts we supply, our Renault Megane Clutch Kits and Parts come with a minimum 12 month warranty as standard.ur extensive range of car parts include Clutch Kits and Parts and much more. All of our Clutch Kits and Parts and car parts are manufactured to the highest standard ensuring a first time fit to your Renault Megane so you save time and money.
+subject_label:			2
+query_id:			758519

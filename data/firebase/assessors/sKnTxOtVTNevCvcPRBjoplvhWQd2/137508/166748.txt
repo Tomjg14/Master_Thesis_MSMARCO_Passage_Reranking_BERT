@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			166748
+query:			definition of purse
+passage:			Passage: sewing a purse, free purse sewing patterns, free tote bag sewing pattern, purse patterns free, sewing purse organizer, bag sewing pattern free, purse organizer sewing pattern, purses organizer, sewing patterns free bag, sewing bag organizer, purse organizer pattern sewing, bags purses. 62 4.
+subject_label:			2
+query_id:			137508

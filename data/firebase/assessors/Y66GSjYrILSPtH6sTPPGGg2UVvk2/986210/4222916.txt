@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4222916
+query:			who was the basket of apples by
+passage:			Passage: The word chamomile comes from the Greek, karnai, meaning on the ground, and melon, meaning apple, for ground apple. Fill the press basket about half full of ground apples. The leftover ground apples that they have to dispose of would be great for smaller animals.
+subject_label:			1
+query_id:			986210

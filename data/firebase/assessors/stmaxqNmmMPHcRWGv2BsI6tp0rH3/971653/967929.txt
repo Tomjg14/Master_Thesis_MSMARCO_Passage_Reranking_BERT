@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			967929
+query:			where do the ash borer come from
+passage:			Passage: Emerald ash borer adults are very small, metallic green beetles. They are about the size of a cooked grain of rice: only 3/8 - 1/2 inch long and 1/16 inch wide.Adult emerald ash borers emerge from beneath the bark of ash trees late May through mid-July.he pupae, like the larvae, cannot be seen unless bark is pulled away from the tree. EAB Look-Alikes. There are many metallic green insects that are common in Wisconsin and often mistaken for EAB. For more information on these look-alikes please visit the University of Wisconsin-Madison's emerald ash borer webpage.
+subject_label:			3
+query_id:			971653

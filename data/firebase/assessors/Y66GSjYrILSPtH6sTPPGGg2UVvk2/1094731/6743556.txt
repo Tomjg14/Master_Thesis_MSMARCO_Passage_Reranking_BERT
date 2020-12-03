@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6743556
+query:			hydrocodone price per pill
+passage:			Passage: Hydrocodone is often in pill form as a acetaminophen (Tylenol)/low dose hydrocodone preperation. Do not drink after having taken even small doses of acetaminophen (tylonel) (found in almost all hydrocodone drug preperations) because it can cause moderate, severe or fatal liver damage.
+subject_label:			1
+query_id:			1094731

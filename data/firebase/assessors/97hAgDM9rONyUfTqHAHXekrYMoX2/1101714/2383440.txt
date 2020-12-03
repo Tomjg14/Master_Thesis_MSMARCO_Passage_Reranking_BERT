@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2383440
+query:			definition, nepotism
+passage:			Passage: Example sentences containing 'nepotism'. There is no room for nepotism or favouritism. Times, Sunday Times (2015)Opponents accuse him of corruption and nepotism. Times, Sunday Times (2010)Many people think this is negative because they confuse nepotism with corruption.
+subject_label:			no_input
+query_id:			1101714

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8500729
+query:			who was the basket of apples by
+passage:			Passage: Place damaged apples out on the counter. When kept at room temperature in a basket, apples can stay fresh for about two days. This is not a long time, of course, but damaged apples should be eaten within a short amount of time no matter how you store them since a partially decayed apple is likely to spoil faster.
+subject_label:			1
+query_id:			986210

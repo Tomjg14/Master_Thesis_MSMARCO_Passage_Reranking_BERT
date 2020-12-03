@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7127935
+query:			what does a grassroots organization mean
+passage:			Passage: What does grassroots mean? Definitions for grassroots Here are all the possible meanings and translations of the word grassroots. Princeton's WordNet (0.00 / 0 votes) Rate this definition: grassroots (adj) fundamental the grassroots factor in making the decision grassroots (adj) of or involving the common people as constituting a fundamental political and economic group a grassroots movement for nuclear disarmament
+subject_label:			5
+query_id:			1084469

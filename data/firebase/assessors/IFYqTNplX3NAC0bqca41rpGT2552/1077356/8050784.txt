@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8050784
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Many people who have cervical dystonia also experience neck pain that can radiate into the shoulders. The disorder also can cause headaches. In some people, the pain from cervical dystonia can be exhausting and disabling. Causes. In most cases of cervical dystonia, the cause is unknown. Some people who have cervical dystonia have a family history of the disorder, so a genetic component may be a factor. Cervical dystonia is sometimes linked to head, neck or shoulder injuries. Risk factors. Risk factors for cervical dystonia include: Age.
+subject_label:			1
+query_id:			1077356

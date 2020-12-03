@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7950925
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: There is a shortage of organs available for donation with many patients waiting on the transplant list for a donation match. About 20 patients die each day waiting for an organ on the transplant list. When an organ donor does arise, the transplant governing bodies must determine who receives the organ.
+subject_label:			1
+query_id:			1026799

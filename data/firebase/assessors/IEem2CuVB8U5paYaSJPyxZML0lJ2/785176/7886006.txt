@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886006
+query:			what is polydextrose made from
+passage:			Passage: Polydextrose is one of several newfangled fiber additives (including inulin and maltodextrin) showing up in dairy and baked-goods products that previously had little to no fiber.
+subject_label:			4
+query_id:			785176

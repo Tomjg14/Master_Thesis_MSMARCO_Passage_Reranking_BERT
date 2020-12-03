@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3514239
+query:			who is the grinning man
+passage:			Passage: About. Jeff The Killer is a popular fictional story usually accompanied by an image of a pale, nose-less man grinning. The image is sometimes captioned with âGO TO SLEEP â written in red. In addition to the pasta, it is also popular as a pop-up image.
+subject_label:			1
+query_id:			1040461

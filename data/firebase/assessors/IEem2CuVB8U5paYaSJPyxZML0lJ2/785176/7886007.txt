@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886007
+query:			what is polydextrose made from
+passage:			Passage: The FDA allows polydextrose to be labeled as a dietary fiber, just the same as whole oats. The same polydextrose products in Canada, which has tighter classification regulations, wouldn't show the fiber content because Health Canada doesn't consider polydextrose to be a dietary fiber.
+subject_label:			5
+query_id:			785176

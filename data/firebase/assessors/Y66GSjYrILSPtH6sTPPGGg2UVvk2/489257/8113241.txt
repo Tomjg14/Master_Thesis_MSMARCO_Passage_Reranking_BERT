@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8113241
+query:			rigorous testing definition
+passage:			Passage: These descriptions of the real numbers are not sufficiently rigorous by the modern standards of pure mathematics. The discovery of a suitably rigorous definition of the real numbers â indeed, the realization that a better definition was needed â was one of the most important developments of 19th century mathematics.
+subject_label:			1
+query_id:			489257

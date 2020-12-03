@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2607926
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: Non-clastic sedimentary rocks form from the precipitation (Precipitation is the separating of a solid from a solution) of minerals from ocean water or from the breakdown of the shells and bones of sea creatures. Sea animals such as coral produce calcium carbonate solutions that harden to form rock.edimentary rocks are formed in three ways from these different sized sediments. A sedimentary rock is a layered rock that is formed from the compaction, cementation, and the recrystallization of sediments.
+subject_label:			5
+query_id:			1007473

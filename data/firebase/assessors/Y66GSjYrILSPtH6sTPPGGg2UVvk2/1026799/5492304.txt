@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5492304
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: Organ Donation. Heart. Over 2,600 people are waiting for a heart transplant nationwide. Some conditions that might make a transplant necessary are cardiomyopathy, heart failure, myocarditis, and heart disease. The heart can be preserved outside of the body for 4 to 6 hours before transplant into a recipient. Transplants are blood typed and matched for the size and weight of the donor. Liver
+subject_label:			5
+query_id:			1026799

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7051262
+query:			what is impact ratio analysis
+passage:			Passage: Change impact analysis. Change impact analysis (IA) is defined by Bohner and Arnold as identifying the potential consequences of a change, or estimating what needs to be modified to accomplish a change, and they focus on IA in terms of scoping changes within the details of a design.
+subject_label:			3
+query_id:			757644

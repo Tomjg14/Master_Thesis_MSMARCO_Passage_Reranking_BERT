@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			332339
+query:			what's the difference between jambalaya and paella
+passage:			Passage: People in and near New Orleans make a redjambalaya by adding tomatoes, true cajun people do not and their jambalaya is more brown. The trinity of onion, bell pepper, and celery is A Must for it to be jambalaya. The rice is browned much as it is in fried rice, spanish rice, or a paella dish.
+subject_label:			1
+query_id:			931726

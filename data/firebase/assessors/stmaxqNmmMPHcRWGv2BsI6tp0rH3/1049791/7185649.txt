@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7185649
+query:			what is njstart
+passage:			Passage: are being administered through NJSTART and are posted at www.njstart.gov. A link to these is still available on the Divisionâs homepage under âView Bidding Opportunities at www.njstart.gov/bso/external/publicBids.sdo .â The Division is making Blanket P.O.s {Contracts} active in NJSTART. Contract awardees will receive their Blanket P.O. via email once it is converted, and details regarding that process will also be sent via email. Once a Contract is active in NJSTART, all future Change Orders {Amendments} will be done within NJSTART, and all historical documentation (i.e., Bid Solicitation {RFP} Documents and Change Orders) will also be in NJSTART. All issues of Smart Supplier are intended to inform and help put you in the
+subject_label:			3
+query_id:			1049791

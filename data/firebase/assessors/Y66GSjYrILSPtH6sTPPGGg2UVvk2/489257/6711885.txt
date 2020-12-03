@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6711885
+query:			rigorous testing definition
+passage:			Passage: Learn More about rigor. Dictionary: Definition of rigor Medical Dictionary: Definition of rigor Spanish Central: Translation of rigor Nglish: Translation of rigor for Spanish speakers Britannica English: Translation of rigor for Arabic speakers.
+subject_label:			2
+query_id:			489257

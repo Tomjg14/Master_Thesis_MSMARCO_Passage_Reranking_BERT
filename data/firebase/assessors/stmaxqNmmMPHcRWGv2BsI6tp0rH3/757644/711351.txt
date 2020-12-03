@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			711351
+query:			what is impact ratio analysis
+passage:			Passage: TCRP J-11 (7) - Economic Impact of Public Transportation Investment iv This analysis represents the scale of potential impacts on the economy and not benefit/cost ratios. Specifically, economic impact studies do not account for some of the social and environmental impacts that are included in benefit/cost studies,
+subject_label:			2
+query_id:			757644

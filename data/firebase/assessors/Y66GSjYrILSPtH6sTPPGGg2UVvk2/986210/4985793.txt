@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4985793
+query:			who was the basket of apples by
+passage:			Passage: You will learn how to make an elaborate bow, organize the items inside the basket and wrap the basket with cellophane. This basket was made for an employees retirement. This video was edited by Bill Phillips who also created the music. The instruction for making the basket was presented by Tracey Phillips.
+subject_label:			1
+query_id:			986210

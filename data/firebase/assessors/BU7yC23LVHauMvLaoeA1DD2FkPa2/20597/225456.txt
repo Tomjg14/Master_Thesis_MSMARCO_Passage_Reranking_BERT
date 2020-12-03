@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			225456
+query:			architectural design
+passage:			Passage: Architecture, Interior Design and Residential Design, Nevada State Board of. Architecture, Interior Design and Residential Design; Nevada State Board of.
+subject_label:			2
+query_id:			20597

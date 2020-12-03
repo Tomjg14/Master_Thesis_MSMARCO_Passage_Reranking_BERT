@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088662
+query:			vainglory meaning
+passage:			Passage: Define vainglory. vainglory synonyms, vainglory pronunciation, vainglory translation, English dictionary definition of vainglory. n. 1. Excessive or unwarranted pride in one's accomplishments or qualities. 2. Vain, ostentatious display: a narcissistic chaser of vainglory .
+subject_label:			4
+query_id:			1089051

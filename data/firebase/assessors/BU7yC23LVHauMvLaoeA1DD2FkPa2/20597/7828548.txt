@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7828548
+query:			architectural design
+passage:			Passage: The European Centre for Architecture Art Design and Urban Studies and The Chicago Athenaeum Museum of Architecture and Design: annual: architect: American Architecture Awards: 1994: The Chicago Athenaeum Museum of Architecture and Design, The European Centre for Architecture Art Design and Urban Studies: annual: architects: American Prize for Architecture: 1994
+subject_label:			2
+query_id:			20597

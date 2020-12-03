@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2903272
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Why Food Waste is Important. Food waste disposal and treatment has become a big issue in most industrialized countries. Relative to other recycling methods using AD for this purpose is relatively new, but many areas are now sending it to anaerobic digestion.
+subject_label:			2
+query_id:			1068726

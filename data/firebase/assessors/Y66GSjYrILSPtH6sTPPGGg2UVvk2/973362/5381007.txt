@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5381007
+query:			where does lice come from
+passage:			Passage: Chinese and other people from that part of Asia are called Asians Chinese call themselves renmin (people) in Chinese. The Chinese spoken language doesn't make much of a d â¦ istinction between r and l, which is where all the flied lice jokes come from.
+subject_label:			1
+query_id:			973362

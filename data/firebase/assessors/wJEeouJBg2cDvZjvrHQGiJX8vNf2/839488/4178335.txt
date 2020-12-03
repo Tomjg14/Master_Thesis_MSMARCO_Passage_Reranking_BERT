@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4178335
+query:			what is the plural of kohlrabies
+passage:			Passage: A kohlrabi!!! A delicious root vegetable that is very rich in vitamin C, just one cup of it has over 100% of your vitamin C daily requirement. The leaves are also edible so I decided to combine both the vegetable and the greens into this Kohlrabi slaw. kohlrabi!!! A delicious root vegetable that is very rich in vitamin C, just one cup of it has over 100% of your vitamin C daily requirement. The leaves are also edible so I decided to combine both the vegetable and the greens into this Kohlrabi slaw.
+subject_label:			2
+query_id:			839488

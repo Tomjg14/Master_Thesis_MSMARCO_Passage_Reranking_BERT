@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2069179
+query:			is the sec constitutional
+passage:			Passage: House Senate; Constitutional Powers: Initiates all revenue bills (Art. I, sec. 7) Initiates (and passes or defeats) articles of impeachment (Art. I, sec. 2) Gives advice and consent to treaties (Art. II, sec. 2) and to major presidential appointments (Art. II, sec. 2) Tries impeached officials (Art. I, sec. 3) Structure: 435 members with two-year terms
+subject_label:			1
+query_id:			427323

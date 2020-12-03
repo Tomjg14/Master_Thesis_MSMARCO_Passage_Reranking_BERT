@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2110680
+query:			architectural design
+passage:			Passage: The A' Architecture, Building and Structure Design Competition is a specialized design competition open to both concept stage and realized architectural projects, urban design projects and buildings designed by architects, architecture offices, real estate developers and construction companies worldwide.
+subject_label:			2
+query_id:			20597

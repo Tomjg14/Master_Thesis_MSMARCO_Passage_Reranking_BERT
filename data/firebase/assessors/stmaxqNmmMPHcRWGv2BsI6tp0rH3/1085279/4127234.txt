@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4127234
+query:			what county is stacy minnesota
+passage:			Passage: Annie Rachel Stacy was the daughter of George Lafayette Stacey and Levina. These were her children Please let us know if you know of a photograph of her. She was born in 1872 in Burke County, NC and her husband, Alexander Clark(e) was born in Burke County, NC in 1864 during the War Between the States.Welcome to the Stacy family photograph Album. You will find Stacy and related family photographs here.enjamin Franklin Stacy, b. 13 July, 1803 in Burke County, NC, the Grandson of Bennet Stacey, b. Dec. 19, 1725, St. Mary's, MD and Son of Elisha Stacy, b. 1772, probably in Brunswick County, VA.
+subject_label:			1
+query_id:			1085279

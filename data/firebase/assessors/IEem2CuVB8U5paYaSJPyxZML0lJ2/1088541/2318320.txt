@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2318320
+query:			weather in fletcher,nc
+passage:			Passage: Fletcher, NC. Sponsored Topics. Fletcher is a town in Henderson County, North Carolina, United States. The population was 4,185 at the 2000 census. Fletcher is home to Asheville Regional Airport, which serves Western North Carolina. It is part of the Asheville Metropolitan Statistical Area.
+subject_label:			1
+query_id:			1088541

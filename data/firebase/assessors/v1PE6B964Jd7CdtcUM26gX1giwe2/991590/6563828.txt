@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6563828
+query:			where is ridgewood ny located
+passage:			Passage: RIDGEWOOD, Queens. By CHRISTINA WILKINSON. Forgotten NY correspondent. DURING the 17th and 18th centuries, Dutch farmers settled Newtown and Bushwick on the western end of Long Island. One of these farmers, Paulus Van Der Ende, built a house in Newtown in 1710.
+subject_label:			2
+query_id:			991590

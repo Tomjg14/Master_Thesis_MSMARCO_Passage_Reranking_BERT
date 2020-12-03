@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7132520
+query:			architectural design
+passage:			Passage: In practice, each of these components (sometimes called subsystems) is sometimes said to have an architecture, so, as usual, context contributes to usage and meaning. By comparison, the term design connotes thinking that has less scope than architecture. An architecture is a design, but most designs are not architectures. A single component or a new function has a design that has to fit within the overall architecture.
+subject_label:			3
+query_id:			20597

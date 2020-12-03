@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3251739
+query:			is cortana smart???
+passage:			Passage: 1 Cortana also recites a few lines from the Cortana Letters in Halo 3 in some of her messages and in the announcement trailer. 2 Some of the lines are said in the Cortana moments in the level Cortana. 3 Being a smart AI, Cortana's operational life span is approximately seven years.
+subject_label:			4
+query_id:			407274

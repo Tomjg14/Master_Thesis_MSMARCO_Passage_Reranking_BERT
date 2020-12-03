@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8184637
+query:			where is miralago
+passage:			Passage: Parkland to consider its first charter school. Re-posting a story from the Sun-Sentinel. By Lisa Huriash. Parkand, a city whose A-rated public schools lure families to move there, may be getting its first charter school. Somerset Academy, which operates more than 60 schools in Florida, Texas, Nevada and Washington, D.C., is proposing a two-story school of nearly 98,000 square feet for grades kindergarten through eighth. The school, possibly called Somerset Parkland Academy, would open at the northwest corner of University Drive and Hillsboro Boulevard. Plans call for a gymnasium with views of a lake and landscaping that is âlush in nature.â It would be near the Parkland Golf & Country Club, MiraLago and Town Parc communities. Peak enrollment is expected at 1,280.
+subject_label:			1
+query_id:			987978

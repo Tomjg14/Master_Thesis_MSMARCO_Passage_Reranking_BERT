@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			270878
+query:			what is the hormone that makes you fat
+passage:			Passage: To lose fat you need both a caloric deficit and hormonal balance. To lose stubborn fat, particularly stubborn belly fat, you need to understand the hormones involved. In women those hormones are: insulin, cortisol, estrogen, progesterone, and testosterone. And of course the major fat burning hormones, the catecholamines.
+subject_label:			1
+query_id:			825147

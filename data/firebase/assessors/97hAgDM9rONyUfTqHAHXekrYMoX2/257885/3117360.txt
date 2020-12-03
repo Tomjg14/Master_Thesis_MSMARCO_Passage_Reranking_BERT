@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3117360
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: How long to receive va dic benefits? 1 63% - How long before i receive my ssa benefits after approval? 2 68% - How long to receive va benefits after compensation exams? 3 61% - How long does it take to receive disability benefits from the navy? 4 60% - How long does it take to receive va benefits after school certifies? 5 56% - How long do you receive 6 ... 42ow long to receive va dic benefits? 1 63% - How long before i receive my ssa benefits after approval? 2 68% - How long to receive va benefits after compensation exams? 3 61% - How long does it take to receive disability benefits from the navy? 4 60% - How long does it take to receive va benefits after school certifies? 5 56% - How long do you receive 6 ... 42
+subject_label:			1
+query_id:			257885

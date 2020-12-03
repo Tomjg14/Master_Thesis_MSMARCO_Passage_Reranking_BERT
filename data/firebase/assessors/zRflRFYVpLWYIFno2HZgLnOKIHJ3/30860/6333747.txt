@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6333747
+query:			average amount of money stna make
+passage:			Passage: For example, in a profession in which 10 people are employed, and nine make $10,000 per year and the last makes $100,000 per year, the average salary for the profession would be said to $19,000. Yet, given the current distribution of salaries, a person entering the profession would be likely to make only half that.ound This Helpful. The term average salary refers to the amount of money that person in a particular profession makes. This is meant to provide a general idea of the amount of money that a person entering that profession is likely to make. A similar term used for the same purpose is median salary.
+subject_label:			1
+query_id:			30860

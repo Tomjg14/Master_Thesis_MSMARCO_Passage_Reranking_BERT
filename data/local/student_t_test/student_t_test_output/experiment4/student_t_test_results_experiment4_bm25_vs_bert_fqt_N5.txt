@@ -1,0 +1,14 @@
+model1: bm25
+model2: bert
+metric: fqt@5
+alpha: 0.05
+
+t=1.625, df=42, cv=1.682, p=0.1115915624
+
+interpret via critical value:
+t <= cv
+Accept null hypothesis that the means are equal.
+
+interpret via p-value:
+p > alpha
+Accept null hypothesis that the means are equal.

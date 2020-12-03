@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8703288
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of rectifies? What is the opposite of rectified? What is the opposite of rectification? What is the opposite of rectangular? What is the opposite of rectangle? What is the opposite of recruits? What is the opposite of rectifying? What is the opposite of rectilineal? What is the opposite of rectilinear?
+subject_label:			1
+query_id:			837681

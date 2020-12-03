@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7808015
+query:			how tall is samus aran
+passage:			Passage: Samus Aran is a human. She is 6 feet 3 inches tall and weighs 198 pounds, without her armor. Despite this relatively high weight, her body is very slender and narrow, although this may be accountable to her muscle/bone density given her superhuman abilities.amusâs lack of defined personality is largely due to the fact that, aside from opening narrations, she has never had a speaking role except in Metroid: Other M. Prior to Metroid: Other M, her voice would be represented by text at the beginning narration, as well as throughout Metroid Fusion.
+subject_label:			5
+query_id:			341317

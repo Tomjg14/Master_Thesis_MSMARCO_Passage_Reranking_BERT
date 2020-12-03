@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5104557
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Dysport for Injection (abobotulinumtoxinA), also called botulinum toxin type A, is made from the bacteria that causes botulism and is used to treat cervical dystonia (severe spasms in the neck muscles). It is also used to temporarily lessen the appearance of facial wrinkles.
+subject_label:			3
+query_id:			1077356

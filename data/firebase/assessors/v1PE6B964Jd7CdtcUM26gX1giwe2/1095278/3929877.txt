@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3929877
+query:			average temp in fort worth in march
+passage:			Passage: Tempe was the location of US Airways Group's corporate headquarters until December 9, 2013, when US Airways and American Airlines merged to form American Airlines Group. The headquarters for the combined airline moved to American's headquarters in Fort Worth, Texas. Tempe is also the home of Arizona State University.
+subject_label:			2
+query_id:			1095278

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4830608
+query:			what is the phone number to spe
+passage:			Passage: Our History. In 1957, the organization was officially founded as SPE, a constituent society of the American Institute of Mining Engineers (AIME). SPE became a separately incorporated organization in 1985. Our Board of Directors The SPE Board of Directors is the policy-making and governing body of SPE. SPE board committees oversee many of SPE's administrative and operating responsibilities. The board retains final authority on all SPE matters, including any actions the board committees may take.
+subject_label:			3
+query_id:			1034595

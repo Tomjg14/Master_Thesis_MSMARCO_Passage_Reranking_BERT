@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8142417
+query:			what is a variable account in a annuity
+passage:			Passage: Variable annuity. The insurance company allows you to direct your annuity payments to different investment options, usually mutual funds. Your payout will vary depending on how much you put in, the rate of return on your investments, and expenses. The SEC regulates variable annuities. Indexed annuity. This annuity combines features of securities and insurance products. The insurance company credits you with a return that is based on a stock market index, such as the Standard & Poorâs 500 Index. Indexed annuities are regulated by state insurance commissioners. What are the benefits and risks of variable annuities?
+subject_label:			4
+query_id:			1065558

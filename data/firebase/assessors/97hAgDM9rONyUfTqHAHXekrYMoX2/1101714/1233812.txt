@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1233812
+query:			definition, nepotism
+passage:			Passage: Nepotism can't be abolished in total, as it is a deep rooted problem that has been around since civilisation began. Nepotism: A recipe for disaster Nepotism takes a big share of employment in state facilities and institutions to such a degree that qualified people are prevented from jobs given to unqualified applicants. Legal Affairs minister says 'no' to nepotism in government hiring
+subject_label:			1
+query_id:			1101714

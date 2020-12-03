@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			64668
+query:			where does lice come from
+passage:			Passage: Other lice that often infect humans are Pediculus humanus capitis (head lice) and Pediculus humanus corporis (body lice). The term crabs seems to come from the microscopic appearance of the pubic louse. The pubic lice organisms are visible to the naked eye in affected areas.ther lice that often infect humans are Pediculus humanus capitis (head lice) and Pediculus humanus corporis (body lice). The term crabs seems to come from the microscopic appearance of the pubic louse. The pubic lice organisms are visible to the naked eye in affected areas.
+subject_label:			1
+query_id:			973362

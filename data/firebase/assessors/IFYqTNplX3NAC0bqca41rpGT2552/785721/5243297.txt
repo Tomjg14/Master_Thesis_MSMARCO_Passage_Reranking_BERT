@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5243297
+query:			what is postulate in algebra
+passage:			Passage: The Multiplication Postulate: If x = y, then x * 3 = y * 3 . The Division Postulate: If x = y, then x / 7 = y / 7 . Examples: Geometric Postulates. Geometric postulates can help us solve problems with lines, line segments, and angles. Let's see what they say. The Ruler Postulate: Points on a line can match up with
+subject_label:			3
+query_id:			785721

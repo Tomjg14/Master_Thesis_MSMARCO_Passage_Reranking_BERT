@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7899769
+query:			what is crossfit?
+passage:			Passage: Crossfit's Fitness. For CrossFit the specter of championing a fitness program without clearly defining what it is that the program delivers combines elements of fraud and farce. The vacuum of guiding authority has therefore necessitated that CrossFitâs directors provide their own definition of fitness.ut CrossFit is good for becoming good at CrossFit. In the article of defining fitness, Greg says that a Outdoor's triathlete is not the world's fittest man, but he is the world's fittest man in the sport of triathlons.
+subject_label:			1
+query_id:			736125

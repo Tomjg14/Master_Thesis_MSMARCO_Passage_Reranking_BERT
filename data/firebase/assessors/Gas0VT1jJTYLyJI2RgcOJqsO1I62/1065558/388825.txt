@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			388825
+query:			what is a variable account in a annuity
+passage:			Passage: What is a 'Separate Account'. A separate account is a privately managed investment account opened through a brokerage or financial advisor that uses pooled money to buy individual assets. 2. In the context of variable annuities, these are payments made to an insurance company for the purpose of investing in securities.
+subject_label:			3
+query_id:			1065558

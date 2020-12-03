@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4588027
+query:			is the sec constitutional
+passage:			Passage: Sec. 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress. Amendment 22 Annotations fn14. Section.
+subject_label:			2
+query_id:			427323

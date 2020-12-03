@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1388862
+query:			circulation money definition
+passage:			Passage: The definition of currency is the money system used in a country, especially paper money. An example of currency is the American dollar or the Euro. pl. -Â·cies. a continual passing from hand to hand, as of a medium of exchange; circulation. â the money in circulation in any country; often, specif., paper money.
+subject_label:			2
+query_id:			92542

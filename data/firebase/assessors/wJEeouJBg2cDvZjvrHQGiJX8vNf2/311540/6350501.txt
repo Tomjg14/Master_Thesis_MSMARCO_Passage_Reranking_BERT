@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6350501
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much does a gallon of blood weigh? kgb answers Â» Science & Technology Â» Math, Chemistry, Physics Â» How much does a gallon of blood weigh? Not Medical Advice: A gallon of blood may weigh around 8.85 lbs.
+subject_label:			1
+query_id:			311540

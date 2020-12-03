@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4224397
+query:			apartment cost in phoenix az
+passage:			Passage: More trip calculations. 1 driving time from Prescott, AZ to Phoenix, AZ. 2 cost of driving from Prescott, AZ to Phoenix, AZ. 3 reverse drive distance from Phoenix, AZ to Prescott, AZ. 4 halfway between Prescott, AZ and Phoenix, AZ. 5 hotels near Phoenix, AZ. 6 flight distance from Prescott, AZ to Phoenix, AZ.
+subject_label:			1
+query_id:			1100687

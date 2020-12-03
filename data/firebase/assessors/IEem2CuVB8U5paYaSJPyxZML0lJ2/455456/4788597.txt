@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4788597
+query:			molar mass of phenol
+passage:			Passage: The mass in grams of one mole of substance is called molar mass. Each element has its own unique molar mass. For example, carbonâs molar mass is 12.011 g/mol, and magnesiumâs molar mass is 24.3050 g/mol.he number of grams in the molar mass of an element is the same as the atomic mass. Translating atomic masses into molar masses, you can construct conversion factors that convert between the mass of an element and the number of moles of the element.
+subject_label:			5
+query_id:			455456

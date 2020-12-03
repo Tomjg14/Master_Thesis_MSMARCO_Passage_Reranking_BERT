@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7729940
+query:			where is mathura
+passage:			Passage: Vrindavan (also spelled as Vrindaban or Brindavan) city is located at Mathura district in the state of Uttar Pradesh about 11 km away from Mathura city close to the Agra-Delhi highway. According to the mythology of Hindu, God Krishna used to live here during his childhood days before 3000BC.
+subject_label:			4
+query_id:			998591

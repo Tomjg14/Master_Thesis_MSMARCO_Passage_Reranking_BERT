@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			957235
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Chemoreceptor. Definition. noun, plural: chemoreceptors. (1) A sensory nerve cell or sense organ, as of smell, or taste, that are able to detect and respond to chemical stimuli. (2) A sensory receptor that detects chemical stimuli in the environment and relay that information to the central nervous system.
+subject_label:			4
+query_id:			1091108

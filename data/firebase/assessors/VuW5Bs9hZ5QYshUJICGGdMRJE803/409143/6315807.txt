@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6315807
+query:			is education a constitutional right
+passage:			Passage: Although the decision did not succeed in fully desegregating public education in the United States, it put the Constitution on the side of racial equality and galvanized the nascent civil rights movement into a full revolution.lthough the decision did not succeed in fully desegregating public education in the United States, it put the Constitution on the side of racial equality and galvanized the nascent civil rights movement into a full revolution.
+subject_label:			3
+query_id:			409143

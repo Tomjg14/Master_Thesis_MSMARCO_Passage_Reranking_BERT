@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			23834
+query:			how big do newfypoo's get
+passage:			Passage: How big do super ball pythons get? Update: super ball pythons are a mix of ball pythons and blood pythons. I already know how big ball pythons grow i have one i only want to know how big super ball pythons grow. Follow. 4 answers 4.
+subject_label:			1
+query_id:			208494

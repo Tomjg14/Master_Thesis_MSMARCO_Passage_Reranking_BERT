@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4708014
+query:			what is the phone number to spe
+passage:			Passage: 1 what is the phone number for customer service ... I want to pay my bill. 2 Re: what is the phone number for customer service ... I want to pay my bill. 3 Re: what is the phone number for customer service ... I want to pay my bill. 4 Re: what is the phone number for customer service ... I want to pay my bill. what is the phone number for customer service ... I want to pay my bill. what is the phone number for customer service ...
+subject_label:			3
+query_id:			1034595

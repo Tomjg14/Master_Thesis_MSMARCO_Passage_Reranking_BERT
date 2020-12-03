@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7880201
+query:			definition of purse
+passage:			Passage: Paracord Definition; Paracord Items; Paracord Pricing & Sizing; Paracord Colors & Additives; Diaper Bags & Purses; Aprons; Bows, Headbands and Clips; Payment Options/Ordering; Shipping; Happy Customers; Contact Us
+subject_label:			1
+query_id:			137508

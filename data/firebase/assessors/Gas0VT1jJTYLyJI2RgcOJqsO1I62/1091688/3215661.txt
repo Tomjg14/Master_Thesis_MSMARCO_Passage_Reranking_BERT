@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3215661
+query:			phone number for bc transit junction
+passage:			Passage: Compare with other York Region Transit phone numbers Compare all York Region Transit contact info Find another company phone number.his phone number is popular with other York Region Transit customers, but be sure to follow the 6 steps further down. 15 mins average hold time. call Mon-Fri 7am-7pm, Sat-Sun 8:30am-4:30pm EST open now. #1 of 2 York Region Transit phone numbers.
+subject_label:			2
+query_id:			1091688

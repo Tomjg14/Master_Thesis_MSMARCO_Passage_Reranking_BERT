@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4846150
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Cute Hotel bar. 1 Cute bar in the Hilton, overlooking the lake. 2 This restaurant is in the lobby of the Hilton University Place in Charlotte. 3 The Edgewater Bar is an excellent addition to the Hilton University Place. 4 We stayed at the Hilton Hotel and had dinner at the Edgewater Bar and Grille one night.
+subject_label:			2
+query_id:			988306

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7952320
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Chick-Fil-A Breakfast Menu Items. Fans of Chick-Fil-A can now have their fill of breakfast with a little more variety. While chicken is ever-present, so are biscuits, sausage, and bacon. Chick-Fil-A even as an invented item known as âChick-n-Minisâ equivalent to chicken nuggets with the comforts of biscuits.
+subject_label:			2
+query_id:			904389

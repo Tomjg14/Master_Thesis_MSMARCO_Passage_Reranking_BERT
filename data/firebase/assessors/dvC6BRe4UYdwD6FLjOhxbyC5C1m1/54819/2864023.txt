@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2864023
+query:			blue sky charge controller price
+passage:			Passage: Call us! Wholesale Solar offers all types of charge controllers from OutBack Power, Schneider Electric(formerly Xantrex), Morningstar, Blue Sky Energy, and, now, Midnite Solar's revolutionary Classic MPPT charge controller. The main function of a charge controller or regulator is to protect your battery from overcharge and block a reverse current.
+subject_label:			2
+query_id:			54819

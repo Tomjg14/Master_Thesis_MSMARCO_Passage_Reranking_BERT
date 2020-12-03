@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4877504
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Marketing Specialist make in Seattle?The average Senior Marketing Specialist salary is $73,795. In Seattle, a Senior Marketing Specialist can make $70,611, which is 4.3% lower than the national median. Filter by location to see Senior Marketing Specialist salaries in your area.
+subject_label:			3
+query_id:			1096257

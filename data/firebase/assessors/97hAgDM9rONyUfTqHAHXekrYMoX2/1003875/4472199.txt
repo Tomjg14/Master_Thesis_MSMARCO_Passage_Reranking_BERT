@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			4472199
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: Geckos (Gekkonidae) are a group of lizards that include about 930 species. Among the more common species of geckos are the tokay gecko, crested gecko, gargoyle gecko, dwarf gecko, leopard gecko, mediterranean gecko, western banded gecko, and the New Caledonian gecko.ost geckos are nocturnal hunters that feed on insects, spiders and other small invertebrates. The tokay gecko is a large species whose diet includes heftier prey such as small lizards, birds and mammals.
+subject_label:			2
+query_id:			1003875

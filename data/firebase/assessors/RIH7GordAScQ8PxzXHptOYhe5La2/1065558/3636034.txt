@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3636034
+query:			what is a variable account in a annuity
+passage:			Passage: Tax-Free 1035 Exchanges. Section 1035 of the U.S. tax code allows the owner of an annuity to exchange an existing variable annuity contract for a new annuity contract without paying any tax on the income and investment gains in the current variable annuity account. The process is similar to a direct transfer from one IRA custodian to another.
+subject_label:			2
+query_id:			1065558

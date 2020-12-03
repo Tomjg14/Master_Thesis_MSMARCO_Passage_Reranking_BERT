@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886010
+query:			what is polydextrose made from
+passage:			Passage: High solubility, clarity and rheological properties similar to sucrose make polydextrose versatile enough to add a desirable texture to a variety of liquids, including dairy drinks and yogurts, sauces and dressings, while reducing calories from fat or sugar.
+subject_label:			5
+query_id:			785176

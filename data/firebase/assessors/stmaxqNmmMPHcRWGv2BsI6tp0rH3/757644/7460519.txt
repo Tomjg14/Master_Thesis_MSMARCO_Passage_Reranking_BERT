@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7460519
+query:			what is impact ratio analysis
+passage:			Passage: Some of the most common categories of ratio analysis are; 1 Ratio analysis by industry. 2 Ratio analysis by department. 3 Intercompany ratio analysis. 4 Ratio analysis by period. 5 Ratio analysis by company. 6 Ratio analysis based on geographical location. 7 Ratio analysis by age of a company.
+subject_label:			2
+query_id:			757644

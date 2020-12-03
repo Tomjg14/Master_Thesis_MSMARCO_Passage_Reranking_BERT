@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7111944
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Prickly, itchy feeling all over the body when sweating? Dr. Keshab Paudel Dr. Paudel Please see below: This may be cholinergic urticaria : cu typically presents with a number of small, short-lasting hives but may also involve cutaneous inflammation (wheals) and pain which develops usually in response to exercise, bathing, staying in a heated environment, or emotional stress.
+subject_label:			5
+query_id:			1086248

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7680305
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: It Ends at Niagara-on-the-Lake, ON, CanadaCan't get a feel of the tour distance on the small map? How far is Hamilton from Niagara-on-the-Lake?
+subject_label:			1
+query_id:			231877

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5492302
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: The following information will help you understand more about organs and tissue that can be donated: Organ Donation Heart. Over 2,600 people are waiting for a heart transplant nationwide. Some conditions that might make a transplant necessary are cardiomyopathy, heart failure, myocarditis, and heart disease. The heart can be preserved outside of the body for 4 to 6 hours before transplant into a recipient. Transplants are blood typed and matched for the size and weight of the donor. Liver. Some conditions that could make a liver transplant necessary are birth defects of the liver or bile duct, chronic liver infections like hepatitis, or drug and alcohol damage. The liver can be preserved outside of the body for 4 to 16 hours. Transplants are blood typed and matched for the size and weight of donor. A donated liver can sometimes be split between two recipients, so one donor can be the source of two liver transplants.
+subject_label:			5
+query_id:			1026799

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7118970
+query:			carnation® evaporated milk total calories
+passage:			Passage: More from Carnation. Evaporated Milk, Vitamin D Added; Evaporated Low-Fat (2%) Milk, Vitamin A & D Added; Evaporated Fat-Free Milk; Evaporated Fat-Free Milk, Vitamin A & D Added
+subject_label:			1
+query_id:			1085457

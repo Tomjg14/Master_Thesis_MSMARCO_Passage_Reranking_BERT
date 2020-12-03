@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8169588
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: AND he does what he does while playing the equivalent of 3 quarters a game! BTW, and it looks like you already know this, unlike James, Curry gets better when it counts the mostâ¦James whines, cries and withers under the duress of big moments in the biggest games!
+subject_label:			1
+query_id:			641156

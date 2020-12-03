@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8272304
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Relax at the Hilton Charlotte Center City hotel and enjoy our downtown location. Our Charlotte hotel is situated in the heart of the city across from the Charlotte Convention Center, within walking distance to restaurants, entertainment, and museums. Travel to the hotel from Charlotte/Douglas International Airport in just 15 minutes.
+subject_label:			2
+query_id:			988306

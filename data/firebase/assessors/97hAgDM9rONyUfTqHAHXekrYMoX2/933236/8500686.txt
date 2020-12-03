@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8500686
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Lets start with the Tucson area by comparing it to Phoenix. Tucson Arizona is about a one and a half hour drive south of Phoenix Arizona. Tucson is located about 60 minutes north. Tucson's Dove Mountain area. of the Mexican border town of Nogales Arizona. also believe living expenses are less in Tucson however. Now letâs move to the Phoenix, AZ area and what it offers residents. Phoenix Arizona is a metropolis in every way one thinks of a metropolis. It offers literally everything a person could want at any time.
+subject_label:			1
+query_id:			933236

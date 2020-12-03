@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			736229
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Anti-inflammatory: Sandalwood essential oil is anti-inflammatory by nature. It has a soothing effect, which helps in getting relief from severe internal inflammations. This oil is of great use in curing the soreness of nervous system (including brain), circulatory system, digestive system and excretory system.
+subject_label:			1
+query_id:			178468

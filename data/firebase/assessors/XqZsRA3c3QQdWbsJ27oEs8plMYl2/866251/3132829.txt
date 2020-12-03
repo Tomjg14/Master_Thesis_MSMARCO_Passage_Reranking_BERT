@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3132829
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: The Best Zoos in the United States. A list of zoos in United States, with photos! Whether they be petting zoos or wild animal parks, American zoos are a great family destination when traveling. A zoological park is a location where animals are kept in captivity for study and viewing.
+subject_label:			1
+query_id:			866251

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4524454
+query:			carbon reactivation facilities california
+passage:			Passage: Double and triple bonds are known as functional groups, a term that is used to identify atoms or groups of atoms within a molecule that are sites of comparatively high reactivity. A second type of reactive site results when an atom other than carbon or hydrogen (termed a heteroatom) is bonded to carbon.
+subject_label:			2
+query_id:			1085584

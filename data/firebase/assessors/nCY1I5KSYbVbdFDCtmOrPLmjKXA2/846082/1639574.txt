@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1639574
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Golden State Warriors win first NBA title in 40 years â as it happened. Watch as Golden State Warriors fans take to the streets of Oakland to celebrate. 12.00am EDT 00:00 FINAL SCORE: Warriors 105, Cavaliers 97. 11.45pm EDT 23:45 Warriors 98, Cavaliers 85.
+subject_label:			5
+query_id:			846082

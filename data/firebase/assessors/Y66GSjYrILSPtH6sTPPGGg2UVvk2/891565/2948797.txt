@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2948797
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: The Effie Yeaw Nature Center is located in Ancil Hoffman Park and is part of the American River Parkway. The American River Parkway starts at Discovery Park at the confluence of the American and Sacramento Rivers and follows the river east from the city of Sacramento to the Nimbus Hatchery near Folsom.he American River Parkway is found on the north and most of the south sides of the river considered the 'jewel' of Sacramento. The parkway stretches 23 miles and offers open space, oak woodlands, rich green riparian flora, paved trails and access to the Beautiful 'Wild and Scenic' American River.
+subject_label:			1
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2552626
+query:			where was the mediterranean gecko introduced
+passage:			Passage: This biome actually goes by several names. It is found surrounding large parts of the Mediterranean Sea and is thus sometimes called the Mediterranean Biome, others call it a Woodland Biome, while others call it a Shrub or Chaparral Biome.Chaparral Community near Malibu, California.arge animals simply can't stand the heat of day in many of these locations, and it's hard for a large animal to burrow. Mediterranean Gecko-Hemidactylus turcicus. Left: The Mediterranean Gecko is a nocturnal insectivore of the Mediterranean Biome.
+subject_label:			1
+query_id:			1003875

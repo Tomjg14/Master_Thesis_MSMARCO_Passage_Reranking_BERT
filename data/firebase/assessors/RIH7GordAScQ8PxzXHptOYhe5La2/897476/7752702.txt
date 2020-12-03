@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7752702
+query:			what state has the easiest bar exam
+passage:			Passage: 10 States with the Easiest Bar Exams to Pass in the US. Published on December 14, 2015 at 4:54 am by in Lists. Not all bar exams are created equal: this is why we have created a list of the ten states with the easiest bar exams to pass in the US.
+subject_label:			2
+query_id:			897476

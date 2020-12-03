@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7752699
+query:			what state has the easiest bar exam
+passage:			Passage: I guess the easiest way to look at it is by percentage of people who pass the exam. This document has all of the states and the percentages. http://www.ncbex.org/assets/medi... Iowa 82.
+subject_label:			4
+query_id:			897476

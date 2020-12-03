@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2628915
+query:			who is the boss of google?
+passage:			Passage: On that principle, seven-year-old Chloe Bridgewater, who lives in Hereford, UK, wrote a letter to Google asking for a job. After seeing images of Google offices with their bean bags, go-karts and slides, my 7-year-old daughter decided to write to Google to see if they would give her a job, Andy Bridgewater wrote on LinkedIn. Bridgewater provided CNBC with the original letter, addressed to google boss:
+subject_label:			1
+query_id:			1039495

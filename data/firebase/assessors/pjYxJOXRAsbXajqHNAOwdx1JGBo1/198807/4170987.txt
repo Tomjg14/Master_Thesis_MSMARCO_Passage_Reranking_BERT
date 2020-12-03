@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4170987
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: Ranking the Top 25 Regular-Season Teams in MLB History. Ranking the Top 25 Regular-Season Teams in MLB History. Major League Baseball has always had a disproportionately brief postseason, and it's unfortunate that a handful of games can overshadow how teams perform during the eternal summer.
+subject_label:			1
+query_id:			198807

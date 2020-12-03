@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6898712
+query:			what are sensitive periods for brain development
+passage:			Passage: The sensitive period is a phase during childhood development as defined by early childhood educator Maria Montessori. According to Montessori's sensitive period hypothesis, children go through a number of sensitive periods, during which they are particularly receptive to certain types of stimuli.
+subject_label:			5
+query_id:			564668

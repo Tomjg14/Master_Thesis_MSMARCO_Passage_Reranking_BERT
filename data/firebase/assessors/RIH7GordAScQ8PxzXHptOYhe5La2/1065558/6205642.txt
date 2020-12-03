@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6205642
+query:			what is a variable account in a annuity
+passage:			Passage: A variable annuity is a contract between you and an insurance company, under which the insurer agrees to make periodic payments to you, beginning either immediately or at some future date. You purchase a variable annuity contract by making either a single purchase payment or a series of purchase payments.his is a general description of variable annuities what they are, how they work, and the charges you will pay. Before buying any variable annuity, however, you should find out about the particular annuity you are considering.
+subject_label:			5
+query_id:			1065558

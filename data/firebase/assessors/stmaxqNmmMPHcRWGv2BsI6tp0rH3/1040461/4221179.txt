@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4221179
+query:			who is the grinning man
+passage:			Passage: I'm talking about the cameo appearance of a certain figure in the Marvel community, writer Stan Lee. With his massive sunglasses and cheeky grin, the 94-year-old is responsible for crafting dozens of well-known superheroes including Spider-Man, Iron Man, and The Hulk.
+subject_label:			2
+query_id:			1040461

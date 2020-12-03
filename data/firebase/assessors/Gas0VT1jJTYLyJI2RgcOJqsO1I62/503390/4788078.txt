@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4788078
+query:			statute of limitations definition
+passage:			Passage: Here is a brief summary of civil statute of limitation laws in Florida. Civil Statutes of Limitation. In every state, there are time limits for the filing of lawsuits and other civil actions called statutes of limitations.. Florida's civil statute of limitations laws are largely in line with those of other states. Depending on the type of case or procedure, Florida's statutes of limitations range from two to four years. The point at which the clock starts ticking typically is the date of the incident or discovery of a wrong. Below is a summary of civil statutes of limitations in Florida. See Details on State Civil Statute of Limitations and Time Limits to Bring a Case: The Statute of Limitations to learn more. Statutes of Limitation in Florida
+subject_label:			2
+query_id:			503390

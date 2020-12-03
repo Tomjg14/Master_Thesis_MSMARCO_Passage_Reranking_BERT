@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7117873
+query:			carbon reactivation facilities california
+passage:			Passage: Spent non-hazardous reactivated carbon exchange & custom spent carbon reactivation services. Manufacturer of activated carbon for use in pollution control systems & industrial wastewater applications.
+subject_label:			2
+query_id:			1085584

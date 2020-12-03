@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7134314
+query:			apartment cost in phoenix az
+passage:			Passage: So, call us at 1-888-328-0192 to rent Phoenix apartments! Here are the Siegel Suites apartments for rent in Phoenix, Arizona: Siegel Suites Phoenix Apartments 1241 North 53rd Avenue Phoenix, AZ
+subject_label:			4
+query_id:			1100687

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2060645
+query:			carbon reactivation facilities california
+passage:			Passage: In some cases, the spent GAC can be sent back to reactivation facilities for reactivation and reuse. The applications that Carbonair uses GAC to treat contaminated water and air flows are the following: Liquid Phase Carbon Vessels, Vapor Phase Carbon Vessels.
+subject_label:			2
+query_id:			1085584

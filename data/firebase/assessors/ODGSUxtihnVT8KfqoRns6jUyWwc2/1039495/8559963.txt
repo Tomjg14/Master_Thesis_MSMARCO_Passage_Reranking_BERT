@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8559963
+query:			who is the boss of google?
+passage:			Passage: A boss is a person who exerts power, authority and decision-making over others. Bosses want certain results and expect specific behaviors. People respond to a boss because they feel that they must. A leader is a person who wins your heart through respect, trust and devotion that that naturally comes from them.
+subject_label:			1
+query_id:			1039495

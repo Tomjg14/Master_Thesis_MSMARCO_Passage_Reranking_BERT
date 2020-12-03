@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637584
+query:			what is a malanga
+passage:			Passage: YautÃ­a / Malanga (Xanthosoma Sagittifolium) This genus goes by many names in the Caribbean, including yautÃ­a, malanga, tannia, tannier, tanier, and cocoyam. This corm has an elongated shape and the skin is bumpy, patchy, brown and shaggy. The flesh inside is slippery but crisp. It can be white, yellow, pink or purplish.
+subject_label:			5
+query_id:			689885

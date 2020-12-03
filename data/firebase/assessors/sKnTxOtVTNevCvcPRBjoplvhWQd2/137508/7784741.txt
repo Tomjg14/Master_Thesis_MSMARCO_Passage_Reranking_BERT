@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7784741
+query:			definition of purse
+passage:			Passage: loose change meaning, definition, what is loose change: the coins that you have in your pocket or purse. Learn more.
+subject_label:			3
+query_id:			137508

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6787481
+query:			who paul clark
+passage:			Passage: Questions and complaints of alleged discrimination should be addressed with Paul Clark at Curlew School. 509-779-4931.
+subject_label:			2
+query_id:			988142

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8140382
+query:			is the hawb the tracking number
+passage:			Passage: Difference between Airway bill and Master Airway Bill Difference between AWB and HAWB - Airway bill and House Airway bill What is Combined Bill of Lading / Multi model Bill of Lading
+subject_label:			2
+query_id:			426442

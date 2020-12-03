@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4537876
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of the word 'benefit'? If a product has some 'benefits', it follows that is will have some drawbacks (possibly). I need to find a word that is not seen as a negative such as 'drawbacks' but it must not have a particularly negative meaning. Currently the document that I have to rewrite has 'benefits' and 'disbenefits' as a title and this to me is not very good English. Any help would be appreciated. Rm.
+subject_label:			2
+query_id:			837681

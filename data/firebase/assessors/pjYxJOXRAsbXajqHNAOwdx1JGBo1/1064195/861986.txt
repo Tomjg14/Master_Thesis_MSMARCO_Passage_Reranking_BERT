@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			861986
+query:			what is aircraft ram air
+passage:			Passage: Short Ram Intake - Acura Integra GS. Before getting into testing out these common aftermarket upgrades, itâs best to understand what each of these performance upgrades is attempting to achieve. Cold air intakes and short ram intakes both have the same goal, which is to increase horsepower. But they go about it in different ways. Short ram intakes (SRI) look to increase power by reducing the amount of restriction on the intake air. In many vehicles, the intake air passes through a resonator and silencer box to help reduce induction noise. This restriction can limit airflow. A short ram eliminates the resonator and filter box, giving the air a short travel distance and hopefully increasing power. That said, itâs pulling air from the engine bay, thus the intake air will be warmer than by using a cold air intake.
+subject_label:			3
+query_id:			1064195

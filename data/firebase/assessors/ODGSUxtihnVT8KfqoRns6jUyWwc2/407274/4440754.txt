@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4440754
+query:			is cortana smart???
+passage:			Passage: Windows Phone chief Greg Sullivan spoke with NBC News about why the company named Cortana after a video game character -- and how she represents the Microsoft vision under the company's new CEO Satya Nadella. Cortana in particular is emblematic of this idea about how individual and how smart the smartphone can be.
+subject_label:			2
+query_id:			407274

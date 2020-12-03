@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7371891
+query:			what is mastoidectomy
+passage:			Passage: Tympanoplasty without mastoidectomy (including canalplasty, at ticotomy and/or m iddle ear surgery), initial or revision; without ossicular chain reconstruction Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; with ossicular chain reconstruction (eg, postfenestration) Tympanoplasty without mastoidectomy (including canalplasty, atticotomy an d/or middle ear surgery), initial or revision; with ossicular chain reconstruction and synthetic prosthesis (eg, partial ossicular replacement p rosthesis [PORP], total ossicular replacement p rosthesis [TORP]) Tympanoplasty with a ntrotomy or mastoidotomy (including canalplasty,atticotomy, middle ear surgery, and/or tympanic membrane repair); without ossicular chain reconstruction Tympanoplasty with antrotomy or mastoi dotomy (including canalplasty, atticotomy, middle ear
+subject_label:			3
+query_id:			1051530

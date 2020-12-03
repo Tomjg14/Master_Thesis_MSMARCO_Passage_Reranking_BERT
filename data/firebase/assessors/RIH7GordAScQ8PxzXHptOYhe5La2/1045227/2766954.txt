@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2766954
+query:			what is termis
+passage:			Passage: Copper and aluminum compression termi-. nals and splices for terminating conductors. from #8 AWG through 2000 kcmil. The medium and large HYDENTâ¢ line is. designed for terminating and splicing medi-. um and large conductors in electrical power. applications.
+subject_label:			1
+query_id:			1045227

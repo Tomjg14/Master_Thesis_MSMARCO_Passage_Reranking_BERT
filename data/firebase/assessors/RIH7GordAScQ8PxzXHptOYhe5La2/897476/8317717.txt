@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8317717
+query:			what state has the easiest bar exam
+passage:			Passage: Each state has its own bar exam that reflects its local laws and statutes. Students must pass the bar in a particular state to practice law in that state. Some students opt to take multiple bar exams in more than one state. Bar exams are offered twice a year, in July and February. Test results from the exam are usually not made available until after three months from the exam date.
+subject_label:			1
+query_id:			897476

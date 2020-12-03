@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8316963
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: for a mix of sweet and savory chick fil a has introduced chicken waffles for breakfast with a fried boneless breast of chicken alongside a warm belgian style waffle with a caramelized sugar crunch and the maple syrup baked on the inside 440 calories 9 grams of fatenn harris contact reporter chick fil a is testing a new breakfast menu with chicken and waffles greek yogurt and more chick fil a has started testing a new breakfast menu at select locations around the country including its 12 restaurants in the inland empire
+subject_label:			1
+query_id:			904389

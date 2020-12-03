@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5533880
+query:			what is postulate in algebra
+passage:			Passage: For the term in algebraic geometry, see Postulation (algebraic geometry). An axiom or postulate is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. The word comes from the Greek axÃ­Åma (á¼Î¾Î¯ÏÎ¼Î±) 'that which is thought worthy or fit' or 'that which commends itself as evident.'.
+subject_label:			1
+query_id:			785721

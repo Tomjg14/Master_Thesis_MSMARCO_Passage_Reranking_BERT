@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7653985
+query:			what is the hormone that makes you fat
+passage:			Passage: I will discuss many of those issues below.2- Adrenal Fatigue and Difficult Weight LossStress makes you fat and here's why. Stress will make you release high amounts of hormones called cortisol and adrenaline. High cortisol or adrenaline levels will lead to fat gain around the belly and eventually to adrenal fatigue.
+subject_label:			5
+query_id:			825147

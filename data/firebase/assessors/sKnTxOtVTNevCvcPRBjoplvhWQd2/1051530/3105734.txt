@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3105734
+query:			what is mastoidectomy
+passage:			Passage: Removal of Cholesteatoma via Modified Radical Mastoidectomy. Modified radical mastoidectomy, also known as canal wall down (CWD) mastoidectomy, is a surgical procedure which involves removal of the posterior (back) wall of the ear canal to create a common cavity for the mastoid and ear canal. This single cavity also known as mastoid bowl opens up to the outside of the ear canal.
+subject_label:			5
+query_id:			1051530

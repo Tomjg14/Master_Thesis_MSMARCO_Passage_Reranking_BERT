@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2261092
+query:			where is miralago
+passage:			Passage: Where the where the cash at where the cash at. Where the where the cash at where the cash at. Where the where the cash at where the cash at. Don't be surprised if she ask where the cash at. See that other chick asked that she said where the cash at. She said where the paper plastic product and where the stash at.
+subject_label:			1
+query_id:			987978

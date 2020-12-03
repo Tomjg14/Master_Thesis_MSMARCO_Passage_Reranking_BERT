@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5311662
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: Visceral muscle tissue, or smooth muscle, is tissue associated with the internal organs of the body, especially those in the abdominal cavity. There are three types of muscle in the body: skeletal, smooth, and cardiac.s with any muscle, the smooth, involuntary muscles of the visceral muscle tissue (which lines the blood vessels, stomach, digestive tract, and other internal organs) are composed of bundles of specialized cells capable of contraction and relaxation to create movement.
+subject_label:			4
+query_id:			993987

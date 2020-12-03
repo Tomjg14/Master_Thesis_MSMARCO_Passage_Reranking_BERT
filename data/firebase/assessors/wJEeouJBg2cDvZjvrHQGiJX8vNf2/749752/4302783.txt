@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4302783
+query:			what is gabba
+passage:			Passage: The first cricket Test match at The Gabba was played between Australia and South Africa between 27 November and 3 December 1931. And the first ODI was played in the year of the second cricket world cup, between England and West Indies on December 23, 1979.Between 1993 and 2005, The Gabba was redeveloped in six stages at a cost of $128,000,000 AUD.The dimensions of the playing field are now 170.6 metres (east-west) by 149.9 metres (north-south).he first Sheffield Shield match scheduled for The Gabba was to be played between 31 January 1931 and 4 February 1931. However, it was washed out without the captains' even bothering to toss a coin.
+subject_label:			4
+query_id:			749752

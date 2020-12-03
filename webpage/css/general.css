@@ -1,0 +1,29 @@
+body {
+  padding-top: 5rem;
+}
+
+#thanks {
+	margin-bottom: 0px;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: justify;
+  line-height: 1.8em;
+}
+
+@media screen and (min-width:992px){
+.container {
+	width: 50%;
+}
+}
+
+.custom-button {
+	width: 150px !important;
+}
+
+.text-center {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}

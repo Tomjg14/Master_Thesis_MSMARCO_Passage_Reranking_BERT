@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8075600
+query:			what is a malanga
+passage:			Passage: These are cooked in a broth, thickened with a farinaceous root called malanga, and flavored with lemon juice. Our War with Spain for Cuba's Freedom The food is Cuban-Creole: malanga, yucca, cerdo asado roast pork, lobster, fresh fish, shrimp and other traditional fare.
+subject_label:			3
+query_id:			689885

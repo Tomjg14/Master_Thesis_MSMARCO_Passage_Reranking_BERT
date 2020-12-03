@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3710646
+query:			where do the ash borer come from
+passage:			Passage: What is killing the ash trees? All of the native North American ash trees are highly susceptible to a new invasive species of beetle, the Emerald Ash Borer or EAB. Emerald ash borers destroy an ash tree's ability to store water and nutrients, killing the tree from the top down.
+subject_label:			2
+query_id:			971653

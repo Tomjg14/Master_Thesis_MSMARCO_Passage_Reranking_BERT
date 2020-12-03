@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4866009
+query:			vainglory meaning
+passage:			Passage: VAINGLORY [ISBE] VAINGLORY-van-glo'-ri (kenodoxia): Vainglory is the translation of kenodoxia, empty glory or pride, nearly akin to vanity in the modern sense (Phil 2:3).
+subject_label:			3
+query_id:			1089051

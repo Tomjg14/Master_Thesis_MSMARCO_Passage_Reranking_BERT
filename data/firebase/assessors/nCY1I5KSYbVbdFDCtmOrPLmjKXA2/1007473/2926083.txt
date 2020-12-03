@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2926083
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: a biogenic sediment that forms from the accumulation of planyt debris is known as _____ name a category of sedimentary rocks formed by the precipitation of minerals dissolved in a lake, river, or seawater?
+subject_label:			3
+query_id:			1007473

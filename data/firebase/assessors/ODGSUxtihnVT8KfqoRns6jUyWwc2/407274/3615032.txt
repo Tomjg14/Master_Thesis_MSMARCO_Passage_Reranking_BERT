@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3615032
+query:			is cortana smart???
+passage:			Passage: Microsoft Cortana: The smart person's guide. Cortana is Microsoft's universal digital agent and you should get to know her before she gets to know you. By Mark Kaelin | November 3, 2016, 9:00 AM PST.
+subject_label:			4
+query_id:			407274

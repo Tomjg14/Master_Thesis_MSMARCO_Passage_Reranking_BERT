@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1686734
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: In physiology, a stimulus is a detectable change in the internal or external environment. The ability of an organism or organ to respond to external stimuli is called sensitivity. When a stimulus is applied to a sensory receptor, it normally elicits or influences a reflex via stimulus transduction. These sensory receptors can receive information from outside the body, as in touch receptors found in the skin or light receptors in the eye, as well as from inside the body, as in chemoreceptors and
+subject_label:			4
+query_id:			1091108

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4075458
+query:			where did captain james cook explore?
+passage:			Passage: Occupation: Explorer; Born: October 27, 1728 in Marton, England; Died: Killed by natives at the Hawaiian Islands on February 14, 1779; Best known for: Exploring the South Pacific; Biography: James Cook was a British navigator and explorer who sailed and mapped much of the South Pacific. Where did Captain Cook grow up? James Cook was born on October 27, 1728 in Marton, England. His father was a farmer, but as James grew older he began to feel the lure of the sea. At around the age of 18 he took an apprenticeship as a merchant seaman.
+subject_label:			3
+query_id:			1000678

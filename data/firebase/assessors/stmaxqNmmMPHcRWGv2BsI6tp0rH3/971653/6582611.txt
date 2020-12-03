@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6582611
+query:			where do the ash borer come from
+passage:			Passage: Stressed trees and shrubs tend to be more susceptible to borer infestation, so plant health care is a first line of defense: 1 Do not plant ash trees; because of emerald ash borer it is no longer a suitable landscape plant. 2 Avoid planting native understory species such as dogwoods and rhododendrons in full sun.
+subject_label:			2
+query_id:			971653

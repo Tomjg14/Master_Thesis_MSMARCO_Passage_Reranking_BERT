@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7815865
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Scotts Seafood On The River is one of 42 Restaurants Seafood in Sacramento, CA 95822. Find phone, map, directions, website, coupons, reviews, hours.
+subject_label:			1
+query_id:			891565

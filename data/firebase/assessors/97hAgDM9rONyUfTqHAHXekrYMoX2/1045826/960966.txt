@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			960966
+query:			what is ssc je
+passage:			Passage: Only one applications will be entertained for SSC Junior Engineer recruitment. Facility of Online application for SSC JE Exam 2015 will be available from 11.07.2015 to 07.08.2015 (upto 5:00 PM) for part I registration and upto 10.08.2015 (Upto 5:00 PM) for part II registration.
+subject_label:			2
+query_id:			1045826

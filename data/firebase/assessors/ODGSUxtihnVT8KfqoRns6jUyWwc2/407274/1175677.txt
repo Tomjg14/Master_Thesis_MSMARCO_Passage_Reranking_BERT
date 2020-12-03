@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1175677
+query:			is cortana smart???
+passage:			Passage: Microsoftâ cortana finally speaker: hands-, Alexa has a bunch of them. siri is getting one. so why not cortana, too? a new smart speaker from audio equipment maker harman kardon is the first to comeâ¦.
+subject_label:			4
+query_id:			407274

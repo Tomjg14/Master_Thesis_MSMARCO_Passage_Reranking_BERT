@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7809505
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Aside from being an inventor, Edison was also a successful manufacturer and businessman, marketing his inventions to the public. In 1876, the year of the American centennial, he opened his first full-scale industrial research laboratory in Menlo Park, New Jersey.
+subject_label:			5
+query_id:			968608

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7201769
+query:			who was the basket of apples by
+passage:			Passage: It promotes a greater sense of family When we buy local foods, we are encouraged and inspired by our food. Who doesnât spy a brimming basket of apples and think, âhomemade apple pie!â We hit the kitchen, whipping up favourite family recipes and applying our creative juices.
+subject_label:			1
+query_id:			986210

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4683369
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Racking strength, simply explained, is the ability of a square or rectangular (wall) area to maintain its shape under duress. The picture below (from an old federal document testing racking strength) demonstrates what can happens with stress exceeds a wall's racking strength.acking strength, simply explained, is the ability of a square or rectangular (wall) area to maintain its shape under duress. The picture below (from an old federal document testing racking strength) demonstrates what can happens with stress exceeds a wall's racking strength.
+subject_label:			1
+query_id:			641156

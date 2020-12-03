@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7729943
+query:			where is mathura
+passage:			Passage: Situated in the state of Uttar Pradesh; Vrindavan is around 151 km south of Delhi. The place is just 10 km off Mathura, being a land of peace and serenity. It is well connected by means of road, air and railway.
+subject_label:			1
+query_id:			998591

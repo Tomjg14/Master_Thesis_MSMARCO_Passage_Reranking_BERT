@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5351696
+query:			what is the meaning of chicken rice?
+passage:			Passage: Oyakodon. Oyako donburi (è¦ªå­ä¸¼), which literally means âparent child bowlâ is a popular chicken and egg rice bowl in Japan. Itâs a simple one bowl meal with flavorful chunks of chicken wrapped in a custardy blanket of eggs, all seasoned with a mild dashi broth that tickles down onto the steamy bed of rice below.
+subject_label:			4
+query_id:			1036656

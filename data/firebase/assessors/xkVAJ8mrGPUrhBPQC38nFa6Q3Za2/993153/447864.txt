@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			447864
+query:			which situation does a company issue a note receivable
+passage:			Passage: First try to login using the instructions at http://www.bcc.edu/blackboard. If that does not work, make a note of the exact step in the instructions where you ran into the issue, and the exact wording of the error message you receive.irst try to login using the instructions at http://www.bcc.edu/blackboard. If that does not work, make a note of the exact step in the instructions where you ran into the issue, and the exact wording of the error message you receive.
+subject_label:			1
+query_id:			993153

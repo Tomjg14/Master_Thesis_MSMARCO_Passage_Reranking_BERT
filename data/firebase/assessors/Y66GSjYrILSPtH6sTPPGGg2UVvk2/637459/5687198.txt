@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5687198
+query:			what does fdg mean
+passage:			Passage: Before your PET scan, you will be given a radioactive medication with glucose (sugar) called a tracer through an intravenous (IV) line in your arm. Your PET scan will use fluorodeoxyglucose (FDG) as the tracer. FDG is taken up by your cells and does not stay in the body long.
+subject_label:			4
+query_id:			637459

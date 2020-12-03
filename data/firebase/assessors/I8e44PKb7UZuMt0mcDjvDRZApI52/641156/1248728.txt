@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1248728
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Signing Under Duress: When Does it Render a Contract Void? Many of us have grown up believing in the general infallibility of the written contract. And while the written contract does indeed hold a tremendous degree of legal clout, itâs not always the end-all, be-all solution for every court case. In fact, some contracts are considered void in special circumstances, such as when a person is believed to have signed the contract under duress.
+subject_label:			2
+query_id:			641156

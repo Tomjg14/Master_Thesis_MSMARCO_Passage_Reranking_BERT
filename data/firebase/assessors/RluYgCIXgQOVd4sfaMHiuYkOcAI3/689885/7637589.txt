@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637589
+query:			what is a malanga
+passage:			Passage: Nutritional Value. Malanga is high in fiber and calories and is a good source of riboflavin and folate. Malanga provides a modest amount of iron and vitamin C, yet is richer in minerals than a potato. The Central American root is likely one of the most hypoallergenic foods in the world.
+subject_label:			1
+query_id:			689885

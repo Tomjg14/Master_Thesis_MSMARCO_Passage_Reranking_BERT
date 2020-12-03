@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2512469
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: - Both estrogen and progesterone increase rapidly during the first trimester of pregnancy. - slower climb but very high levels during 2nd and 3rd trimester. - estrogen and progesterone levels drop sharply approximately 24hrs. before the onset of labor. - burst of energy - drop from pregnancy levels of progesterone to normal levels.
+subject_label:			2
+query_id:			414155

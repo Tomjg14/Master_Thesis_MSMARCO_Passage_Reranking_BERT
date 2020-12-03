@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4302789
+query:			what is gabba
+passage:			Passage: The Gabba shared first-class cricket matches with the Exhibition Ground until 1931. The first Sheffield Shield match at The Gabba was scheduled to be played between 31 January 1931 and 4 February 1931, but it was washed out without a ball being bowled.The first Test match at The Gabba was played between Australia and South Africa between 27 November and 3 December 1931.Over the years, The Gabba has hosted athletics, Australian rules football, baseball, concerts, cricket, cycling, rugby league, rugby union, soccer and pony and greyhound races.he first Sheffield Shield match at The Gabba was scheduled to be played between 31 January 1931 and 4 February 1931, but it was washed out without a ball being bowled.
+subject_label:			4
+query_id:			749752

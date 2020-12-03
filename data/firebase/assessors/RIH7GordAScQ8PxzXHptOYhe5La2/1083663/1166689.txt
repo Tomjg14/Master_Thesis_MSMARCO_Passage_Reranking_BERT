@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1166689
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: wear your heart on your sleeve. to make your feelings and opinions obvious to other people John's always worn his heart on his sleeve, so there's no doubt who he'll be supporting. See also: heart, on, sleeve, wear. Related vocabulary: wear something on your sleeve.
+subject_label:			5
+query_id:			1083663

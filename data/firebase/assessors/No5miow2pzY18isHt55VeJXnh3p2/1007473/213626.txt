@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			213626
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: Rocks made from particles of eroded sediment are called clastic sedimentary rocks, rocks made from the remains or living things are called biogenic sedimentary rocks, and those that form by minerals precipitating out of solution are called evaporites.ocks made from particles of eroded sediment are called clastic sedimentary rocks, rocks made from the remains or living things are called biogenic sedimentary rocks, and those that form by minerals precipitating out of solution are called evaporites.
+subject_label:			4
+query_id:			1007473

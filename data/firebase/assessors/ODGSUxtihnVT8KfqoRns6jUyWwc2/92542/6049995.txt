@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6049995
+query:			circulation money definition
+passage:			Passage: A currency (from Middle English: curraunt, in circulation, from Latin: currens, -entis) in the most specific use of the word refers to money in any form when in actual use or circulation as a medium of exchange, especially circulating banknotes and coins.ther definitions of the term currency are discussed in their respective synonymous articles banknote, coin, and money. The latter definition, pertaining to the currency systems of nations, is the topic of this article.
+subject_label:			5
+query_id:			92542

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6205956
+query:			what are stand up paddle boards made of
+passage:			Passage: A 4-minute video tour of one of three SUP ATX stand up paddle board manufacturing facilities. See how stand up paddle boards are made from beginning to end. SUP ATX is the #1 Stand Up Paddle Board Maker in the World.Now you can see how stand up paddle boards are made. Narrated by SUP ATX Founder Nick Matzorkis.Visit the official SUP ATX website: http://www.supatx.com.UP ATX is the #1 Stand Up Paddle Board Maker in the World. Now you can see how stand up paddle boards are made. Narrated by SUP ATX Founder Nick Matzorkis. Visit the official SUP ATX website: http://www.supatx.com.
+subject_label:			3
+query_id:			566174

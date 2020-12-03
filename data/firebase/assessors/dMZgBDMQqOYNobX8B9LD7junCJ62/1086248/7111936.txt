@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7111936
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: A body that becomes hyperstimulated can behave oddly and erratically, which can cause a wide range of unusual sensations and symptoms, including feeling an itchy, itching, tingly, tingling, crawly, crawling, pins and needles, prickly, and any other odd or unusual feelings and sensations under the skin and/or anywhere inside or deep inside the body.
+subject_label:			5
+query_id:			1086248

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2438135
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincoln before the Presidency. James Davis. Illinois College, Jacksonville. From April of 1861 to April of 1865, President Abraham Lincoln led the United States through its terrible Civil War.During the war, Lincoln's leadership helped preserve the Union and emancipate over three million slaves.His ideas defined important goals of the war and inspired the war-weary public.ames Davis. Illinois College, Jacksonville. From April of 1861 to April of 1865, President Abraham Lincoln led the United States through its terrible Civil War. During the war, Lincoln's leadership helped preserve the Union and emancipate over three million slaves.
+subject_label:			5
+query_id:			117113

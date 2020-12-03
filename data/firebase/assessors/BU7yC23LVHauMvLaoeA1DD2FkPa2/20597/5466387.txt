@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5466387
+query:			architectural design
+passage:			Passage: Posted on April 23, 2016Author admin [â¦] [â¦] Whatâs the difference between architecture and design â¦ â Hi Tom, From my perspective, architecture is design and design may be an architecture, depending on what the scope and objective of the design activity is.
+subject_label:			3
+query_id:			20597

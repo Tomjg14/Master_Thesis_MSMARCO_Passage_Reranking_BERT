@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4286288
+query:			where did captain james cook explore?
+passage:			Passage: Captain James Cook. 'Discoverer' of Hawaii. In 1778, 257 years after the death of Ferdinand Magellan, Captain James Cook landed on the shores of Hawaii. Capt. Cook was an exceptional navigator, cartographer and captian from a nation of explorers.
+subject_label:			4
+query_id:			1000678

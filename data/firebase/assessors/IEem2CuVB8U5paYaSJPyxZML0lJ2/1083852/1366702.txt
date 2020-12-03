@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1366702
+query:			what does extravert mean
+passage:			Passage: Extraversion. Extraversion versus introversion is possibly the most recognizable personality trait of the Big Five. The more of an extravert someone is, the more of a social butterfly they are. Extraverts are chatty, sociable and draw energy from crowds.
+subject_label:			5
+query_id:			1083852

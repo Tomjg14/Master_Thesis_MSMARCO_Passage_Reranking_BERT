@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7269020
+query:			where is berrimah
+passage:			Passage: Where is Ahtanum WA: Where is Airway Heights WA: Where is Alderton WA: Where is Alderwood Manor WA: Where is Algona WA: Where is Allyn WA: Where is Amboy WA: Where is Ames Lake WA: Where is Anacortes WA: Where is Anderson Island WA: Where is Artondale WA: Where is Asotin WA: Where is Bangor Base WA: Where is Barberton WA: Where is Basin WA: Where is Bethel WA
+subject_label:			1
+query_id:			978057

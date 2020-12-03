@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7715281
+query:			is thread.sleep implicit wait
+passage:			Passage: You should choose to use Explicit Waits or Implicit Waits. WARNING: Do not mix implicit and explicit waits. Doing so can cause unpredictable wait times. For example setting an implicit wait of 10 seconds and an explicit wait of 15 seconds, could cause a timeout to occur after 20 seconds. Explicit WaitsÂ¶ An explicit wait is code you define to wait for a certain condition to occur before proceeding further in the code. The worst case of this is Thread.sleep(), which sets the condition to an exact time period to wait. There are some convenience methods provided that help you write code that will wait only as long as required.
+subject_label:			4
+query_id:			1093866

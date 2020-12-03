@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1940682
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: The Charlotte Convention Center is located in downtown Charlotte. There are no hotels in the Center, but the Westin Hotel and the Hilton Center City Hotel are across the street. Cancel. 0.1 mile Westin Hotel 601 South College Street, Charlotte, NC 28202.
+subject_label:			1
+query_id:			988306

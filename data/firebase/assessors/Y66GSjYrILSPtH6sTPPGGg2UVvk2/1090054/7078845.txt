@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7078845
+query:			temperature diode
+passage:			Passage: Calibrating a Silicon Diode for Temperature Measurement The main disadvantage of using common silicon diodes for temperature measurement is that they need to be individually calibrated as each one has slightly diï¬erent prop-erties. If the operating parameters are chosen such that the response is nearly linear
+subject_label:			3
+query_id:			1090054

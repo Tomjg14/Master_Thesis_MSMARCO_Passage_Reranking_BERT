@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4251211
+query:			what is termis
+passage:			Passage: spoken mostly in New Albany from team cobra. it is a Mexican word but not spanish. meaning I WIN. damnnn steven just merete that gaymaro in his chrome yellow 1998 ford svt mustang cobra with black leather interior and 184k miles and all stock. #sxt #cobra #camaro #termi #nigger. by cobramch1 June 01, 2009.
+subject_label:			2
+query_id:			1045227

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7810601
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Franklin Park Zoo is a fun place to go because there is a ton of activities to do if you're bringing children. The activities may vary but if you look closely you can find different animal footprints to follow along the sidewalks.
+subject_label:			3
+query_id:			866251

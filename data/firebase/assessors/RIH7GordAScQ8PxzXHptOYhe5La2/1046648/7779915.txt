@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779915
+query:			who played fiddle for boxcar willie
+passage:			Passage: Eventually he realized that music was what he wanted to do with his life, and in 1976 he took a discharge from the Air Force. He moved to Nashville, Tennessee, and adopted the moniker Boxcar Willie based on a song he'd written in the mid-1960s. As Boxcar Willie, Martin took on the persona of an affable hobo, traveling the railways, singing a song. His costume consisted of scuffed shoes, a worn-out hat, patched overalls, and a scruffy beard. Over the years he had perfected his talent of being able to mimic the sound of a train whistle.
+subject_label:			1
+query_id:			1046648

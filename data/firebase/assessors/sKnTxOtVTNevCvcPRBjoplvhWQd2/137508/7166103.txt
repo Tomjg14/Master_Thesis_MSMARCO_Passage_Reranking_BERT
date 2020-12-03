@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7166103
+query:			definition of purse
+passage:			Passage: inferior definition: The definition of inferior is someone or something that is not very good, that is not as good as something else, or that is of lower quality. (adjective) An example of inferior is a cheap knock-off purse, which is of low quality. ...
+subject_label:			2
+query_id:			137508

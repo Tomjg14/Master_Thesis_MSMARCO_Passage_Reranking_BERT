@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1566595
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much does a 5.9 cummins complete motor weigh? and how much does a chevy 350 comlete motor weigh? comparing weight difference for cummins/chevy conversion. Follow
+subject_label:			1
+query_id:			311540

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7210098
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of symmetrical arrangement? What is the opposite of symmetrical balance? What is the opposite of symmetrical information? What is the opposite of symmetrically? What is the opposite of symmetrical pose? What is the opposite of symmetric distribution?
+subject_label:			1
+query_id:			837681

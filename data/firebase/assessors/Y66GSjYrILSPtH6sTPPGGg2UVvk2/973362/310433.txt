@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			310433
+query:			where does lice come from
+passage:			Passage: NEW YORK (CBSNewYork) â New strains of head lice may be coming to a school near you. As CBS 2âs Jennifer McLogan reported, the new strains of lice, dubbed âSuper Lice,â are showing resistance to traditional treatments and health experts are warning that schools are exactly where these newest strains are being found.
+subject_label:			1
+query_id:			973362

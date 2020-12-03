@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7076765
+query:			how old is lil moco
+passage:			Passage: web video star Lil Moco born on 02 11 1994 in . Until now, Lil Moco's age is 22 year old and have Scorpio constellation. Count down 361 days will come next birthday of Lil Moco !
+subject_label:			5
+query_id:			335710

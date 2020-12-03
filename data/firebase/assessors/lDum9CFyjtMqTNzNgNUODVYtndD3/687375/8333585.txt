@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8333585
+query:			what is a hydromyelia
+passage:			Passage: Hydromyelia and syringomyelia may be difficult to distinguish even after a detailed histologic examination. Characteristics of syringohydromyelia are demonstrated in the images below. [1, 2, 3, 4]
+subject_label:			4
+query_id:			687375

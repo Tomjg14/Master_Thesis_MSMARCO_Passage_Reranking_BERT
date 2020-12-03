@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5236005
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: Has any NBA team ever gone undefeated in the entire month of May? Yes during the season 1995-96 San Antonio Spurs won all the games in March 1996. They were 2nd team unbeaten in a month. The 1st team which achieved this was Los Angeles Lâ¦akers in the season 1971-72 (November 1971).
+subject_label:			2
+query_id:			198807

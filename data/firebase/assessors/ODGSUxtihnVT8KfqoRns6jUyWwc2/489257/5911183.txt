@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5911183
+query:			rigorous testing definition
+passage:			Passage: User Acceptance Testing In Agile. User Acceptance Testing (UAT) in an Agile project is generally more rigorous and timely than the classic. âend of projectâ UAT found in waterfall projects. The classic definition of a UAT is a process that. confirms that the output of a project meets the business needs and requirements.
+subject_label:			1
+query_id:			489257

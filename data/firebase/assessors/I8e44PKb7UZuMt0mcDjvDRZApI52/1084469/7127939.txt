@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7127939
+query:			what does a grassroots organization mean
+passage:			Passage: Definition of grassroots in the Definitions.net dictionary. Meaning of grassroots. What does grassroots mean? Information and translations of grassroots in the most comprehensive dictionary definitions resource on the web.
+subject_label:			1
+query_id:			1084469

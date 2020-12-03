@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3349517
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: What is a kidney transplant? A kidney transplant is a surgery done to replace a diseased kidney with a healthy kidney from a donor. The kidney may come from a deceased organ donor or from a living donor. Family members or others who are a good match may be able to donate one of their kidneys. This type of transplant is called a living transplant. People who donate a kidney can live healthy lives with one healthy kidney.
+subject_label:			1
+query_id:			1026799

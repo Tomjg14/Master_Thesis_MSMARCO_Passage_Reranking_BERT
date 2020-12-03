@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4374700
+query:			is cortana smart???
+passage:			Passage: Cortana is expected to go way beyond the realms of a traditional assistant as it is a smart AI which is specifically programmed to understand you as a user and your habits. The new windows 10 phones would also come with a feature called âthe notebookâ which would be only accessible via Cortana. This would be the core of cortana where she takes notes of what we speak and stores our data. Notebook will also be one of the offline available features of Cortana.
+subject_label:			3
+query_id:			407274

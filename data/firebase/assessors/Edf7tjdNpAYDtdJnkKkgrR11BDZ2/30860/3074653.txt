@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3074653
+query:			average amount of money stna make
+passage:			Passage: How much money does a Teachers assistant make? The average amount of money that a teacher's assistant makes per year is about $25,000. Highest earners make about $36,000 while the lowest get $17,000 per year.
+subject_label:			1
+query_id:			30860

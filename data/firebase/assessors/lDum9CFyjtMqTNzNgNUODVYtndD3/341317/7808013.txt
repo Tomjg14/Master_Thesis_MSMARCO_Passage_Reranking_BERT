@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7808013
+query:			how tall is samus aran
+passage:			Passage: Samus Aran wearing the Zero Suit, as depicted in Metroid: Other M. Super Metroid's Player's Guide describes Samus as an athletic woman who is 6 ft 3 in (1.91 m) tall and weighs 198 pounds (90 kg) without her armor.amus has appeared in every Metroid video game and has also been featured in media outside of the series, including the comic book version of Captain N: The Game Master and the Super Smash Bros. series.
+subject_label:			5
+query_id:			341317

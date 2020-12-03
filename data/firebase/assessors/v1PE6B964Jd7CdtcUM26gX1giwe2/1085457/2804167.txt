@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2804167
+query:			carnation® evaporated milk total calories
+passage:			Passage: Carnation was founded as an evaporated milk company. With the increased availability of home refrigeration of fresh milk and cream throughout the 20th century, the demand for evaporated milk decreased. Carnation diversified its product portfolio after the 1950s and was acquired by NestlÃ© in 1984 for $3 billion. Elbridge Amos Stuart (10 September 1856 in Guilford County, North Carolina â14 January 1944 in Los Angeles, California) was an American milk industrialist and creator of Carnation evaporated milk and its famous slogan, that it came from Contented Cows.
+subject_label:			2
+query_id:			1085457

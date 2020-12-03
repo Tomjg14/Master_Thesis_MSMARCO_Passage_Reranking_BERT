@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7267814
+query:			where is mathura
+passage:			Passage: Mathura Tourism . Famous as the birthplace of much loved Lord Krishna, Mathura is a city located on the banks of river Yamuna in the state of Uttar Pradesh and draws flocks of Hindu tourists every year looking to visit the numerous temples in the city.
+subject_label:			5
+query_id:			998591

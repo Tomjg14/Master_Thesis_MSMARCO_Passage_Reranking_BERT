@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8019852
+query:			what is a malanga
+passage:			Passage: Taro. Taro (Colocasia esculenta) is also called Ãame or Malanga in Latin America, Kalo in Hawaii, Gabi in the Philippines and Inhame in Brazil. To confuse things more, those names all translate to âyamâ in English! Some taro are purple inside and some are white, but they all are brown and scaly and rough on the outside. Taro is used to make poi in Hawaii by pounding roasted taro with water until it becomes pudding-like. In many places it is boiled and mashed like you would potatoes. Taro chips, taro soup, taro bread. You can find taro ice cream and frozen yogurt, too.
+subject_label:			4
+query_id:			689885

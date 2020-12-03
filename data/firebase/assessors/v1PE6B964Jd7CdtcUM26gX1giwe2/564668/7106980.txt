@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7106980
+query:			what are sensitive periods for brain development
+passage:			Passage: Sensitive Periods for Development There are optimal times when certain areas of the brain are most ready to develop. Researchers refer to this time of readiness as a sensitive period in development. Sensitive periods open a window of opportunity where experiences have a greater impact on certain areas of brain development. During sensitive periods, the brain is most likely to strengthen important connections and eliminate unneeded ones in a specific part of the brain. Growth in that area is still possible after the sensitive period, but it is not as easy or automatic.
+subject_label:			4
+query_id:			564668

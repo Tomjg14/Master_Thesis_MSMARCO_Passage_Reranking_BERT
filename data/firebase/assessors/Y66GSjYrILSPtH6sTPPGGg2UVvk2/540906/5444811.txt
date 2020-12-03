@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5444811
+query:			was the great wall of china breached
+passage:			Passage: About The Great Wall of China; Where is the great wall of china located? History of the Great Wall of China ; The Wall from space ? How long is the Great Wall of China? Construction of the Wall; Why was it build? How was it defended? How long did it take to build the great wall of China ; How tall is the Great Wall of China; Infographic ; Famous people; Pictures
+subject_label:			1
+query_id:			540906

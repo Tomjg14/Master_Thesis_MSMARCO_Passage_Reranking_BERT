@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4440152
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Weather in Tucson in June 2017. Check the weather in Tucson in June before you book your next holiday in Arizona. Long-term weather averages give the best indication of the weather in June 2017 and includes figure for temperature, sunshine and rainfall for Tucson, Arizona, United States.
+subject_label:			1
+query_id:			933236

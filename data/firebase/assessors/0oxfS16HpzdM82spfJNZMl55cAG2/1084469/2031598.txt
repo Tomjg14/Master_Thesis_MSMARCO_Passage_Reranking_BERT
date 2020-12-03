@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2031598
+query:			what does a grassroots organization mean
+passage:			Passage: What this means is that, ultimately, the grassroots is an ATTITUDE. It is an attitude of freedom, of creativity, of unrestrained political enthusiasm, of willingness to band together with ordinary citizens for a common purpose.ack to Activism page. How the grassroots works Any political strategy that depends on broad grassroots support for its success needs to be based on a sound understanding of how the grassroots works.
+subject_label:			3
+query_id:			1084469

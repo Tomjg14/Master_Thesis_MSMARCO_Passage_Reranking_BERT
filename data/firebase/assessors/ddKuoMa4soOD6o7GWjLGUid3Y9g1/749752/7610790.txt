@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7610790
+query:			what is gabba
+passage:			Passage: Over the years, The Gabba has hosted athletics, Australian rules football, baseball, concerts, cricket, cycling, rugby league, rugby union, soccer and pony and greyhound races.etween 1993 and 2005, The Gabba was redeveloped in six stages at a cost of A$128,000,000. The dimensions of the playing field are now 170.6 metres (east-west) by 149.9 metres (north-south) to accommodate the playing of Australian Football at elite level.
+subject_label:			4
+query_id:			749752

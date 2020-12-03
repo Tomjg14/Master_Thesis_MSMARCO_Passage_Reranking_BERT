@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6036779
+query:			where was the mediterranean gecko introduced
+passage:			Passage: Prey: Geckos eat a wide variety of insects, spiders, and other invertebrates. Reproduction: Female Mediterranean geckos lay several clutches of two eggs throughout the summer. Instances of communal nesting have been reported, with several females laying their eggs together under bark, in crevices, or in moist soil.
+subject_label:			2
+query_id:			1003875

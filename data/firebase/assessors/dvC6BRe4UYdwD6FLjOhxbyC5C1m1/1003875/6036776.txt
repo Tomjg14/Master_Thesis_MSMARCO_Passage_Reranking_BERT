@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6036776
+query:			where was the mediterranean gecko introduced
+passage:			Passage: In Texas there are two species of introduced house geckos, the Mediterranean house gecko, Hemidactylus turcicus, and the common house gecko, Hemidactylus frenatus. House geckos are common in suburban and urban areas. Both house gecko species have bulging, lidless eyes with vertical pupils and sticky toe pads.
+subject_label:			3
+query_id:			1003875

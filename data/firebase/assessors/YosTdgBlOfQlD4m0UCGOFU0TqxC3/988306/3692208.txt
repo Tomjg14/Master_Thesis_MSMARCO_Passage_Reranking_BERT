@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3692208
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: No. She is a descendent of the founder of the hotel chain, Conrad Hilton, who started his first hotel in 1919. The chain is now owned by Hilton Hotels Corporation, which is a subsidiary of The Blackstone Group LP. Paris's parents do not own the hotel chain, or any stock, since Blackstone bought out Hilton Hotels Corp.
+subject_label:			5
+query_id:			988306

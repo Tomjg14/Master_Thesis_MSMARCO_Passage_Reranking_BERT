@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8684795
+query:			what county is stacy minnesota
+passage:			Passage: Ramsey, Minnesota. This article is about the city in Anoka County. For the unincorporated community in southern Minnesota named Ramsey, see Ramsey, Mower County, Minnesota. For the county, see Ramsey County, Minnesota.
+subject_label:			1
+query_id:			1085279

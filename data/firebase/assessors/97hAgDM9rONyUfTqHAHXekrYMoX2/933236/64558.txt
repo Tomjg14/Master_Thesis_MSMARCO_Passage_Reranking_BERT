@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			64558
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: In 1862, the California Column drove the Confederate forces out of Arizona. Tucson and all of what is now Arizona were part of New Mexico Territory until 1863, when they became part of the new Arizona Territory. From 1867 to 1877, Tucson was the capital of the Arizona Territory. Tucson was incorporated in 1877, making it the oldest incorporated city in Arizona.
+subject_label:			1
+query_id:			933236

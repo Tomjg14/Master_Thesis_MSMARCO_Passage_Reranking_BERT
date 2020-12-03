@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4651585
+query:			what does fdg mean
+passage:			Passage: After 18 F-FDG is injected into a patient, a PET scanner can form two-dimensional or three-dimensional images of the distribution of 18 F-FDG within the body. Since its development in 1976, 18 F-FDG had a profound influence on research in the neurosciences.lthough in theory all 18 F-FDG is metabolized as above with a radioactivity elimination half-life of 110 minutes (the same as that of fluorine-18), clinical studies have shown that the radioactivity of 18 F-FDG partitions into two major fractions.
+subject_label:			2
+query_id:			637459

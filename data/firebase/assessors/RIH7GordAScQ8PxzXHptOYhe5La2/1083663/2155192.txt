@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2155192
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: What is the Sybolisom of wearing your heart on your sleeve? Answer . 'Wearing your heart on your sleeves' means instead of keeping a secret heart (loving one or others without communication) the person shows and communicates verball â¦ y to those around them how much they love and respect others thus, 'wearing your heart on your sleeve.'
+subject_label:			5
+query_id:			1083663

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7694870
+query:			rigorous testing definition
+passage:			Passage: What is Scientific Rigor in Qualitative Research â a definition. Standards of rigor, and how to enhance them in the social sciences. First and foremost, it is necessary to avoid confusing research rigor with concepts such as measurement precision, quantification, and generalizability.
+subject_label:			1
+query_id:			489257

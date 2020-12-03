@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7785283
+query:			when was jim vance funeral
+passage:			Passage: James (Jim) Vance, 66. James (Jim) Vance was born April 7, 1947 in Mexico City, Mexico, son of Helen K. Vance and the late C. Reed Vance. Jim died at Inova Alexandria Hospital on July 11, 2013. He was 66. Jim's family moved to Sierra Vista, Arizona, where he graduated from Buena High School in 1966.
+subject_label:			1
+query_id:			958311

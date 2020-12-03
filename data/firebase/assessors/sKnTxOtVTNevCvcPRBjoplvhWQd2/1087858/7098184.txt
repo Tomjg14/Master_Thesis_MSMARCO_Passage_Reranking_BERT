@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7098184
+query:			what airport is in wilder ky
+passage:			Passage: Wilder Airport. Find Wilder Kentucky airports, local, private and regional and international airports. Airports provide information about flights, departures, arrivals, times, airport delays, international airlines, and airport codes.
+subject_label:			4
+query_id:			1087858

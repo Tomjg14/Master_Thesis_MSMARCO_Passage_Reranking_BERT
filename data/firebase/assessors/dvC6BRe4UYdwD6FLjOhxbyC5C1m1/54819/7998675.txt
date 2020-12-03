@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7998675
+query:			blue sky charge controller price
+passage:			Passage: Blue Sky Energy Solar Boost SB2000E Charge Controller. Price:$229.68 This 25-amp solar charge controller is for 12-volt systems. It mounts in a 5-11/16 x 3-15/16 cut-out and is wired from the rear. This controls very ...
+subject_label:			4
+query_id:			54819

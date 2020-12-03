@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6250561
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: The common symptoms of heat rash are red bumps on the skin, and an itchy or prickly feeling to the skin. These are due to inflammation of the superficial layers of the skin (the epidermis) and the prickly sensation is similar to the feeling of mild sunburn.he common symptoms of heat rash are red bumps on the skin, and an itchy or prickly feeling to the skin. These are due to inflammation of the superficial layers of the skin (the epidermis) and the prickly sensation is similar to the feeling of mild sunburn.
+subject_label:			3
+query_id:			1086248

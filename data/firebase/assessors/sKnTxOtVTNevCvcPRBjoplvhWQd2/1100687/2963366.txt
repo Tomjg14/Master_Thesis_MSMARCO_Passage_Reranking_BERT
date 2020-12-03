@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2963366
+query:			apartment cost in phoenix az
+passage:			Passage: Phoenix Average Rent. As of August 2015, average apartment rent within 10 miles of Phoenix, AZ is $1074. One bedroom apartments in Phoenix rent for $878 a month on average and two bedroom apartment rents average $1116.See our listings of Phoenix Apartments.he average apartment rent over the prior 6 months in Phoenix has increased by $78 (7.8%). One bedroom units have increased by $84 (10.6%) and two bedroom apartments have increased by $60 (5.7%).
+subject_label:			5
+query_id:			1100687

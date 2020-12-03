@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8616535
+query:			what are stand up paddle boards made of
+passage:			Passage: One variety of stand-up surfing is paddle boarding. Another prominent form of surfing is body boarding, when a surfer rides a wave on a bodyboard, either lying on their belly, drop knee, or sometimes even standing up on a body board.tandup surfing begins when the surfer paddles toward shore in an attempt to match the speed of the wave (The same applies whether the surfer is standup paddling, bodysurfing, boogie-boarding or using some other type of watercraft, such as a waveski or kayak.).
+subject_label:			1
+query_id:			566174

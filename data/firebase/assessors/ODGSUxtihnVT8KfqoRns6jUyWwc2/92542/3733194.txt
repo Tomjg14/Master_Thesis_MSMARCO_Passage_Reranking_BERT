@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3733194
+query:			circulation money definition
+passage:			Passage: Legal Definition of finance. 1 1 pl : money or other liquid resources of a government, business, group, or individual. 2 2 : the system that includes the circulation of money, the granting of credit, the making of investments, and the provision of banking facilities. 3 3 : the science or study of the management of funds.
+subject_label:			4
+query_id:			92542

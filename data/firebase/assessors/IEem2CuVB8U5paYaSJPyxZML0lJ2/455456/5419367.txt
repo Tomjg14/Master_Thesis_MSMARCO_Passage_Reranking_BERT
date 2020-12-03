@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5419367
+query:			molar mass of phenol
+passage:			Passage: Phenol formaldehyde resins (PF) are synthetic polymers obtained by the reaction of phenol or substituted phenol with formaldehyde.ovolacs are phenol-formaldehyde resins with a formaldehyde to phenol molar ratio of less than one. The polymerization is brought to completion using acid-catalysis such as oxalic acid, hydrochloric acid or sulfonate acids.
+subject_label:			5
+query_id:			455456

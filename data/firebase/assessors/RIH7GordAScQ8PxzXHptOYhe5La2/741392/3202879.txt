@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3202879
+query:			what is drop in baseball bat selection
+passage:			Passage: With over 7,000 bats in stock, our selection of softball equipment and baseball equipment includes everything! We have baseball bats and softball bats, whether it be fast pitch or slow pitch, adult or youth. We stock batting gloves, baseball gloves and softball gloves, equipment bags, protective equipment, catcher's sets, softballs and baseballs. We also carry cleats and trainers, apparel, and tons of accessories.
+subject_label:			1
+query_id:			741392

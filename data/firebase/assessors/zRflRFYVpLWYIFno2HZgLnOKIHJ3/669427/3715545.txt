@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3715545
+query:			what hormone secretion causes goiter
+passage:			Passage: Diffuse toxic goiter (medical condition): Hyperthyroidism refers to excess secretion of thyroid hormones by the thyroid gland.It is also called ... more.Diffuse toxic goiter: See also: Hyperthyroidism : Â» Introduction: Hyperthyroidism.escription of Diffuse toxic goiter. Diffuse toxic goiter (medical condition): Hyperthyroidism refers to excess secretion of thyroid hormones by the thyroid gland. It is also called ...
+subject_label:			3
+query_id:			669427

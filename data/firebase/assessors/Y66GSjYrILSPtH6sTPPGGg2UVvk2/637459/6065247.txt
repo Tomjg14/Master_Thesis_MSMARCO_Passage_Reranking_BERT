@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6065247
+query:			what does fdg mean
+passage:			Passage: However, the scans are not very specific. This means that it frequently will detect things that are not cancer. A recent infection or injury may show up on PET. This means that when a PET Scan does not show uptake (meaning it is not hot) there is unlikely to be cancer. However, when a PET Scan detects uptake of the FDG tracer, it means that it might be cancer, but is not definite. Like most new technologies, PET Scans are very expensive, often costing thousands of dollars.
+subject_label:			2
+query_id:			637459

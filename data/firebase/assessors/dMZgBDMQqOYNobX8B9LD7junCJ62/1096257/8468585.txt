@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8468585
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Software Engineer make?The average $112,394 salary is . Filter by location to see Senior Software Engineer salaries in your area. Salary estimates are based on Senior Software Engineer salaries submitted anonymously to Glassdoor by employees.
+subject_label:			no_input
+query_id:			1096257

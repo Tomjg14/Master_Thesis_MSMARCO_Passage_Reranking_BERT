@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7731942
+query:			where is berrimah
+passage:			Passage: Berrimah. 1 Large format wall tiles and a heavily distressed finish are the key characteristics of the Berrimah traditional format walling range. Beautiful natural colour variation is present through the pieces and the distressed finish perfectly highlights the natural beauty of the stone.
+subject_label:			1
+query_id:			978057

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4745919
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Now back on that date of June 29th, 1913, Tucson was hot but not the hottest we have ever been. The hottest temperature for Tucson was 117Â° on June 26th, 1990. Phoenix on that date saw 117Â° while Douglas was much cooler. Monsoon moisture probably moved in and kept the southern corner of Arizona cooler with clouds as Douglas was only 106Â° (still hot).
+subject_label:			2
+query_id:			933236

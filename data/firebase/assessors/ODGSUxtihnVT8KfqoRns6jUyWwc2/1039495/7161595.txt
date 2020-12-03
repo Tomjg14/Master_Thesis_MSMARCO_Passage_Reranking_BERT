@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7161595
+query:			who is the boss of google?
+passage:			Passage: The term straw boss comes from the Industrial. revolution times and refers to someone who was an assistant to the head boss, but ordered workers about as if he was the top person in charge. Another idea is that a straw boss was a mill worker who supervised the workers who took the straw out of the thresher. It can be used in a negative way to refer to a mean, arrogant boss. Vote for this answer. A straw boss vs. a straw stuffed figure -- No real power of his own, but set up to look impressive.
+subject_label:			1
+query_id:			1039495

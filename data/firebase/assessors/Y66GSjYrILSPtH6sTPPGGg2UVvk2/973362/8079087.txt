@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8079087
+query:			where does lice come from
+passage:			Passage: What does the expression âto beat the Dutchâ mean and Where does it come from? What does the phrase âcock of the walkâ mean and Where does it come from? Who Discovered that Earthquakes occur along Fault Lines and Where do Earthquakes come from? How Many Possible Moves Are There In a Game of Chess?
+subject_label:			1
+query_id:			973362

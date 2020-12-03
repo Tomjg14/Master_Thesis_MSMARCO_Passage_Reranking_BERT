@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5433465
+query:			what is the plural of kohlrabies
+passage:			Passage: Kohlrabi is, in my opinion, one of the finest delicacies in the garden, worthy of planting two or three times each season. In the garden, kohlrabi sports a trim, upright growing habit that accommodates the presence of nearby plants â something the bigger brassicas cannot do. Growing kohlrabi and beets together works well because the two crops grow on a similar schedule and have similar moisture needs.
+subject_label:			2
+query_id:			839488

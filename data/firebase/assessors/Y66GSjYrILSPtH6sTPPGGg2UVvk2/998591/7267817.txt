@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7267817
+query:			where is mathura
+passage:			Passage: Mathura is a city found in Uttar Pradesh, India. It is located 27.5 latitude and 77.68 longitude and it is situated at 191 meters above sea level
+subject_label:			5
+query_id:			998591

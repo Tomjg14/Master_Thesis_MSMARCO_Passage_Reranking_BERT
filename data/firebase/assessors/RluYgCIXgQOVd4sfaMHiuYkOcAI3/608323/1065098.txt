@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1065098
+query:			what county is laneview va located in
+passage:			Passage: What county is Norfolk, Va. A: Norfolk, Va. is not located in a county. Norfolk is an independent city; its city government is run by a city manager and a city council elected to represent the city's districts, rather than by a county government. Continue Reading. Credit: Matt Davis CC-BY-SA 2.0.
+subject_label:			1
+query_id:			608323

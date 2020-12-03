@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4118542
+query:			where is ridgewood ny located
+passage:			Passage: This beautiful 3 bedroom, 2 bath home sits on a half acre corner lot in Ridgewood subdivision, a great location in the city limits above McGregor.
+subject_label:			2
+query_id:			991590

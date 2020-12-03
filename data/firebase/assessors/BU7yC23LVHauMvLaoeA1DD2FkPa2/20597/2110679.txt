@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2110679
+query:			architectural design
+passage:			Passage: Category: Competitions. TRENDS Excellence Awards for Architecture & Design 2015. TRENDS Excellence Awards for Architecture & Design 2015 is Indiaâs premier design competition for professionals, brought to you by Home & Design TRENDS magazine (India). Categories are spread over architecture, interior design, product design and visual design.
+subject_label:			2
+query_id:			20597

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2358103
+query:			what airport is in wilder ky
+passage:			Passage: Major cities near Larue County, KY. This is a list of large cities closest to Larue County, KY. A big city usually has a population of at least 200,000 and you can often fly into a major airport. If you need to book a flight, search for the nearest airport to Larue County, KY.1 50 miles to Louisville, KY.2 77 miles to Lexington-Fayette, KY.his is a list of large cities closest to Larue County, KY. A big city usually has a population of at least 200,000 and you can often fly into a major airport. If you need to book a flight, search for the nearest airport to Larue County, KY. 1 50 miles to Louisville, KY. 2 77 miles to Lexington-Fayette, KY.
+subject_label:			1
+query_id:			1087858

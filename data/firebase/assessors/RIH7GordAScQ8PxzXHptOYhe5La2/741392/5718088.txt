@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5718088
+query:			what is drop in baseball bat selection
+passage:			Passage: Both sports use bats, but a softball bat and a baseball bat are two completely different pieces of equipment. Neither softball nor baseball bats generally exceed 34 inches in length (baseball bats have a maximum length of 42 inches, though this is a rarity), but their weight differences are vastly different. In both sports, the difference between the length and weight is referred to as to the drop.
+subject_label:			2
+query_id:			741392

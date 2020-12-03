@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4964200
+query:			architectural design
+passage:			Passage: Often, architectural designers who have not registered as architects are referred to as architectural draftspersons or designers as this term is not protected by statute in most countries. However, in many countries around the world, the term architectural designer and the derivatives of architecture are legally reserved for registered architects.
+subject_label:			3
+query_id:			20597

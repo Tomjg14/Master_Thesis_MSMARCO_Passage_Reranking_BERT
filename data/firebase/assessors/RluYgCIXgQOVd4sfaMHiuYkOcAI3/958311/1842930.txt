@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1842930
+query:			when was jim vance funeral
+passage:			Passage: In an effort to end the commotion once and for all, a group of the Hatfields and their supporters hatched a plan to attack Randolph McCoy and his family. Led by Devil Anseâs son Cap and ally Jim Vance, a group of Hatfield men ambushed the McCoysâ home on New Yearâs Day in 1888.
+subject_label:			1
+query_id:			958311

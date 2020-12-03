@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7971655
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Rating Newest Oldest. Best Answer: the main differences between paella and jambalaya are (1) the cooking pot: a paella is a wide, shallow, flat-bottomed pan whilst jambalaya is traditionally cooked in a deep cast-iron pot; (2) the rice: the Spanish use a round rice such as Valencia or Calasparra, which absorb more liquid without disintegrating.
+subject_label:			5
+query_id:			931726

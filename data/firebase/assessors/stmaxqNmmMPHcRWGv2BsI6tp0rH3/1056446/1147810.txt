@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1147810
+query:			what is dockpanel used for
+passage:			Passage: what is: acetic acid, used for; and ... 57. what is: tagamet, used for; and what is ... 58. what is: zantac, used for; and what is ... 59. what is: pepcid, used for; and what is ... 60. what is: bi-citra, used for; and what ...
+subject_label:			1
+query_id:			1056446

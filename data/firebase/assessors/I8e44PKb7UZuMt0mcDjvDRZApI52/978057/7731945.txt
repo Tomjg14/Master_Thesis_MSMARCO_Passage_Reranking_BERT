@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7731945
+query:			where is berrimah
+passage:			Passage: Located within Berrimah are the Summer Institute of Linguistics, Kormilda College, Berrimah Power Station, CSIRO Wildlife Research Laboratory, Berrimah Research Farm Centre, Darwin Prison, Don Dale Juvenile Detention Centre, the Showground and Exhibition Centre. Berrimah is a predominantly industrial area.
+subject_label:			2
+query_id:			978057

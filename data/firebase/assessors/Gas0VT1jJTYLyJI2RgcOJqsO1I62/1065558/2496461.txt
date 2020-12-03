@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2496461
+query:			what is a variable account in a annuity
+passage:			Passage: Benefits of High Interest Annuities. Annuities designated as âhigh interestâ are typically variable annuities, yielding rates upwards of 14%. Long-term fixed annuities can also be high-interest, especially in relation to CDs and money market accounts.
+subject_label:			3
+query_id:			1065558

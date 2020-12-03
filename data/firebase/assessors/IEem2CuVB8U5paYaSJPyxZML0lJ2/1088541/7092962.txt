@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7092962
+query:			weather in fletcher,nc
+passage:			Passage: Hourly Forecast Detailed. 1 0am:The Fletcher, NC forecast for Aug 14 is 68 degrees and Fog. 2 3am:The Fletcher, NC forecast for Aug 14 is 66 degrees and Fog. 3 6am:The Fletcher, NC forecast for Aug 14 is 67 degrees and Light rain shower. 4 9am:The Fletcher, NC forecast for Aug 14 is 72 degrees and Cloudy.
+subject_label:			5
+query_id:			1088541

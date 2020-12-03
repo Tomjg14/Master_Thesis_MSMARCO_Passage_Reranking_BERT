@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1248722
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: But proving that one was under duress is another problem entirely. In evaluating the status of a contract, of course, one cannot simply render it null and void by claiming that it was signed under duress. It has to be proven that the contract was signed under duress. How is this done? As is the case across U.S. law, there are a number of ways to prove that something occurred. One is eyewitness testimony, which would go a long way in showing that you were indeed under duress when signing a contract.
+subject_label:			3
+query_id:			641156

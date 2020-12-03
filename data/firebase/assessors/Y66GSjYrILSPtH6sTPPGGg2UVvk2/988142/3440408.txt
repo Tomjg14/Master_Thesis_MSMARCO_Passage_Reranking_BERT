@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3440408
+query:			who paul clark
+passage:			Passage: Guitar Workshop: Gibson Les Paul Standard 1959 Tom Murphy. Even the most fabulous and expensive guitar can use the touch of a skilled tech to get it set up and purring like it should. Steve Clarke takes a look at a used high-end Les Paul reissue to see how it stacks up.
+subject_label:			no_input
+query_id:			988142

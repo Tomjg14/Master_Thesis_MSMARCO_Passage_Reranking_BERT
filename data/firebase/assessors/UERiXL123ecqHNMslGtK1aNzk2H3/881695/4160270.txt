@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4160270
+query:			what network is pickles on cartoon
+passage:			Passage: What A Cartoon! (later known as The What A Cartoon! Show and The Cartoon Cartoon Show), is an American animation showcase series created for and aired on Cartoon Network by Fred Seibert, who which is produced by Hanna-Barbera; the already founded Cartoon Network Studios began to produce some of the shorts as its division.
+subject_label:			2
+query_id:			881695

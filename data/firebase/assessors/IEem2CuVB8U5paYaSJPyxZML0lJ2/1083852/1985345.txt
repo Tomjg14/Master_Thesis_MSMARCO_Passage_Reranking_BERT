@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1985345
+query:			what does extravert mean
+passage:			Passage: What does THOT mean? What does IANAL mean? What does MCM mean on Instagram? What does Ayy LMAO mean? What does WCW mean? What does TBT mean? What does OOTD mean? What does SMH mean? What does OOH KILL âEM mean? What does TLDR mean? TL;DR; Plural of Crisis; What does igers mean on Instagram? What does FOH mean on Instagram; What does FBF mean on Instagram? What does FML mean?
+subject_label:			1
+query_id:			1083852

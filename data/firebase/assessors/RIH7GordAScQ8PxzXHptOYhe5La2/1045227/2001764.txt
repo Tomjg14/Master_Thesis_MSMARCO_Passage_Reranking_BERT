@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2001764
+query:			what is termis
+passage:			Passage: As an illustration, the price for perfor-mance-graded PG64-28 asphalt binder on the East Coast market climbed from $180 per ton in April 2004 to $422 per ton in April 2008, according to the As-phalt Weekly Monitor produced by Po-ten Partners Inc. And this was the price at the termi-nal.
+subject_label:			1
+query_id:			1045227

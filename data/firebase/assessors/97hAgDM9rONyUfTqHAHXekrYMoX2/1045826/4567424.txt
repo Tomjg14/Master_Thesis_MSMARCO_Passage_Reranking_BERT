@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4567424
+query:			what is ssc je
+passage:			Passage: Scleroderma is a group of conditions affecting approximately 300,000 people in the United States. When scleroderma only affects the skin, it is considered localized.. However, if it affects the skin and internal organs, it is viewed as systemic, also called Systemic Sclerosis (SSc). SSc affects approximately 100,000 people, or about one third of patients with scleroderma in the United States; this article will focus primarily on SSc. What is Systemic Sclerosis (SSc)? There are two main subtypes of SSc â limited and diffuse â which are defined according to the pattern of skin involvement.
+subject_label:			1
+query_id:			1045826

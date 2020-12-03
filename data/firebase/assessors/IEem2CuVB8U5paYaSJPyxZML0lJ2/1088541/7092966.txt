@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7092966
+query:			weather in fletcher,nc
+passage:			Passage: Fletcher Weather Forecast for Sunday, February 11 Countries/United States/ North Carolina/ Fletcher The Fletcher, NC forecast for Feb 11 is 58 degrees and Overcast .
+subject_label:			5
+query_id:			1088541

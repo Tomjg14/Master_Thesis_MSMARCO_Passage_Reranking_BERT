@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6837745
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: PIcture of DNA. At the laboratory of British scientist Maurice Wilkins, Rosalind Franklin was able to create an image of DNA molecules using x-ray diffraction. In the process, x rays bombard the DNA molecule. When the x ray hits the particle within the molecule, the ray bounces off the particle. DNA is a spiral shape.
+subject_label:			5
+query_id:			1006199

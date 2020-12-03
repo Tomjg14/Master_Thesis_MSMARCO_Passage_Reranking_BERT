@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7506060
+query:			what is a hydromyelia
+passage:			Passage: What is Hydromyelia? Hydromyelia refers to an abnormal widening of the central canal of the spinal cord that creates a cavity in which cerebrospinal fluid (commonly known as spinal fluid) can accumulate. As spinal fluid builds up, it may put abnormal pressure on the spinal cord and damage nerve cells and their connections.
+subject_label:			5
+query_id:			687375

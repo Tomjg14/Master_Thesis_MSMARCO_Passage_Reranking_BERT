@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2804173
+query:			carnation® evaporated milk total calories
+passage:			Passage: Carnation is a brand of food products. The brand was especially known for its evaporated milk product created in 1899, then called Carnation Sterilized Cream[1] and later called Carnation Evaporated Milk.
+subject_label:			2
+query_id:			1085457

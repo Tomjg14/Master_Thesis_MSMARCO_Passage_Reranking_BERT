@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5874830
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: 11 Home Remedies for Heat Rash. Heat rash, or prickly heat, is an itchy rash that is defined by the red spots that it causes on the skin. People with heat rash will feel constantly itchy and a stinging sensation on the skin will be quite persistent. This kind of rash will occur usually when somebody sweats more than they would usually, which is itself caused by heat.
+subject_label:			4
+query_id:			1086248

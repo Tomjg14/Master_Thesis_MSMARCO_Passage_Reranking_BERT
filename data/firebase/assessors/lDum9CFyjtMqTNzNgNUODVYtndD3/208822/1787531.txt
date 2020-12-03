@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1787531
+query:			how big is a micron
+passage:			Passage: One nanometer of length converted to micron equals to 0.0010 Âµ. How many microns of length are in 1 nanometer? The answer is: The change of 1 nm (nanometer) unit of length measure equals = to 0.0010 Âµ (micron) as the equivalent measure for the same length type.
+subject_label:			4
+query_id:			208822

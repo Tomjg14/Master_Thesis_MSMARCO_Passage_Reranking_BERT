@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3862295
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: The stomach is a muscular, hollow, dilated part of the digestive system which functions as an important organ of the digestive tract in many animals, including vertebrates, echinoderms, insects (mid-gut), and molluscs.he stomach is surrounded by parasympathetic (stimulant) and orthosympathetic (inhibitor) plexuses (networks of blood vessels and nerves in the anterior gastric, posterior, superior and inferior, celiac and myenteric), which regulate both the secretions activity and the motor (motion) activity of its muscles.
+subject_label:			1
+query_id:			993987

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			396946
+query:			definition, nepotism
+passage:			Passage: nepotism definition, meaning, what is nepotism: the act of using your power or influence to get good jobs or unfair advantages forâ¦. Learn more.
+subject_label:			4
+query_id:			1101714

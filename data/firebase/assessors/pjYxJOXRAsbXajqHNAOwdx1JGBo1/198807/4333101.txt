@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4333101
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: During the 2007 regular season, the Patriots became the only NFL team in history to win 16 games, and the first since the 1972 Miami Dolphins (in a 14-game season) to complete the regular campaign undefeated.
+subject_label:			5
+query_id:			198807

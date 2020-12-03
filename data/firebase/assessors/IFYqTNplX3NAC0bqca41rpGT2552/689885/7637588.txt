@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637588
+query:			what is a malanga
+passage:			Passage: There is some confusion about malanga and taro, and some people say they are the same thing. They aren't. While they are in the same family (Araceae), Malanga belongs to the genus Xanthosoma and taro belongs to the genus Colocasia. They are related, but definitely not the same thing.
+subject_label:			3
+query_id:			689885

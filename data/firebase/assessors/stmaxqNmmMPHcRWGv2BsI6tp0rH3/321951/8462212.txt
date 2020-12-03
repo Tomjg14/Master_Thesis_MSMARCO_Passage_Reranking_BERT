@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8462212
+query:			how much is donald trump jr worth
+passage:			Passage: How Much Is Donald Trump Worth? - Duration: 2:50. Wall Street Journal 144,780 views
+subject_label:			1
+query_id:			321951

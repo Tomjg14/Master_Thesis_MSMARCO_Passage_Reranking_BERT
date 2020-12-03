@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6958226
+query:			what does extravert mean
+passage:			Passage: What does de mean? What does derecho mean? What does esta mean? What does Juez mean? What does poder mean? What does por favor mean? What does puede mean? What does que mean? What does ser mean? What does su mean What does tener mean? What does tiene mean? What does un mean? What does usted mean? workers compensation
+subject_label:			1
+query_id:			1083852

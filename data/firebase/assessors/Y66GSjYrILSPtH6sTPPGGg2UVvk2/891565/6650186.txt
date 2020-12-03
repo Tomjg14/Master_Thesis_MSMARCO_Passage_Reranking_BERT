@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6650186
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: This article is about the section of U.S. Route 50 in California. For the entire route, see U.S. Route 50. In the U.S. state of California, U.S. Route 50 (US 50) runs east from I-80 in West Sacramento to the Nevada state line in South Lake Tahoe.Portions within Sacramento are known as the Capital City Freeway and El Dorado Freeway.ust east of Exit 60, US 50 continues as an undivided conventional highway with one eastbound lane and two westbound lanes, entering the river canyon of the South Fork American River near Riverton and crossing to the north side of the river near Ice House Road.
+subject_label:			1
+query_id:			891565

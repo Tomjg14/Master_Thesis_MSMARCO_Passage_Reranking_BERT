@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			458479
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: All major rock salt deposits originated from the evaporation of seawater at some time during the geologic past. Approximately 78 percent of the mineral matter in normal seawater is sodium chloride. Upon evaporation of about nine-tenths of the volume of seawater, rock salt is precipitated. Calcium sulfate (gypsum and anhydrite) and potassium and magnesium salts also are precipitated.
+subject_label:			3
+query_id:			1007473

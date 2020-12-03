@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2340460
+query:			how many calories in provolone cheese
+passage:			Passage: 1 If you are buying a pre-packaged unit of provolone cheese that is sliced or shredded, it will usually cost between $3 and $5 for an eight-ounce package of provolone cheese.2 This depends on how many ounces the package is as well as the brand. In one serving of provolone cheese, which is generally 1 ounce, there is about 100 calories and around 7 grams of fat. 2 The best part of provolone cheese is that it is a good source of protein, containing about 7 grams of protein per slice.
+subject_label:			3
+query_id:			1097449

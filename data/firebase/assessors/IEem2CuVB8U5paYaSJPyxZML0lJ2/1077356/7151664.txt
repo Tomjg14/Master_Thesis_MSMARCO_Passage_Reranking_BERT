@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7151664
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Meditation is an effective complementary therapy in treating cervical dystonia or spasmodic torticollis naturally. Craniosacral Therapy for Cervical Dystonia or Spasmodic Torticollis This is one hands on therapy tested on cervical dystonia or spasmodic torticollispatients for quicker posture correction.
+subject_label:			4
+query_id:			1077356

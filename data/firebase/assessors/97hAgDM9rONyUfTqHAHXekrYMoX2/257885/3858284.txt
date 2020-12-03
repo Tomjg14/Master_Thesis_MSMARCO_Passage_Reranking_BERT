@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3858284
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: For every $3 earned above $37,680 during the months preceding the one in which the person reaches his full retirement age, the SSA reduces his benefits by $1. After Full Retirement Age. As of 2011, the SSA does not reduce retirement benefits to people continuing to work beyond their full retirement age, regardless of their earned income levels. Trial Work Period During a person's trial work period, the SSA continues to pay full disability benefits to a person attempting to re-enter the workforce, regardless of how much the recipient earns.
+subject_label:			1
+query_id:			257885

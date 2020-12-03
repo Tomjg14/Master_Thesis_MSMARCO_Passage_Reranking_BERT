@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7078841
+query:			temperature diode
+passage:			Passage: Most diodes therefore have a negative temperature coefficient, typically â2 mV/ËC for silicon diodes. The temperature coefficient is approximately constant for temperatures above about 20 kelvins. Some graphs are given for 1N400x series, and CY7 cryogenic temperature sensor. Current steering
+subject_label:			4
+query_id:			1090054

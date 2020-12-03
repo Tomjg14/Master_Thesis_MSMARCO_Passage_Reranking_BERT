@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2570155
+query:			what is drop in baseball bat selection
+passage:			Passage: Transcript of Hitting Power of Wood vs. Aluminum Baseball Bats. What is the effect of a baseball bat material, wood vs. aluminum, on the hitting distance of a baseball? If an aluminum baseball bat instead of a wood baseball bat is used to hit a baseball, then the baseball will travel a farther distance. How the test will be done: 1. I will hit two rounds of twelve baseballs off of a hitting tee with each of the four bats.
+subject_label:			2
+query_id:			741392

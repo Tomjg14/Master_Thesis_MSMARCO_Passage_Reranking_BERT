@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3200927
+query:			where is ridgewood ny located
+passage:			Passage: Carloâs Bakery is currently open in Hoboken, Marlton, Morristown, Red Bank, Ridgewood, Wayne, and Westfield, NJ; Las Vegas, NV; Dallas, Frisco, and The Woodlands, TX; Uncasville, CT; Orlando, FL; Bethlehem, and Philadelphia, PA; New York, and Westbury, NY; and, SÃ£o Paulo, Brazil.
+subject_label:			1
+query_id:			991590

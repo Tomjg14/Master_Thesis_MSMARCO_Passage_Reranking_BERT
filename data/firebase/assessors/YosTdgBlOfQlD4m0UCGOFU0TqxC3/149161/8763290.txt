@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8763290
+query:			difference between watt and hertz
+passage:			Passage: Kva to kw, how convert watts va and kva kw simplified what is the difference between kw? Difference vs. Generator faq frequently asked questions about generators kva not the same as kw difference between and. Rms volts time rms amps) and watts is called the power factor pf. In other words, volt amps x power factor watts.
+subject_label:			3
+query_id:			149161

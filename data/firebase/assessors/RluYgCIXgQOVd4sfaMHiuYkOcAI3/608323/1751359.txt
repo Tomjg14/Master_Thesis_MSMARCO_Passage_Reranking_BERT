@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1751359
+query:			what county is laneview va located in
+passage:			Passage: What is the County Seat of Lunenburg County, VA? The County Seat is located in Lunenburg also, the county government website is lunenburgva.org/ . What counties are adjacent to Lunenburg County, VA? Bordering Counties are Prince Edward County, Nottoway County, Brunswick County, Mecklenburg County, Charlotte County.
+subject_label:			1
+query_id:			608323

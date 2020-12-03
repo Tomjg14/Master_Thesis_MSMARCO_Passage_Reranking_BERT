@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187830
+query:			what is pivx
+passage:			Passage: PIVX INTRODUCTION. PIVX is a multifaceted community-centric endeavor in the blockchain tech and cryptocurrency realms. What we mean by that is this: There are many components of what and who PIVX is and why PIVX was manifested.
+subject_label:			5
+query_id:			1048282

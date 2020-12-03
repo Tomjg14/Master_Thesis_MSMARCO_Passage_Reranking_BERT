@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3104860
+query:			linking verb synonym
+passage:			Passage: Synonyms: afraid, alarmed, frightened, terrified More Synonyms of scared. 2. adjective [usually verb-link ADJECTIVE , oft ADJECTIVE that] If you are scared that something unpleasant might happen, you are nervous and worried because you think that it might happen. I was scared that I might be sick. He was scared of letting us down.
+subject_label:			2
+query_id:			440362

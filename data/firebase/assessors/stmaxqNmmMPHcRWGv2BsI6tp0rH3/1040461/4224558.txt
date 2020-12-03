@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4224558
+query:			who is the grinning man
+passage:			Passage: Watch Now. Walt Longmire is the dedicated and unflappable sheriff of Absaroka County, Wyoming. Widowed only a year, he is a man in psychic repair but buries his pain behind his brave face, unassuming grin and dry wit.
+subject_label:			1
+query_id:			1040461

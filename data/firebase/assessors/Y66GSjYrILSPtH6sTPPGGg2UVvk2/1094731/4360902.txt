@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4360902
+query:			hydrocodone price per pill
+passage:			Passage: How Hydrocodone Is Used. Hydrocodone is combined with acetaminophen (the active ingredient in Tylenol) or ibuprofen in brand names such as Vicodin, Norco and Lortab. The Food and Drug Administration has also approved a pure hydrocodone product known as Zohydro. Those abusing hydrocodone may crush up their pills and snort or inject the contents.
+subject_label:			1
+query_id:			1094731

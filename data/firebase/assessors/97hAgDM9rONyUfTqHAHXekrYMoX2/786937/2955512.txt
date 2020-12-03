@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2955512
+query:			what is process improvement (lean six sigma)
+passage:			Passage: 1 What Are the Benefits of Lean Six Sigma? What Are the Benefits of Lean Six Sigma? Lean Six Sigma brings together two management philosophies: Six Sigma, which aims to continuously improve production to eliminate error, and lean manufacturing, which aims to cut wasted use of resources.
+subject_label:			5
+query_id:			786937

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3116558
+query:			is thread.sleep implicit wait
+passage:			Passage: Added Options#getTimeouts() for retrieving the currently configured session timeouts (i.e. implicit wait). This method will only work with W3C compatible WebDriver implementations. Deprecated the Timeouts class in favor of Options#setTimeouts(), which supports setting multiple timeouts at once.
+subject_label:			1
+query_id:			1093866

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3554032
+query:			what is gabba
+passage:			Passage: The world premiere live concert tour of Yo Gabba Gabba! took place in Australia in May 2009. DJ Lance Rock, Muno, Foofa, Brobee, Toodee and Plex performed in Wollongong, Melbourne, Brisbane and Sydney with an indie house-band and secret special guests at each show.
+subject_label:			1
+query_id:			749752

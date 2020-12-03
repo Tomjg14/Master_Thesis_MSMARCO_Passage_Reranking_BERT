@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7262618
+query:			where did captain james cook explore?
+passage:			Passage: Why did Captain James Cook explore? A: Captain James Cook set out on his first expedition to find the planet Venus, went about his second expedition to find the southern continent and went out o... Full Answer > Filed Under:
+subject_label:			2
+query_id:			1000678

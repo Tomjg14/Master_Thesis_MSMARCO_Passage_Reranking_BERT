@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7640858
+query:			definition, nepotism
+passage:			Passage: Anti-nepotism definition, patronage bestowed or favoritism shown on the basis of family relationship, as in business and politics: She was accused of nepotism when she made her nephew an officer of the firm. See more.
+subject_label:			4
+query_id:			1101714

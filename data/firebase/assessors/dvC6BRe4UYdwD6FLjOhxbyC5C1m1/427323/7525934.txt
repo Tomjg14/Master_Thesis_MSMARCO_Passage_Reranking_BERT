@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7525934
+query:			is the sec constitutional
+passage:			Passage: Sec. 1. FREEDOM AND SOVEREIGNTY OF STATE. Texas is a free and independent State, subject only to the Constitution of the United States, and the maintenance of our free institutions and the perpetuity of the Union depend upon the preservation of the right of local self-government, unimpaired to all the States. Sec.
+subject_label:			2
+query_id:			427323

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6874487
+query:			which situation does a company issue a note receivable
+passage:			Passage: There is no 1099 or W2 issued by the taxi company because they have never paid the driver anything. Edited based on your Additional Details: It sounds like your friend does indeed act as an independent contractor as I have described, however there seems to be a twist if he is receiving a check from the company.here is no 1099 or W2 issued by the taxi company because they have never paid the driver anything. Edited based on your Additional Details: It sounds like your friend does indeed act as an independent contractor as I have described, however there seems to be a twist if he is receiving a check from the company.
+subject_label:			1
+query_id:			993153

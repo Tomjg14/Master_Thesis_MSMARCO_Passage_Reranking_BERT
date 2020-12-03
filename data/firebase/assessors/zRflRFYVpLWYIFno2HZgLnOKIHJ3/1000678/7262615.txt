@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7262615
+query:			where did captain james cook explore?
+passage:			Passage: Where did James Cook go on his voyage? A: The English explorer Captain James Cook made three voyages between 1768 and 1779. On the first, he mapped New Zealand and the eastern coast of Australia. O... Full Answer >
+subject_label:			5
+query_id:			1000678

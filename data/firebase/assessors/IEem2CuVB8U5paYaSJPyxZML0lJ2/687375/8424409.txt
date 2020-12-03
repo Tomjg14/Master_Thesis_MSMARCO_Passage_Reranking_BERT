@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8424409
+query:			what is a hydromyelia
+passage:			Passage: Also known as syringomyelia and hydromyelia are commonly known as syrinx. Essentially, a syrinx is a fluid collection in the spinal cord. There are many causes of this such as hydrocephalus, Chiari Malformation, trauma, tethered spinal cord, tumor and a very large number without any clear cause, the so-called idiopathic.lso known as syringomyelia and hydromyelia are commonly known as syrinx. Essentially, a syrinx is a fluid collection in the spinal cord. There are many causes of this such as hydrocephalus, Chiari Malformation, trauma, tethered spinal cord, tumor and a very large number without any clear cause, the so-called idiopathic.
+subject_label:			5
+query_id:			687375

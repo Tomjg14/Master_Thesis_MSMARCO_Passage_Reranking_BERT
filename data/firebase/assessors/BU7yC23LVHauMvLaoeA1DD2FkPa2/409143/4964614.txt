@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4964614
+query:			is education a constitutional right
+passage:			Passage: The federal laws with the most impact on education concern equal access to education and safeguarding students' and teachers' constitutional rights. Education is not exactly a constitutional right, like free speech and assembly, but it is an important enough interest to warrant constitutional protection.
+subject_label:			4
+query_id:			409143

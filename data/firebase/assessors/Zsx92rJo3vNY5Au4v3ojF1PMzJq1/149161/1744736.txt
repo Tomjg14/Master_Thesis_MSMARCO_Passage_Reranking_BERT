@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1744736
+query:			difference between watt and hertz
+passage:			Passage: What is the difference between a watt and a watt-hour? Knowing the difference between a watt (W) and a watt-hour (Wh) helps you understand the impact of your home energy use on your electric bill. You can also compare your home energy use to the energy generated with your Enphase microinverter system.
+subject_label:			2
+query_id:			149161

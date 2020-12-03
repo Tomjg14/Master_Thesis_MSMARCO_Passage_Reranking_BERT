@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7410095
+query:			is education a constitutional right
+passage:			Passage: Introduction. Education rights are contained in section 29 of the South African Constitution. In terms of section 29 everyone has the right to a basic education, including adult basic education; [1] and to further education, which the state, through reasonable measures, must make progressively available and accessible.
+subject_label:			5
+query_id:			409143

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			775620
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincoln A Charismatic Leader Essays and Research Papers. Abraham Lincoln A Charismatic Leader ABRAHAM LINCOLN A TRUE LEADER By: Isaac Noble Who Is Abraham Lincoln ï... Abraham Lincoln was the 16th republican president during the Civil War. He Showed INTEGRITY ï Abraham Lincoln showed a lot of integrity throughout his career.
+subject_label:			3
+query_id:			117113

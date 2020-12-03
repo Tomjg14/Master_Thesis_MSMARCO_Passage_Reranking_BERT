@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8442028
+query:			what is crossfit?
+passage:			Passage: CrossFit is more of a forum for the progressive understanding of what fitness is and who is fit and as such the umbrella definition is appropriate. CrossFit is not a cookie-cutter program such as Insanity or P90x. Thus, to try to define CrossFit by a similar method is to completely ignore what CrossFit is about.
+subject_label:			5
+query_id:			736125

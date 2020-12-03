@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8022206
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Circulatory System Your circulatory system has two major jobs: 1. Transportation The main tissue of the human circulatory system is blood. It carries food and oxygen to all the cells of the body. The blood also carries waste away from the cells. It flows inside tubes called blood vessels. The main organ of the circulatory system is the heart.
+subject_label:			1
+query_id:			178468

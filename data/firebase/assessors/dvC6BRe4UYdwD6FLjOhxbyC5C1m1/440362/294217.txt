@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			294217
+query:			linking verb synonym
+passage:			Passage: Linking Verbs continued ... Many important verbs do not express action; some verbs can link a noun or an adjective to the subject. This type of verb is called a linking verb. The linking verb connection between the subject to the noun or adjective is something like an equal sign. She is tall.-- She = tall. In grammar books the linked noun or linked adjective is sometimes called a predicate noun or a predicate adjective.inking Verbs-A List & is it Used as Action or Linking. Linking verbs are verbs that do not show action; instead, the linking verb renames or describes the subject. In this example sentence, . The kitten looked happy the verb looked is used as a linking verb.
+subject_label:			5
+query_id:			440362

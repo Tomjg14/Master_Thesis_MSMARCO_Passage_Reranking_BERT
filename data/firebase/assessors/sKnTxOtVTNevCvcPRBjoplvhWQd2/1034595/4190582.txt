@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4190582
+query:			what is the phone number to spe
+passage:			Passage: What is dantdm`s phone number? 1 64% - What is dantdm`s phone number pls tell now pls pls? 2 73% - What is dantdm phone number so i can call him? 3 66% - What is dantdm`s phone number i want to know in one hour? 4 65% - What is dantdm phone number in viber?plz tell for me? 5 66% - Can i have dantdm`s email or phone number? 6 83% - What is dantdm`s phone 7 ... 75
+subject_label:			2
+query_id:			1034595

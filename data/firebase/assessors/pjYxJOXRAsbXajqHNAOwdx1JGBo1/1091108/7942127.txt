@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7942127
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Sensation occurs when sensory receptors detect sensory stimuli. Perception involves the organization, interpretation, and conscious experience of those sensations. All sensory systems have both absolute and difference thresholds, which refer to the minimum amount of stimulus energy or the minimum amount of difference in stimulus energy required to be detected about 50% of the time, respectively.
+subject_label:			4
+query_id:			1091108

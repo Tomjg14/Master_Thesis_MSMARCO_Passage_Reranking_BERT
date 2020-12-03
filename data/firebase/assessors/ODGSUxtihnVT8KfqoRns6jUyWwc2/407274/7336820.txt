@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7336820
+query:			is cortana smart???
+passage:			Passage: Microsoft set release cortana powered smart speaker, Watch out alexa, there is a new digital assistant in town. microsoft and harman kardon are set to release a smart speaker this fall that is powered by cortana in a.
+subject_label:			3
+query_id:			407274

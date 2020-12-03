@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			393550
+query:			what is impact ratio analysis
+passage:			Passage: Input-Output Analysis. What is 'Input-Output Analysis'. Input-output analysis (I-O) is a form of economic analysis based on the interdependencies between economic sectors. This method is most commonly used for estimating the impacts of positive or negative economic shocks and analyzing the ripple effects throughout an economy.
+subject_label:			2
+query_id:			757644

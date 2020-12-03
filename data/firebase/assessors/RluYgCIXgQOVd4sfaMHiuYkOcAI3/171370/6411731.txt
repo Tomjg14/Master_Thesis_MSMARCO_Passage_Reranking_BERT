@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6411731
+query:			does singing burn calories
+passage:			Passage: How many calories does a stair stepper burn? A: According to Shape Magazine, a person can burn up to 400 calories in 30 minutes on a stair stepper. On average, a person who weighs approximately 150 pounds burns about 100 calories every 15 minutes, using regular settings. The amount of calories a person burns varies based on the intensity level.
+subject_label:			1
+query_id:			171370

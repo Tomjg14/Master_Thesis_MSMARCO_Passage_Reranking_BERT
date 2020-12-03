@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2907482
+query:			what network is pickles on cartoon
+passage:			Passage: The network's first original show was The Moxy Show and was first aired in 1993. The chief purpose of The What A Cartoon Show was to help Cartoon Network expand its library of exclusive programming and it introduced a number of new cartoon ideas. Six of them were spun off into their own series runs. These six series, Dexter's Laboratory (1996), Johnny Bravo, Cow and Chicken (1997), The Powerpuff Girls (1998), Mike, Lu & Og, and Courage the Cowardly Dog (1999) became the origins of the network's original cartoons, collectively known as Cartoon Cartoons.
+subject_label:			2
+query_id:			881695

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7282807
+query:			what is gabba
+passage:			Passage: Biz Markie lost more weight than anybody else in the competition. That year, he was also in an episode of The Andy Milonakis Show. Biz Markie was a cast member on Nick Cannon's Wild 'n Out, seasons 1 and 3. Biz also does the beatboxing segment, Biz's Beat of the Day on the Nick Jr. show Yo Gabba Gabba!. Biz Markie began 2008 opening for Chris Rock's No Apologies tour.
+subject_label:			1
+query_id:			749752

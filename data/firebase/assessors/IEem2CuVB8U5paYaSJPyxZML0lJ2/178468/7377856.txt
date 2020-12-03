@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7377856
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Since this formalization of the use of heated stones within the context of therapeutic massage, the use of this type of therapy has become widespread. Benefits. Hot Stone Massage is deeply detoxifying and profoundly relaxing. By combining massage with hot stones, the circulatory system is both stimulated and relaxed.This circulatory activity promotes the release of toxins from the muscles, assisting the body in self-healing.In addition, tense muscles are also softened and eased by the deeply penetrating heat of the stones.y combining massage with hot stones, the circulatory system is both stimulated and relaxed. This circulatory activity promotes the release of toxins from the muscles, assisting the body in self-healing. In addition, tense muscles are also softened and eased by the deeply penetrating heat of the stones.
+subject_label:			5
+query_id:			178468

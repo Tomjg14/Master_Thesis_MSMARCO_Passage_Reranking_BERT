@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			6036774
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: Mediterranean Gecko (Hemidactylus turcicus) - Introduced. Description: 4 - 5 in (10 - 13 cm). Unlike any native lizard, geckos have sticky toe pads, vertical pupils, and their large eyes lack eyelids. Indo-pacific geckos are generally light gray or almost white in color but may have some darker mottling. This species is most easily distinguished from the similar indo-pacific gecko by its bumpy or warty skin.
+subject_label:			1
+query_id:			1003875

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6203059
+query:			how big do newfypoo's get
+passage:			Passage: How much do big brother contestants get paid? Big Brother contestants get paid $750 per week. In addition to the weekly salary, the house guests can win prizes throughout the season, including cash and vacations. Edit
+subject_label:			1
+query_id:			208494

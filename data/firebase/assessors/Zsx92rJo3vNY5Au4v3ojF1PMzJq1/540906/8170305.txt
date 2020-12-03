@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8170305
+query:			was the great wall of china breached
+passage:			Passage: The Great Wall of China belongs not only to China, but also to the world as a great cultural heritage. Due to political unrest, there was a dire need to build the Great Wall of China. Thus, China halted the expeditionary voyages of explorer Zheng He, so that the naval funds could be used in building the Great Wall of China.
+subject_label:			2
+query_id:			540906

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2609286
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Shaun Livingston scored 20 points to lead the Golden State Warriors to a 104-89 victory over the Cleveland Cavaliers in Game 1 of the 2016 NBA Finals.
+subject_label:			4
+query_id:			846082

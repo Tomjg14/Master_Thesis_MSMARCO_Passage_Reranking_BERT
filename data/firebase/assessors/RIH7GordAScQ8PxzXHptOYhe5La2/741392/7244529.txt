@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7244529
+query:			what is drop in baseball bat selection
+passage:			Passage: 1 It refers to the difference between the length of the bat (in inches) and the weight of the bat (in ounces). 2 It is always shown as a minus number and the higher the weight drop, the lighter the bat. 3 For example, a baseball bat with a -10 weight drop would be lighter than a bat with a -3 weight drop.
+subject_label:			4
+query_id:			741392

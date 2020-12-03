@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			749055
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Basically, a notary public is an official witness to a signature, attesting to the fact that the person signing a document is (a) the right person and (b) that the person is not signing under duress, of his or her free will. 1 The notary may ask the person to take an oath or may have the signer read an affidavit aloud.
+subject_label:			1
+query_id:			641156

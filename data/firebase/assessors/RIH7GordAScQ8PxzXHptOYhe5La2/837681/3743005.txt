@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3743005
+query:			what is the opposite of benefit?
+passage:			Passage: I find five alternatives to bad effects on, with three different meanings, depending on what you prefer to say: 1 detriment to, the opposite of benefit to. 2 injury of or, better, harm to. 3 menace against or, better, threat to.
+subject_label:			1
+query_id:			837681

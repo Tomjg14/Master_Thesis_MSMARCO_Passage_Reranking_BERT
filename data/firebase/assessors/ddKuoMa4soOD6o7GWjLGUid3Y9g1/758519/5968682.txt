@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5968682
+query:			what is included in a clutch kit
+passage:			Passage: Clutch replacement for a 2005 Cooper S convertible. We also fixed a water leak at the water pump exit port, which requires removing the supercharger. Valeo clutch kit which includes a springed clutch disk and single piece flywheel. The total actual work time to install was about 10-11 hours.Enjoy!lutch replacement for a 2005 Cooper S convertible. We also fixed a water leak at the water pump exit port, which requires removing the supercharger. Valeo clutch kit which includes a springed clutch disk and single piece flywheel. The total actual work time to install was about 10-11 hours. Enjoy!
+subject_label:			2
+query_id:			758519

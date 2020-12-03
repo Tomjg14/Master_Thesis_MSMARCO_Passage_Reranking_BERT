@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3223883
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: Methotrexate Treatment Protocol. Within the gestational sac the yolk sac is the first structure to appear which confirms an intrauterine pregnancy. The yolk sac is seen by transvaginal ultrasound when the mean sac diameter is 5-6mm and should always be seen when the mean sac diameter is greater than or equal to 8mm.the HCG or measurement quantity at which you generally will see the structure in question.An example would be the yolk sac should be seen by transvaginal ultrasound when the mean sac diameter is 5-6mm. Therefore the threshold level is the lowest number at which a certain finding is present. + 4 weeks-Gestational scan with yolk sac visible. 6 + 0 weeks-Gestational sac (mean diameter 16 mm) and yolk sac with adjacent heart beat but small embryo (3mm). 8 + 0 weeks-Embryo with crown/rump length of 16mm with separate amniotic sac and celomic cavity with yolk sac.
+subject_label:			3
+query_id:			299732

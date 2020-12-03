@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4299108
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: Rosalind Franklin contributed a base for the discovery of the DNA structure by taking some x-ray photos.
+subject_label:			2
+query_id:			1006199

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1745252
+query:			what is a hydromyelia
+passage:			Passage: Syringomyelia: Definition, Causes & Treatment Approaches. Definition. Fluid-filled cavity within the spinal cord. Other nomenclature: hydromyelia, syringohydromyelia, spinal cord cyst.
+subject_label:			5
+query_id:			687375

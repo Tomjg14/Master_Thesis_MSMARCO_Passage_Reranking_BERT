@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7476790
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: What does Dominica mean? The word Dominica is the Latin word for Sunday, that being the 1st or 7th day of the week. It is the Latin equivalent of the English Sunday as the words do not share the same â¦ etymology, and is the root of modern day Romance language's (Romanic/Latin/Neo-latin languages) word for Sunday.
+subject_label:			1
+query_id:			831784

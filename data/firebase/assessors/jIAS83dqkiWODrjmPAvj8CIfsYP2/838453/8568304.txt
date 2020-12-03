@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8568304
+query:			what is the parent company for adidas
+passage:			Passage: Adidas Weakness Essays and Research Papers. 1 Adidas Weakness BACKGROUND Adidas AG FWB: ADS, ADR:Pink Sheets: ADDYY) is a German sports apparel manufacturer and parent company of the Adidas... 2 Adidas adidas AG (German pronunciation: [ËadiËdas]) is a German multinational corporation that designs and manufactures sports clothing and...
+subject_label:			4
+query_id:			838453

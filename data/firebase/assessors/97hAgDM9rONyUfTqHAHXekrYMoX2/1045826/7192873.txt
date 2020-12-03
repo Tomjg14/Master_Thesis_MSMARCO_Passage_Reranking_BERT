@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192873
+query:			what is ssc je
+passage:			Passage: Now, application form window will open. SSC JE application form has two parts i.e. âRegistration Partâ and âApply Partâ. Firstly, candidates have to fill required details in âRegistration Partâ. And in âApply Partâ, candidates need to pay application fee and, upload scanned photograph and signature.
+subject_label:			2
+query_id:			1045826

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2227586
+query:			what county is laneview va located in
+passage:			Passage: Alderson is primarily located in Greenbrier County. A portion of Alderson extends into Monroe County. The following counties adjoin and form the boundaries of Greenbrier County: Alleghany (VA), Bath (VA), Fayette, Monroe, Nicholas, Pocahontas, Summers & Webster.
+subject_label:			1
+query_id:			608323

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1191312
+query:			can vcenter standard manage essentials plus
+passage:			Passage: If you have ESX 3.0.x, you must first upgrade to ESX 4.0 or to an ESX 4.0 Update release by using vSphere Host Update Utility 4.0 or vCenter Update Manager 4.0. You can then upgrade to ESX 4.1 by using vCenter Update Manager 4.1 or the esxupdate or vihostupdate utility.
+subject_label:			2
+query_id:			75266

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2887944
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: The zoo is actually a part of the Essex County Park System, which is considered as the oldest county park in the US. The zoo originally features animals that are indigenous to New Jersey. Today, however, it features animals from different continents except Antarctica. Turtle Back Zoo has many exhibits.
+subject_label:			1
+query_id:			866251

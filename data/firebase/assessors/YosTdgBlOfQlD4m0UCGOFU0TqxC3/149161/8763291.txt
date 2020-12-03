@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8763291
+query:			difference between watt and hertz
+passage:			Passage: What's the difference between watts and volt amperes? Kilovolt amperes. The closer to 100 Kva kw, how convert watts va and kva kw simplified what is the difference between kw? Difference vs. Kw is real power that actually does work.
+subject_label:			3
+query_id:			149161

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6711887
+query:			rigorous testing definition
+passage:			Passage: 3 the quality or state of being very accurate said that she had heard that excuse a million times, but then she was never known for the rigor of her calculations Synonyms of rigor accuracy, accurateness, closeness, delicacy, exactitude, exactness, fineness, nicety, perfection, preciseness, precision, rigorousness, ultraprecision, veracity Words Related to rigor correctness, fidelity, rightness, strictness, truth; definiteness, definitiveness, definitude, determinacy; nicety, subtlety; care ...
+subject_label:			1
+query_id:			489257

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3964312
+query:			how old is lil moco
+passage:			Passage: Lil Pump is a promising musician who is truly involved in and devoted to what he is doing. What is the exact age of Lil Pump for today? Lil Pump's current exact age is 17 years 5 months 1 day old. Total 6,363 days. When is the next birthday of Lil Pump? Lil Pump's next birthday is in 6 months 30 days. What is the zodiac sign of Lil Pump? Zodiac sign of Lil Pump is Leo.
+subject_label:			1
+query_id:			335710

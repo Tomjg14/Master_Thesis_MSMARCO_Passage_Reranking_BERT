@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5844866
+query:			how much is college in florida
+passage:			Passage: Find out how much colleges expect you to pay and how much financial aid you are eligible for. Expected Family Contribution. Your EFC is 12,345. This is the amount colleges expect you to pay.To see how much financial aid you may get, subtract the EFC from the college's cost of attendance.ind out how much colleges expect you to pay and how much financial aid you are eligible for. Expected Family Contribution. Your EFC is 12,345. This is the amount colleges expect you to pay.
+subject_label:			2
+query_id:			1095876

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1351708
+query:			average money market interest rates
+passage:			Passage: Savings and money market accounts today offer an average interest rate of only 0.44%, according to Bankrate, but the good news for savers is that rising interest rates should buoy yields across the board.
+subject_label:			4
+query_id:			38946

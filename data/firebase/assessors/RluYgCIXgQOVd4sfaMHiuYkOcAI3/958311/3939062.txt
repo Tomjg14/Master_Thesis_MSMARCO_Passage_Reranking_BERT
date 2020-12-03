@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3939062
+query:			when was jim vance funeral
+passage:			Passage: Doreen Gentzler (born 1957) is an American television news anchor. She is a 6 p.m. and 11 p.m. news anchor at WRC-TV, alongside co-anchor Jim Vance.
+subject_label:			1
+query_id:			958311

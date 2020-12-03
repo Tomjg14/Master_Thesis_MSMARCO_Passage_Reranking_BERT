@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3935450
+query:			molar mass of phenol
+passage:			Passage: molar mass = #1Ca + 2 [ 1N + 3O ] #. Molar mass =# 40 + 2( 14 + 48 ) #. molar mass= #40 + 2 ( 62) #. molar mass= # 40 + 124 #. molar mass= # 164 #.
+subject_label:			5
+query_id:			455456

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6378816
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Between the cities of Hamilton and Niagara Falls, and along the South shores of Lake Ontario runs the Niagara Peninsula. A fertile micro-climate where the majority of Ontario vineyards can be found.To the East lies the majestic town of Niagara-on-the-Lake. To the West the quaint town of Grimsby, and in the heart of the region lies Jordan Village. All three towns designed to delight the tourist as they explore the wineries of Ontario.o the East lies the majestic town of Niagara-on-the-Lake. To the West the quaint town of Grimsby, and in the heart of the region lies Jordan Village. All three towns designed to delight the tourist as they explore the wineries of Ontario.
+subject_label:			2
+query_id:			231877

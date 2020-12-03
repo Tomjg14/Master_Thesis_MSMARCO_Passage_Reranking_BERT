@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5431030
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: 1 Book your next group event or meeting at the DoubleTree by Hilton Hotel Charlotte Airport. / 2 resources/media/dt/CLTAPDT/en_US/img/shared/full_page_image_gallery/main/DT_meet002_26_677x380_FitToBoxSmallDimension_Center.jpg DoubleTree by Hilton Hotel Charlotte Airport, NC-Meeting Room 29. 3 Events & Meetings.
+subject_label:			1
+query_id:			988306

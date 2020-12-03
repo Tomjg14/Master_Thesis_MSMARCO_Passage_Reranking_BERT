@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7276263
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: **Which muscle type is involved in the function of the digestive tract and blood vessels? Smooth smooth muscle functions in many systems of the body, including the digestive tract and blood vessels. **How does cardiac muscle differ from the other types of muscle? **True or false?
+subject_label:			3
+query_id:			993987

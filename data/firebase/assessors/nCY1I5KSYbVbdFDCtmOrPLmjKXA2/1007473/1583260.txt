@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1583260
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: Deposition of Sediments. Sedimentary Rocks are formed when sediments have been deposited and undergone lithification, a process that includes compaction(through burial) and cementation (mineral precipitation from intergranular aqueous solutions), or when masses of intergrown crystals precipitate from aqueous solution.
+subject_label:			3
+query_id:			1007473

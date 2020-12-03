@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8331572
+query:			was the great wall of china breached
+passage:			Passage: 1 History of The Great Wall of China-A history of the Great Wall of China. 2 Facts About The Great Wall of China-Frequently asked questions & other facts about the Great Wall of China.
+subject_label:			2
+query_id:			540906

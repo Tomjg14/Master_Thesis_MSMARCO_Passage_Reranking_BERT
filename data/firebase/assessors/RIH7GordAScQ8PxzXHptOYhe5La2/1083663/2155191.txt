@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2155191
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: The term wearing your heart on your sleeve is thought to have originated during Medieval Times. During jousting matches knights would wear their ladies colors on their arm. The term wearing your heart on your sleeve is thought to have originated during Medieval Times. During jousting matches knights would wear their ladies colors on their arm.
+subject_label:			2
+query_id:			1083663

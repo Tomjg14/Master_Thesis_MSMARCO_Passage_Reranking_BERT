@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1673684
+query:			what is the parent company for adidas
+passage:			Passage: Adidas Golf is part of Adidas, a German-based sports clothing manufacturer and part of the Adidas Group, which consists of Reebok sportswear company, and TaylorMade-Adidas golf company.
+subject_label:			4
+query_id:			838453

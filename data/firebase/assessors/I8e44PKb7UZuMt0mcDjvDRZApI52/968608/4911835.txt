@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4911835
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Menlo Park was the embryo of the modern research laboratory -- a place where the inventor could have at his fingertips the materials and expertise to turn his ideas into physical form. None of his contemporaries had such a marvelous tool. Edison built a house for his family just down the lane from the laboratory.
+subject_label:			1
+query_id:			968608

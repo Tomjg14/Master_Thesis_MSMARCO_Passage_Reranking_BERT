@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2907481
+query:			what network is pickles on cartoon
+passage:			Passage: In 1994, Hanna-Barbera's new subsidiary Cartoon Network Studios was founded and started production on The What-A-Cartoon! Show (also known as World-Premiere Toons and What-A-Cartoon), a series of creator-driven short cartoons that premiered on Cartoon Network in 1995.
+subject_label:			2
+query_id:			881695

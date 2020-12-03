@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7183058
+query:			what is mastoidectomy
+passage:			Passage: MASTOIDECTOMY Dictionary entry overview: What does mastoidectomy mean? â¢ MASTOIDECTOMY (noun) The noun MASTOIDECTOMY has 1 sense: 1. surgical removal of some or all of the mastoid process Familiarity information: MASTOIDECTOMY used as a noun is very rare.
+subject_label:			5
+query_id:			1051530

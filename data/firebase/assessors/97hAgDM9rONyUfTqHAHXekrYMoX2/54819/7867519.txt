@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7867519
+query:			blue sky charge controller price
+passage:			Passage: Report Power Outage; Smart Meters; Residential. Start, Stop or Move Service; Save Energy â wattsmart Incentives; Blue Sky Renewable Energy; Power Outages; Financial Assistance; Rates & Charges; Payment & Billing Options; New Construction; Business. Start, Stop or Move Service; Save Energy â wattsmart Incentives; Understand Your Bill; Blue Sky Renewable Energy
+subject_label:			1
+query_id:			54819

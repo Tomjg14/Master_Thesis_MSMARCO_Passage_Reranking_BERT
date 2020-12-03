@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7200782
+query:			who was the basket of apples by
+passage:			Passage: Also includes 1 attachable baby seat with safety strap, 2 attachable meal trays with cup holders, can of apple juice, can of orange juice, 4 sandwiches, basket to serve sandwiches, and basket of food with lid. Calico Critters sold separately. top reviews Olena - August 08, 2016. Nice car for a small Calico family.
+subject_label:			1
+query_id:			986210

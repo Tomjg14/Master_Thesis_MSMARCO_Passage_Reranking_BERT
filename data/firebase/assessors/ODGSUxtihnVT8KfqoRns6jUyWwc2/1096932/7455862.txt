@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7455862
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: It was a blast! You need to watch the interview and then go to his Facebook page where you can watch us both carry one of the crosses he's walked around the world! What a fascinating man of God he is! Here are some amazing Arthur Blessitt Facts:-He has carried the cross for the last 49 years.
+subject_label:			2
+query_id:			1096932

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3612929
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Sensory receptors. Sensory receptors are specialized structures that detect changes in their immediate environment. The primary modality of the receptor is determined by how sensitive the receptor is to the size of an applied sensory stimulus and by its connections to the fibers that transmit the applied stimulus.
+subject_label:			2
+query_id:			1091108

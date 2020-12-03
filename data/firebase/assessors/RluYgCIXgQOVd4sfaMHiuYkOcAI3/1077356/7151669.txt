@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7151669
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: BOTOXÂ® is a prescription medicine that is injected into muscles and used to treat the abnormal head position and neck pain that happens with cervical dystonia (CD) in people 16 years and older. IMPORTANT SAFETY INFORMATION. BOTOXÂ® may cause serious side effects that can be life threatening.
+subject_label:			5
+query_id:			1077356

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8717212
+query:			how big is a micron
+passage:			Passage: How big is a Micron? A micrometer, commonly known as micron is one millionth of a meter, one thousandth of a millimeter or one thousand nanometers. A strand of human hair is about 100 microns wide and a red blood cell is approx. 8 microns in diameter.The illustration below is 2,000 times larger than actual size.
+subject_label:			5
+query_id:			208822

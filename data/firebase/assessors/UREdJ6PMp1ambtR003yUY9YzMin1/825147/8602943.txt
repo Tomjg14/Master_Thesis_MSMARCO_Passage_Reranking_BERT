@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8602943
+query:			what is the hormone that makes you fat
+passage:			Passage: Belly fat is actually metabolically different than other fat found under our skin. Belly fat is caused by a rise in insulin levels, also known as the fat storage hormone. What Elevates Insulin Levels? Low fat diets. For example, low fat yogurt and low fat milk or cereals. âLow fatâ typically = added sugar or salt to make up for the missing fat.
+subject_label:			4
+query_id:			825147

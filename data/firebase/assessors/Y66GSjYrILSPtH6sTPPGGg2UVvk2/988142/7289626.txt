@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7289626
+query:			who paul clark
+passage:			Passage: Paul Clark (presenter) Paul Thompson Clark MBE (born 4 December 1953, Belfast) is a Northern Irish television presenter and journalist. He is currently a presenter and reporter for UTV Live. Clark was among the original presenters on RTÃ© Radio 2 in 1979 and later presented on BBC Radio Ulster.
+subject_label:			5
+query_id:			988142

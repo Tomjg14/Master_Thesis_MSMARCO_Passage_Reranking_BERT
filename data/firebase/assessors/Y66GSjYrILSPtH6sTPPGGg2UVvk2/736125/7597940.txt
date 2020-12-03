@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7597940
+query:			what is crossfit?
+passage:			Passage: About CrossFit. What is CrossFit? CrossFit is a fitness and conditioning system developed by Coach Greg Glassman through many years of watching, working with, and coaching all types of people â from those considered ânormal and averageâ, to top athletes.
+subject_label:			5
+query_id:			736125

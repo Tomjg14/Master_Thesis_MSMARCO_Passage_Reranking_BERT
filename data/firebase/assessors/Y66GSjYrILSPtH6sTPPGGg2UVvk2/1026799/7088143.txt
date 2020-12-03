@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088143
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: Liver Transplant Waiting List In order to undergo a liver transplant, a patient must be placed on the national waiting list. The list is managed by the United Network for Organ Sharing , which collects and manages all data that pertain to the patient waiting list, organ donation and matching, and transplantation occurring on the OPTN, the nation's organ transplant network.
+subject_label:			2
+query_id:			1026799

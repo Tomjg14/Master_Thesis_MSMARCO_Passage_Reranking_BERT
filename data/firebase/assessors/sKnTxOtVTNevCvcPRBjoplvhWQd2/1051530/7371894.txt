@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7371894
+query:			what is mastoidectomy
+passage:			Passage: If the otolaryngologist performs a more complete surgical procedure, for instance, tympanoplasty with mastoidectomy, you should report the combination code (69641, Tympanoplasty with mastoidectomy [including canalplasty, middle ear surgery, tympanic membrane repair]; without ossicular chain reconstruction).
+subject_label:			2
+query_id:			1051530

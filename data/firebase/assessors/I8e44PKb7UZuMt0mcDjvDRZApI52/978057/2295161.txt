@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2295161
+query:			where is berrimah
+passage:			Passage: Where is Anacortes WA: Where is Anderson Island WA: Where is Artondale WA: Where is Asotin WA: Where is Bangor Base WA: Where is Barberton WA: Where is Basin WA: Where is Bethel WA: Where is Big Lake WA: Where is Birch Bay WA: Where is Black Diamond WA: Where is Bonney Lake WA: Where is Bothell East WA: Where is Bothell West WA: Where is Boulevard Park WA
+subject_label:			1
+query_id:			978057

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			687315
+query:			hydrocodone price per pill
+passage:			Passage: This Site Might Help You. What is the street price for 10-325 hydrocodone apap (vicodin)? A local pharmacy was robbed and I am writing a story on it and i am calculating the apprx street price of the drugs they stole. I always buy 10 mg hydrocodone from Minneapolis MN for $6 per pill when i place a large order.
+subject_label:			3
+query_id:			1094731

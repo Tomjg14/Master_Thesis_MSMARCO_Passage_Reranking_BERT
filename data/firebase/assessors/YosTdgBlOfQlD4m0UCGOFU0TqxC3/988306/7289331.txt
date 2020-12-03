@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289331
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: [1/52] 1 1 - Hilton Charlotte University Place, Charlotte. 2 2 - Hilton Charlotte University Place, Charlotte, Reception. 3 3 - Hilton Charlotte University Place, Charlotte, Lobby Sitting Area. 4 4 - Hilton Charlotte University Place, Charlotte, Executive Room, 2 Double Beds, Business Lounge Access, Guestroom.
+subject_label:			2
+query_id:			988306

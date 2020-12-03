@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5896203
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: Autoimmune Diseases. Autoimmune diseases can affect almost any part of the body, including the heart, brain, nerves, muscles, skin, eyes, joints, lungs, kidneys, glands, the digestive tract, and blood vessels. The classic sign of an autoimmune disease is inflammation, which can cause redness, heat, pain, and swelling.utoimmune diseases can affect almost any part of the body, including the heart, brain, nerves, muscles, skin, eyes, joints, lungs, kidneys, glands, the digestive tract, and blood vessels. The classic sign of an autoimmune disease is inflammation, which can cause redness, heat, pain, and swelling.
+subject_label:			1
+query_id:			993987

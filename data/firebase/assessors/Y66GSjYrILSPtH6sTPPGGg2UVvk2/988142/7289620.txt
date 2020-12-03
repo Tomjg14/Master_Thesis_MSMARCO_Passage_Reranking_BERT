@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289620
+query:			who paul clark
+passage:			Passage: Related to Shannon Risa Clark, Clinton Karl Howell, Heather Rae Howell, Rob Howell, Daniel Lee Howell, Paul P Clark, N Clark, Aaron P Clark Show all locations and family View Details
+subject_label:			1
+query_id:			988142

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1312933
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Getting a Chick-fil-A free breakfast requires going to Chick-fil-Aâs website, selecting a nearby participating location, a meal item, and a time slot. Depending on location, breakfast hours are generally between 6:30 a.m. and 10:30 a.m.
+subject_label:			5
+query_id:			904389

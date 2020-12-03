@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3307907
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: The most common severe adverse reaction associated with the use of BOTOX injection in patients with cervical dystonia is dysphagia with about 20% of these cases also reporting dyspnea [see WARNINGS AND PRECAUTIONS ].
+subject_label:			no_input
+query_id:			1077356

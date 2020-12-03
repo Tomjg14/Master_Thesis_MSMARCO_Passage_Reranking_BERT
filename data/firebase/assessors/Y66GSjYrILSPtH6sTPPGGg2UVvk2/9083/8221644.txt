@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8221644
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: 1 Justus Von Liebig, the 'father of modern nutrition', developed the perfect infant food. 2 In addition to being known as the Father of Modern Chemistry, Lavoisier is also considered the Father of Modern Nutrition, as the first to discover the metabolism that occurs inside the human body....
+subject_label:			1
+query_id:			9083

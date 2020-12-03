@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4602935
+query:			what is postulate in algebra
+passage:			Passage: While studying the algebraic expression first question arises in our mind, what is an algebraic expression. Algebraic expression is a set of constants, variables and operators with or without combinations, algebraic expressions can be in different forms.hile studying the algebraic expression first question arises in our mind, what is an algebraic expression. Algebraic expression is a set of constants, variables and operators with or without combinations, algebraic expressions can be in different forms.
+subject_label:			1
+query_id:			785721

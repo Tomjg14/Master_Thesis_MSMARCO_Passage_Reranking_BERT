@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			875844
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: What are three words with root word ortho Three words with the root word ortho are: orthopedist (foot doctor), orthogonal... What does the root 'ORTHO' mean? Prefix meaning straight or erect. From the Greek orthos that means just that.... What is the root of ortho? Ortho is a prefix meaning straight or erect. From the Greek orthos that means... What does the word 'ortho' mean? Ortho, from the Greek orthos, means straight, perpendicular, or correct. It is... What is the Meaning of the latin root ortho? The meaning of ortho is straight or correct. some examples are orthodox,...
+subject_label:			1
+query_id:			831784

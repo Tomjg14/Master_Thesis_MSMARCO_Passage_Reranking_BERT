@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6634206
+query:			apartment cost in phoenix az
+passage:			Passage: Distance from Phoenix, AZ to Denver, CO. There are miles from Phoenix to Denver and miles by car. Phoenix and Denver are far apart (by car). This is the best Phoenix, AZ-Denver, CO route.
+subject_label:			1
+query_id:			1100687

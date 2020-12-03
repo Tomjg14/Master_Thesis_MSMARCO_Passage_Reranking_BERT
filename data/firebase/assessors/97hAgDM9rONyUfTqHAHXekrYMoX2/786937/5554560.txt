@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5554560
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Define â Phase 1 of 5 of Lean Six Sigma. What problem would you like to fix? The Define Phase is the first phase of the Lean Six Sigma improvement process. In this phase, the leaders of the project create a âProject Charter,â create a high-level view of the process, and begin to understand the needs of the customers of the process.
+subject_label:			2
+query_id:			786937

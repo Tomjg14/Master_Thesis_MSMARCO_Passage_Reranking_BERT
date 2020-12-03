@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7098188
+query:			what airport is in wilder ky
+passage:			Passage: The closest major airport to Wilder Park, Kentucky is Louisville International Airport (SDF / KSDF). This airport is in Louisville, Kentucky and is 3 miles from the center of Wilder Park, KY. If you're looking for domestic flights to SDF, check the airlines that fly to SDF. Search for direct flights from your hometown and find hotels near Wilder Park, KY, or scroll down for more international airports or domestic airports.
+subject_label:			5
+query_id:			1087858

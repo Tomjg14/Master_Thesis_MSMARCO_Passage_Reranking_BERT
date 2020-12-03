@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			287636
+query:			architectural design
+passage:			Passage: Architectural design is more about creating a structure for an appropriate design.it is more for complex and large project.Where the interior design will provide furniture to fit the better with existant architectural design. I can resume that architectural design is the background for interior design.
+subject_label:			5
+query_id:			20597

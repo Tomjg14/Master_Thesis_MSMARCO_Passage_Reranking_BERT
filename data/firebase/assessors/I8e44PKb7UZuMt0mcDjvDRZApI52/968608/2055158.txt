@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2055158
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Portrait of Thomas Edison in his West Orange, New Jersey, laboratories, in 1904. Courtesy the Library of Congress, Prints and Photographs Division, Washington, D.C., LC-USZ62-41756. Edison was one of the first to grasp the importance of chemical knowledge when conducting industrial research and development.
+subject_label:			2
+query_id:			968608

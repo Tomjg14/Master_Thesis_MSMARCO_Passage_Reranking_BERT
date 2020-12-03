@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3175009
+query:			average amount of money stna make
+passage:			Passage: The STNA Role. STNAs, like orderlies and attendants, aren't licensed care providers in their own right. Instead, they provide care under the direction or supervision of a registered nurse or physician.
+subject_label:			2
+query_id:			30860

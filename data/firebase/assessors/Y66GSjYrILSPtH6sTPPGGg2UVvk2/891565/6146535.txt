@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6146535
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: The longest river in California, the Sacramento River stretches 377 miles, beginning in the northern part of the state and flowing down to the Suisan Bay near San Francisco. Several significant rivers act as tributaries along the Sacramento River's course, including the McCloud River, the Pit and the Yuba.
+subject_label:			4
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4086943
+query:			how much does a spectacled bear weigh
+passage:			Passage: New How Much Does Chevy Colorado 2015 Weigh Release, Reviews and. How much does your wrangler weigh? - jeepforum.com, I'm just curious on how much of a difference models (yj, tj, jk), bumpers, tops, tires, wheels, engines, and any other options can make on weight.. How much does f150 weigh empty? - ford-trucks.com, How much does f150 weigh empty? 1987 - 1996 f150 & larger f-series trucks.
+subject_label:			1
+query_id:			311540

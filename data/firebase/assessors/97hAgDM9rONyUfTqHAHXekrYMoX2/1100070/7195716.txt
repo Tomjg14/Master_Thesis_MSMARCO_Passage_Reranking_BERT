@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7195716
+query:			head turner meaning
+passage:			Passage: (plural head-turners) Someone or something that catches the eye, the looks of whom/which causes people to look much.
+subject_label:			5
+query_id:			1100070

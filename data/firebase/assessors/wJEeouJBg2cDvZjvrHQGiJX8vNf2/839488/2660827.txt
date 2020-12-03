@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2660827
+query:			what is the plural of kohlrabies
+passage:			Passage: The word kohlrabi is German for âcabbage turnipâ (kohl as in cole-slaw, and ruebe rÃ¼be for) turnip though kohlrabi is not a root vegetable at. Allâit s aâbrassica like, cabbage, broccoli andâcauliflower and those cute bulbous shapes grow above, ground not. belowhese little sputnik-shaped vegetables come in green or purple, can be eaten raw or cooked, and taste a bit like broccoli stems, but milder and slightly sweeter. The word kohlrabi is German for âcabbage turnipâ (kohl as in cole-slaw, and ruebe rÃ¼be for) turnip though kohlrabi is not a root vegetable at. all
+subject_label:			2
+query_id:			839488

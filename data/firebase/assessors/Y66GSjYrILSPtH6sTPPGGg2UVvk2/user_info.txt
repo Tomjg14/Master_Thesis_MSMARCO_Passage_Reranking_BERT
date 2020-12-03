@@ -1,0 +1,7 @@
+user_id:			Y66GSjYrILSPtH6sTPPGGg2UVvk2
+consent:			true
+batches:			["5","21","22","23","25","26","27","28"]
+english:			9
+unassessed_queries:			["1028711","1074997","1095971","988512"]
+progress:			20
+contact:			true

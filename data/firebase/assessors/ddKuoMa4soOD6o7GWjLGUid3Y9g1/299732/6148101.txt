@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6148101
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: The gestational sac can be seen as early as four and a half weeks of pregnancy and a yolk sac at about five weeks. A trans-vaginal probe has to be used to visualize the early pregnancy.This special transducer is introduced gently into the vagina.ny bleeding in pregnancy is abnormal. Ultrasound scan is used to confirm viability of the fetus in the event of vaginal bleeding in early pregnancy. Fetal heart movements can be seen as early as 6 weeks of gestation, with the trans-vaginal transducer.
+subject_label:			3
+query_id:			299732

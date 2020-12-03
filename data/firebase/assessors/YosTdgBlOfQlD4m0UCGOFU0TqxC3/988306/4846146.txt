@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4846146
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Book now at Edgewater Bar & Grille - Hilton Charlotte University Place in Charlotte, NC. Explore menu, see photos and read 20 reviews: The food was good. The service was friendly. The location was great.
+subject_label:			2
+query_id:			988306

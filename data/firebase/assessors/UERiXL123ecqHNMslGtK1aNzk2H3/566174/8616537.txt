@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8616537
+query:			what are stand up paddle boards made of
+passage:			Passage: Three major subdivisions within standing-up surfing are long boarding, short boarding, and stand up paddle surfing (SUP), and these three have several major differences, including the board design and length, the riding style, and the kind of wave that is ridden.tandup surfing begins when the surfer paddles toward shore in an attempt to match the speed of the wave (The same applies whether the surfer is standup paddling, bodysurfing, boogie-boarding or using some other type of watercraft, such as a waveski or kayak.).
+subject_label:			2
+query_id:			566174

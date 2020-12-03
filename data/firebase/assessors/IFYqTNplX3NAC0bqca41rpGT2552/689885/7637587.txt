@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7637587
+query:			what is a malanga
+passage:			Passage: Malanga is a brown, hairy tuber in the Arum family that is cultivated in many tropical regions around the world. It is closely related to taro root, although the two plants are found in different genera. Like taro, this tuber usually is ground into a paste that can be used to make a rich, starchy flour that can be used in an assortment of foods.
+subject_label:			5
+query_id:			689885

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			317895
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: In addition to blood transfusions, organs from a person with type O blood (either O+ or O-) can be transplanted in people with any blood type, although additional tests are necessary to ensure a safe match. For plasma, AB- is the universal donor type.
+subject_label:			5
+query_id:			1026799

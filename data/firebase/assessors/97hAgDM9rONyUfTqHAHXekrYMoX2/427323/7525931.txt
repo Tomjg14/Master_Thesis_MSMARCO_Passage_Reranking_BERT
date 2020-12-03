@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7525931
+query:			is the sec constitutional
+passage:			Passage: California Constitution. Article 2. Sec. 8. (a) The initiative is the power of the electors to propose statutes and. amendments to the Constitution and to adopt or reject them. (b) An initiative measure may be proposed by presenting to the Secretary. of State a petition that sets forth the text of the proposed statute or.
+subject_label:			2
+query_id:			427323

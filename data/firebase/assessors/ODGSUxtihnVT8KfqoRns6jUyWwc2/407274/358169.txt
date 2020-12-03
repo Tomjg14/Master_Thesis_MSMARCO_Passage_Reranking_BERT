@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			358169
+query:			is cortana smart???
+passage:			Passage: and go to the Option settings and enable Cortana. Once done, you should be able to speak to Cortana to control the notifications and other things on your Android device. As for the smart bulbs and other gadgets that you may have and want to control using Cortana, you will need to first link it to the Tasker app.
+subject_label:			4
+query_id:			407274

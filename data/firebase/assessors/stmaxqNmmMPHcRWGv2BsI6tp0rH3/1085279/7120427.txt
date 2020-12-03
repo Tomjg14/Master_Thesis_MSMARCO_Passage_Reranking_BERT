@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7120427
+query:			what county is stacy minnesota
+passage:			Passage: Stacy, MN Other Information. Located in CHISAGO County, Minnesota; Stacy, MN is also known as: LENT, MN; MARTIN LAKE, MN
+subject_label:			3
+query_id:			1085279

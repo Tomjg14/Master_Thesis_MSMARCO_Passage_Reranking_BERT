@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7293396
+query:			who was the basket of apples by
+passage:			Passage: Liven up the walls of your home or office with Basket Of Apples art from Zazzle. Check out our great posters, wall decals, photo prints, & wood wall art.
+subject_label:			1
+query_id:			986210

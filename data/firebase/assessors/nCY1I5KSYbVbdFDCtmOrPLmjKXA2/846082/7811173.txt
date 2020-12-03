@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7811173
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Warriors vs. Cavaliers 2016 final score: LeBron James forces a Game 7 in a 115-101 win. LeBron James had one of the craziest, most dominant fourth quarters in a Finals game that we perhaps have ever seen. LeBron James forced a Game 7. The Cleveland Cavaliers will play the Golden State Warriors in a winner-take-all final game, but make no mistake, James is the reason why the Cavaliers won 115-101 in Game 6 on Thursday.
+subject_label:			5
+query_id:			846082

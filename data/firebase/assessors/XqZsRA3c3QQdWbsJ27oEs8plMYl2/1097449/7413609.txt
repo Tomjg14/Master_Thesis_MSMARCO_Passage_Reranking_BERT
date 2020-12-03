@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7413609
+query:			how many calories in provolone cheese
+passage:			Passage: 587 calories in a 6 oz or 170g package of Provolone cheese; 800 calories in 8 oz or 227g of Provolone cheese; 1000 calories in 10 oz or 284g of Provolone cheese; 1200 calories in 12 oz or 340g of Provolone cheese; 1600 in 1 pound or 454g of Provolone cheese; 463 calories 1 cup of diced Provolone cheese (4.7 oz or 133g). For the calorie counts of the vegetables, salad and fruits that are served with Provolone cheese, or for free vegetable, salad and fruit calorie charts that you can use as daily guides for either weight loss or weight maintenance, see the page link, further down this page, listed under Related Questions. 1 Calories in Provolone cheese There are: 60 calories in 1 cubic inch of Provolone cheese 98-100 calories in 1 oz or 28g of Provolone cheese 98-100 calories in 1 slice, which is usually 1 oz or 28g 200 calories in 2 oz or 57g of Provolone cheese 350 calories in 3Â½ or 100g of Provolone cheese 400 calories in 4 oz or 114g of Provolone cheese 587 ...
+subject_label:			4
+query_id:			1097449

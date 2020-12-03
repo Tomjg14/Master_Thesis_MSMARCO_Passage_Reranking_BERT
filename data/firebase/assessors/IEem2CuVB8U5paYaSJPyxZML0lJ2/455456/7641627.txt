@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7641627
+query:			molar mass of phenol
+passage:			Passage: Phenol, #C_6H_5OH#, has a molar mass of #94.91# #g*mol^-1#. #5.5# #mol# has a mass of #5.5*cancel(mol)xx94.91# #g*cancel(mol^-1)# #=# #??g#.
+subject_label:			5
+query_id:			455456

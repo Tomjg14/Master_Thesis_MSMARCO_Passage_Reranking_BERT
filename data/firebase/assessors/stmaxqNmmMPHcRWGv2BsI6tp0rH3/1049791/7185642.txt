@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7185642
+query:			what is njstart
+passage:			Passage: NJSTART will put the power to do business with the State into your hands. The Division of Purchase and Property is pleased to announce that all new bidding opportunities are now administered through NJSTART. Please click on the âOpen Bidsâ link below to view all new Bidding Opportunities.
+subject_label:			4
+query_id:			1049791

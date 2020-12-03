@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4521696
+query:			definition of purse
+passage:			Passage: world power. n a state that possesses sufficient power to influence events throughout the world. English Collins Dictionary-English Definition & Thesaurus  . See also: power, air power, atomic power, Black Power. ! at the purse thief. at the purse thief. n.
+subject_label:			1
+query_id:			137508

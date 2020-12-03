@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5405465
+query:			is the hawb the tracking number
+passage:			Passage: Difference between AWB and HAWB - Air Waybill and House Airway bill. You can also read here - Difference between HAWB and MAWB. This article is a part of series of replies on questions asked by beginners of international trade relates to basics of export and import.
+subject_label:			2
+query_id:			426442

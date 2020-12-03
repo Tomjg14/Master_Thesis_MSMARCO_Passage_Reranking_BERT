@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			960967
+query:			what is ssc je
+passage:			Passage: Here you will find SSC JE Junior Engineer Recruitment Exam 2015 Date, Syllabus, Pattern, Eligibility and Online Application Form.
+subject_label:			2
+query_id:			1045826

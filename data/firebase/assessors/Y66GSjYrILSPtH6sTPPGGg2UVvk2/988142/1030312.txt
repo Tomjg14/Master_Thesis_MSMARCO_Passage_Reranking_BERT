@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1030312
+query:			who paul clark
+passage:			Passage: Shorty is a eenie, meenie, miney, mo, lova. Shorty is a eenie, meenie, miney, mo, lova. Writer(s): Benjamin Joseph Levin, Marcos Enrique Palacios, Steven Andre Battey, Justin Bieber, Justin Beiber, Kisean Paul Anderson, Battey Carlos Centel, Ernest Clark, Carlos Battey, Anderson Kisean Paul.
+subject_label:			no_input
+query_id:			988142

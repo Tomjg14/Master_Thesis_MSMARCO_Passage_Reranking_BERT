@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2250820
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: IVF pregnancy ultrasound at 5 weeks 2 days. Five week pregnancy ultrasound with sac and yolk sac. Transvaginal ultrasound, normal pregnancy at 5 weeks 2 days. Gestational sac (black area ) and yolk sac are seen. Sac measures 6.25mm diameter.
+subject_label:			2
+query_id:			299732

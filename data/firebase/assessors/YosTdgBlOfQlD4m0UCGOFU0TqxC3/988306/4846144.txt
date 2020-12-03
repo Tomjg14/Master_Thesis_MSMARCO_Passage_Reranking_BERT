@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4846144
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Edgewater Bar & Grille is located in the Hilton University Place Charlotte. Visit us in the vibrant heart of Charlotte, North Carolina to enjoy our restaurantâs delicious cuisine as well as our hotelâs convenient services and features. Private dining is also available in our event venues and in our guest rooms and suites. Learn more about the Hilton University Place Charlotte
+subject_label:			1
+query_id:			988306

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088653
+query:			vainglory meaning
+passage:			Passage: Each of them constitutes for him who enjoys it an obligation and not a reason for vainglory. The Simple Life Charles Wagner vainglory is a sleeveless errand, murmured the spirit of the flagellant.
+subject_label:			1
+query_id:			1089051

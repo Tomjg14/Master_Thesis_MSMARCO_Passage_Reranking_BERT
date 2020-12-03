@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7810608
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: From Wikipedia, the free encyclopedia. The Franklin Park Zoo is a 72 acres (290,000 m2) zoo located in Boston, Massachusetts. It is currently operated by Zoo New England, which also operates the Stone Zoo in Stoneham, Massachusetts. The zoo is located in the northeast portion of Franklin Park, Boston's largest park and the last component of the city's famed Emerald Necklace. The zoo was opened to the public in 1912, and managed by the City of Boston until 1958, when the Metropolitan District Commission (MDC) took control.
+subject_label:			1
+query_id:			866251

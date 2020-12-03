@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			143269
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: Affixes (prefixes and suffixes) are added to the root. to create a new word. Example: The Latin root âjectâ means âthrowâ, So project can mean âto throw forwardâ. â¢ A root can be at the front, middle or end. of a word. â¢ Many words in the English language are.
+subject_label:			3
+query_id:			831784

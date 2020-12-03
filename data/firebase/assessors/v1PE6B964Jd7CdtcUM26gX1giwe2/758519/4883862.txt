@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4883862
+query:			what is included in a clutch kit
+passage:			Passage: Clutch Kits, Clutch Kit Parts. Take a look at our selection of Clutch Kits products. We offer an industry leading 30-day Guarantee so that you can Shop with confidence! Select from the products or categories below to narrow the selection in Clutch Kits. Or give us the make, model, and year of your vehicle for a more customized list. 20 out of 124 products in Clutch Kits.
+subject_label:			3
+query_id:			758519

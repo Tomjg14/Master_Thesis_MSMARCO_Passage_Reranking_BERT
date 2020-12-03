@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3936349
+query:			what is polydextrose made from
+passage:			Passage: A review of the studies of the safety of polydextrose in food. Burdock GA(1), Flamm WG. Author information: (1)Burdock & Associates, Vero Beach, FL 32963, USA. Polydextrose (CAS no. 68424-04-4) is a water-soluble polymer of glucose that provides to foods the bulk and texture of sucrose.There are two main forms of polydextrose, an acidic form (PD-A) and a neutralized potassium salt (PD-N). review of the studies of the safety of polydextrose in food. Burdock GA(1), Flamm WG. Author information: (1)Burdock & Associates, Vero Beach, FL 32963, USA. Polydextrose (CAS no. 68424-04-4) is a water-soluble polymer of glucose that provides to foods the bulk and texture of sucrose.
+subject_label:			no_input
+query_id:			785176

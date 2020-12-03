@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1192712
+query:			carnation® evaporated milk total calories
+passage:			Passage: There are 40 calories in a 2 tbsp serving of Carnation Evaporated Milk. Calorie breakdown: 47% fat, 32% carbs, 21% protein.
+subject_label:			5
+query_id:			1085457

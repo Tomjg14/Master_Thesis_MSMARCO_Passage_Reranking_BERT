@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7600257
+query:			average temp in fort worth in march
+passage:			Passage: The highest monthly average temperature in Fort Worth for August is 85 degrees. The lowest monthly average temperature in Fort Worth for December is 46 degrees. The most monthly precipitation in Fort Worth occurs in March with 4.3 inches. The air quality index in Fort Worth is 8% worse than the national average. The pollution index in Fort Worth is 91% better than the national average.
+subject_label:			4
+query_id:			1095278

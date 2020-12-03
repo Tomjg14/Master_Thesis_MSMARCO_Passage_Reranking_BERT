@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7694872
+query:			rigorous testing definition
+passage:			Passage: rigorous adjective (CAREFUL) âº approving careful to look at or consider every part of something to make certain it is correct or safe: rigorous testing/checking/methods.
+subject_label:			3
+query_id:			489257

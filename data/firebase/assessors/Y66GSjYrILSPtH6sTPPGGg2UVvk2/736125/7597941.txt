@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7597941
+query:			what is crossfit?
+passage:			Passage: Is CrossFit Right For You? This depends entirely on what you are looking for in a workout environment and what physical changes you are hoping to see in your body. One less-marketed aspect of Crossfit you may not know of is the central importance of nutrition. Many CrossFitters utilize some form of a Paleo diet.
+subject_label:			1
+query_id:			736125

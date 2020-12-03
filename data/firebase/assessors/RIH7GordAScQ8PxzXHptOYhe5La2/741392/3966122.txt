@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3966122
+query:			what is drop in baseball bat selection
+passage:			Passage: Simply put, you need to concentrate on the size of youth baseball bat more than anything else. Make sure that the bat you select is ideal for your height and body weight. When you talk about the technical details, most youth bats have a drop weight between -10 and -13.5.
+subject_label:			2
+query_id:			741392

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8269102
+query:			temperature diode
+passage:			Passage: Each diode (they are a semiconductor diode) can reach as much as 40-50 degrees difference in temperature if there is little actual heat being pumped. One 2 inch cell will easily make ice from the air but 2 gallons will practically never freeze even with perfect insulation in a reasonable amount of time.
+subject_label:			4
+query_id:			1090054

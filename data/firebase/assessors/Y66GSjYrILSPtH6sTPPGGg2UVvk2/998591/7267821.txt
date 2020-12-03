@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7267821
+query:			where is mathura
+passage:			Passage: Top Places to Visit in Mathura, Uttar Pradesh: See TripAdvisor's 1,523 traveller reviews and photos of Mathura attractions.
+subject_label:			2
+query_id:			998591

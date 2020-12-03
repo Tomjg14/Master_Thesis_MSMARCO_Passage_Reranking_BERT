@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595501
+query:			what does fdg mean
+passage:			Passage: What does FDG mean? This page is all about the meaning, abbreviation and acronym of FDG. explaining the definition or meaning and giving useful information of similar terms. FDG Stands For : FluoroDeoxyGlucose What is FDG?
+subject_label:			2
+query_id:			637459

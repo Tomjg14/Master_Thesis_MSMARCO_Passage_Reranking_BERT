@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5785635
+query:			what is process improvement (lean six sigma)
+passage:			Passage: What is the difference between Lean Six Sigma and Six Sigma? Six Sigma and Lean Six Sigma are two forms of business process and production inspired by Kaizen philosophies to improve quality and efficiency. While the two methods are similar, they each have a slightly different focus and implementation.
+subject_label:			3
+query_id:			786937

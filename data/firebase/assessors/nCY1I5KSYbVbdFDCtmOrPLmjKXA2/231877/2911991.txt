@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2911991
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Hamilton is located in Southern Ontario on the western end of the Niagara Peninsula and wraps around the westernmost part of Lake Ontario; most of the city, including the downtown section, is on the south shore.
+subject_label:			2
+query_id:			231877

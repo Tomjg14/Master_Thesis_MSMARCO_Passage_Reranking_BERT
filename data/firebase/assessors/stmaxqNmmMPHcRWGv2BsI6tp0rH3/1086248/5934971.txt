@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5934971
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Heat rash, also called miliaria or prickly heat, is a skin irritation that stings and makes your skin red. If you have heat rash, your skin may feel itchy, small bumps may form, and you may feel some âprickly,â tingling pain. Heat rash occurs most often in hot, humid weather.
+subject_label:			5
+query_id:			1086248

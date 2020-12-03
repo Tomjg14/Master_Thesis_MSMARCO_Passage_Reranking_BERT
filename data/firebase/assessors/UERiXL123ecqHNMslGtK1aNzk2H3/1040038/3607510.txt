@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3607510
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: An interesting fact about phosphorus pentoxide is that #P_2O_5# is actually its empirical formula; its molecular formula is actually #P_4O_10#. The compound's name however was derived from its empirical formula, not from its molecular formula. The standard name for this compound is actually diphosphorus pentoxide. The di- prefix is used to show that the compound contains two phosphorus atoms and the penta- prefix is used to show it contains five oxygen atoms.
+subject_label:			1
+query_id:			1040038

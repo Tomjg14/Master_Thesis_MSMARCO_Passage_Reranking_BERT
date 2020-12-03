@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6020230
+query:			difference between watt and hertz
+passage:			Passage: Demand = KW Consumption = KWH The difference between demand (KW) and consumption (KWH) is vital to your choices in reducing your energy costs. A simple way to see the difference between demand and consumption is by considering two examples.LIGHTING EXAMPLE: One 100-watt light bulb burning for 10 hours consumes 1,000 watt-hours. or 1 kWh.he difference between demand (KW) and consumption (KWH) is vital to your choices in reducing your energy costs. A simple way to see the difference between demand and consumption is by considering two examples. LIGHTING EXAMPLE: One 100-watt light bulb burning for 10 hours consumes 1,000 watt-hours. or 1 kWh.
+subject_label:			1
+query_id:			149161

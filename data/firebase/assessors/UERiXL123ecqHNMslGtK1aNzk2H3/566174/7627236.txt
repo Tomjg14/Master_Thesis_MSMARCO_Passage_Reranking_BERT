@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7627236
+query:			what are stand up paddle boards made of
+passage:			Passage: About Our Paddle Boards. ISLE Surf & SUP offers one of the industryâs largest selections of trusted, premium quality Stand Up Paddle Boards since 2004. In a sport that values inclusiveness, our paddle boards empower riders of all sizes and skill levels to find adventure out on the water.
+subject_label:			2
+query_id:			566174

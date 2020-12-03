@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1178786
+query:			who is the grinning man
+passage:			Passage: Smileys & People Emoji Meanings Gallery. The Emoticon Category! Smileys, faces, person bowing deeply, man with red face, hearts, hand gestures. Happy. Previous category name: Smileys. View the gallery. Grinning Face.
+subject_label:			1
+query_id:			1040461

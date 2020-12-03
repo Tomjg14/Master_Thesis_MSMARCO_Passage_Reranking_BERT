@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3128909
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: Taken in 1952, this image is the first X-ray picture of DNA, which led to the discovery of its molecular structure by Watson and Crick. Created by Rosalind Franklin using a technique called X-ray crystallography, it revealed the helical shape of the DNA molecule.
+subject_label:			5
+query_id:			1006199

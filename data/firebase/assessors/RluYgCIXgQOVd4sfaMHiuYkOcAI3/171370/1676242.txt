@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1676242
+query:			does singing burn calories
+passage:			Passage: Calories Burned Walking. The Calories Burned Walking Calculator is based on the time you spend walking, your pace, and your weight. You probably have wondered whether walking is even worth it. Many perceive that it does not burn many calories, but that is far from the truth.
+subject_label:			1
+query_id:			171370

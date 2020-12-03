@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7994544
+query:			does singing burn calories
+passage:			Passage: If singing while standing, you will burn approx 2 calories per min, less calories burned when seated. Any activity burns calories. But, singing does help burn more calories when you are doing an activity. If singing while standing, you will burn approx 2 calories per min, less calories burned when seated. Any activity burns calories. But, singing does help burn more calories when you are doing an activity.
+subject_label:			5
+query_id:			171370

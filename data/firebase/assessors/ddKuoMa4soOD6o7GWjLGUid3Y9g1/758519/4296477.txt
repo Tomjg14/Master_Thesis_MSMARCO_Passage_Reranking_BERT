@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4296477
+query:			what is included in a clutch kit
+passage:			Passage: Related articles: Replacing a Timing Belt, Replacing a Water Pump, Replacing a Transmission, Replacing a Clutch, Car Battery, Car Rental. What should be included: A timing chain kit should include the kit itself; any necessary seals, bolts and sprockets, and any other necessary accessories.
+subject_label:			1
+query_id:			758519

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4272335
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Examples of writing formulas from names of compounds (both ionic and molecular). Part 2 of 2. Aluminum selenide, Titanium (II) bromide, Cobalt (II) chlorite,
+subject_label:			1
+query_id:			1040038

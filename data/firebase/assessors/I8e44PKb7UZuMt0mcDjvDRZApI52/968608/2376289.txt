@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2376289
+query:			where did edison set up his first laboratory for research
+passage:			Passage: By the Spring of 1876, Edison moved his operations to Menlo Park. Edisonâs Menlo Park laboratory was the worldâs first such research and development facility. While Edison was working on perfecting the telephone, he started experimenting with the idea of being able to record the sound of the human voice.
+subject_label:			4
+query_id:			968608

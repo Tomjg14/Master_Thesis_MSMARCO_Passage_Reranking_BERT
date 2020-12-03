@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7194256
+query:			what is termis
+passage:			Passage: To accomplish its mission, TERMIS brings together the international community of persons engaged or interested in the field of tissue engineering and regenerative medicine and promotes education and research within the field of tissue engineering and regenerative medicine through regular meetings, publications, and other forms of communication.
+subject_label:			2
+query_id:			1045227

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			597276
+query:			is thread.sleep implicit wait
+passage:			Passage: If that thread is executing a low-level interruptible blocking method like Thread.sleep() , Thread.join() , or Object.wait() , it unblocks and throws InterruptedException. Otherwise, interrupt() merely sets the thread's interruption status.
+subject_label:			3
+query_id:			1093866

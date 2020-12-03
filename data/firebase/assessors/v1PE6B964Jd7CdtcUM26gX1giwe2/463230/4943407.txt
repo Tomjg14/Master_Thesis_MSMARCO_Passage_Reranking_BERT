@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4943407
+query:			neonatal hemochromatosis causes
+passage:			Passage: The two types of hemochromatosis are primary and secondary. Primary hemochromatosis is caused by a defect in the genes that control how much iron you absorb from food. Secondary hemochromatosis usually is the result of another disease or condition that causes iron overload.
+subject_label:			3
+query_id:			463230

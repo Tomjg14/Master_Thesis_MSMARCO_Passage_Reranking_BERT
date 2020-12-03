@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637583
+query:			what is a malanga
+passage:			Passage: Mashed Malanga, Taro, or Yuca: nightshade-free potato substitutes. I love tropical starches like malanga, taro, yuca, and plantains. Potatoes are excluded on the autoimmune paleo protocol because they are nightshades, and most people recommend sweet potatoes as a starchy substitute for potatoes.
+subject_label:			2
+query_id:			689885

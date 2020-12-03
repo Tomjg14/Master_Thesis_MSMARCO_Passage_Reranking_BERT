@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4893225
+query:			where is ridgewood ny located
+passage:			Passage: City of Ridgewood, NY Zip Codes. 1 City of Ridgewood, NY Demographic Information. 2 City of Ridgewood, NY covers 4 Area Codes. 3 City of Ridgewood, NY covers 2 Zip Codes. 107 Cities within 15 Miles of the City of Ridgewood, NY.
+subject_label:			4
+query_id:			991590

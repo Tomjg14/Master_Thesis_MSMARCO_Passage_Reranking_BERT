@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			96361
+query:			average temp in fort worth in march
+passage:			Passage: There are miles from Houston to Fort Worth and miles by car. Houston and Fort Worth are far apart (by car). This is the best Houston, TX - Fort Worth, TX route. Rental cars in Houston, TX. Gas consumption and emissions. A car with an average MPG will need gallons of gas to cover the route between Houston, TX and Fort Worth, TX. The estimated cost of gas to go from Houston to Fort Worth is . During the route, an average car will release pounds of CO2 to the atmosphere. Your carbon footprint is pounds of CO2 per mile. US market average MPG used for calculations is 21.6 MPG.
+subject_label:			1
+query_id:			1095278

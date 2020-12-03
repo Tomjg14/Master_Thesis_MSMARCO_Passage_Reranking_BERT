@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8632205
+query:			how much is donald trump jr worth
+passage:			Passage: Melania Trump Net Worth. How much is Melania Trump Worth? Melania Trump net worth: Melania Trump is a Slovenian model who has a net worth of $50 million. Melania Knauss was born in Sevnica, Socialist Federal Republic of Yugoslavia in April 1970. She is perhaps best known for being the wife of Donald Trump.
+subject_label:			1
+query_id:			321951

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2946104
+query:			what county is laneview va located in
+passage:			Passage: DuBois (Clearfield County) VA Outpatient Clinic (503GB) Frackville: Pottsville VA Clinic, Frackville Location (595GF01) Franklin: Venango County VA Clinic: Greensburg: Westmoreland County Outpatient Clinic: Hermitage: Mercer County VA Outpatient Clinic: Honesdale: Wayne County Outpatient Clinic: Horsham: Victor J. Saracini VA Outpatient Clinic (Montgomery County) Indiana: Indiana County CBOC: Johnstown: Johnstown VA Outpatient Clinic (Cambria County) (503GA) Kittanning: Armstrong County VA Outpatient Clinic: Lancaster: Lancaster VA Clinic (595GC) Mapleton Depot: Huntingdon County CBOC: Meadville: Crawford County Primary Care Clinic: Monroe Township: Clarion County VA Outpatient Clinic: New Castle: Lawrence County VA Outpatient Clinic: Pottsville: Pottsville VA Clinic (595GF) Rochester: Beaver County Outpatient Clinic: Sayre: Sayre VA Outpatient Clinic (693GA) Spring City: Spring City VA Outpatient Clinic (542GE)
+subject_label:			1
+query_id:			608323

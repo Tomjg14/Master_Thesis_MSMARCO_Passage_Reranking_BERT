@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7201998
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: A quick Google search suggests that the most common form of phosphorus selenide is P4Se4. That would make the empirical formula PSe. Another form seems to be P4Se. You are completely correct about P commonly being +3 and Se -2.
+subject_label:			4
+query_id:			1040038

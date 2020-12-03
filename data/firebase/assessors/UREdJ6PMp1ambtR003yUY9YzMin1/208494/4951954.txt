@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4951954
+query:			how big do newfypoo's get
+passage:			Passage: How old is Big Sean? already exists. already exists as an alternate of this question. exists and is an alternate of. Are you glad you don't have to spend hours in the makeup department, getting turned into an alien? Who do big Sean go out with? Is ariana dating big Sean? What is big Sean real name? How tall is Big Sean? Does big Sean have any kids?
+subject_label:			1
+query_id:			208494

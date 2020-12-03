@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192454
+query:			what is impact ratio analysis
+passage:			Passage: ï· Ex ante impact analysis. This is part of the needs analysis and planning activity of the. policy cycle. It involves doing a prospective analysis of what the impact of an. intervention might be, so as to inform policymaking â the policymakers equivalent of. business planning; ï· Ex post impact assessment. This is part of the evaluation and management activity of the policy cycle. Broadly, evaluation aims to understand to what extent and how a policy intervention corrects the problem it was intended to address. Impact assessment
+subject_label:			3
+query_id:			757644

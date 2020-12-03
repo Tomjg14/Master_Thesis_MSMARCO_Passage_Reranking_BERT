@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7825370
+query:			where was the mediterranean gecko introduced
+passage:			Passage: Description. The Mediterranean gecko is a relatively small, 4 - 5 in (10 - 13 cm), species that has become ubiquitous in certain areas of the United States. Unlike any native lizard, geckos have sticky toe pads, vertical pupils, and their large eyes lack eyelids.
+subject_label:			1
+query_id:			1003875

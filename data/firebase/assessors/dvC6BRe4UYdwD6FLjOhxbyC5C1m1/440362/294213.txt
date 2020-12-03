@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			294213
+query:			linking verb synonym
+passage:			Passage: A linking verb is a verb which connects a subject to its predicate without expressing an action. A linking verb is used to re-identify or describe its subject.The word, phrase, or clause which follows a linking verb to re-identify or describe the subject is called the subject complement.The most common linking verb is the verb to be. linking verb is used to re-identify or describe its subject. The word, phrase, or clause which follows a linking verb to re-identify or describe the subject is called the subject complement. The most common linking verb is the verb to be.
+subject_label:			5
+query_id:			440362

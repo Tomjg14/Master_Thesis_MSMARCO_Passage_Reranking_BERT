@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7927959
+query:			temperature diode
+passage:			Passage: The resulting form for the effective carrier lifetime shows an increase with temperature at a rate given by the exponent m indicated in eqn (3). The conditions at the surface of PIN diodes Temperature effects on PIN diodes NORMALIZED RESISTANCE 1.5 greatly influence the diode's charge carrier profiles. In typical PIN diodes, there is always some recombination at the surface, the degree being dependent on the type of passivation used.
+subject_label:			2
+query_id:			1090054

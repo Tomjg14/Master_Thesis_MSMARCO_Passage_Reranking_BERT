@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5641285
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: With 50 Games Left Till Playoffs, Few MLB Teams Out Of Contention. In the dog days of summer, Major League Baseball's regular season has nearly 50 games left. Fans have their eyes on postseason play, and every division has tight races. It might be the best invention the world has ever seen or maybe, actually, the worst.
+subject_label:			1
+query_id:			198807

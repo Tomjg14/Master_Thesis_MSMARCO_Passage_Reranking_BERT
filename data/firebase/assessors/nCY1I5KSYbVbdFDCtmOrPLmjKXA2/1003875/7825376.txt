@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7825376
+query:			where was the mediterranean gecko introduced
+passage:			Passage: FIGURE 3. Shown above is a juvenile Mediterranean Gecko basking in the sun while nestled in a lawn during late-winter in the Galveston-Houston region. FIGURE 4. Mediterranean Geckos hatch from eggs.
+subject_label:			1
+query_id:			1003875

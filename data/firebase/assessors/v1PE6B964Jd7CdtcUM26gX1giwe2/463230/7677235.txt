@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7677235
+query:			neonatal hemochromatosis causes
+passage:			Passage: The exact cause of neonatal hemochromatosis is unknown. There are two schools of thought: one hypothesizes that injury to the liver causes abnormal handling of iron by the liver; the other hypothesizes that the abnormal handling of iron by the liver leads to liver injury and failure.
+subject_label:			5
+query_id:			463230

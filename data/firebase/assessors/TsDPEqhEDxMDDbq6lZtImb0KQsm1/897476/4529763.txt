@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4529763
+query:			what state has the easiest bar exam
+passage:			Passage: About the Ohio Bar Exam. Ohioâs bar exam is similar to most state bar examinations. It has three basic components: (1) an essay portion; (2) the Multistate Bar Examination (MBE), which consists of multiple choice questions; and (3) the Multistate Performance Test (MPT), which is a closed universe writing problem.
+subject_label:			2
+query_id:			897476

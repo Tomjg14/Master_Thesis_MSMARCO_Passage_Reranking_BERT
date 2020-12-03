@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6188970
+query:			who was the basket of apples by
+passage:			Passage: So we can conclude that the golden apples are equal to the word of the first phrase and the silver basket or the picture of silver is equal to the word fitly in the first phrase. Word = Apples, fitly equals pictures of silver.ut the word, if presented fitly, as the apples in a silver basket, then the word fitly spoken will be received more readily. In other words there is a way that words spoken will be accepted more readily if spoken properly or fitly.
+subject_label:			1
+query_id:			986210

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595504
+query:			what does fdg mean
+passage:			Passage: What does F-18 FDG stand for? F-18 FDG stands for 2-(fluorine-18)-fluoro-2-deoxy-D-glucose. Q: A: How to abbreviate 2-(fluorine-18)-fluoro-2-deoxy-D-glucose? 2-(fluorine-18)-fluoro-2-deoxy-D-glucose can be abbreviated as F-18 FDG. Q: A: What is the meaning of F-18 FDG abbreviation? The meaning of F-18 FDG abbreviation is 2-(fluorine-18)-fluoro-2-deoxy-D-glucose. Q: A: What is F-18 FDG abbreviation? One of the definitions of F-18 FDG is 2-(fluorine-18)-fluoro-2-deoxy-D-glucose. Q: A: What does F-18 FDG mean? F-18 FDG as abbreviation means 2-(fluorine-18)-fluoro-2-deoxy-D-glucose. Q: A: What is shorthand of 2-(fluorine-18)-fluoro-2-deoxy-D-glucose? The most common shorthand of 2-(fluorine-18)-fluoro-2-deoxy-D-glucose is F-18 FDG.
+subject_label:			1
+query_id:			637459

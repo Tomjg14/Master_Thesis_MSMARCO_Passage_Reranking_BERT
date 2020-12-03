@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637582
+query:			what is a malanga
+passage:			Passage: Root Vegetables. Malanga is a starchy root vegetable that looks like a yam. The plant is a tropical rain forest plant, but it doesn't need water all the time, and grows fine in full sunlight. The temperature, though, must remain above 68 F (20Â°C.) Above ground, the plant can grow 5 feet (1.5 metres) tall or more.
+subject_label:			4
+query_id:			689885

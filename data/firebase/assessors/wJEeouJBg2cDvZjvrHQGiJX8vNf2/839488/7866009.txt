@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7866009
+query:			what is the plural of kohlrabies
+passage:			Passage: Definition of kohlrabi. plural. kohlrabies. : a cabbage (Brassica oleracea gongylodes) having a greatly enlarged, fleshy, turnip-shaped edible stem; also : its stem used as a vegetable.
+subject_label:			5
+query_id:			839488

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5514425
+query:			what company was skittles made by?
+passage:			Passage: What are Skittles made out of? Despite the differences in flavor the main ingredients of Skittles do not change. Like many other candy products, about 98% of each Skittle consists of sugar, corn syrup and hydrogenated palm kernel oil.
+subject_label:			2
+query_id:			1085796

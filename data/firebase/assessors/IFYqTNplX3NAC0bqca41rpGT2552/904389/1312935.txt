@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1312935
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Our unique Waffle Potato Friesâ¢, Iced Tea and freshly squeezed Lemonade continue to remain top sellers year after year. As we've grown, we've added Chick-fil-A Â® Nuggets, our Chick-fil-A Â® Chargrilled Chicken Sandwich and breakfast items including Breakfast Burritos, Bagels, and Chick-fil-A Chick-n-Minisâ¢.
+subject_label:			1
+query_id:			904389

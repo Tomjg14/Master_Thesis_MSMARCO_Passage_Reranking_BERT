@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7794679
+query:			what is the opposite of benefit?
+passage:			Passage: Opposite of benefit word list. Here are a variety of words whose meaning is nearly the opposite of benefit. cost; detriment; harm; liability; Hope the above listing of antonyms for benefit is useful. This page may interest people looking for the opposite of benefit and benefit opposite. Popular phrases for this post include, opposite of benefit, opposite of benefits, benefit opposite, what is the opposite of benefit, opposite word of benefit, opposite of benifit, opposite to benefit.
+subject_label:			4
+query_id:			837681

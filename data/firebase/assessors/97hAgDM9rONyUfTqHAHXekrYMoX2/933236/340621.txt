@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			340621
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Home : Climate Graphs: Arizona : Tucson. Average Temperatures for Tucson. Tucson's coldest month is January when the average temperature overnight is 38.9Â°F. In June, the warmest month, the average day time temperature rises to 100.2Â°F. The driest month in Tucson is May with 0.24 inches of precipitation, and with 2.30 inches August is the wettest month.
+subject_label:			1
+query_id:			933236

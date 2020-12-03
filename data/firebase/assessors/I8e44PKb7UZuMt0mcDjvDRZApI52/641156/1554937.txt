@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1554937
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: What does the blue dot mean next to someones contact on pinger: What does a blue dot mean when is presented by someones name under my contacts next to the chat option?
+subject_label:			1
+query_id:			641156

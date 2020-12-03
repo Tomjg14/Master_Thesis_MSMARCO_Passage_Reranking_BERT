@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8202238
+query:			what company was skittles made by?
+passage:			Passage: Although the makers of Skittles would like us to think that they come from rainbows, thatâs not really true. So, where did Skittles originate from? Surprisingly, Skittles is a relatively young candy in America. They were first made in 1974 in Britain and were imported to America in 1979. By 1982 Skittles were being made domestically and we were all invited to âtaste the rainbow.â. Skittles now come in many different flavors, including: 1 Original. 2 Tropical. 3 Wild Berry. 4 Crazy Cores. 5 Sour Skittles.
+subject_label:			4
+query_id:			1085796

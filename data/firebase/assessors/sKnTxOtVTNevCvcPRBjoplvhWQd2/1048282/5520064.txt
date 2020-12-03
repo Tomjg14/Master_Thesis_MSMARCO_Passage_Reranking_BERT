@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5520064
+query:			what is pivx
+passage:			Passage: PIVX price equal to 9.242 USD at 2018-01-17. If you buy PIVX for 100 dollars today, you will get a total of 10.820 PIVX. Based on our forecasts, a long-term increase is expected, the price prognosis for 2022-12-30 is 51.779 US Dollars.
+subject_label:			2
+query_id:			1048282

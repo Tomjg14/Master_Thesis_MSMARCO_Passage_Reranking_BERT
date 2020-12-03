@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7117874
+query:			carbon reactivation facilities california
+passage:			Passage: With three spent carbon reactivation facilities (Darlington, PA, Parker, AZ and Red Bluff, CA), Evoqua Water Technologies is a leader in spent carbon reactivation. The Darlington and Parker facilities are both permitted to process RCRA hazardous spent carbon, making Evoqua the only supplier with permitted capacity serving both the East and West Coasts. The Red Bluff facility is the largest non-hazardous carbon reactivation facility in the western United States.
+subject_label:			4
+query_id:			1085584

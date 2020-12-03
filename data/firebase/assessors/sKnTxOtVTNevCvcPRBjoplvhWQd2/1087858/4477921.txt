@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4477921
+query:			what airport is in wilder ky
+passage:			Passage: Another major airport is Nashville International Airport (BNA / KBNA), which has international and domestic flights from Nashville, Tennessee and is 91 miles from Park City, KY. Owensboro-Daviess County Regional Airport (OWB / KOWB) has domestic flights from Owensboro, Kentucky and is 104 miles from Park City, KY.
+subject_label:			1
+query_id:			1087858

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7755685
+query:			what network is pickles on cartoon
+passage:			Passage: Mr. Pickles (series) Mr. Pickles is an animated television series created by Will Carsola and Dave Stewart. The series airs on Cartoon Network's late-night block Adult Swim. Ten episodes have been ordered for the show's first season.
+subject_label:			4
+query_id:			881695

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7370142
+query:			how could the courts check the bureaucracy
+passage:			Passage: Congress serves as a check on the activities of the bureaucracy. Congress oversees the bureaucracy in a number of ways. 1) Duplication-Congress rarely gives any one job to â¦ a single agency.
+subject_label:			2
+query_id:			212195

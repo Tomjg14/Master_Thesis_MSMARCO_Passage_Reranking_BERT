@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			33511
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Zatarain's Jambalaya. Jambalaya. New Orleans is famous for a lot of different meals â chief among them is the traditional rice dish known as Jambalaya. While various ingredients in Jambalaya can vary from chicken, sausage, seafood, or any mixture of the three, the bold flavor and perfect spice is always present.
+subject_label:			1
+query_id:			931726

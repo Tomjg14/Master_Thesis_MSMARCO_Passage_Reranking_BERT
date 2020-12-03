@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192872
+query:			what is ssc je
+passage:			Passage: The SSC JE Paper 1 consisted of General Intelligence and Reasoning, General Awareness, General Engineering (Civil and Structural)/General Engineering (Electrical)/General Engineering (Mechanical). The SSC JE is a conventional type test on engineering discipline.
+subject_label:			4
+query_id:			1045826

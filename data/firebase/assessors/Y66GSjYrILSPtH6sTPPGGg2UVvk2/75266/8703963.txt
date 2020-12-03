@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8703963
+query:			can vcenter standard manage essentials plus
+passage:			Passage: The vCenter Operations Manager Installation and Configuration Guide provides information about installing and upgrading VMwareÂ®vCenter Operations Manager on Window or Linux operation systems. Intended Audience This guide is intended for anyone who wants to install vCenter Operations Manager.
+subject_label:			1
+query_id:			75266

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8613521
+query:			how much is college in florida
+passage:			Passage: Estimated cost for a class at Northwood University Florida based on published credit hour prices. Note that not all schools allow single class enrollment. These prices should be used for comparison purposes as to how much it may cost to take a class at Northwood University Florida versus other colleges.
+subject_label:			2
+query_id:			1095876

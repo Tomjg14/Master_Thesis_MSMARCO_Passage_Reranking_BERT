@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5843471
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Dizziness and lightheadedness are also early symptoms of pregnancy, caused by low blood pressure. In your first trimester, it is normal to experience dizziness during pregnancy as the blood vessels dilate, which reduces blood pressure. The blood pressure gets back to normal during the second trimester.
+subject_label:			1
+query_id:			414155

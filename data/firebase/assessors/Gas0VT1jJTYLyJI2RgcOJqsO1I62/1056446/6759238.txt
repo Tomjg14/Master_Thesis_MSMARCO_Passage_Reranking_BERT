@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6759238
+query:			what is dockpanel used for
+passage:			Passage: Can you please tell me what n! or n factorial is used for. I know what it is (5! is 120, because 1*2*3*4*5 = 120), but not what it is used for. I have heard that it is used in probability, but what for, and how? How does it work, and what are its uses? Date: 08/30/2001 at 10:49:46 From: Doctor Ian Subject: Re: What is n factorial used for? Hi Stuart, The factorial function is useful in computing the number of combinations or permutations that can be constructed from a set of objects.
+subject_label:			1
+query_id:			1056446

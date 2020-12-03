@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5173859
+query:			weather in fletcher,nc
+passage:			Passage: Park Fletcher Commercial Real Estate. View our Park Fletcher real estate area information to learn about the weather, local school districts, demographic data, and general information about Park Fletcher, IN. Get in touch with a Park Fletcher real estate agent who can help you find the home of your dreams in Park Fletcher.
+subject_label:			1
+query_id:			1088541

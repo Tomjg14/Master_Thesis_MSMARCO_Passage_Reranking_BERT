@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5971878
+query:			where do the ash borer come from
+passage:			Passage: What do emerald ash borers do to ash trees? Emerald ash borer is a wood boring insect that feeds on the xylem and phloem of ash trees when it is in its larval stage. By feeding on these tissues, the larvae cut off valua â¦ ble water and nutrient supplies to parts of the tree and cause die back. As the infestation progresses more of the tree dies back and, eventually the tree dies.
+subject_label:			3
+query_id:			971653

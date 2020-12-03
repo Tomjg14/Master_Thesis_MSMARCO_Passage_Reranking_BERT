@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4403207
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: The HLA system and solid-organ transplantation . In solid-organ transplantation, HLA-matching means absence of HLA antigens in the donor that could be the target of anti-HLA antibodies present in the recipient. The matching is not between the antigens in the recipient and those in the donor, like in bone-marrow transplantation.
+subject_label:			3
+query_id:			1026799

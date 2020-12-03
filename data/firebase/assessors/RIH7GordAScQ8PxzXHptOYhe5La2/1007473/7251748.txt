@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7251748
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: User: _______ sediments originate from elements in seawater that precipitate out of solution. A. Hydrogenous B. Biogenous C. Turbidigeous D. Terrigenous. Weegy: Hydrogenous sediments originate from elements in seawater that precipitate out of solution.
+subject_label:			5
+query_id:			1007473

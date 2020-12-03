@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8149553
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: Structure in any organization is inevitable-- an organization, by definition, implies a structure. Your group is going to have some structure whether it chooses to or not. It might as well be the structure which best matches up with what kind of organization you have, what kind of people are in it, and what you see yourself doing.
+subject_label:			1
+query_id:			1026799

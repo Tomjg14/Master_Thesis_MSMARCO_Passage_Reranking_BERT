@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6065317
+query:			difference between watt and hertz
+passage:			Passage: The primary difference between 50 Hz (Hertz) and 60 Hz (Hertz) is, well, 60Hz is 20% higher in frequency.
+subject_label:			2
+query_id:			149161

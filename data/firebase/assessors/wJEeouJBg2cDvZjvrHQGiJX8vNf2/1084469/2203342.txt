@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2203342
+query:			what does a grassroots organization mean
+passage:			Passage: What does it mean if an organism is multicellular? An organism is classified as unicellular when it is composed of only one cell. the cell itself does not differentiate.hat does it mean if an organism is multicellular? An organism is classified as unicellular when it is composed of only one cell. the cell itself does not differentiate.
+subject_label:			1
+query_id:			1084469

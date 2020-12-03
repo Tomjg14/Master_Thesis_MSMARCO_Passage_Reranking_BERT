@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7315196
+query:			what hormone secretion causes goiter
+passage:			Passage: Hyperthyroidism, or overactive thyroid, can be caused by a number of conditions affecting the thyroid. Common causes of hyperthyroidism include Graves disease, toxic nodule, toxic multinodular goiter, thyroiditis, excess TSH secretion, taking excess thyroid hormone, or excess iodine intake.
+subject_label:			2
+query_id:			669427

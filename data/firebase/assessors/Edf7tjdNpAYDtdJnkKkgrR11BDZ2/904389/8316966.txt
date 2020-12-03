@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8316966
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: jenn harris contact reporter chick fil a is testing a new breakfast menu with chicken and waffles greek yogurt and more chick fil a has started testing a new breakfast menu at select locations around the country including its 12 restaurants in the inland empireenn harris contact reporter chick fil a is testing a new breakfast menu with chicken and waffles greek yogurt and more chick fil a has started testing a new breakfast menu at select locations around the country including its 12 restaurants in the inland empire
+subject_label:			1
+query_id:			904389

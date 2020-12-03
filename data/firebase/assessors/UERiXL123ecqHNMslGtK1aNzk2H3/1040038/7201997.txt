@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7201997
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: atomic mass of phosphorous = 31g atomic mass of selenium = 79g 45.2/31 = 1.45 which is nearly 1.5 mol of P 131.6 - 45.2 = 86.4g 86.4/79 =1.09 which is nearly 1 mol of Se So the empirical formula of the phosphorus selenide is: P3Se2
+subject_label:			3
+query_id:			1040038

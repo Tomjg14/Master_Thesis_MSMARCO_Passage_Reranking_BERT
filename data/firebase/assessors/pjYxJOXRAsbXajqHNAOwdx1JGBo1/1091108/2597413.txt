@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2597413
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Sensory Receptors for Hearing. Summary Information: Sensory Receptors for Hearing. Sensory Receptors for Hearing: The sensory receptors for hearing are specialized types of sensory receptors that are located in the inner ear. The sensory receptors for hearing play an important role in sensing sound waves or vibrations and in hearing.
+subject_label:			3
+query_id:			1091108

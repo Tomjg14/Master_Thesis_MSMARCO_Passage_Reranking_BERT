@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3967892
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: The 1940s and Pro Football's Other Undefeated Teams. You won't find it in the NFL Record and Fact Book but there was another team that like the 1972 Miami Dolphins, experienced a perfect season, undefeated and untied through regular and post-season play. The Cleveland Browns, then members of the All-America Football Conference finished 15-0 in 1948.
+subject_label:			2
+query_id:			198807

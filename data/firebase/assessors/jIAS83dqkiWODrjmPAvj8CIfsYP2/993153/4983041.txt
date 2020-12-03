@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4983041
+query:			which situation does a company issue a note receivable
+passage:			Passage: Payment card number. A payment card number, or simply a card number, is the card identifier found on payment cards, such as credit cards and debit cards, as well as stored-value cards, gift cards and other similar cards. In some situations the card number is referred to as a bank card number. The card number is merely a card identifier and does not identify the account to which it is linked by the issuing company, nor does it identify the cardholder.
+subject_label:			1
+query_id:			993153

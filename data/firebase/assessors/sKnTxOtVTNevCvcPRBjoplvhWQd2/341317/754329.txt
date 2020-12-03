@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			754329
+query:			how tall is samus aran
+passage:			Passage: arachnology; arachnolysin; arachnomelia; arachnophobia; araha-vabhedaka; Arakawa, Tsuneo; Aralen; aralkyl; Aramine; aran; Aran, Francois; Aranaeomorpha; Aran-Duchenne disease; Aran-Duchenne muscular atrophy; Aran-Duchenne Muscular Dystrophy; Araneida; araneism; araneous; Arantius; Arantius body; Arantius' ventricle; Arantius, Giulio C. Arantius, Julius Caesar; Arantiusâ ventricle; araphia; ARAS
+subject_label:			1
+query_id:			341317

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1965435
+query:			linking verb synonym
+passage:			Passage: tread (noun) the part (as of a wheel or shoe) that makes contact with the ground. Synonyms: pace, stride. tread (verb) structural member consisting of the horizontal part of a stair or step. Synonyms: pace, stride. step, tread (verb) put down or press the foot, place the foot For fools rush in where angels fear to tread; step on the brake Synonyms: maltreat, step, tread, pace, abuse, trample, mistreat, ill-use, ill-treat. tread, trample (verb) tread or stomp heavily or roughly The soldiers trampled across the fields Synonyms: tramp down, tread, step, tread down, trample. tread (verb) crush as if by treading on tread grapes to make wine Synonyms: step, trample. tread (verb) brace (an archer's bow) by pressing the foot against the center. Synonyms: step, trample. tread (verb)
+subject_label:			2
+query_id:			440362

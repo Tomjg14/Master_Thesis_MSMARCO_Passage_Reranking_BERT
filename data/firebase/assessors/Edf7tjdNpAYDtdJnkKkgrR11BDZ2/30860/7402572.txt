@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7402572
+query:			average amount of money stna make
+passage:			Passage: A new STNA can start at little as 8.50 an hour, but the normal is from 10-12.50. An STNA can make up to 14 an hour depending on shift differential and experience. When you get into home private care that's where the money is higher. A new STNA can start at little as 8.50 an hour, but the normal is from 10-12.50. An STNA can make up to 14 an hour depending on shift differential and experience. When you get into home private care that's where the money is higher. An STNA can make up to 14 an hour depending on shift differential and experience.
+subject_label:			3
+query_id:			30860

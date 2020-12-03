@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3560922
+query:			what state has the easiest bar exam
+passage:			Passage: Planning on taking the North Carolina Bar Exam? To learn more about the North Carolina Bar Exam, visit our state bar exam information page for North Carolina: North Carolina Bar Exam. Stay in the loop with MBE tips & hints, plus special program offers.
+subject_label:			1
+query_id:			897476

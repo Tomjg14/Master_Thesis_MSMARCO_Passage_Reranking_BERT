@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7164229
+query:			what is aircraft ram air
+passage:			Passage: A ram air turbine is a small airflow driven engine that supplies supplies emergency electrical or hydraulic power to aircraft or...
+subject_label:			3
+query_id:			1064195

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7872731
+query:			carbon reactivation facilities california
+passage:			Passage: What Facilities are CoveredWhat Facilities are Covered. ï® Those Who Use Chemicals in Appendix A: A List of highly. hazardous chemicals, toxics and reactive (Mandatory). Contains a. listing of 137 toxic and reactive highly hazardous chemicals which. present a potential for a catastrophic event at or above the.
+subject_label:			4
+query_id:			1085584

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7519779
+query:			how much does a audit senior make
+passage:			Passage: Tag Archives: how much do audit senior managers make Audit Senior Manager Salary By State If youâve worked your way up to the position of an Audit Senior Manager then you should be concerned with how much youâre being paid.
+subject_label:			3
+query_id:			1096257

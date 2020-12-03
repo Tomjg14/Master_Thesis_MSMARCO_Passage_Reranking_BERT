@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3422723
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Hamilton's location at the western end of Lake Ontario has ensured it a strategic position within Ontario's transportation network. Southeast of the lake are the Niagara Peninsula and Buffalo, NY; northeast of the lake are Toronto and eastern Ontario; and to the west are southwestern Ontario and Detroit, MI. Today, an increasing number of Hamilton residents commute to work in Toronto by car or via GO Transit.
+subject_label:			2
+query_id:			231877

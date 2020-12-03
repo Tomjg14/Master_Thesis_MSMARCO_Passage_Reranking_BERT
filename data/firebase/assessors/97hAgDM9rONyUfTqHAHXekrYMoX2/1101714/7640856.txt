@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7640856
+query:			definition, nepotism
+passage:			Passage: Definition of nepotism - the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs Definition of nepotism - the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs dictionary thesaurus
+subject_label:			4
+query_id:			1101714

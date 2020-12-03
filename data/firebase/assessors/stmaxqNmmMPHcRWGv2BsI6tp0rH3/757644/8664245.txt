@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8664245
+query:			what is impact ratio analysis
+passage:			Passage: Explain why ratio analysis is usually the first step in the analysis of a companyâs financial statements. List the five groups of ratios, specify which ratios belong in each group, and explain what information each group gives us about the firmâs financial position. State what trend analysis is, and why it is important.
+subject_label:			4
+query_id:			757644

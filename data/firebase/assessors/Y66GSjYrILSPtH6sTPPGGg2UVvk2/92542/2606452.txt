@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2606452
+query:			circulation money definition
+passage:			Passage: money supply. the amount of MONEY in circulation in an economy. Money supply can be specified in a variety of ways (see Fig. 127 ), and the total value of money in circulation depends on which definition of the money supply is adopted.
+subject_label:			2
+query_id:			92542

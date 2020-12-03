@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3936345
+query:			what is polydextrose made from
+passage:			Passage: As a sugar substitute that is derived from dextrose, polydextrose is a food ingredient that can be used as a low calorie substitute in many recipes.s a sugar substitute that is derived from dextrose, polydextrose is a food ingredient that can be used as a low calorie substitute in many recipes.
+subject_label:			5
+query_id:			785176

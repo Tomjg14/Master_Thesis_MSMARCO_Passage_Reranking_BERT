@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7073273
+query:			how big do newfypoo's get
+passage:			Passage: Minimal Shedding: Recommended for owners who do not want to deal with hair in their cars and homes. Easy Training: The Newfypoo is known to listen to commands and obey its owner. Expect fewer repetitions when training this breed. Good Watchdog Ability: This dog will bark and alert its owners when an intruder is present.
+subject_label:			2
+query_id:			208494

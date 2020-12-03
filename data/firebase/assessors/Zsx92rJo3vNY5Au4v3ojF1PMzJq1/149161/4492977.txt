@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4492977
+query:			difference between watt and hertz
+passage:			Passage: Share it with your friends/family. 1 Difference Between HP and BHP. 2 Difference Between Amps and Watts. 3 Difference Between HorsePower and Torque. 4 Difference Between Volts and Watts. 5 Difference Between dB and dBm. 6 Difference Between Work and Power. 7 Difference Between Meq and Mmol.
+subject_label:			3
+query_id:			149161

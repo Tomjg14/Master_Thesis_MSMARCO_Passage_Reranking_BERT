@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5845637
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: You now know that food can be contaminated from sources in the natural environment, people, food preparation surfaces and utensils, raw and uncooked food, animals, pests, and waste material. To prevent contamination, food production and preparation operations need to be carefully controlled.
+subject_label:			2
+query_id:			1068726

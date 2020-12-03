@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1332760
+query:			what is polydextrose made from
+passage:			Passage: Active Ingredients: Magnesium Salicylate Tetrahydrate 580 mg* (NSAID)^ (Pain Reliever). Inactive Ingredients: Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polydextrose, Polyethylene Glycol, Stearic Acid, Titanium Dioxide, Triacetin.
+subject_label:			2
+query_id:			785176

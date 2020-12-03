@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			765210
+query:			what company was skittles made by?
+passage:			Passage: Skittles History. Skittles were first made commercially in 1974 by a British company. They were then introduced in North America in 1979 as an import confectionery. Finally in 1982, domestic production of Skittles began in the United States.
+subject_label:			3
+query_id:			1085796

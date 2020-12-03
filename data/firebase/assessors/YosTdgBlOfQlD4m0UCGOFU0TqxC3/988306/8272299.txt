@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8272299
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Uptown Charlotte Hotel. Enjoy central location and superior amenities of Hilton Charlotte Center City. The hotel offers easy access to the Charlotte Convention Center via a covered walkway, and complimentary access to the YMCA which is also connected to the hotel.
+subject_label:			2
+query_id:			988306

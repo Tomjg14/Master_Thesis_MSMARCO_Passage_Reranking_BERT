@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5961887
+query:			what is the parent company for adidas
+passage:			Passage: Adidas may sell Reebok. Shares in adidas surge on speculation that German company may sell US sports brand Reebok. Shares in adidas have surged on speculation that the German company may sell Reebok, its US sportswear brand. Adidas shares rose 4.7pc to â¬57.18 in afternoon trading as investors digested the prospect of the under-pressure company raising billions of pounds by selling off Reebok.
+subject_label:			3
+query_id:			838453

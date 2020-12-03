@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			6335306
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: A-The geckos you have are an introduced species, probably the Mediterranean gecko, which has become an established resident that thrives in many Florida cities as well as some warm weather areas elsewhere.
+subject_label:			1
+query_id:			1003875

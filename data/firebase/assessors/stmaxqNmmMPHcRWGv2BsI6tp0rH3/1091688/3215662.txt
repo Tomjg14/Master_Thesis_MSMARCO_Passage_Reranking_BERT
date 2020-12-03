@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3215662
+query:			phone number for bc transit junction
+passage:			Passage: York Region Transit Phone Number. The number and steps below are voted #1 of 2 by over 2100 York Region Transit customers. 905-762-2100. York Region Transit phone support. Read key steps and hints below. They call you insteadNo waiting on hold.Free.his phone number is popular with other York Region Transit customers, but be sure to follow the 6 steps further down. 15 mins average hold time. call Mon-Fri 7am-7pm, Sat-Sun 8:30am-4:30pm EST open now. #1 of 2 York Region Transit phone numbers.
+subject_label:			2
+query_id:			1091688

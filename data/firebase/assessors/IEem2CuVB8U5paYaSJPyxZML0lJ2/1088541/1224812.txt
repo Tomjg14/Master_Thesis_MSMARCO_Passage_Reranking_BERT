@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1224812
+query:			weather in fletcher,nc
+passage:			Passage: Weather for Mooresville, NC - Mooresville, NC Weather, Current Weather in Mooresville, NC. Local weather report for Mooresville, NC, Local Mooresville, NC weather. Forecast for Mooresville, North Carolina, Mooresville, NC weather forecast. Find your local Mooresville weather forecast. Mooresville, NC weather conditions.
+subject_label:			1
+query_id:			1088541

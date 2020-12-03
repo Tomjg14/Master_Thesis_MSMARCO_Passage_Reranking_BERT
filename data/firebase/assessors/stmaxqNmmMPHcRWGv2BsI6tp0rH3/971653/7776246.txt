@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7776246
+query:			where do the ash borer come from
+passage:			Passage: Frequently Asked Questions about the Emerald Ash Borer Where did the Emerald Ash Borer beetle come from? The Emerald Ash Borer originated from eastern Russia, northern China, Japan and Korea. Before June of 2002, it had never been found in North America.
+subject_label:			5
+query_id:			971653

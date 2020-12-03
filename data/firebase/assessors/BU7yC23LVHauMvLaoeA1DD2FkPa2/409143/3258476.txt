@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3258476
+query:			is education a constitutional right
+passage:			Passage: Explain how the Court interpreted the First, Third, Fourth, Fifth, and Ninth Amendments in holding that the Constitution protects a right to privacy. The majority opinion asserted, âThe association of people is not mentioned in the Constitution nor in the Bill of Rights. The right to educate a child in a school of the parentsâ choice â whether public or private or parochial â is also not mentioned.
+subject_label:			2
+query_id:			409143

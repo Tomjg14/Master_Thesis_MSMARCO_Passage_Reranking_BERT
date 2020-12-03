@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3618177
+query:			does singing burn calories
+passage:			Passage: However, exercising at a high intensity for an hour burns 400 calories, and 140 of those are from fat. Not only does this burn more fat calories, it also burns twice the overall calories.
+subject_label:			1
+query_id:			171370

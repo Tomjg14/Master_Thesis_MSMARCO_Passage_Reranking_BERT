@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			140012
+query:			what's the difference between jambalaya and paella
+passage:			Passage: The sweep-up-the-kitchen cousin of Spanish paella, jambalaya comes in red (Creole, with tomatoes) and brown (Cajun, without). Made with meat, vegetables (a trinity of celery, peppers, and onions), and rice, Louisianaâs signature dish might be most memorable when made with shrimp and andouille sausage.
+subject_label:			2
+query_id:			931726

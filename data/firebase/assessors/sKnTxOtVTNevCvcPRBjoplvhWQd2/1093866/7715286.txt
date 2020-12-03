@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7715286
+query:			is thread.sleep implicit wait
+passage:			Passage: Implicit Wait; Explicit Wait ; Implicit Wait. Selenium Web Driver has borrowed the idea of implicit waits from Watir. The implicit wait will tell to the web driver to wait for certain amount of time before it throws a No Such Element Exception. The default setting is 0. Once we set the time, web driver will wait for that time before throwing an exception. In the below example we have declared an implicit wait with the time frame of 10 seconds. It means that if the element is not located on the web page within that time frame, it will throw an exception. To declare implicit wait: Syntax: driver.manage().timeouts().implicitlyWait(TimeOut, TimeUnit.SECONDS);
+subject_label:			1
+query_id:			1093866

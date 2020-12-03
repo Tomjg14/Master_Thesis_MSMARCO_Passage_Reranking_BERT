@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5846552
+query:			how much does a spectacled bear weigh
+passage:			Passage: The panda's closest relative is the spectacled bear of South America. Physical Characteristics. Pandas are about the size of the American black bear. An adult panda is typically 1.5 meters long (4 - 5 feet) and weighs about 75 to 135 kilograms (165 to 353 pounds).Males are 10% to 20% heavier than females. Pandas live between 18 to 25 years in the wild.he panda's closest relative is the spectacled bear of South America. Physical Characteristics. Pandas are about the size of the American black bear. An adult panda is typically 1.5 meters long (4 - 5 feet) and weighs about 75 to 135 kilograms (165 to 353 pounds).
+subject_label:			1
+query_id:			311540

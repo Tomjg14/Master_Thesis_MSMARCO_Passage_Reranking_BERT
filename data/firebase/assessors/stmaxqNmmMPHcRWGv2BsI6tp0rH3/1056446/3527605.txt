@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3527605
+query:			what is dockpanel used for
+passage:			Passage: The prologue to the US Constitution is the preamble. It states what the intent of the Constitution is, what it hopes to accomplish.he prologue to the US Constitution is the preamble. It states what the intent of the Constitution is, what it hopes to accomplish.
+subject_label:			1
+query_id:			1056446

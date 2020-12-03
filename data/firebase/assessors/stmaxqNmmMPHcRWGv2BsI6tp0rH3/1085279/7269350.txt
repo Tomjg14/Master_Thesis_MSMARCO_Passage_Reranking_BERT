@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7269350
+query:			what county is stacy minnesota
+passage:			Passage: Latest news from Stacy, MN collected exclusively by city-data.com from local newspapers, TV, and radio stations. Forest Lake Times Gordon 8220 Gordy 8221 Grubbs. Gordy Grubbs, age 65 of Stacy, Minnesota, died on April 17, 2017 after battling cancer.
+subject_label:			2
+query_id:			1085279

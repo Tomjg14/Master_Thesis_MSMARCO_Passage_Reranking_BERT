@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7927957
+query:			temperature diode
+passage:			Passage: CONCLUSION This paper presented the results of a study that analyzed the effect of temperature on PIN diode forward bias resistance. It showed that the carrier lifetime temperature coefficient is the primary mechanism that determines temperature performance and that this coefficient for any particular diode depends on the diode geometry and passivation material.
+subject_label:			2
+query_id:			1090054

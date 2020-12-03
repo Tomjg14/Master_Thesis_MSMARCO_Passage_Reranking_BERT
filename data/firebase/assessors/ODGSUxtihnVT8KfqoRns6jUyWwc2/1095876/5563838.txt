@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5563838
+query:			how much is college in florida
+passage:			Passage: 1 75% - How how much wiill it cost to drive from new york to orlando florida? 2 65% - How much would it cost in gas and tolls to travel from from florida to new jersey? 3 58% - How much will tolls cost from staten island, to stuart florida? 4 62% - How much florida it cost in tolls from miami gardes to orlando? 62% - How much will it cost in tolls from florida to chicago? 2 75% - How how much wiill it cost to drive from new york to orlando florida? 3 65% - How much would it cost in gas and tolls to travel from from florida to new jersey? 4 58% - How much will tolls cost from staten island, to stuart florida?
+subject_label:			1
+query_id:			1095876

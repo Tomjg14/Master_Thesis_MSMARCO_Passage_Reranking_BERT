@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5117538
+query:			what network is pickles on cartoon
+passage:			Passage: Timeline created by doverisstudent. In History. Oct 1, 1992. Cartoon Network Launch. Cartoon Network was lauch with the original Cartoon CARTOONS. Apr 10, 1994. Cartoon Network Studios Founded. Sometime in 1994 Cartoon Network Was Founded By Hanna-Barbera.
+subject_label:			1
+query_id:			881695

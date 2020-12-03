@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1089727
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Other complications of pregnancy, which are not as common, include the following: Severe, persistent nausea and vomiting. Although having some nausea and vomiting is normal during pregnancy, particularly in the first trimester, some women experience more severe symptoms that last into the third trimester.
+subject_label:			3
+query_id:			414155

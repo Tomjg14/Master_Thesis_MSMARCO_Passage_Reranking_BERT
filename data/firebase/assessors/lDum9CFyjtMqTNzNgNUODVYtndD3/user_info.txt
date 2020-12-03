@@ -1,0 +1,7 @@
+user_id:			lDum9CFyjtMqTNzNgNUODVYtndD3
+consent:			true
+batches:			["9","10"]
+english:			8
+unassessed_queries:			[]
+progress:			6
+contact:			false

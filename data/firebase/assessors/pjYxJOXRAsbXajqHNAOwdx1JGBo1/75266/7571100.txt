@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7571100
+query:			can vcenter standard manage essentials plus
+passage:			Passage: VMware vSphere 6 Editions for Smaller Environments. VMware vSphere 6 Essentials and VMware vSphere 6 Essentials Plus packages must be considered separately. They have been specifically designed for small businesses and can virtualize up to three physical servers. Central management of these servers is only possible via vCenter Server for Essentials. vCenter Server Standard, which allows central management of any number of physical host servers, can only be used with regular vSphere licenses with or without vSOM.
+subject_label:			4
+query_id:			75266

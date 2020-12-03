@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1710590
+query:			definition of purse
+passage:			Passage: Medical Definition of ORBICULARIS ORIS. : a muscle made up of several layers of fibers passing in different directions that encircles the mouth and controls most movements of the lips (as compressing, closing, or pursing movements).edical Definition of ORBICULARIS ORIS. : a muscle made up of several layers of fibers passing in different directions that encircles the mouth and controls most movements of the lips (as compressing, closing, or pursing movements).
+subject_label:			2
+query_id:			137508

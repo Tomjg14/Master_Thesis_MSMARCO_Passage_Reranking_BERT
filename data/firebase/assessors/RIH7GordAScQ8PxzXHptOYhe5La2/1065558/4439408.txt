@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4439408
+query:			what is a variable account in a annuity
+passage:			Passage: A deferred annuity which grows by interest rate earnings alone is called a fixed deferred annuity (FA). A deferred annuity that permits allocations to stock or bond funds and for which the account value is not guaranteed to stay above the initial amount invested is called a variable annuity (VA).
+subject_label:			5
+query_id:			1065558

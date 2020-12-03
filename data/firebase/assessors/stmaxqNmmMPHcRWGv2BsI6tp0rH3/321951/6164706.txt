@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			6164706
+query:			how much is donald trump jr worth
+passage:			Passage: Eric Trump, the third of Donald Trumpâs five children who stands tall at 6-foot-5, has a net worth of $150 million, which is about the same net worth as his brother, Donald Trump Jr. Eric was born to Donald Trump and Ivana Trump and heâs currently an executive vice president of The Trump Organization.
+subject_label:			3
+query_id:			321951

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			200065
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Lean Six Sigma a business improvement methodology that maximizes shareholder value by achieving the fastest rate of improvement in customer satisfaction, cost, quality, process speed, and invested capital why is the fusion of lean and six sigma improvement methods required lean cannot bring a process under statistical control, six sigma alone cannot dramatically improve process speed or reduce invested capital, both enable the reduction of the cost complexity
+subject_label:			4
+query_id:			786937

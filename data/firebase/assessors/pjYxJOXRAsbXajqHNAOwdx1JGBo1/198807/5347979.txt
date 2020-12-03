@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5347979
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: The 1978â79 Indiana State Sycamores men's basketball team is considered the greatest in the school's history. The Sycamores were undefeated in the regular season and were led by Larry Bird. He led an undefeated team to the national title game versus a Magic Johnson-led Michigan State Spartans team, and ended the season as National Runner-Up with a record of 33â1.
+subject_label:			4
+query_id:			198807

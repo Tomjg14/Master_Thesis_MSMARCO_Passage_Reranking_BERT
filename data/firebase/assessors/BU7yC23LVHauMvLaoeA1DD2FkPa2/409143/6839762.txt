@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6839762
+query:			is education a constitutional right
+passage:			Passage: The right of the working people to a higher education is affirmed by their constitutions; and higher education is accessible to all citizens who have completed their secondary education, regardless of sex, race, nationality, social origin, or property status.
+subject_label:			3
+query_id:			409143

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4651581
+query:			what does fdg mean
+passage:			Passage: Fludeoxyglucose (18F) (INN), or fludeoxyglucose F 18 (USAN and USP), also commonly called fluorodeoxyglucose and abbreviated [18F]FDG, 18F-FDG or FDG, is a radiopharmaceutical used in the medical imaging modality positron emission tomography (PET).lthough in theory all 18 F-FDG is metabolized as above with a radioactivity elimination half-life of 110 minutes (the same as that of fluorine-18), clinical studies have shown that the radioactivity of 18 F-FDG partitions into two major fractions.
+subject_label:			5
+query_id:			637459

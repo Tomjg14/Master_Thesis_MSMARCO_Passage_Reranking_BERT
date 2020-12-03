@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7506061
+query:			what is a hydromyelia
+passage:			Passage: Diagnosing hydromyelia requires medical imaging studies. Hydromyelia is characterized by a buildup of fluid inside the central canal of the spinal cord. Buildup of fluid inside the central canal of the spinal cord is referred to as hydromyelia. Hydromyelia may cause difficulty walking.
+subject_label:			4
+query_id:			687375

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4655241
+query:			who is the grinning man
+passage:			Passage: In the opening lines, for exampleâWe wear the mask that grins and lies, / It hides our cheeks and shades our eyes--Dunbar is careful to show that the mask is grinning, not the black man. Although the poet's use of the word lies is probably simple, it might not be.
+subject_label:			2
+query_id:			1040461

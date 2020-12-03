@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6190091
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: The average walking speed is about 4 miles per hour. 1434 divided into groups of 4 miles will tell you how many hours. 1434/4 =359 hours Thats about 15 days if you walk slow.he average walking speed is about 4 miles per hour. 1434 divided into groups of 4 miles will tell you how many hours. 1434/4 =359 hours Thats about 15 days if you walk slow.
+subject_label:			1
+query_id:			1096932

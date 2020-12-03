@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			520531
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Jambalaya. Jambalaya is a rice dish in Creole and Cajun cuisine that has roots in Spanish paella. Made with meat like chicken or andouille sausage, seafood, the holy trinity of spices, stock, and rice, this dish is an example of a one-pot meal that is characteristic of Cajun cuisine.hough Creole and Cajun are often grouped together, they are two distinct types of food that evolved separately. Louisiana Creole was created by the blend of various cultures, especially the French and Spanish, but also influenced by Portuguese, Italian, Native American, and African cultures.
+subject_label:			2
+query_id:			931726

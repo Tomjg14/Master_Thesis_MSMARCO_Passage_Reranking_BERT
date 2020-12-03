@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7162890
+query:			what is a variable account in a annuity
+passage:			Passage: If the annuity is held within a retirement plan it is known as a qualified annuity and distributions are totally taxable. If the annuity is purchased in the taxable account it is known as a non-qualified variable annuity and only the earnings are subject to tax. Variable annuity withdrawals are made on an earnings first, basis last principle.
+subject_label:			4
+query_id:			1065558

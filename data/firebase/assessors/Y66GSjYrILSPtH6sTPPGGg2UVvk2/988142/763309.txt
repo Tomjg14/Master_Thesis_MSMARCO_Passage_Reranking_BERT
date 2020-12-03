@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			763309
+query:			who paul clark
+passage:			Passage: Melrose is represented in the Massachusetts House of Representatives by Paul Brodeur (D), and by Jason Lewis (D) in the Massachusetts Senate. Melrose is part of the fifth Congressional district of Massachusetts, and is represented by Katherine Clark (D).
+subject_label:			no_input
+query_id:			988142

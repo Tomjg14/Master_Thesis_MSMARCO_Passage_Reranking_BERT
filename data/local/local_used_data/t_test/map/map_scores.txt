@@ -1,0 +1,12 @@
+model: bm25; dataset: ms_marco; cutoff: 5; map_score: 47.1
+model: bm25; dataset: ms_marco; cutoff: 10; map_score: 49.1
+model: bm25; dataset: threshold=2; cutoff: 5; map_score: 94.6
+model: bm25; dataset: threshold=2; cutoff: 10; map_score: 92.1
+model: bm25; dataset: threshold=3; cutoff: 5; map_score: 88.2
+model: bm25; dataset: threshold=3; cutoff: 10; map_score: 81.1
+model: bert; dataset: ms_marco; cutoff: 5; map_score: 71.8
+model: bert; dataset: ms_marco; cutoff: 10; map_score: 72.8
+model: bert; dataset: threshold=2; cutoff: 5; map_score: 88.1
+model: bert; dataset: threshold=2; cutoff: 10; map_score: 83.4
+model: bert; dataset: threshold=3; cutoff: 5; map_score: 85.9
+model: bert; dataset: threshold=3; cutoff: 10; map_score: 81.8

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6019383
+query:			weather in fletcher,nc
+passage:			Passage: harmony nc weather copyright Â© 2018 Weather for Harmony, NC - Harmony, NC 28634 Weather, Current Weather in Harmony, NC. Local weather report for Harmony, NC, Local Harmony, NC 28634 weather. Forecast for Harmony, North Carolina, Harmony, NC weather forecast. Find your local Harmony weather forecast. Harmony, NC weather conditions. Weather outlook for Harmony, NC. Weather report for Harmony, NC. Weather Maps and Driving Directions harmony nc weather.
+subject_label:			1
+query_id:			1088541

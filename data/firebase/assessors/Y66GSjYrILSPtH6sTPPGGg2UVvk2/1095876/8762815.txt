@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8762815
+query:			how much is college in florida
+passage:			Passage: 51% of all college students have used an illegal drug in their lifetimesâlearn more about college addiction, and how Florida college rehab is the answer. 51% of all college students have used an illegal drug in their lifetimesâlearn more about college addiction, and how Florida college rehab is the answer.
+subject_label:			1
+query_id:			1095876

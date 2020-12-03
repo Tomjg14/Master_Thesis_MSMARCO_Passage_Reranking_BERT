@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7171263
+query:			what is impact ratio analysis
+passage:			Passage: What is Citation Analysis? The process whereby the impact or quality of an article is assessed by counting the number of times other authors mention it in their work. Citation analysis invovles counting the number of times an article is cited by other works to measure the impact of a publicaton or author. The caviat however, there is no single citation analysis tools that collects all publications and their cited references.
+subject_label:			2
+query_id:			757644

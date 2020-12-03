@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1374321
+query:			who was the basket of apples by
+passage:			Passage: In order to compare apples to apples, the items in the basket of goods must remain the same. Of course, American consumers change their product purchases over time (i.e. smart phones). Thus, the basket is only relevant for a limited period of time. The basket targets the average urban consumer.
+subject_label:			1
+query_id:			986210

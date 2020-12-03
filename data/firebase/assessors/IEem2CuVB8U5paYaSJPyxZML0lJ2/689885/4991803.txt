@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4991803
+query:			what is a malanga
+passage:			Passage: Incidence and Prevalence: It is estimated that 250,000 hip fractures occur in the US each year (Malanga). This figure is expected to double within the next 30 years (Auron-Gomez). Incidence of hip fracture in individuals aged 65 and older is 818 per 100,000.
+subject_label:			no_input
+query_id:			689885

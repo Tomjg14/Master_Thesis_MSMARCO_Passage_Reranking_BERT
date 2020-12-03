@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3671127
+query:			what is impact ratio analysis
+passage:			Passage: What is Vertical Analysis? Vertical Analysis is a process of economic report analysis in which all entries for each of the three main groups of account section (viz. liabilities, assets, and equities) in an estimated balance sheet is symbolized as the ratio of the whole account.
+subject_label:			2
+query_id:			757644

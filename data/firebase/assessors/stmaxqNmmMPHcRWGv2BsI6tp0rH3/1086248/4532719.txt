@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4532719
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Pictures of heat rash (prickly heat) pictures and read about heat rash symptoms like red bumps on the skin and an itchy or prickly feeling to the skin. Treatment information is also included.
+subject_label:			4
+query_id:			1086248

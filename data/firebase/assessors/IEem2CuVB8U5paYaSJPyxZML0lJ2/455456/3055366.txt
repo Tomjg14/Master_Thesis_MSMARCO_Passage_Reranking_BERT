@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3055366
+query:			molar mass of phenol
+passage:			Passage: The Ideal Gas Law can be re-arranged to calculate the molar mass of unknown gases. PV = nRT n = mass (g) molar mass (g/mol) PV = mass (RT) mass x R x T = molar mass molar mass P x V Knowing that the units for density are mass/volume, re-write this equation so that it equates density with molar mass.
+subject_label:			2
+query_id:			455456

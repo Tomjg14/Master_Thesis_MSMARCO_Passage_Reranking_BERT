@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7293387
+query:			who was the basket of apples by
+passage:			Passage: Basket of Apples, 1895 by Paul Cezanne, Final period. Post-Impressionism. still life. Art Institute of Chicago, Chicago, IL, US
+subject_label:			1
+query_id:			986210

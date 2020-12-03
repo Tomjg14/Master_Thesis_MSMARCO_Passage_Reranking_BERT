@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4315698
+query:			who is the boss of google?
+passage:			Passage: The work life balance can be different depending on who your boss is (in 224 reviews) There is no getting around the fact that Google is a big company now (in 193 reviews) Nearly everyone is an over-achiever so there can be pressure to work long hours (in 115 reviews) Same politics as any other large company (in 112 reviews) Very low chance of conversion from contract to full-time (in 95 reviews)
+subject_label:			1
+query_id:			1039495

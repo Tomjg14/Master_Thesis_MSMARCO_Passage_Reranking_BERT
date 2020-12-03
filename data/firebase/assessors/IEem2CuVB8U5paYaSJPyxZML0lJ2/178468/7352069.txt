@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7352069
+query:			effects hot stone has on the circulatory system
+passage:			Passage: What Are The Benefits of Chelation Therapy? Chelation therapy is widely used for the treatment of atherosclerosis and other chronic degenerative diseases involving the circulatory system. It also has other side effects.
+subject_label:			3
+query_id:			178468

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7520249
+query:			what is impact ratio analysis
+passage:			Passage: References Morris, S. B. (2001). Sample size required for adverse impact analysis. Applied HRM Research, 6, 13-32.Morris, S. B. & Lobsenz, R. E. (2000). Significance tests and confidence intervals for the adverse impact ratio.
+subject_label:			2
+query_id:			757644

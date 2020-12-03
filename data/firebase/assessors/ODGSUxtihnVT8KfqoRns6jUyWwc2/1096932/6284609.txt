@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6284609
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: How many miles of trail are in Iowa? Iowa has over 2,000 miles of multi-use trails (rail-trails and city trails used for biking, walking, etc.) In total, there are nearly 8,000 miles of hiking, water, equestrian and multi-use trails throughout the state.
+subject_label:			1
+query_id:			1096932

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5208379
+query:			architectural design
+passage:			Passage: 1. (Architecture) the art and science of designing and superintending the erection of buildings and similar structures. 2. (Architecture) a style of building or structure: Gothic architecture. 3. (Architecture) buildings or structures collectively. 4. the structure or design of anything: the architecture of the universe.
+subject_label:			5
+query_id:			20597

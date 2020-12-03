@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			368985
+query:			rigorous testing definition
+passage:			Passage: A skilled Scrum Master can help the team identify thin vertical slices of work that still have business value, while promoting a rigorous definition of âdoneâ that includes proper testing and refactoring. It is common to write Product Backlog Items in User Story form.
+subject_label:			3
+query_id:			489257

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7794677
+query:			what is the opposite of benefit?
+passage:			Passage: What Is The Opposite Of Sin? My Essay For The Topic 'Why People Go To... Pls Help Me On How To Write A Salary Increment... Olympic Boycott? What Is The Opposite Of Behind The Schedule? A Custom That Is Worthy Adopting; Question - Opposite Of Benefit Passage; An Exciting Code In King James English Very... Verb To Confirm - Opposite?
+subject_label:			1
+query_id:			837681

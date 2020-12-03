@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4348945
+query:			is education a constitutional right
+passage:			Passage: Ans.: Spurred by the Unnikrishnan judgment and a public demand to enforce the right to education, successive governments from 1993 worked towards bringing a constitutional amendment to make education a fundamental right. That led to the 86th amendment in December 2002 which inserted the following articles in the Constitution:
+subject_label:			5
+query_id:			409143

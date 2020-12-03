@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7862048
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: 1 What is the meaning of the root shared by the words project and eject? A. catch B. look C. throw D. happen I think it is C. 2 What is the meaning of the root shared by the words project and eject? A. catch B. look C. throw D. happen I think it is C.
+subject_label:			4
+query_id:			831784

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7293391
+query:			who was the basket of apples by
+passage:			Passage: Discussion. 1 http://www.luc.edu/depts/history/dennis/Visual_Arts/11-cubism_Cezanne_The-Basket-of-Apples-(1896)-%5BAIC%5D.jpg. 2 Meyer Schapiro, http://www.ibiblio.org/wm/paint/auth/cezanne/sl/basket-apples/. 3 http://www.ibiblio.org/wm/paint/auth/cezanne/portraits/cezanne.woman-seated-blue.jpg -- fabric #2.
+subject_label:			1
+query_id:			986210

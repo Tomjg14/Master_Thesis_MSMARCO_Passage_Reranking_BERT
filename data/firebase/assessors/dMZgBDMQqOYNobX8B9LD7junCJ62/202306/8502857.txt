@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8502857
+query:			highest mileage crossover india
+passage:			Passage: Going & Stopping The Equinox's claim to fame is its gas mileage â an EPA-estimated 22/32 mpg city/highway with the standard 182-horsepower four-cylinder engine and front-wheel drive. Small Crossover Gas Mileage
+subject_label:			1
+query_id:			202306

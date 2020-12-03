@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4717879
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Due to high import costs the key paella ingredient of saffron was extremely difficult to bring in so tomatoes became the substitute for saffron. The French influence on this dish included the addition of Caribbean spices to alter this dish even more. Creole jambalaya includes tomatoes, whereas Cajun jambalaya does not.
+subject_label:			4
+query_id:			931726

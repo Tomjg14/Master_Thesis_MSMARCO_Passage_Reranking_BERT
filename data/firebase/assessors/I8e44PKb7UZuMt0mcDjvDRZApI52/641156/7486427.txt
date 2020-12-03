@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7486427
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Duress is determined not by the nature of the pressure though, but by the state of mind induced in the victim. If you sign a contract under duress, the court may find the entire contract invalid. When Does Duress Occur in Contracts? Duress occurs when a person has been forced to do something by means of a threat. A person may raise a duress defense when force or violence is used to compel him to enter into a contract.
+subject_label:			5
+query_id:			641156

@@ -1,0 +1,12 @@
+model: bm25; dataset: ms_marco; cutoff: 5; mfr_score: 3.26
+model: bm25; dataset: ms_marco; cutoff: 10; mfr_score: 4.14
+model: bm25; dataset: threshold=2; cutoff: 5; mfr_score: 1.05
+model: bm25; dataset: threshold=2; cutoff: 10; mfr_score: 1.05
+model: bm25; dataset: threshold=3; cutoff: 5; mfr_score: 1.24
+model: bm25; dataset: threshold=3; cutoff: 10; mfr_score: 1.36
+model: bert; dataset: ms_marco; cutoff: 5; mfr_score: 2.02
+model: bert; dataset: ms_marco; cutoff: 10; mfr_score: 2.48
+model: bert; dataset: threshold=2; cutoff: 5; mfr_score: 1.12
+model: bert; dataset: threshold=2; cutoff: 10; mfr_score: 1.12
+model: bert; dataset: threshold=3; cutoff: 5; mfr_score: 1.17
+model: bert; dataset: threshold=3; cutoff: 10; mfr_score: 1.17

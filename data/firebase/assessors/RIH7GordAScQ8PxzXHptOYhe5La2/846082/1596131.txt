@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1596131
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: NBA Playoffs: Cavaliers vs. Warriors Game 7 LIVE SCORE UPDATES (6/19/16) The Cleveland Cavaliers, led by LeBron James and Kyrie Irving, face the Golden State Warriors, led by Stephen Curry and Klay Thompson, in Game 7 of the NBA Finals on Sunday, June 19, 2016, at Oracle Arena in Oakland, California. The winner is the NBA champion. We'll have up-to-the-minute scoring and game statistics throughout the game.
+subject_label:			3
+query_id:			846082

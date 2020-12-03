@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7186513
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of allonymous? What is the opposite of all one wants? What is the opposite of all one's got? What is the opposite of all one's born days? What is the opposite of allomorphs? What is the opposite of allomorph? What is the opposite of allopathic medicine? What is the opposite of allopathy? What is the opposite of allopatry? What is the opposite of allopoiesis? What is the opposite of allopolyploidy? What is the opposite of all-or-nothing?
+subject_label:			1
+query_id:			837681

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3817252
+query:			what does fdg mean
+passage:			Passage: The physiological FDG uptake in the myocardium is common in PET oncology, but noteworthy FDG uptake is sometimes observed (Table 1). Abnormal myocardial FDG uptake may be of clinical significance as it can indicate specific cardiac disorders, even in the fasting condition.
+subject_label:			3
+query_id:			637459

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3646146
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Zoo Details. Plumpton Park Zoo is a zoo located in Zip Code 48162, MI. It first opened in 1734. The Plumpton Park Zoo has an area of 673 acres in order to house all of its animals. Inside Plumpton Park Zoo, there are 130 animals and 44 different species. About 125,000 visitors are attracted to the zoo each year, which is a relatively low number of annual visitors compared to other zoos.
+subject_label:			3
+query_id:			866251

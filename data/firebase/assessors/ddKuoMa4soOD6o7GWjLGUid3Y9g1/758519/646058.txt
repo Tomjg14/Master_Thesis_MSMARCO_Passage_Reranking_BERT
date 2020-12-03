@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			646058
+query:			what is included in a clutch kit
+passage:			Passage: It includes everything... clutch disk, pressure plate, throwout bearing, pilot bearing, and pilot shaft. Don't let the shop talk you into a Centerforce clutch kit, they are WAY more expensive than they should be and they have no benefit over the Luk clutch kit. The factory even installs Luk clutches.
+subject_label:			3
+query_id:			758519

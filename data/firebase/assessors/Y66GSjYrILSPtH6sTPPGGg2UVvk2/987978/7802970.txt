@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7802970
+query:			where is miralago
+passage:			Passage: Miralago is a small village in the Poschiavo valley, at the southern end of the Lago di Poschiavo. It lies on the Bernina Express line. Coordinates: 46Â°16â²24â³N 10Â°06â²03â³E / 46.2732Â°N 10.1009Â°E / 46.2732; 10.1009.
+subject_label:			5
+query_id:			987978

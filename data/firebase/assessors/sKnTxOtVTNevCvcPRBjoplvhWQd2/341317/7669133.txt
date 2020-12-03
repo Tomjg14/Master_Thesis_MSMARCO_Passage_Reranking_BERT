@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669133
+query:			how tall is samus aran
+passage:			Passage: Samus Aran (ãµã ã¹ã»ã¢ã©ã³, Samusu Aran) is an intergalactic bounty hunter and the main protagonist of the Metroid series. Orphaned during a Space Pirate raid on her home of K-2L, Samus was adopted by the mysterious Chozo and taken to Zebes where she was infused with their DNA and raised to become a warrior.
+subject_label:			3
+query_id:			341317

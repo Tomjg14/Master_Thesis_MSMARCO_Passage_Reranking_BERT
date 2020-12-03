@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289327
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: ABOUT Hilton Charlotte University Place Freebies like Wi-Fi and parking, an outdoor pool and luxurious beds make the non-smoking Hilton Charlotte University Place a special spot for our guests. Set on a waterfront boardwalk, the 12-floor hotel has 392 upscale rooms with flat-panel HDTVs, free Wi-Fi, coffeemakers and clock/radios with mp3 connections.
+subject_label:			3
+query_id:			988306

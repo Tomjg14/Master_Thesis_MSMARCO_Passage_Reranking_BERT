@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2897535
+query:			where is ridgewood ny located
+passage:			Passage: Q: What's the phone number for The General Apothecary in Rochester, NY? A: The phone number for The General Apothecary is (585) 922-3970. Q: How big is The General Apothecary in Rochester, NY? A: The company has approximately 20 people at this location and generates an estimated $1.28 million USD in annual revenue. Q: Where is The General Apothecary located? A: The General Apothecary is located at 1425 Portland Ave, Rochester, NY 14621.
+subject_label:			1
+query_id:			991590

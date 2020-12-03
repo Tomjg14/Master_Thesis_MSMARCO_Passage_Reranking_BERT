@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2060637
+query:			carbon reactivation facilities california
+passage:			Passage: Liquid phase granular activated carbon or virgin/reactivated impregnated granular activated carbon liquid adsorber vessels & vapor phase granular activated carbon or...
+subject_label:			2
+query_id:			1085584

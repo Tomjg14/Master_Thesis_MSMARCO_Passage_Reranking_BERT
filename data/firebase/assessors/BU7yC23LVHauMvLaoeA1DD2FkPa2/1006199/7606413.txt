@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7606413
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: Rosalind Franklin is best known for discovering the structure of DNA and pioneering the use of X-ray diffraction. Franklin, a chemist, was born in 1920 in England and was educated at Cambridge... Rosalind Franklin is best known for discovering the structure of DNA and pioneering the use of X-ray diffraction.
+subject_label:			3
+query_id:			1006199

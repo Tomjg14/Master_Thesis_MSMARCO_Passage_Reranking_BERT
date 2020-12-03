@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3060027
+query:			what is aircraft ram air
+passage:			Passage: What's the difference between a cold air intake and a short ram air intake? What are the benefits of one over the other? Cold air intakes attempt to relocate the engine air filter outside of the engine compartment, thus pulling in cooler air and allowing for more power.
+subject_label:			3
+query_id:			1064195

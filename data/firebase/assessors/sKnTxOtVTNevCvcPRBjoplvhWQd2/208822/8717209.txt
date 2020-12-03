@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8717209
+query:			how big is a micron
+passage:			Passage: 0. Originally posted by reverunbilly i'm confused about how microns and inches in vac. are translated. a micron is 39000 of an inch. a so called perfect vacuum is 29hg. i dont understand what is meant by drawing a vac. to 500 microns.
+subject_label:			4
+query_id:			208822

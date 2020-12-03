@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8125708
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Climate Graphs. 1 Latest temperature/precipitation graphs across southeast Arizona. 2 Average daily dewpoint for Tucson. 3 Daily record high temperatures for Tucson. 4 Daily record low temperatures for Tucson. 5 Daily record precipitation for Tucson. 6 Yearly occurrences of 100 degrees for Tucson.
+subject_label:			2
+query_id:			933236

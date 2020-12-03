@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5278372
+query:			temperature diode
+passage:			Passage: V-I Characteristics of Vacuum Diode. The V-I characteristics of a vacuum diode is shown below. The size of space charge depends upon the emission of electrons from cathode during formation of space charge. The emission of electrons further depends upon the temperature at which the cathode is heated.
+subject_label:			1
+query_id:			1090054

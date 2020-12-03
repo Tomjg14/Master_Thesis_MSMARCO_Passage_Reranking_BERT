@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1178895
+query:			what is the hormone that makes you fat
+passage:			Passage: What do lipids do for you? You have many different types of lipids in your body including fats, oils, waxes and steroids. Your body uses fats as a supply and store of energy: a gram of fat contains more than double the amount of energy present in a gram of carbohydrate. The steroids in your body include some hormones. Other lipids make up the outer layer of all your cells, and the fatty sheaths that insulate nerve fibres.
+subject_label:			2
+query_id:			825147

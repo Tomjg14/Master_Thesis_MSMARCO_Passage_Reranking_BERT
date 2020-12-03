@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1878238
+query:			who played fiddle for boxcar willie
+passage:			Passage: The violin is sometimes called a â fiddle â. Someone who plays it is a âfiddlerâ. There is even a verb, to âfiddle, which means âto play the fiddleâ. This word can be used as a nickname for the violin.tudents learning to play a violin may put dots or stickers on the fingerboard to help them learn how to play. The violin is the smallest and highest pitched string instrument. A person who plays the violin is called a violinist.
+subject_label:			1
+query_id:			1046648

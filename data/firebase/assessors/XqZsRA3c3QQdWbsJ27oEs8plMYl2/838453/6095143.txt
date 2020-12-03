@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6095143
+query:			what is the parent company for adidas
+passage:			Passage: Adidas, Reebokâs parent company, will put the nearly 60-acre Canton campus on the market once Reebok leaves. Another high-profile company is moving to Boston: Reebok, the athletic shoe and apparel company, plans to shift nearly 700 employees from Canton to a new headquarters in the city. The move would be one of Bostonâs biggest corporate relocations in years.
+subject_label:			3
+query_id:			838453

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7262611
+query:			where did captain james cook explore?
+passage:			Passage: Cook, James (1728â1779) A navigator, surveyor and explorer, who captained three expeditions to the Pacific between 1768 and 1779. He surveyed the coasts of New Zealand and eastern Australia, and explored part of the seaboard of Antarctica. He was able to show that the supposed âGreat Southern Continentâ did not exist.
+subject_label:			5
+query_id:			1000678

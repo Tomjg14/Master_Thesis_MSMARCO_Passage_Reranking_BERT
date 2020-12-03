@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4765591
+query:			who is the boss of google?
+passage:			Passage: 'The Boss Baby' star Alec Baldwin on who's boss at home. 'The Boss Baby' star Alec Baldwin says he was the 'boss baby' growing up. Now, one of his kids has taken the title at home. USA TODAY.
+subject_label:			3
+query_id:			1039495

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1706039
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: If you take early retirement once you reach the age of 62, your retirement benefit amount will be permanently reduced. The amount your benefit is reduced depends on the number of months you have until full retirement age (66 in 2013). This is called the âreduction factor.â. On the other hand, if you are awarded Social Security disability benefits (SSDI), your benefit amount will be equal to what you were entitled to receive once you reached your full retirement age. This is because SSDI and retirement benefits are based on how much money (in taxes) you paid to the SSA.
+subject_label:			no_input
+query_id:			257885

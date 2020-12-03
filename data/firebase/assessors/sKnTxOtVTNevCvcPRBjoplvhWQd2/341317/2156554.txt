@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2156554
+query:			how tall is samus aran
+passage:			Passage: Effect(s) Obtained. The Wide Beam was one of the many Beams available to Samus Aran in her Fusion Suit during the events of Metroid Fusion. It is similar to the Spazer Beam of other games, but the Wide Beam splits into three pink rings like a wall, as opposed to the Spazer's three individual lasers.
+subject_label:			2
+query_id:			341317

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7990250
+query:			where is mathura
+passage:			Passage: The temple will be a 700 feet high skyscraper spread over an area of 5.5 acres. It will also have 70 floors. Mathura: The International Society for Krishna Consciousness (ISKCON) is doing the ground breaking ceremony at Mathura, the birth place of Lord Krishna, to build the world's tallest temple. It will be a 700 feet high skyscraper spread over an area of 5.5 acres and also have 70 floors. The ISKCON is hoping to complete the work in the next 5 years.
+subject_label:			1
+query_id:			998591

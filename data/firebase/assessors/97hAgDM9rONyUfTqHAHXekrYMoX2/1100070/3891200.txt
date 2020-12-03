@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3891200
+query:			head turner meaning
+passage:			Passage: Comedian Ralphie May is headed toward divorce. The Girth Of A Nation comic's wife Lahna Turner has filed for divorce after 10 years of marriage, according to TMZ.
+subject_label:			1
+query_id:			1100070

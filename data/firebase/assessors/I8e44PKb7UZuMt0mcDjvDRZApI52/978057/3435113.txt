@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3435113
+query:			where is berrimah
+passage:			Passage: Where Can A Ruby Be Found | Where Are Rubies Found | Where Is Beryl Found | Where Is Ruby Found | Where Do Rubies Come From | Where Are Rubies Found In The World | Where Are Garnets Found | Where Is Kyanite Found | Where Is Topaz Found | Where Is Carletonite Found | Where Can You Find Rubies | Where Is The Garnet Found | Where Is Tourmaline Found | ...
+subject_label:			1
+query_id:			978057

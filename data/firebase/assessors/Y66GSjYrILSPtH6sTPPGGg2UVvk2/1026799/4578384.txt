@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4578384
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: Why It Is Done. A tissue type test is done to: See if the antigen pattern for donated tissue or organs (including a blood platelet transfusion or bone marrow transplant) is a match. The success of a transplant depends on how closely the antigen patterns match.
+subject_label:			1
+query_id:			1026799

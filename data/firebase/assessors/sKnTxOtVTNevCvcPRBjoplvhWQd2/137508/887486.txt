@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			887486
+query:			definition of purse
+passage:			Passage: Princeton's WordNet (0.00 / 0 votes) Rate this definition: undertow (noun). an inclination contrary to the strongest or prevailing feeling. his account had a poignant undertow of regret. undertow, sea puss, sea-puss, sea purse, sea-purse, sea-poose (noun).
+subject_label:			3
+query_id:			137508

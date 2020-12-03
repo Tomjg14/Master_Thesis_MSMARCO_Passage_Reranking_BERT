@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4120733
+query:			who is the boss of google?
+passage:			Passage: Control. When you work from home your boss can't call you into his office on a whim. And letâs be honest, many bosses, especially ones who have held positions of power for decades, love to do this. When bosses bloviate, employees get reminded who is running the show.Appearance.hen you work from home your boss can't call you into his office on a whim. And letâs be honest, many bosses, especially ones who have held positions of power for decades, love to do this. When bosses bloviate, employees get reminded who is running the show. Appearance.
+subject_label:			1
+query_id:			1039495

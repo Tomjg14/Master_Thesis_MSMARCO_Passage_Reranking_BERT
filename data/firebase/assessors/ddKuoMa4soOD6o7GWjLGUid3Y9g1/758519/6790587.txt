@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6790587
+query:			what is included in a clutch kit
+passage:			Passage: Clutch Kit Products. Everything you need to replace a ACT clutch, Exedy clutch or Centerforce Clutch is included in these awesome clutch kits! We've got clutch kits of all kinds, performance and replacement, so shop with us! It's never been easier to do it yourself! We only offer the highest quality clutch kits around.
+subject_label:			1
+query_id:			758519

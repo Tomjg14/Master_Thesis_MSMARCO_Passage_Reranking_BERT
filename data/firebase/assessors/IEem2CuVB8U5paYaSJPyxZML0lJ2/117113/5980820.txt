@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5980820
+query:			define abraham lincoln during civil war
+passage:			Passage: During the American Civil War, President Abraham Lincoln issued the Emancipation Proclamation on September 22, 1862, with an effective date of January 1, 1863.uring the American Civil War, President Abraham Lincoln issued the Emancipation Proclamation on September 22, 1862, with an effective date of January 1, 1863.
+subject_label:			3
+query_id:			117113

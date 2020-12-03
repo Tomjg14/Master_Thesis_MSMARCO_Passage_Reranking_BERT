@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1989080
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Freebase (3.00 / 1 vote) Rate this definition: Jambalaya. Jambalaya is a Louisiana Creole dish of Spanish and French influence. Jambalaya originated in the Caribbean Islands. The Spanish culture mixed with the native foods created what is known as Jambalaya. Jambalaya is traditionally made in three parts, with meats and vegetables, and is completed by adding stock and rice.
+subject_label:			1
+query_id:			931726

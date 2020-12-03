@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			805962
+query:			how old is lil moco
+passage:			Passage: Fish loco moco Loco moco is a meal in the contemporary cuisine of Hawaii. There are many variations, but the traditional loco moco consists of white rice, topped with a hamburger patty, a fried egg, and brown gravy.
+subject_label:			1
+query_id:			335710

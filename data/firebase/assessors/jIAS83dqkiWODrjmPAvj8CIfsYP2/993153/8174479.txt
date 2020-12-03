@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8174479
+query:			which situation does a company issue a note receivable
+passage:			Passage: ISSUES TO BE NOTED: 1 The residential status in India for the purposes of Income Tax Act is the most crucial factor determining the taxability of income of a foreign company. It should be ensured that control and management of the foreign company is situated wholly outside India.
+subject_label:			1
+query_id:			993153

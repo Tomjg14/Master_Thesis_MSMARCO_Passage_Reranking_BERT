@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6603456
+query:			who is the boss of google?
+passage:			Passage: Spencer Platt/Google Google HR boss Laszlo Bock says you should pay employees what they're worth, not for the job they do. In the years following its 2004 IPO, Google needed a way to continue its impressive growth without losing its best people to hot startups like Facebook and Twitter.
+subject_label:			1
+query_id:			1039495

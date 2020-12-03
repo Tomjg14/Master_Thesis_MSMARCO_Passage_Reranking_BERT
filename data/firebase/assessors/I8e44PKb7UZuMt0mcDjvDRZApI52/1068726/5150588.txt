@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5150588
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Since a lot of flexible packaging is used for food products, another hurdle for recycling is food contamination. Due to food contamination in most flexible packaging going through the current recycling system, a very small percentage is actually reusable.
+subject_label:			3
+query_id:			1068726

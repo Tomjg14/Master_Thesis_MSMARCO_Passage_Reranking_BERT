@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6722781
+query:			who is the boss of google?
+passage:			Passage: In a matrix, as well as with many of todayâs teams, there are at least two sets of roles that are important to define: the matrix leader who is reporting to at least two bosses (one is the functional boss â the boss to whom he/she ordinarily reports to, and the other is the matrix boss), and the two bosses themselves.
+subject_label:			1
+query_id:			1039495

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1883048
+query:			what is the plural of kohlrabies
+passage:			Passage: Kohlrabi is a hardy biennial grown as an annual. Sow kohlrabi seed in the garden 3 to 4 weeks before the last average frost date in spring. Kohlrabi grows best in cool temperatures between 40Â°F and 75Â°F. Kohlrabi requires 45 to 60 days to reach maturity.mall Kohlrabi: Kohlrabi likes cool weather. It is fast growing and matures quickly, so it is a good choice spring and fall planting. Direct-seed kohlrabi about the time of the last spring frost date and for a fall crop about 8 to 10 weeks before the first fall frost date.
+subject_label:			3
+query_id:			839488

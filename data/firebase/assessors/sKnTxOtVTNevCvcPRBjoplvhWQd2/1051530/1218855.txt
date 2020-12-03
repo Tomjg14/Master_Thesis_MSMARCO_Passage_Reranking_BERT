@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1218855
+query:			what is mastoidectomy
+passage:			Passage: The procedure may take up to three hours, depending on how severe the infection is. There are multiple types of mastoidectomy. The simplest form of the surgery involves the removal of mastoid cells only; no bone is removed, and the risk of hearing loss and other side effects is low. In a radical mastoidectomy, some of the mastoid bone must be removed from the inner ear.
+subject_label:			4
+query_id:			1051530

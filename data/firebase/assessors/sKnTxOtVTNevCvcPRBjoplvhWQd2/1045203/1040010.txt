@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1040010
+query:			who owns cnn cable news network
+passage:			Passage: CNN stands for Cable News Network. It stands for Cable News Network. CNN stands for Cable News Network. It stands for Cable News Network.
+subject_label:			2
+query_id:			1045203

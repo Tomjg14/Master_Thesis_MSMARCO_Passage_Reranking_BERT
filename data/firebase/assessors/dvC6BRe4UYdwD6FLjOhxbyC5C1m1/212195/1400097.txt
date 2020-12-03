@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1400097
+query:			how could the courts check the bureaucracy
+passage:			Passage: How the people can check bureaucracy. Lobbying, revolving door (in and out of government, getting a better job), Clientele groups (special interest groups benefit from agency and therefore advocate), Sub governments (local/state government that try to influence bureaucracy), Iron triangles,
+subject_label:			2
+query_id:			212195

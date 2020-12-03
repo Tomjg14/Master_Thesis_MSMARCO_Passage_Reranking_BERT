@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779914
+query:			who played fiddle for boxcar willie
+passage:			Passage: As a symbol of Americana, Boxcar Willie's dedication to traditional country music earned the widespread appreciation of audiences in Europe, where he first established his career. In his lifetime, he wrote over 400 songs, recorded duets with country music icons Willie Nelson and Hank Williams, Jr., and became one of the first performers to establish his own theater in Branson, Missouri.
+subject_label:			2
+query_id:			1046648

@@ -1,0 +1,6 @@
+model: bm25; dataset: graded; cutoff: 5; ndcg_score: 94.2
+model: bm25; dataset: graded; cutoff: 10; ndcg_score: 92.9
+model: bm25; dataset: graded; cutoff: 20; ndcg_score: 91.5
+model: bert; dataset: graded; cutoff: 5; ndcg_score: 94.1
+model: bert; dataset: graded; cutoff: 10; ndcg_score: 93.3
+model: bert; dataset: graded; cutoff: 20; ndcg_score: 92.0

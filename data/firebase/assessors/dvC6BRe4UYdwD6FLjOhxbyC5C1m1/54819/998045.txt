@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			998045
+query:			blue sky charge controller price
+passage:			Passage: Sky Box Office is a Pay Per View service from Sky. You can order movies and sports events easily through you Sky digital remote control. At the moment movies are charged at Â£3.00. Box Office shows movies before the come onto Sky Premier but after they come out on video.
+subject_label:			2
+query_id:			54819

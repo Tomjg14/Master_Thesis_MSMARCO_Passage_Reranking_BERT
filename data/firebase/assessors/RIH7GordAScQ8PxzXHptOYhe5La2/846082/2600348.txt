@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2600348
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: For LeBron James and the Cleveland Cavaliers on Tuesday night, it was as easy as 1â2â3. James scored 40 points in the Cavaliers' Game 3 NBA Finals 96â91 victory over the Golden State Warriors on Tuesday night, bringing his three-game total to 123 points, the most ever scored by a player through the first three games of the Finals.
+subject_label:			5
+query_id:			846082

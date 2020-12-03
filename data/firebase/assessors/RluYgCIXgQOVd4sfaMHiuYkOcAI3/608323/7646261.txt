@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7646261
+query:			what county is laneview va located in
+passage:			Passage: Richmond City Hall 900 E Broad St Richmond VA 23219 41.6 miles from Laneview 804-646-7500. Surry Town Hall 84 Colonial Trail East Surry VA 23883 43.3 miles from Laneview 757-294-3021. Town halls and city halls are the administrative centers of local government.
+subject_label:			1
+query_id:			608323

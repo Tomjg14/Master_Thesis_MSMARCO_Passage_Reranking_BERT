@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1917646
+query:			what is a variable account in a annuity
+passage:			Passage: Annuity Purchase Rate The cost of an annuity based on insurance company tables, which take into account various factors such as age and gender. Annuity Unit Annuity units (variable) are the units in the separate account after the maturity date that is used to determine the amount of the annuity payment.
+subject_label:			4
+query_id:			1065558

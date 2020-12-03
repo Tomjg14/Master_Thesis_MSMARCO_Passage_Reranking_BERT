@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1338568
+query:			what is njstart
+passage:			Passage: What is the singular of of cyclopropaphanes? What is the singular of of cyclopropenes? What is the singular of of cyclopropeniums? What is the singular of of cyclopropenone? What is the singular of of cyclopropyls? What is the singular of of cyclopropylamine? What is the singular of of cyclopsams? What is the singular of of cyclopterids? What is the singular of of cyclopyrrolones? What is the singular of of cycloramas? What is the singular of of cyclorelease?
+subject_label:			1
+query_id:			1049791

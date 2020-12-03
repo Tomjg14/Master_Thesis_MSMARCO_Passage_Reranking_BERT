@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			338370
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: Word Root of eject. The Latin word jacere, meaning âto throw,â and its form jactus give us the root ject. Words from the Latin jacere have something to do with throwing. To reject is to throw back or away. To eject is to throw out. To inject is to throw one thing into another. To project is to throw forward onto a surface.
+subject_label:			4
+query_id:			831784

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8158111
+query:			how tall is samus aran
+passage:			Passage: Bomb Torizo's claw and laser attacks each deal 2 / 5 / 10 damage to Gravity Suit / Varia Suit / Power Suit Samus, respectively. Bomb Torizo's claw explosions can strike Samus multiple times depending on how Samus comes into contact with it. Interactions Walking. Bomb Torizo will walk forwards towards Samus if she is nearby.
+subject_label:			1
+query_id:			341317

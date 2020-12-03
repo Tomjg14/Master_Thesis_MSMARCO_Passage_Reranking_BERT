@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4322045
+query:			how big do newfypoo's get
+passage:			Passage: Im thinking about getting a goldendoodle, but I DO NOT want a big dog. I've heard of miniature goldendoodles but was wondering how big they get.
+subject_label:			1
+query_id:			208494

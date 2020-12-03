@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4429824
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: Who was Hippocrates and what contributions did he make to the world? He was a physician in Ancient Greece and he is generally considered 'the father of modern medicine'. That was not because he developed techniques or medicines to cure peop â¦ le.
+subject_label:			5
+query_id:			9083

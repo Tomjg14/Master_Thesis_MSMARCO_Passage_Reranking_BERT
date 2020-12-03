@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5971873
+query:			where do the ash borer come from
+passage:			Passage: The non-native wasps also keep emerald ash borer populations low in forests that have already been invaded. âEmerald ash borer has many native and non-native natural enemies,â says Ulyshen. âMaintaining stable populations of these predators can help ash trees survive emerald ash borer infestations.â Read the full text of the article.
+subject_label:			3
+query_id:			971653

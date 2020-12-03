@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7842512
+query:			where does lice come from
+passage:			Passage: But if you are wondering where does lice come from as in from where it all started then continue reading as you will find plenty of new and interesting information in this article. While specifically talking about the origin, we researched about it and found a journal published by the American Society of Parasitologists.
+subject_label:			4
+query_id:			973362

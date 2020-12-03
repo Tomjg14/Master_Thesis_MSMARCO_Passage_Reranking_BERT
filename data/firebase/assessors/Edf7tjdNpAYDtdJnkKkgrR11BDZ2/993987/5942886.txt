@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5942886
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: An integrated group of structurally and functionally linked parts (including muscles, nerves, blood and lymphatic vessels, glands, stroma and so on) which act in concert to perform a particular function, as in digestion, which is performed by the alimentary apparatus (now preferentially known as the GI tract).
+subject_label:			4
+query_id:			993987

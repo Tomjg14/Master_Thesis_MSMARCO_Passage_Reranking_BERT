@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4991807
+query:			what is a malanga
+passage:			Passage: Stress fractures of the femoral neck are more common in women and comprise 5% to 10% of all stress fractures (Malanga); the prevalence of hip fracture, regardless of location, is highest among women of European ancestry, followed by men of European ancestry, women of African ancestry, and men of African ancestry (Malanga).
+subject_label:			1
+query_id:			689885

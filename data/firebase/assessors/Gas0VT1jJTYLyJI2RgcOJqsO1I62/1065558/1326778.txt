@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1326778
+query:			what is a variable account in a annuity
+passage:			Passage: This is a general description of variable annuities â what they are, how they work, and the charges you will pay. Before buying any variable annuity, however, you should find out about the particular annuity you are considering.
+subject_label:			3
+query_id:			1065558

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			693193
+query:			what are stand up paddle boards made of
+passage:			Passage: Video: How to Choose Stand Up Paddle Boards. The hull, or body, of a paddle board plays a major role in determining how the paddle board performs in the water. SUPs have one of two hull types: planing or displacement.
+subject_label:			3
+query_id:			566174

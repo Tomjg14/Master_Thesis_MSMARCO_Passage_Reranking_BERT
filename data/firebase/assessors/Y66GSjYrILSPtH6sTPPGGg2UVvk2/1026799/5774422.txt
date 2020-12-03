@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5774422
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: Factors in organ allocation. How organ matching works. When a transplant hospital accepts a person as a transplant candidate, it enters medical dataâinformation such as the personâs blood type and medical urgency and the location of the transplant hospitalâabout that candidate into UNOSâ computerized network.
+subject_label:			2
+query_id:			1026799

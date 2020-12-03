@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1753957
+query:			how much is donald trump jr worth
+passage:			Passage: Donald Trump Jr. net worth: $300 Million Donald Trump Jr. Net Worth: Donald Trump Jr. is an American businessman and TV personality who has a net worth of $300 million. Donald Trump Jr. earned his net worth by working with his brother and sister as Executive Vice President's at their father's company, The Trump Organization. Born Donald Don John Trump, Jr. on December 31, 1977, in New York City, he is the first child of real estate developer Donald J. Trump and Ivana Trump.
+subject_label:			5
+query_id:			321951

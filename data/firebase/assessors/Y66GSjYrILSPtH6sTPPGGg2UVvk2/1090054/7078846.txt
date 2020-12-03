@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7078846
+query:			temperature diode
+passage:			Passage: Resistance, Capacitance, Diodes, Temperature, Duty cycle, Continuity ... AstroAI Digital Clamp Meter, TRMS 6000 Counts Multimeter Volt Meter with Manual and Auto Ranging; Measures Voltage Tester, Current, Resistance, Continuity, Frequency; Tests Diodes, Temperature
+subject_label:			1
+query_id:			1090054

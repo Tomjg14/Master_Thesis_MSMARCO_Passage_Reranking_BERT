@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			8298085
+query:			how could the courts check the bureaucracy
+
+passage:			Passage: Re: How long do fingerprint background checks take? Actually I'm scheduled to go on a pre-trial and I believe I'm only meeting with the lawyers. Anyways I think I just need to be patient, I am dealing with state bureaucracies and they tend to be slow as fck.
+subject_label:			1
+query_id:			212195

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4035734
+query:			what state has the easiest bar exam
+passage:			Passage: 1 However, where you go to law school does not dictate which bar exam you can take. 2 For example, you could attend the Ohio State Moritz College of Law, pass the bar exam in New York, and then practice as a lawyer in New York. Take and pass the state bar exam in the state where you want to practice as a lawyer. 2 Lawyers must pass a state bar exam to be licensed in that state. 3 Being licensed in a state means you have successfully graduated from a law school, passed that stateâs bar exam, and can now charge others for your legal advice.
+subject_label:			1
+query_id:			897476

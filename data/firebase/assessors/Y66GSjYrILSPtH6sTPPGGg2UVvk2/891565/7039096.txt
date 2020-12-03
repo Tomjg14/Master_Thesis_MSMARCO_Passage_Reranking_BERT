@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7039096
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Incorporated in 1919 near the confluence of three rivers â the Umpqua, the Smith, and the Scholfield, the City of Reedsport is located on the beautiful Oregon Coast on Highways 101 and 38 on the banks of the Umpqua River â the largest river between the Sacramento and the Columbia.
+subject_label:			3
+query_id:			891565

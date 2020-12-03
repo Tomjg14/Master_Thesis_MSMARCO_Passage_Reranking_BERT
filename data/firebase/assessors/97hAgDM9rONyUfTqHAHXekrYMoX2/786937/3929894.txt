@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3929894
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Six Sigma is defined as a method that provides tools to improve business process capabilities. Learn how to integrate lean and Six Sigma at ASQ.org.
+subject_label:			2
+query_id:			786937

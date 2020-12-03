@@ -1,0 +1,12 @@
+model: bm25; dataset: ms_marco; cutoff: 5; precision_score: 14.3
+model: bm25; dataset: ms_marco; cutoff: 10; precision_score: 8.6
+model: bm25; dataset: threshold=2; cutoff: 5; precision_score: 80.5
+model: bm25; dataset: threshold=2; cutoff: 10; precision_score: 67.1
+model: bm25; dataset: threshold=3; cutoff: 5; precision_score: 63.3
+model: bm25; dataset: threshold=3; cutoff: 10; precision_score: 50.5
+model: bert; dataset: ms_marco; cutoff: 5; precision_score: 17.1
+model: bert; dataset: ms_marco; cutoff: 10; precision_score: 9.3
+model: bert; dataset: threshold=2; cutoff: 5; precision_score: 67.1
+model: bert; dataset: threshold=2; cutoff: 10; precision_score: 50.2
+model: bert; dataset: threshold=3; cutoff: 5; precision_score: 60.0
+model: bert; dataset: threshold=3; cutoff: 10; precision_score: 42.6

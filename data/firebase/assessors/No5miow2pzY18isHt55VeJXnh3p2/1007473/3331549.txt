@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3331549
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: IX. Chemical and organic sedimentary rocks â lumped together as âchemically formed sedimentary rocksâ 1. Derived from material that was once in solution and precipitates to form sediment a. Directly precipitated: result of physical processes, b. Through life processes (biochemical origin) 2.
+subject_label:			2
+query_id:			1007473

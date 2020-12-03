@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8690257
+query:			architectural design
+passage:			Passage: Programme overview. Are you interested in architecture and urban design? This is the first step towards a career in architecture. Develop the drawing, design and graphic presentation skills to express architectural concepts. Analyse architectural sites and explore how to ensure the environmental sustainability of architectural projects.
+subject_label:			3
+query_id:			20597

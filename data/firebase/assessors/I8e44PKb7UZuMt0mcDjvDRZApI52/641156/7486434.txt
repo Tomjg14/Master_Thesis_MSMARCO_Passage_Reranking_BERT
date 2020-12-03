@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7486434
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Duress occurs when a person is influenced to sign a contract under pressure. Duress can be applied when a contract is made or when a contract was modified. Typical examples of duress include threats to personal liberty, threats of actual violence, and excessive economic pressure.
+subject_label:			3
+query_id:			641156

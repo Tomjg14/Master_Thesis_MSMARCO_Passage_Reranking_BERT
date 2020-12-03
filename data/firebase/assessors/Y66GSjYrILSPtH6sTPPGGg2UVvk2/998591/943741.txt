@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			943741
+query:			where is mathura
+passage:			Passage: Janmashtami is celebrated when Krishna is believed to have been born according to Hindu tradition, which is in Mathura, at midnight on the eighth day of Bhadrapada month (overlaps with August and September in the Gregorian calendar).
+subject_label:			1
+query_id:			998591

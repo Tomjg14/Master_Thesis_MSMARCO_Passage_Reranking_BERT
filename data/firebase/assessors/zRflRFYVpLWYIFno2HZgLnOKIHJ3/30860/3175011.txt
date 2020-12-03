@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3175011
+query:			average amount of money stna make
+passage:			Passage: Throughout the health care industry, support staff help meet patients' needs for basic bedside care. These include orderlies and attendants, as well as certified nursing assistants, or CNAs. In Ohio, these nursing assistants are known as State Trained Nurses Aides, or STNAs. In other states CNAs can work in hospitals and clinics, but Ohio's STNAs are limited to employment in nursing homes and other long-term care facilities. The STNA Role STNAs, like orderlies and attendants, aren't licensed care providers in their own right.
+subject_label:			1
+query_id:			30860

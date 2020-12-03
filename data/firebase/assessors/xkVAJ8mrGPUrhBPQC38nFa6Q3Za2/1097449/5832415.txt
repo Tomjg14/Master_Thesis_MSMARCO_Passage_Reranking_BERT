@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5832415
+query:			how many calories in provolone cheese
+passage:			Passage: Calories in Provolone cheese There are : 60 calories in 1 cubic inch of Provolone cheese98-100 calories in 1 oz or 28g of Provolone cheese98-100 calories in 1 slice , which is â¦ usually 1 oz or 28g200 calories in 2 oz or 57g of Provolone cheese350 calories in 3Â½ or 100g of Provolone cheese400 calories in 4 oz or 114g of Provolone cheese587 calories ...
+subject_label:			5
+query_id:			1097449

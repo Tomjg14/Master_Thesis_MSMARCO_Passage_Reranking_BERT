@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			370569
+query:			what county is laneview va located in
+passage:			Passage: Griffith Valley Ln, Woolwine, VA 24185 - Patrick County Fishing and Hunting Land for Sale, Patrick County VA! Rock Castle Creek is a cold water native trout stream located in Woolwine, VA of Patrick County VA and it flows right through the middle of 63.5 acres of wooded land for sale. This property is located between Stuart VA and Floyd VA in a private location.
+subject_label:			1
+query_id:			608323

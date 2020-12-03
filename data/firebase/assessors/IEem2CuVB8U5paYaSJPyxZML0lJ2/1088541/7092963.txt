@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7092963
+query:			weather in fletcher,nc
+passage:			Passage: 0am: The Fletcher, NC forecast for Feb 11 is 52 degrees and Mist. There is 94 percentage chance of rain and 6 mph winds from the South. 3am: The Fletcher, NC forecast for Feb 11 is 50 degrees and Light rain. There is 99 percentage chance of rain and 5 mph winds from the South. 6am: The Fletcher, NC forecast for Feb 11 is 51 degrees and Light rain shower. There is 97 percentage chance of rain and 7 mph winds from the South. 9am: The Fletcher, NC forecast for Feb 11 is 58 degrees and Moderate rain.
+subject_label:			5
+query_id:			1088541

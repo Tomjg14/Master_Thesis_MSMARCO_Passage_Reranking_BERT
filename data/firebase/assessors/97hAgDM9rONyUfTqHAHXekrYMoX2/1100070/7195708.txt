@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7195708
+query:			head turner meaning
+passage:			Passage: head-trip; head-turner; head-turners; head unit; head-up; head-up display; head-up-display; head-up-displays
+subject_label:			1
+query_id:			1100070

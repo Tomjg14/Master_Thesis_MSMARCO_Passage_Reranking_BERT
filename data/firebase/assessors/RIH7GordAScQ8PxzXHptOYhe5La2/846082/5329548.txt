@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5329548
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Cavaliers or Warriors? After a seven game series between the Cleveland Cavaliers and the Golden State Warriors, the winner of the 2016 NBA Finals has finally been crowned. It was a super close game the entire time with the score nearly even throughout the all four quarters of the seventh game.
+subject_label:			1
+query_id:			846082

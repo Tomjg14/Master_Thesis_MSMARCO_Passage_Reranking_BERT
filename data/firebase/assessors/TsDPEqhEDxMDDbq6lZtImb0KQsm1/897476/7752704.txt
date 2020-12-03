@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7752704
+query:			what state has the easiest bar exam
+passage:			Passage: As you might expect, the Golden State's bar exam came in at No. 1 in terms of difficulty. What was truly shocking, however, was that the states commonly discussed in the same worried bar-taker's breath, New York and Virginia, were ranked much lower, at No. 12 and No. 6, respectively.
+subject_label:			3
+query_id:			897476

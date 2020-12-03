@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4432676
+query:			circulation money definition
+passage:			Passage: The amount of money in an economy at a given moment. There are various ways in which the money supply can be defined. Narrowly defined, the money supply can mean the coins and bank notes in circulation and bank deposits where money can be withdrawn at short notice. A broader definition will also include savings accounts at banks and possibly bonds and shares.
+subject_label:			4
+query_id:			92542

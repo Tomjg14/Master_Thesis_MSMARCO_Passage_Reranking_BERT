@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3430926
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Log in to vCenter Server using the vSphere Web Client. Log in to vCenter Server using the vSphere Web Client to manage your vSphere inventory. Prerequisites. If you want to use vCenter Server 5.0 with vSphere Web Client, verify that the vCenter Server 5.0 system is registered with vSphere Web Client.og in to vCenter Server using the vSphere Web Client. Log in to vCenter Server using the vSphere Web Client to manage your vSphere inventory. Prerequisites. If you want to use vCenter Server 5.0 with vSphere Web Client, verify that the vCenter Server 5.0 system is registered with vSphere Web Client.
+subject_label:			1
+query_id:			75266

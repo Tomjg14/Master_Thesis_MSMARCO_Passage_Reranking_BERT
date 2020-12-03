@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2210927
+query:			what does extravert mean
+passage:			Passage: Extraverted Feeling (Fe) vs. Extraverted Thinking (Te). While the content of an Extraverted Feeling expression need not be emotional, there is a discernible difference in its packaging compared to that of Extraverted Thinking (Te) . Te comes across as rather dry, lifeless, and monotonal.
+subject_label:			5
+query_id:			1083852

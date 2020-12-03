@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1162915
+query:			what is the meaning of chicken rice?
+passage:			Passage: In Liberia, rice is the staple. So, most dinners include rice with a sauce like this palm butter. In much of Africa, dinner usually means rice topped with an elaborate sauce. But sometimes it's just lightly seasoned, and easily prepared, chicken, beef, pork, or seafood on rice with HOT pepper. Liberia is on the Atlantic so FISH is a big thing.
+subject_label:			3
+query_id:			1036656

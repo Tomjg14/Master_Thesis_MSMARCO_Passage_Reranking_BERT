@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6041665
+query:			where is ridgewood ny located
+passage:			Passage: 1 Info updated 2012/01/27: Bank assets: $4,804.0 mil, Deposits: $3,951.9 mil, headquarters in Ridgewood, NY, positive income, Mortgage Lending Specialization, 37 total offices. 2 New York Community Bank: Franklin Square Branch at 460 Franklin Avenue, branch established on 1999/07/23.
+subject_label:			1
+query_id:			991590

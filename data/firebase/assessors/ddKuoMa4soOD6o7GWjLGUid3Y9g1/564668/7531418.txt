@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7531418
+query:			what are sensitive periods for brain development
+passage:			Passage: Many researchers now agree that the word âcriticalâ is not always appropriate. It is better to talk of of âsensitive periodsâ atleast when looking at cognitive development and emotional development. It is felt that the term sensitive period offers a better account of human development than the strict and rigid notion of a critical period.
+subject_label:			4
+query_id:			564668

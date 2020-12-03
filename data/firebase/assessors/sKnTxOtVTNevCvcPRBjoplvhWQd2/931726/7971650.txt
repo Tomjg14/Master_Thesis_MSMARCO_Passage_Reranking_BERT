@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7971650
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Not only is it hard to keep track of which dishes are Cajun and which ones are Creole, but those rice dishes can be pretty tough to keep straight! So gumbo, jambalaya, Ã©touffÃ©e: what's the difference, anyway? Think of jambalaya as a distant relative of paella. It's got protein and vegetables (sometimes tomatoes, sometimes not), with rice and stock later simmered together or combined before serving.
+subject_label:			3
+query_id:			931726

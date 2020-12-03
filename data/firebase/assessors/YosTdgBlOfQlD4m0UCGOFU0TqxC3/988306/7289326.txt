@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289326
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Our hotel rooms in Charlotte, NC are located near Charlotte Douglas Airport and UNC Charlotte. Book at Hilton Charlotte University Place. Our hotel rooms in Charlotte, NC are located near Charlotte Douglas Airport and UNC Charlotte.
+subject_label:			2
+query_id:			988306

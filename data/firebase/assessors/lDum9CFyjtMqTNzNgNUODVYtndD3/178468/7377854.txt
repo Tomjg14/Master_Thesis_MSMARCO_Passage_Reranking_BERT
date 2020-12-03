@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7377854
+query:			effects hot stone has on the circulatory system
+passage:			Passage: The relaxation of hot stone massage therapy goes far deeper than a standard massage, since the direct heat causes the blood vessels to expand and push blood around the body, which helps to move toxins away from the affected area.This also has a beneficial effect on the nervous system in general.ired, sore and aching muscles are relaxed with improvements to strength and flexibility and tensions held at the deepest level are released. Hot & Cold Stone Massage Therapy. Hot and Cold Stone therapy can also be used to treat muscular injury or inflammation by using cooled or frozen stones.
+subject_label:			3
+query_id:			178468

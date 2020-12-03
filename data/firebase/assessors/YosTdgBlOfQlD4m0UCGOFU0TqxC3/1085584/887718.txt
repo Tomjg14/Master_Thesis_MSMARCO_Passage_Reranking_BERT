@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			887718
+query:			carbon reactivation facilities california
+passage:			Passage: CHEMICAL PROPERTIES OF ACIDS: 1. React with reactive metals (above H in Reactivity Series) to form Salt & Hydrogen Gas 2. React with Metal Carbonates to form Salt, Carbon Dioxide & Water.3. React with Bases/Alkali to form Salt & Water (Neutralistion Reaction).HEMICAL PROPERTIES OF ACIDS: 1. React with reactive metals (above H in Reactivity Series) to form Salt & Hydrogen Gas 2. React with Metal Carbonates to form Salt, Carbon Dioxide & Water.
+subject_label:			2
+query_id:			1085584

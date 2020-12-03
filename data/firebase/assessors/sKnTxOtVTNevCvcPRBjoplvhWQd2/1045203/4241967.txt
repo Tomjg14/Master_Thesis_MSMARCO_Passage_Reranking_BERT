@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4241967
+query:			who owns cnn cable news network
+passage:			Passage: Â© 2018 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. CNN Sans â¢ & Â© 2016 Cable News Network.
+subject_label:			5
+query_id:			1045203

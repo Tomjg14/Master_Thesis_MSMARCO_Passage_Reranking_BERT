@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6523589
+query:			how many calories in provolone cheese
+passage:			Passage: Processed American Cheese has the least calories at 40 calories. Provolone cheese and Swiss cheese each have 50 calories. Cheddar contains the highest amount, at 60 calories. If you choose cheddar cheese, your tuna sub will contain at least 540 calories.
+subject_label:			4
+query_id:			1097449

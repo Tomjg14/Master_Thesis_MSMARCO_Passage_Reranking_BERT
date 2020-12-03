@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3646533
+query:			how big do newfypoo's get
+passage:			Passage: How about the Big 4? How long to make partner at a Big 4?? In the early 2000s, if you made partner within eight years of joining as a trainee in a Big 4 firm (by which I mean PwC, Deloitte, EY or KPMG) you were doing very well. Letâs do the maths on that. It normally takes people three years to get qualified.
+subject_label:			1
+query_id:			208494

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637585
+query:			what is a malanga
+passage:			Passage: University of Florida / IFAS. Sarasota County Extension. Malanga. Malanga is a root vegetable popular in the tropics and South America. In Florida, malanga is the most popular form of cocoyam, which is a general name applied. to several species of Xanthosoma. It is also called yautia, cocoyam, eddo, coco, tannia, sato-imo, and Japanese potatoes.
+subject_label:			5
+query_id:			689885

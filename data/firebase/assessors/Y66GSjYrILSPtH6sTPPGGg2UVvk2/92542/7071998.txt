@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7071998
+query:			circulation money definition
+passage:			Passage: Search circulation of money and thousands of other words in English Cobuild dictionary from Reverso. You can complete the definition of circulation of money given by the English Cobuild dictionary with other English dictionaries : Wikipedia, Lexilogos, Oxford, Cambridge, Chambers Harrap, Wordreference, Collins Lexibase dictionaries, Merriam Webster ...
+subject_label:			1
+query_id:			92542

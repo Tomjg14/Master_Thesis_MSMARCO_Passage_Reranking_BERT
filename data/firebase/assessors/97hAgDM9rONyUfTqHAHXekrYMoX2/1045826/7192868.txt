@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192868
+query:			what is ssc je
+passage:			Passage: SSC JE selection procedure 2017. Candidates will be selected on the basis of Paper 1 and Paper 2 marks. Appointments will be made on the basis of candidates ranks in the merit list and post preferences. Candidates appointed on the basis of SSC JE 2017 examination, shall be on probation for a period of two years.
+subject_label:			1
+query_id:			1045826

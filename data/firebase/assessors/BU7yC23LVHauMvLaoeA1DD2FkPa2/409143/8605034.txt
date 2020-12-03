@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8605034
+query:			is education a constitutional right
+passage:			Passage: is NOT PHI when it. constitutes either an education or a âtreatment recordâ student health information used (. only for treatment and not disclosed to anyone else) under the Family Education Rights. and Privacy Act (FERPA).
+subject_label:			1
+query_id:			409143

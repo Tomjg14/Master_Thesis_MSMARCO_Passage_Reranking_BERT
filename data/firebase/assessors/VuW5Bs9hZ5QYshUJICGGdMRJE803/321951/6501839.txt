@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6501839
+query:			how much is donald trump jr worth
+passage:			Passage: Related: See What Donald Trump Carries in His Wallet How Much Does Donald Trump Make a Year? Donald Trump's net worth is $8.74 billion, according to documents he published in conjunction with his presidential campaign announcement. Forbes, however, reports a net worth...
+subject_label:			5
+query_id:			321951

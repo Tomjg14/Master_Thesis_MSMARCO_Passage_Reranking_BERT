@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7806620
+query:			how big is a micron
+passage:			Passage: The big difference between the 3 types of filters is how small the particles are that the filter can catch. According to Haywardâs Research a sand filter can catch debris that is 20-40 microns. A cartridge filter catches between 10-15 microns. And a DE filter can catch debris as small as 2-5 microns.
+subject_label:			3
+query_id:			208822

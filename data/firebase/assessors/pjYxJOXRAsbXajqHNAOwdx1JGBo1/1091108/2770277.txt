@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			2770277
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: What does it mean to sense something? Sensory receptors are specialized neurons that respond to specific types of stimuli. When sensory information is detected by a sensory receptor, sensation has occurred. For example, light that enters the eye causes chemical changes in cells that line the back of the eye. These cells relay messages, in the form of action potentials (as you learned when studying biopsychology), to the central nervous system.
+subject_label:			4
+query_id:			1091108

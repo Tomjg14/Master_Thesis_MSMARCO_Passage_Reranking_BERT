@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5216485
+query:			what is termis
+passage:			Passage: Montecatini Termi Things to Do The ancient city of Montecatini Termi has been inhabited since paleolithic times. Today, it is a major tourist attraction in Tuscany for many reasons including the warm thermal baths.
+subject_label:			1
+query_id:			1045227

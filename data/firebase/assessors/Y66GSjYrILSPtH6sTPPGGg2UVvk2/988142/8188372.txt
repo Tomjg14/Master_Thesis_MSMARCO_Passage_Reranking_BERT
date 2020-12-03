@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8188372
+query:			who paul clark
+passage:			Passage: Some of the other celebrities who supported the event in London included: Joe Calzaghe, Nicky Clarke OBE, Dynamo, Nathaniel Clyne, Jenny Agutter, Darren Gough, Gavin Hastings, Paul Nixon, Jimmy Tarbuck OBE, Jeremy Vine, Lawrence Dallaglio MBE, Ben Fogle, Brendan Cole, Natascha McElhone, Rupert Penry-Jones, Dominic West, Rupert Everett, Frank Bruno MBE, Marvin Hagler, Tim Witherspoon, Jamie Oliver, Sarah Jayne Dunn, Harry Enfield, Peter Phillips Terry Venables, Paul Whitehouse, Tony Hadley ...
+subject_label:			no_input
+query_id:			988142

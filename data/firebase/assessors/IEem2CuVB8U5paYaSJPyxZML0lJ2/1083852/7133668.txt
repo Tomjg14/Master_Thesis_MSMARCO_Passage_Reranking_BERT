@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7133668
+query:			what does extravert mean
+passage:			Passage: It is up to each person to recognize his or her true preferences.. C. G. Jung applied the words extravert and introvert in a different manner than they are most often used in today's world. As they are popularly used, the term extraverted is understood to mean sociable or outgoing, while the term introverted is understood to mean shy or withdrawn. Jung, however, originally intended the words to have an entirely different meaning.
+subject_label:			3
+query_id:			1083852

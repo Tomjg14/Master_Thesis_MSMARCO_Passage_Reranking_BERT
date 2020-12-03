@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7998677
+query:			blue sky charge controller price
+passage:			Passage: Blue Sky Solar Boost 3024iL MPPT 40 Amp Solar Charge Controller. The Blue Sky Solar Boost 3024iL can regulate 12 volt solar electric systems up to 560 watts. The 3024iL can handle up to four 140 watt solar panels. With options this kit contains all the major components to get you started. IPN remote display includes 25' cable.
+subject_label:			1
+query_id:			54819

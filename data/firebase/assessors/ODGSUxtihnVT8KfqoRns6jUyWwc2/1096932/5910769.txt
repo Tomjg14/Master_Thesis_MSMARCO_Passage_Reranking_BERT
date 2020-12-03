@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5910769
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: How many miles does the average person walk per day? Walking is one of the best forms of exercise. America Walks states that brisk walking at a pace over 3.5 miles per hour has been shown to reduce blood pressure, lower body fat, reduce risks of bone fracture and increase high-density lipoprotein.
+subject_label:			1
+query_id:			1096932

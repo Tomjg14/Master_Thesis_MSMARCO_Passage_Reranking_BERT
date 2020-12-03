@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7680296
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Driving distance from Hamilton, Canada to Niagara Falls, NY. The total driving distance from Hamilton, Canada to Niagara Falls, NY is 45 miles or 72 kilometers. Your trip begins in Hamilton, Canada. It ends in Niagara Falls, New York.
+subject_label:			3
+query_id:			231877

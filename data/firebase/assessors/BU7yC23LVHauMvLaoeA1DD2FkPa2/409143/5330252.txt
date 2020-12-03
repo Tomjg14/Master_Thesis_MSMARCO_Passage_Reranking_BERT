@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5330252
+query:			is education a constitutional right
+passage:			Passage: The Constitution guarantees sixfundamental rights to Indian citizens as follows: (i) right to equality, (ii) right tofreedom, (iii) right against exploitation, (iv) right to freedom of religion, (v) culturaland educational rights, and (vi) right to constitutional remedies.he Constitution guarantees sixfundamental rights to Indian citizens as follows: (i) right to equality, (ii) right tofreedom, (iii) right against exploitation, (iv) right to freedom of religion, (v) culturaland educational rights, and (vi) right to constitutional remedies.
+subject_label:			4
+query_id:			409143

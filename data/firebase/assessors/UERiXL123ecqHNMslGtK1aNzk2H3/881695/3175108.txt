@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3175108
+query:			what network is pickles on cartoon
+passage:			Passage: The studio began on October 21, 1994, at 7:00am as a name-only division of Hanna-Barbera Cartoons, Inc., which was then focused on producing Cartoon Cartoons for Cartoon Network: What a Cartoon!, Dexter's Laboratory, Johnny Bravo, and The Powerpuff Girls.
+subject_label:			3
+query_id:			881695

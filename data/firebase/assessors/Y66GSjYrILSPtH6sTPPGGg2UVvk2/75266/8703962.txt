@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8703962
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Install vCenter Operations Manager on Linux - Console Mode 22 Advanced vCenter Operations Manager Configuration 23 6 Validate the vCenter Operations Manager Installation 27
+subject_label:			1
+query_id:			75266

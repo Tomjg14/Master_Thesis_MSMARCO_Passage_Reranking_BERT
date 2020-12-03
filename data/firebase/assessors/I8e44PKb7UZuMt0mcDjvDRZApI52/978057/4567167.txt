@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4567167
+query:			where is berrimah
+passage:			Passage: Where is Kanel: Where is Kaolack: Where is Kayar: Where is Kebemer: Where is Kedougou: Where is Khombole: Where is Kolda: Where is Koungheul: Where is Linguere: Where is Louga: Where is M'Bour: Where is Matam: Where is Mbacke: Where is Mboro: Where is Mekhe: Where is Ndioum: Where is Nguekhokh: Where is Nioro du Rip: Where is Ouro Sogui: Where is Pout: Where is Richard Toll
+subject_label:			1
+query_id:			978057

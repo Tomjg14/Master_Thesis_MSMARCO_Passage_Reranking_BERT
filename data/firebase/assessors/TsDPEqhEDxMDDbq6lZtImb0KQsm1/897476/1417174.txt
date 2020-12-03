@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1417174
+query:			what state has the easiest bar exam
+passage:			Passage: Besides studying harder after failing a bar exam, there is another way to avoid retaking the bar exam you failed and still get the Admitted to the Bar stamp on your resume. The key is to take another stateâs bar exam â a state with a much easier exam and a much higher pass rate.
+subject_label:			2
+query_id:			897476

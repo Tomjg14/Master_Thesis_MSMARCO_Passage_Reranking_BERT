@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3611510
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Polychaetes are a class of worms that are very common marine organisms in the depths of the ocean. These worms are also called bristle worms. Most Polychaetes contains a closed circulatory system but in many small polychaetes, they lack a circulatory system. The blood is effected by a system of closed vessels with muscular walls.
+subject_label:			1
+query_id:			178468

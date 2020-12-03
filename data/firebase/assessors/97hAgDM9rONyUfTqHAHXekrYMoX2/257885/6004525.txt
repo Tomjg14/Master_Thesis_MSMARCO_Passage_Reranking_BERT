@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6004525
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: How long does it take to start receiving Social Security after I apply? After you have applied for your Social Security retirement benefits and you are soon to turn full retirement age your benefits will begin the month after your 66th birthday.
+subject_label:			2
+query_id:			257885

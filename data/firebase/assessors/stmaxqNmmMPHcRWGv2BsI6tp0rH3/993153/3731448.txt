@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3731448
+query:			which situation does a company issue a note receivable
+passage:			Passage: Contrary to what many people think, VISA does not issue credit cards. The company is actually a card network, which means it dictates where a given credit card will be accepted as well as what types of rental car insurance, extended product warranties and other perks cardholders receive.
+subject_label:			2
+query_id:			993153

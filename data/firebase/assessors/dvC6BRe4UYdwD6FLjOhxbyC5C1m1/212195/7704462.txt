@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7704462
+query:			how could the courts check the bureaucracy
+passage:			Passage: The goal of mechanistic structures is efficiency. Thus, the rationale for bureaucracy is protection while the rationale for mechanistic organizations is efficiency. Clearly, the two are not mutually exclusive; an organization could be structured as a bureaucracy and also be mechanistic.
+subject_label:			2
+query_id:			212195

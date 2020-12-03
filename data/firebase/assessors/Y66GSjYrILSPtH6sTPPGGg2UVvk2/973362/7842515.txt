@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7842515
+query:			where does lice come from
+passage:			Passage: After reading this article, you may have got the answer to your question that where does lice come from? But another thing that comes to the mind is, Related posts:
+subject_label:			4
+query_id:			973362

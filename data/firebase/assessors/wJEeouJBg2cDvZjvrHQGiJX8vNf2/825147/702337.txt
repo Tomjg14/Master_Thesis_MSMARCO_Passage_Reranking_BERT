@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			702337
+query:			what is the hormone that makes you fat
+passage:			Passage: The leptin hormone is released by fat cells (adipocytes) after which it travels through the bloodstream into the brain. This hormone signals the hypothalamus, the small area in the base of the brain that controls hunger, that you have eaten enough and makes you feel full. Leptin is the hormone that regulates hunger. Even more interesting, Leptin stimulates metabolism and causes you to burn stored fat instead of muscles.
+subject_label:			4
+query_id:			825147

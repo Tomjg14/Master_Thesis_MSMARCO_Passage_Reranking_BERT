@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7810605
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: The Franklin Park Zoo officially opened to the public on October 4, 1912 (although most sources say 1913). According to plans by Arthur A. Shurtleff, the new zoo represented a major departure from Olmsted's original plans, and included more exotic animals.
+subject_label:			3
+query_id:			866251

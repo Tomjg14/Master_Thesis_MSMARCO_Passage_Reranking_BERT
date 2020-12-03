@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7523959
+query:			what are stand up paddle boards made of
+passage:			Passage: Pick up a stand-up paddle board paddle or browse the full collection of water sports equipment at DICK'S Sporting Goods. Stand-up paddle boards resemble oversized surf boards, but these vessels aren't designed for taking on surf.
+subject_label:			2
+query_id:			566174

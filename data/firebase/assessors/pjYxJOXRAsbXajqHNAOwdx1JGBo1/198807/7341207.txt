@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7341207
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: Also on the list are two teams who went undefeated through the first 13 games of the regular season, not to mention a team that won 35 of its first 40 games, as it produced one of the most memorable seasons in MLB history. Iâve compiled a list of my 10 most memorable and prominent starts to a MLB baseball season.
+subject_label:			3
+query_id:			198807

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1312929
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Chick-fil-A free breakfast is available next week, but it requires making a reservation online ahead of time. This year, Chick-fil-A free breakfast comes as the chicken breakfast market is becoming a bit more competitive.
+subject_label:			2
+query_id:			904389

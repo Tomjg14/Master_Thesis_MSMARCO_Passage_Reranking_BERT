@@ -1,0 +1,7 @@
+user_id:			stmaxqNmmMPHcRWGv2BsI6tp0rH3
+consent:			true
+batches:			["1","13","14","15","44","45","47","48"]
+english:			8
+unassessed_queries:			["1081338","990010","1087351","660999","153794"]
+progress:			15
+contact:			true

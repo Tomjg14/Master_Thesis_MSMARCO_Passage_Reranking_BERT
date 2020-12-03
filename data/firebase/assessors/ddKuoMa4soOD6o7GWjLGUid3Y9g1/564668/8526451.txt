@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8526451
+query:			what are sensitive periods for brain development
+passage:			Passage: What is agenesis of the corpus callosum (ACC)? Agenesis of the corpus callosum is a congenital (lifelong) brain abnormality that occurs when the corpus callosum does not develop as it should during the early prenatal period.
+subject_label:			2
+query_id:			564668

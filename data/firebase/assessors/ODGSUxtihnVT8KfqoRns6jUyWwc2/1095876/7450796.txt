@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7450796
+query:			how much is college in florida
+passage:			Passage: How many representatives does Florida send to wahington? There are a total of 27 representatives in the house from Florida. This makes Florida one of the largest states in the electoral college.
+subject_label:			1
+query_id:			1095876

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4611669
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Read More. Hello, These symptoms are due to heat rashes or prickly heat. Prickly heat (miliaria) is an itchy skin rash caused by trapped sweat. Tiny red spots with itching and pricking sensation are the characteristic appearance of this rash.ead More. Hello, These symptoms are due to heat rashes or prickly heat. Prickly heat (miliaria) is an itchy skin rash caused by trapped sweat. Tiny red spots with itching and pricking sensation are the characteristic appearance of this rash.
+subject_label:			5
+query_id:			1086248

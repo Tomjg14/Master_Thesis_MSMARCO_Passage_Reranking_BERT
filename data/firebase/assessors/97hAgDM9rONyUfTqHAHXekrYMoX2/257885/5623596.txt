@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5623596
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: According to the Social Security Administration, SSA, the maximum benefit you can take depends on the age you retire. For example, if you retire at your full retirement age, 66, in 2013, your maximum benefit would be $2,533. But if you retire when first eligible at age 62 in 2013, your maximum benefit would be $1,923.
+subject_label:			2
+query_id:			257885

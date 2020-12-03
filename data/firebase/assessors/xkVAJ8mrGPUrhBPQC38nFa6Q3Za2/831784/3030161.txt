@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3030161
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: 10/10/2015 12:30:37 AM| 1 Answers. When a word ends in y and you add a suffix, the spelling of the root ... Weegy: When a word ends in y and you add a suffix, the spelling of the root word does not change. False.
+subject_label:			1
+query_id:			831784

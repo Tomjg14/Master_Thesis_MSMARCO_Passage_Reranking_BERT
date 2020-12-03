@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6102962
+query:			what are stand up paddle boards made of
+passage:			Passage: Standup paddleboarding. Standup paddleboarding in light surf. Stand up paddle surfing and stand up paddle boarding (SUP) (Hoe he'e nalu in the Hawaiian language) are offshoots of surfing that originated in Hawaii. Unlike traditional surfing where the rider sits until a wave comes, stand up paddle boarders stand on their boards and use a paddle to propel themselves through the water.
+subject_label:			1
+query_id:			566174

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7992838
+query:			highest mileage crossover india
+passage:			Passage: A crossover car, as the name suggests, is a car manufactured on a car platform and combining, in highly variable degrees, features of two different design styles or segments. There are 19 Crossover Cars in India on 09 August 2016. Filter Results. Filter 19 Matching Variants.
+subject_label:			2
+query_id:			202306

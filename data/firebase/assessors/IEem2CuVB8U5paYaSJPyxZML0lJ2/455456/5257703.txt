@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5257703
+query:			molar mass of phenol
+passage:			Passage: 1 A substance's molar mass is calculated by multiplying its relative atomic mass by the molar mass constant (1 g/mol). The molar mass constant can be used to convert mass to moles. By multiplying a given mass by the molar mass, the amount of moles of the substance can be calculated.
+subject_label:			4
+query_id:			455456

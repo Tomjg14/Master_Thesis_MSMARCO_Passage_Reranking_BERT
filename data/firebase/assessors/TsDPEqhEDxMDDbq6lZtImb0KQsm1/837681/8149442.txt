@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8149442
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of organized? What is the opposite of organize? What is the opposite of organizations? What is the opposite of organization person? What is the opposite of organizational? What is the opposite of organization administrator? What is the opposite of organized data? What is the opposite of organizer? What is the opposite of organizes?
+subject_label:			1
+query_id:			837681

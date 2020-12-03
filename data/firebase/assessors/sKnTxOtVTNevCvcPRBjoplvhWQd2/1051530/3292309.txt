@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3292309
+query:			what is mastoidectomy
+passage:			Passage: A mastoidectomy is performed to remove infected mastoid air cells resulting from ear infections, such as mastoiditis or chronic otitis, or by inflammatory disease of the middle ear (cholesteatoma).
+subject_label:			5
+query_id:			1051530

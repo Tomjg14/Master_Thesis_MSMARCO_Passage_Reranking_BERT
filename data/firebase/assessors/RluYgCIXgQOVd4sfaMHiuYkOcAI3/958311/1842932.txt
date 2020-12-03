@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1842932
+query:			when was jim vance funeral
+passage:			Passage: Making the world better, one answer at a time. The Hatefield-McCoy feud began with the murder of Asa Harmon McCoy on January 7, 1865. Jim Vance, the uncle of Devil Anse Hatfield, despised Harmon because he had joined the Union Army during the American Civil War.
+subject_label:			1
+query_id:			958311

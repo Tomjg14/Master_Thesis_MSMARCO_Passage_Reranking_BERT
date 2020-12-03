@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7967212
+query:			how much does a spectacled bear weigh
+passage:			Passage: Male spectacled bears are much larger than female spectacled bears, giving local farmers the impression that they live with more than one species of bear. Male bears weigh from 120 to 340 pounds 54 to 154 kg); females weigh 60 to 180 pounds (27 to 82 kg). At birth, cubs weigh from 10 to 11 ounces (284 to 312 grams).
+subject_label:			5
+query_id:			311540

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1681699
+query:			where is mathura
+passage:			Passage: People in Mathura celebrate holi with lots of fun-frolic activities. Holi festival is of great significance of love and devotion for them where lots of romance is found to see and experience. A whole week celebration takes place with a huge crowd of people from every corner of India.
+subject_label:			1
+query_id:			998591

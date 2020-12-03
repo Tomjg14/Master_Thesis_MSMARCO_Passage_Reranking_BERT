@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8228347
+query:			how could the courts check the bureaucracy
+passage:			Passage: How does the legislative branch check the judicial branch? Congress is in charge of the confirmation process of justices, congress can impeach federal judges, Congress has jurisdiction authority over lower federal courts (could prohibit federal courts from hearing certain cases), with the power of the purse Congress decides if justices get pay raises
+subject_label:			3
+query_id:			212195

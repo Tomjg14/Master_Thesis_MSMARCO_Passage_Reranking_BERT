@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7942125
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: to a speciËc type of sensory information, such as light or chemical molecules. Reception is the process of detecting and responding to incoming sensory information. Every receptor cell within a sensory system has an area of sensitivity. This is called its receptive Ëeld. A receptive Ëeld is the area of space in which a
+subject_label:			4
+query_id:			1091108

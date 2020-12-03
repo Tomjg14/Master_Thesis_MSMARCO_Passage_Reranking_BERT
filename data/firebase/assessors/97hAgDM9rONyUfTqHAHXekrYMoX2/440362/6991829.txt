@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6991829
+query:			linking verb synonym
+passage:			Passage: A linking verb is a verb that links (connects) the subject of the sentence to information about that subject. Linking verbs do not describe action. When using linking verbs, the sentence structure will be : SUBJECT--->LINKING VERB---> INFORMATION ABOUT THE SUBJECT (noun)(verb)(adjective, noun, or complement)
+subject_label:			3
+query_id:			440362

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3935092
+query:			apartment cost in phoenix az
+passage:			Passage: Apartments for Rent in Phoenix, AZ . You searched for apartments in Phoenix, AZ. Let Apartments.com help you find the perfect rental near you. Click to view any of these 7,419 available rental units in Phoenix to see photos, reviews, floor plans and verified information about schools, neighborhoods, unit availability and more.
+subject_label:			4
+query_id:			1100687

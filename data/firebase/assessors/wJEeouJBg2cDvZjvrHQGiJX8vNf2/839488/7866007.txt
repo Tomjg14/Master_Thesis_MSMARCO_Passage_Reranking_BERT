@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7866007
+query:			what is the plural of kohlrabies
+passage:			Passage: Borrowing from German Kohlrabi, from Kohl (âcabbageâ) + Italian rape (âturnipsâ), from cavoli rape, the plural of cavolo rapa (âcole rapeâ).
+subject_label:			3
+query_id:			839488

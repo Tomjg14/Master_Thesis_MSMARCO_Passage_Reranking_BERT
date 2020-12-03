@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7804066
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: what temperature is it in tucson arizona right now? kgb answers Â» Local & Lookup Â» Weather Â» what temperature is it in tucson arizona right now? According to Weatherbug.com, the current temperature in Tucson, AZ is 46.9 degrees Fahrenheit.
+subject_label:			4
+query_id:			933236

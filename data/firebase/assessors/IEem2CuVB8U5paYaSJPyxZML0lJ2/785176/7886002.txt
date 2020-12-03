@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886002
+query:			what is polydextrose made from
+passage:			Passage: It's also been a boon to low-carb and sugar-free creations. Commercial polydextrose is available under brand names such as Sta-Lite by Tate & Lyle, Decatur, Ill.; Litesse by Danisco, New Century, Kan., now a division of DuPont Nutrition and Health; and Trimcal from C&H Ingredients, Farington, UK, as well as others.
+subject_label:			2
+query_id:			785176

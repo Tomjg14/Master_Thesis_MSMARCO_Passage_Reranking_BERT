@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6352672
+query:			is education a constitutional right
+passage:			Passage: 1 Right to constitutional remedies: Which is present for enforcement of Fundamental Rights. 2 Right to life: Which gives the right to live with human dignity. 3 This includes rights such as right to education, health, shelter and basic amenities that the state shall provide.
+subject_label:			4
+query_id:			409143

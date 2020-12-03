@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7867874
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Together they form a continuous improvement methodology that cannot be ignoredâLean Six Sigma. What is Lean Six Sigma? Lean Six Sigma is a blend of the two most powerful improvement methods of the past 20 years: Lean and Six Sigma. It is a unique analytical business process that enables companies to drastically improve their profitability by designing and monitoring everyday business activities in ways that minimize waste and resources. There are several important areas that must be met for a Lean Six Sigma program to be successful. Critical Success Factors of Lean Six Sigma
+subject_label:			5
+query_id:			786937

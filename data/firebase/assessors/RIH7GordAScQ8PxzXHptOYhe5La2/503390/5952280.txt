@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5952280
+query:			statute of limitations definition
+passage:			Passage: A statute of limitations is said to start running at the time a claim accrues. In case of damages, a claim accrues, by definition in the statute of limitations, at the time that the wrong upon which the claim is based was done, regardless of the time when damage results.
+subject_label:			3
+query_id:			503390

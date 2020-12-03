@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8442035
+query:			what is crossfit?
+passage:			Passage: December 27, 2010. âItâs a quantifiable approach to a finally well-defined notion of what fitness is. That is what CrossFit is,â CrossFit founder and CEO Greg Glassman says in defining the program he created and showing how it differs from every other exercise regimen out there.
+subject_label:			2
+query_id:			736125

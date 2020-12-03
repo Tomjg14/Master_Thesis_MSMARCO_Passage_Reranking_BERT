@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7998676
+query:			blue sky charge controller price
+passage:			Passage: View Additional Datasheet. Blue Sky Energy, Solar Boost 3024iL, MPPT Charge Controller, 30 Amp 12/24 Volt, no display, SB3024iL. Patented Maximum Power Point Tracking technology allows Solar Boost 3024iL to increase charge current up to 30% or more compared to conventional charge controllers. Donât waste your money by throwing PV power away!
+subject_label:			1
+query_id:			54819

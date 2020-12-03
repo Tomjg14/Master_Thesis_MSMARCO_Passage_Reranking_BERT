@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7864221
+query:			who is the grinning man
+passage:			Passage: Description Edit. The Grinning Man is reported to be human-like in appearance, though is commonly associated with UFO activity and is sometimes believed to be an alien. It is also believed possible that he is connected with the Men In Black.
+subject_label:			4
+query_id:			1040461

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8380961
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: By far the most common cause of low platelets in pregnancy is Gestational Thrombocytopenia, which occurs in 5% of normal pregnancies in the third trimester. These women will have normal platelets on their first blood count in early pregnancy.Sometimes the low platelet count is picked up on a routine blood draw in the third trimester, and other times it is not noted until the patient arrives for delivery.y far the most common cause of low platelets in pregnancy is Gestational Thrombocytopenia, which occurs in 5% of normal pregnancies in the third trimester. These women will have normal platelets on their first blood count in early pregnancy.
+subject_label:			2
+query_id:			414155

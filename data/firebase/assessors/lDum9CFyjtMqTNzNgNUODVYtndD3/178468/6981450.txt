@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6981450
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Hot flashes, hot flushes and night sweats are common symptoms of menopause, and while the exact cause is unknown, it is believed to be linked to complex interactions between the hypothalamus, the circulatory system and hormonal fluctuations.
+subject_label:			1
+query_id:			178468

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3474383
+query:			is callahan an irish name
+passage:			Passage: PDF Coat of Arms. + Extended History. The surname Callahan was first found in Munster. The earliest mention of the name Callahan placed them in the barony of Kinlea, in County Cork, yet the family lost most of their original lands in the barony of Kinelea during the Anglo- Norman Conquest under Strongbow.
+subject_label:			5
+query_id:			405238

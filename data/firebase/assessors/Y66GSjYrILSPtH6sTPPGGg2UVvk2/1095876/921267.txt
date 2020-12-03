@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			921267
+query:			how much is college in florida
+passage:			Passage: I wanna be a phlebotomist how long does it take? I live in florida, but i live 20 mins from alabama and the college there is offering phlebotomy classes,and im really interested . The councelor said it would be 2 semesters so,about how many months would that be for college? Also how much do phlebotomists make in florida?
+subject_label:			1
+query_id:			1095876

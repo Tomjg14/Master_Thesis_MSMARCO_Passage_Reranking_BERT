@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7894005
+query:			phone number for bc transit junction
+passage:			Passage: Welcome to. BC Transit. From small towns to large urban centres, BC Transit connects over 50 million customers in communities across the province every year. Searching For a Transit System Near You or
+subject_label:			2
+query_id:			1091688

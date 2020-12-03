@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8171086
+query:			rigorous testing definition
+passage:			Passage: In USA a Certified Arborist (or 'CA') is a professional who has over three years experience and has passed a rigorous written test from the International Society of Arboriculture. Certified Arborist Technicians, (or 'CAT') is the designation given after a less rigorous exam, written or verbal, and a short climbing test.
+subject_label:			1
+query_id:			489257

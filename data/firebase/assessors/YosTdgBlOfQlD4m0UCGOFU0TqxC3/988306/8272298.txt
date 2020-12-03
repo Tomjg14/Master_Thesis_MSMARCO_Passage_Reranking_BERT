@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8272298
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Welcome to the Hilton Garden Inn Charlotte Airport hotel offering free Wifi and complimentary shuttle service. Hilton Garden Inn Charlotte Airport is located in the attractive Lakepointe Center office park. Our Charlotte airport hotel is located only minutes from the Charlotte Douglas Airport.
+subject_label:			2
+query_id:			988306

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7181765
+query:			statute of limitations definition
+passage:			Passage: What Are Statutes of Limitations? Yes, there are definite time limits to file a lawsuit. It depends entirely upon the state you're in (or federal law) and what the offense is. Some claims may expire as quickly as a year after the event in question took place. Other claims can be filed decades later (tax fraud, for instance). If you are considering filing a lawsuit, contact an attorney or check the relevant laws to find out what the statute of limitations is in your case. When Do Statutes of Limitations Start? There are several different ways that a statute of limitation may start, but here are the most common three:
+subject_label:			4
+query_id:			503390

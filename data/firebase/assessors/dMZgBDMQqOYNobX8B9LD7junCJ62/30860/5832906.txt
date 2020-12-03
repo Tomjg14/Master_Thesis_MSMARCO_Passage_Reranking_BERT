@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5832906
+query:			average amount of money stna make
+passage:			Passage: How much money does an entrepreneur make in a year? As of 2013, the average money an entrepreneur make in a year is $68,000, as stated by Fox Business. Typically, the amount will vary from one person to another due to the different types of businesses that people start.
+subject_label:			1
+query_id:			30860

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2769487
+query:			what is the phone number to spe
+passage:			Passage: The purpose of any equity owner of an SPE mortgage borrower that itself is a SPE constituent. entity should be limited to owning the equity interests in the SPE mortgage borrower, while an SPE. depositor's purpose should be limited to depositing the mortgage loans into the trust that will issue the.
+subject_label:			1
+query_id:			1034595

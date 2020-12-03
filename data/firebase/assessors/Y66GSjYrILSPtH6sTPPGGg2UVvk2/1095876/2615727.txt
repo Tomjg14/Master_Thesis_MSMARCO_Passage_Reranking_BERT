@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2615727
+query:			how much is college in florida
+passage:			Passage: 1 63% - How much do groceries cost per month for the average college student? 2 47% - On average how much does a student spend on tuition at teachers college? 3 54% - How much is the average electric bill in a one bed room apartment in college station? 73% - How much should a college student budget to furnish an apartment? 2 55% - How much does an apartment in fresno cost a college student? 3 67% - How much is it for an average college student to live in uk? 4 66% - What does the average college student spend on breakfast?
+subject_label:			2
+query_id:			1095876

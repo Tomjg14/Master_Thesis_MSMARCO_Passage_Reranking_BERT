@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			223599
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Definition of duress in the Legal Dictionary - by Free online English dictionary and encyclopedia. What is duress? Meaning of duress as a legal term. What does duress mean in law?
+subject_label:			1
+query_id:			641156

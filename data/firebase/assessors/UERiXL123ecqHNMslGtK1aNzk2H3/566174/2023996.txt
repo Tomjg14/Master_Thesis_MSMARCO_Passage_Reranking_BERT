@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2023996
+query:			what are stand up paddle boards made of
+passage:			Passage: Stand up paddle boards (SUP) offer a fun, relaxing way to play on the water. With a minimum of gear, you can paddle ocean surf or placid lakes and rivers. Paddle boarding delivers a full-body workout and thus has become a popular cross-training activity.
+subject_label:			1
+query_id:			566174

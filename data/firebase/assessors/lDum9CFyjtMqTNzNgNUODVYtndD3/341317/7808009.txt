@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7808009
+query:			how tall is samus aran
+passage:			Passage: Samus Aran (Japanese: ãµã ã¹ã»ã¢ã©ã³, Hepburn: Samusu Aran) is the protagonist of the Metroid science fiction action-adventure game series by Nintendo.She was introduced in the 1986 video game Metroid.amus has appeared in every Metroid video game and has also been featured in media outside of the series, including the comic book version of Captain N: The Game Master and the Super Smash Bros. series.
+subject_label:			2
+query_id:			341317

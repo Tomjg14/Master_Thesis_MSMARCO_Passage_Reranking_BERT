@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5978440
+query:			who paul clark
+passage:			Passage: There are also four prime ministers who served multiple non-consecutive terms in the office. Of the prime ministers who served less than one full term, two of them, Joe Clark and Paul Martin, had their time in office cut short by the collapse of a minority parliament and the subsequent election of the opposition party.here are also four prime ministers who served multiple non-consecutive terms in the office. Of the prime ministers who served less than one full term, two of them, Joe Clark and Paul Martin, had their time in office cut short by the collapse of a minority parliament and the subsequent election of the opposition party.
+subject_label:			1
+query_id:			988142

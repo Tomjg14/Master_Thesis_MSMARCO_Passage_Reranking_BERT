@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7864217
+query:			who is the grinning man
+passage:			Passage: The Grinning Man is sometimes described as being an extraterrestrial, Men in Black or a hominid cryptid and was investigated by notable paranormal author John A. Keel and ufologist James Moseley. Arguably the best known Grinning Man was Indrid Cold, who appeared during the 1960s' Mothman sightings.
+subject_label:			5
+query_id:			1040461

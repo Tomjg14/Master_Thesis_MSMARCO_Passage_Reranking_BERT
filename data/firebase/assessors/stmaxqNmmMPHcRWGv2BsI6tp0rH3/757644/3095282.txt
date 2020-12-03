@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3095282
+query:			what is impact ratio analysis
+passage:			Passage: What is Impact Analysis. From Requirements Management School. Impact analysis forms part of the review stage of the change control process. It is a formal approach that is adopted to identify any possible risks associated with a change request. It is a process that is generally carried out by the development team.
+subject_label:			3
+query_id:			757644

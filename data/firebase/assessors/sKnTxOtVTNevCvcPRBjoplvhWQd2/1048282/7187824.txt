@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187824
+query:			what is pivx
+passage:			Passage: Obfuscation is a mixing mechanism that is used in wallet coin mixing, but done is a decentralized fashion. This fashion is facilitated by the networks of masternodes on the PIVX platform. Obfuscation provides for an additional privacy on transaction layer.
+subject_label:			1
+query_id:			1048282

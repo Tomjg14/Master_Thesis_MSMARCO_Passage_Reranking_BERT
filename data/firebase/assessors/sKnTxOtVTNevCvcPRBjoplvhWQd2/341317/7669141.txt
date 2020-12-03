@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669141
+query:			how tall is samus aran
+passage:			Passage: Samus is supposed to be over six feet tall right? I remember in the beginning cut scenes she was shorter than the entire squad surrounding her..she looked maybe 5'4. But in the cut scene when she talks to Madeline she towers over her like god damn king kong.
+subject_label:			4
+query_id:			341317

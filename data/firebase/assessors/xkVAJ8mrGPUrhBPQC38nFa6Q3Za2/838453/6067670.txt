@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6067670
+query:			what is the parent company for adidas
+passage:			Passage: Contact Adidas Customer Service. Contact Adidas Customer Service. Contacting Adidas Customer Service Center. Adidas is a major player in fitness apparel and equipment. While the name Adidas appears on shoes, clothing and other items, the company is also responsible for other popular names like Reebok and Taylor Made.
+subject_label:			1
+query_id:			838453

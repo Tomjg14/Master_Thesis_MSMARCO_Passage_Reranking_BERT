@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			30086
+query:			how big is a micron
+passage:			Passage: All that any muscle can do is create contraction force. A muscle is a bundle of many cells called fibers. You can think of muscle fibers as long cylinders, and compared to other cells in your body, muscle fibers are quite big. They are from about 1 to 40 microns long and 10 to 100 microns in diameter.
+subject_label:			2
+query_id:			208822

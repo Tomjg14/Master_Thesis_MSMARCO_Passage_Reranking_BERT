@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1622492
+query:			where do the ash borer come from
+passage:			Passage: On November 8, 2016, Emerald Ash Borer was confirmed in Alabama. On October 14, 2016, Emerald Ash Borer was confirmed in Oklahoma. On August 23, 2016, Emerald Ash Borer was confirmed in Delaware. This Website is part of a multinational effort to bring you the latest information about emerald ash borer.
+subject_label:			2
+query_id:			971653

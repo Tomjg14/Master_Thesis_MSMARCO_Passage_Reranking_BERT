@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5405463
+query:			is the hawb the tracking number
+passage:			Passage: Airway bill is a document, which is a proof of receipt of goods from shipper issued by air carrier. If a freight forwarder or consolidator involved in a shipment, such forwarder issues a document of receipt of goods to the final shipper which is called House airway bill (HAWB).
+subject_label:			4
+query_id:			426442

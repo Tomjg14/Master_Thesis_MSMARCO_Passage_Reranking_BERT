@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4684742
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: Before an embryo is visible, the yolk sac can be seen inside the gestational sac-late in the 3rd week. Week 6 Since LMP - (Fetal Age - 4 weeks): A vaginal ultrasound could possibly detect an audible heartbeat at this time.
+subject_label:			3
+query_id:			299732

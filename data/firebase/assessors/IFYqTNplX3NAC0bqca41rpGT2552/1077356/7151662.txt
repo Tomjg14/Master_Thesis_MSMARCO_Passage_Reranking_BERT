@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7151662
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: The companyâs lead drug candidate, DaxibotulinumtoxinA for Injection (RT002), is currently in development for the treatment of glabellar lines, cervical dystonia and plantar fasciitis with the potential to be the first long-acting neuromodulator.
+subject_label:			1
+query_id:			1077356

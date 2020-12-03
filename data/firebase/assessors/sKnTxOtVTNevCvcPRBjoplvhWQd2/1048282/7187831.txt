@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187831
+query:			what is pivx
+passage:			Passage: PIVX is a proof of stake cryptocurrency that is based on the 0.10 codebase version or higher bitcoin codebase. The PoS structure on the network does away with coinage, meaning you need to keep your wallet open every time to get the most out of your staking. The results will be more constant available nodes and strengthen the network.
+subject_label:			3
+query_id:			1048282

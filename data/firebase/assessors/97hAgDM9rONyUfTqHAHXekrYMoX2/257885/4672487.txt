@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4672487
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: If you claim benefits after full retirement age. From your full retirement age until you reach age 70, the Social Security Administration (SSA) will increase your benefits by 8% per year.Let's see how this plays out. Imagine that you'd receive $21,180 annually if you retired at your full retirement age (let's say it's 66).f you claim benefits after full retirement age. From your full retirement age until you reach age 70, the Social Security Administration (SSA) will increase your benefits by 8% per year. Let's see how this plays out.
+subject_label:			2
+query_id:			257885

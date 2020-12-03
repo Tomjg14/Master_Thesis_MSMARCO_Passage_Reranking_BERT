@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5066808
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: About Edgar Cayce. Considered by many to be the father of modern holistic medicine, Edgar Cayce produced a tremendous legacy of information about the human body. This information included spiritual principles, meditation, healthful tonics, beneficial oils, rejuvenating remedies and more.
+subject_label:			2
+query_id:			9083

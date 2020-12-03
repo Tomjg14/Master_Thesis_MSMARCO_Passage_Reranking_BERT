@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2660830
+query:			what is the plural of kohlrabies
+passage:			Passage: When it's a small bulbous member of the cabbage family called kohlrabi, that's when. For all intents and purposes, kohlrabi appears to be a root vegetable in the same company as turnips, radishes and rutabagas. However, the bulbous shape is caused by a swelling of the plant's stem near the ground.In that sense, it is more of a tightly packed version of its cousin, cabbage. try to use kohlrabi whenever I can find it because of the valuable kohlrabi nutrition. As a member of the cabbage family it contains some of the same nutrients that appear to protect us against colon cancer and prostate cancer.
+subject_label:			2
+query_id:			839488

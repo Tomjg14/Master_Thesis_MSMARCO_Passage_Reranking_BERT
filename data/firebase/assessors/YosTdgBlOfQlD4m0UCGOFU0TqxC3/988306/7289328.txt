@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289328
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: 6 - Hilton Charlotte University Place, Charlotte, Executive Room, 1 King Bed, Business Lounge Access, Guest Room; 7 - Hilton Charlotte University Place, Charlotte, Premium Room, 2 Double Beds, Guest Room; 8 - Hilton Charlotte University Place, Charlotte, Executive Room, 1 King Bed, Business Lounge Access, Guest Room 9 - Hilton Charlotte University Place, Charlotte, Guest Room 10 - Hilton Charlotte University Place, Charlotte, Guest Room
+subject_label:			2
+query_id:			988306

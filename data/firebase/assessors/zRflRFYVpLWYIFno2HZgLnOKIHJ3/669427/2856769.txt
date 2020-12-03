@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2856769
+query:			what hormone secretion causes goiter
+passage:			Passage: Autoimmune reactions against the thyroid can cause hyperthyroidism; Graves' disease is one such condition. The immune system malfunctions, causing an increase in thyroid hormone. Goiter, a greatly enlarged thyroid gland, is seen in those with Graves' disease and is due to the excessive secretion of thyroid hormone.utoimmune reactions against the thyroid can cause hyperthyroidism; Graves' disease is one such condition. The immune system malfunctions, causing an increase in thyroid hormone. Goiter, a greatly enlarged thyroid gland, is seen in those with Graves' disease and is due to the excessive secretion of thyroid hormone.
+subject_label:			5
+query_id:			669427

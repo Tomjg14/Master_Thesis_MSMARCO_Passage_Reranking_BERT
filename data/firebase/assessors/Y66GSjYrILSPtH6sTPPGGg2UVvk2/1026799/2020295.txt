@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2020295
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: 1 The kidney often lasts longer. 2 A transplanted kidney from a living donor often lasts longer. 3 This is partly due to more time being available to do the necessary tests to get a better tissue match between donor and recipient. 4 A better tissue match means higher compatibility and less risk of organ rejection.
+subject_label:			2
+query_id:			1026799

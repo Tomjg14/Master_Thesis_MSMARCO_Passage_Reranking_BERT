@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			216924
+query:			how much is college in florida
+passage:			Passage: The total cost of attendance at University of Florida may sound expensive, but the truth is that many students pay less than their college's sticker price thanks to financial aid. Read below to learn more about University of Florida's financial aid program and how much money you can save by applying for grants, scholarships, and student loans.
+subject_label:			4
+query_id:			1095876

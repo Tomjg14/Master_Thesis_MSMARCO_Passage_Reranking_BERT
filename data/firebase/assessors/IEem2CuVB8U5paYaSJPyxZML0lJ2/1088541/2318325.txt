@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2318325
+query:			weather in fletcher,nc
+passage:			Passage: Fletcher, NC Employment Information. If youâre ready for a new and challenging job, take a look at our wide range of Fletcher, North Carolina jobs. Whatever type of job in Fletcher youâre seeking, you can find it on Monster. View our listings of Fletcher job opportunities and find your perfect fit today. View More.
+subject_label:			1
+query_id:			1088541

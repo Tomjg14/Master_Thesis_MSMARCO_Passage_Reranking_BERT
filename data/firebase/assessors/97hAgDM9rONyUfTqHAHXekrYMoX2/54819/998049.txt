@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			998049
+query:			blue sky charge controller price
+passage:			Passage: Sky Box Office Prices is it now free. This is a discussion on Sky Box Office Prices is it now free within the Sky & Sky+ TV forums, part of the Other Sky help and support category; Is sky box office now free I have a Sky + HD Box and it has never charged me to ...
+subject_label:			1
+query_id:			54819

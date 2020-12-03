@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5971874
+query:			where do the ash borer come from
+passage:			Passage: What eats an emerald ash borer? There are two types of stingless wasps that lay eggs in the larvae of emerald ash borer. Currently these wasps are being used to control the spread of eab especially in areas â¦ where chemical controls and removal of infested trees are difficult.
+subject_label:			3
+query_id:			971653

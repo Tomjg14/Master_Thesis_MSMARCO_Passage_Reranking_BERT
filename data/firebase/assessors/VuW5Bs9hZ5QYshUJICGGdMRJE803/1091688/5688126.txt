@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5688126
+query:			phone number for bc transit junction
+passage:			Passage: American Furniture - Grand Junction 865 North Avenue, Grand Junction CO 81501 Phone Number: (970) 243-0634
+subject_label:			1
+query_id:			1091688

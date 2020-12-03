@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5796937
+query:			definition of purse
+passage:			Passage: The cost of a Kate Spade purse depends on the particular Kate Spade purse one would like to buy. Definitely, one should pay $378 for West Valley Valentine Kate Spade purse or â¦ $398 for a West Valley Maryanne Kate Spade purse.2 people found this useful.he cost of a Kate Spade purse depends on the particular Kate Spade purse one would like to buy. Definitely, one should pay $378 for West Valley Valentine Kate Spade purse or â¦ $398 for a West Valley Maryanne Kate Spade purse. 2 people found this useful.
+subject_label:			1
+query_id:			137508

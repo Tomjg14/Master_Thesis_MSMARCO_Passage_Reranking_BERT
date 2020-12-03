@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3554025
+query:			what is gabba
+passage:			Passage: Yo Gabba Gabba! is an American live action/puppet children's television show starring five costumed toys-come-to-life and their friend DJ Lance Rock. The Gabba gang explores a single topic in each episode, e.g. Adventure, Friends, and Dance, through songs and short storylines in the half-hour program.
+subject_label:			1
+query_id:			749752

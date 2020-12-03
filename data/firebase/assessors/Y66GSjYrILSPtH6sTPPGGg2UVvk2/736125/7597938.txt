@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7597938
+query:			what is crossfit?
+passage:			Passage: CrossFit is what remains â bar none, the most effective fitness and conditioning system in the world! One of the things that makes CrossFit unique is that it addresses the fact that the fitness needs of an âAverage Joeâ are identical to that of a top athlete â the only difference being intensity (speed & weight) and volume.
+subject_label:			4
+query_id:			736125

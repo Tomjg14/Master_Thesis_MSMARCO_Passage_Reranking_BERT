@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7937956
+query:			does singing burn calories
+passage:			Passage: How many calories to you burn jogging? Burning of calories depends on the distance u jog with every km a person burns 100 calories if he or she jogs at a speed of 7-8 km per hour. How many calories does sweating burn? Sweating is a natural process of the human body that has the function of body's heat regulation.
+subject_label:			1
+query_id:			171370

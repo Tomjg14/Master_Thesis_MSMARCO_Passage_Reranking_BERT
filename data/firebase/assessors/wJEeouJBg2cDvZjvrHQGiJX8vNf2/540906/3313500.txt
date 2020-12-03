@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3313500
+query:			was the great wall of china breached
+passage:			Passage: Great wall of china map. Here is a map of the great wall of china with the location of the most popular visiting sites near Beijing. Related article: Mutianyu great wall, Badaling great wall, Jinshanling, Simatai. Other popular links:
+subject_label:			2
+query_id:			540906

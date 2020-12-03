@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1551933
+query:			molar mass of phenol
+passage:			Passage: eg) Molar mass for C is 12.0107 g/mol Do this for hydrogen and oxygen as well... A. The molar mass is the sum of all the elements in the compound multiplied by their molar masses. In the case of ribose, in one compound there are 5 carbons, 10 hydrogens, and 5 oxygens. So to find the molar mass of the compound: 5x(molar mass of C) + 10x(molar mass of H) + 5x(molar mass of O) = 5x(12.0107) + ...... *the total of all those added together will be the molar mass of the compound. B. The mass of 3.87 moles of ribose: Molar mass is in g/mol ...the g is the mass. So if you multiply the number of moles by the molar mass of ribose, the moles will cancel leaving you with g (the mass). To find the number of oxygen atoms you need to write the ratio of oxgen to ribose. Look at the compound (C5H10O5) ...notice that in every 1 ribose compound there are 5 oxygens.
+subject_label:			5
+query_id:			455456

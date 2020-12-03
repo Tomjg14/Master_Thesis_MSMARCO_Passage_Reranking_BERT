@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3758762
+query:			who is the boss of google?
+passage:			Passage: boss definition, meaning, what is boss: the person who is in charge of an organization and who tells others what to do: . Learn more.
+subject_label:			1
+query_id:			1039495

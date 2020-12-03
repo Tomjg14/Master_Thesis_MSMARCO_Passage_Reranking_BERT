@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4075460
+query:			where did captain james cook explore?
+passage:			Passage: As Cook was exploring during the American Revolution, Benjamin Franklin wrote to the captains of America's warships telling them to not attack or harass Cook's ships. Activities Take a ten question quiz about this page. More Explorers: Roald Amundsen; Neil Armstrong; Daniel Boone; Christopher Columbus; Captain James Cook; Hernan Cortes; Vasco da Gama
+subject_label:			1
+query_id:			1000678

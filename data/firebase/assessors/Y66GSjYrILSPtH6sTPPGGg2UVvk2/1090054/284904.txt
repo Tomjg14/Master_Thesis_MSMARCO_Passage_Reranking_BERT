@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			284904
+query:			temperature diode
+passage:			Passage: Ideal Diodes. The diode equation gives an expression for the current through a diode as a function of voltage. T = absolute temperature (K). The dark saturation current (I0) is an extremely important parameter which differentiates one diode from another. I0 is a measure of the recombination in a device.
+subject_label:			2
+query_id:			1090054

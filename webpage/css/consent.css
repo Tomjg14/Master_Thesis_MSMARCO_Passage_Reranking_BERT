@@ -1,0 +1,19 @@
+.start-template h1 {
+	text-align: center;
+}
+
+#consent-form{
+	border: 1px solid black;
+	width:100%;
+	text-align: left;
+	margin-top: 5%;
+}
+
+#consent-form .input {
+	text-align:center;
+}
+
+#consent-form th, td {
+	border: 1px solid black;
+	padding: 8px;
+}

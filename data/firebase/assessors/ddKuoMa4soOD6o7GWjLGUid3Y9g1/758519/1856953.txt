@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1856953
+query:			what is included in a clutch kit
+passage:			Passage: Car is disassembled took out the oem clutch kit and flywheel and about to install stage 3 xtd clutch kit and fidanza flywheel.More vids to come !ar is disassembled took out the oem clutch kit and flywheel and about to install stage 3 xtd clutch kit and fidanza flywheel. More vids to come 1 ! Autos & Vehicles. 2 Standard YouTube License.
+subject_label:			2
+query_id:			758519

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3950438
+query:			difference between watt and hertz
+passage:			Passage: The two forms have different dimensions: spectral irradiance of a frequency spectrum is measured in watts per square metre per hertz (WÂ·mâ2Â·Hzâ1), while spectral irradiance of a wavelength spectrum is measured in watts per square metre per metre (WÂ·mâ3), or more commonly watts per square metre per nanometre (WÂ·mâ2Â·nmâ1).
+subject_label:			4
+query_id:			149161

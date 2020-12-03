@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7118969
+query:			carnation® evaporated milk total calories
+passage:			Passage: The 41 calories in one serving of Carnation Evaporated Milk are equivalent to the calories burned while: Running (6 mph) for 3 minutes Stationary rowing for 7 minutes
+subject_label:			5
+query_id:			1085457

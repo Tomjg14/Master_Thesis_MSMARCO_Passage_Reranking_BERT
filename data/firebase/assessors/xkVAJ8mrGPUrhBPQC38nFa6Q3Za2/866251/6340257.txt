@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6340257
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: There are seven chapters in the book. One for each of the zoos located in New York City, one for the Aquarium and a chapter that will show the children's zoos. The Central Park Zoo, The Bronx Zoo, The Prospect Park Zoo and the Staten Island Zoo all began as a collection of animals in the local park.
+subject_label:			1
+query_id:			866251

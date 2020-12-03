@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			931772
+query:			which situation does a company issue a note receivable
+passage:			Passage: In this situation, playback fails, and you receive error code H7353. Note This issue does not occur in the Netflix Windows Store app. 1 You have a computer that is running Windows 8.1, Windows RT 8.1 or Windows Server 2012 R2. 2 You browse to the Netflix site in Internet Explorer. 3 You sign in to Netflix.
+subject_label:			1
+query_id:			993153

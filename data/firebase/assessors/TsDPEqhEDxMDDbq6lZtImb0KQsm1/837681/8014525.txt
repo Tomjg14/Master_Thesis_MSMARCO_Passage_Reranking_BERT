@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8014525
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of jane? What is the opposite of jam-up? What is the opposite of jam up? What is the opposite of jam tomorrow? What is the opposite of jam through? What is the opposite of jam session? What is the opposite of Jane Does? What is the opposite of janegirl? What is the opposite of janegirls? What is the opposite of Jane Q. Public? What is the opposite of Jane Roe? What is the opposite of Jane Roes?
+subject_label:			1
+query_id:			837681

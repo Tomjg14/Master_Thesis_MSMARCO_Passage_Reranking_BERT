@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5552062
+query:			molar mass of phenol
+passage:			Passage: The mass and molarity of chemical compounds can be calculated based on the molar mass of the compound. The mass (in grams) of a compound is equal to its molarity (in moles) multiply its molar mass: grams = mole Ã molar mass.
+subject_label:			4
+query_id:			455456

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7715284
+query:			is thread.sleep implicit wait
+passage:			Passage: So for example if we have mention 10 seconds maximum elapsed time and our condition is met at 7 seconds then script will not wait for another 3 seconds to start execution. In this case, 3 seconds of the time is saved. This is a major advantage of using this type of explicit wait over thread.sleep().
+subject_label:			4
+query_id:			1093866

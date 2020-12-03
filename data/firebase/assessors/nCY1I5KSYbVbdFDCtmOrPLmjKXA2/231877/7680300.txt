@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7680300
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Refer the Directions from Hamilton to Niagara on the Lake!How much would be the distance if one could just fly from Hamilton to Niagara-on-the-Lake like a bird in a staight line? Check the Flight distance between Hamilton and Niagara on the Lake.Travel time is an important point to know with the driving distance. Hence you might also want to know the Travel Time from Hamilton to Niagara on the Lake. This will help you estimate how much time you will spend travelling for the distance from Hamilton to Niagara-on-the-Lake.
+subject_label:			4
+query_id:			231877

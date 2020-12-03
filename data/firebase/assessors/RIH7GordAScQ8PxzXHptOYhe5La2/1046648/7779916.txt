@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779916
+query:			who played fiddle for boxcar willie
+passage:			Passage: Boxcar Willie bio Born Lecil Travis Martin on September 1, 1931, in Sterrat, TX; died on April 12, 1999, in Branson, MO, of leukemia; married second wife Lloene Johnson, c. 1962; children: Tammy (firs...
+subject_label:			1
+query_id:			1046648

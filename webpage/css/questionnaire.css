@@ -1,0 +1,42 @@
+.form_row {
+	display: flex;
+	margin: 10%;
+	height: 15%;
+	align-items: center;
+}
+
+#query_table {
+	margin: 0% 5%;
+	width:100%;
+	border-collapse: separate;
+	border-spacing: 0 75px;
+}
+
+#passage_text {
+	width: 60%;
+	padding-bottom: 5%;
+}
+
+#input_button {
+	width: 40%;
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.numbering {
+	padding-right: 5px;
+}
+
+#submit {
+	margin-bottom: 5%;
+}
+
+.relevance_buttons label {
+	display:inline-block;
+    text-align:center;
+	margin: 10px;
+}
+
+.relevance_buttons input {
+	display:block;
+}

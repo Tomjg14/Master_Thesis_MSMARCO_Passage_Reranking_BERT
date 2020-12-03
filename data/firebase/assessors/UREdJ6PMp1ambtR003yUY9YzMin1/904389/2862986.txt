@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2862986
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: See the entire Chick-Fil-A Menu with prices here, including the Chick-Fil-A Breakfast Menu, Secret Menu, Kids Menu, and a guide to Chick-Fil-Aâ opening hours and breakfast hours. Chick-fil-A is an American chicken restaurant chain with more more than 1,850 restaurants in 41 U.S. states.
+subject_label:			1
+query_id:			904389

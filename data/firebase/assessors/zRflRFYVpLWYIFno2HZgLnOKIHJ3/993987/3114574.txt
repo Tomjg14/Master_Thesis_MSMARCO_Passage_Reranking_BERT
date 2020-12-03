@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3114574
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: As with any muscle, the smooth, involuntary muscles of the visceral muscle tissue (which lines the blood vessels, stomach, digestive tract, and other internal organs) are composed of bundles of specialized cells capable of contraction and relaxation to create movement.
+subject_label:			4
+query_id:			993987

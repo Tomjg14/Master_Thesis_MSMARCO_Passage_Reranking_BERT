@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2319213
+query:			definition of purse
+passage:			Passage: Definition of clasp for English Language Learners : a device for holding together objects or parts of something (such as a purse, necklace, belt, etc.) : a strong hold with your hands or arms
+subject_label:			2
+query_id:			137508

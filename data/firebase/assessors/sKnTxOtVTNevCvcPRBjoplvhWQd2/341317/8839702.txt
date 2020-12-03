@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8839702
+query:			how tall is samus aran
+passage:			Passage: Dark Samus is a main antagonist of the Metroid Prime series. She is a combination of elements from Metroid Prime, Samus Aran, and Samus's Phazon Suit. She appears in all three of the Prime games, although her appearance in the first Metroid Prime was only in a brief cut scene. As she is an incarnation of Metroid Prime, Dark Samus is a primary antagonist of the Prime series.
+subject_label:			2
+query_id:			341317

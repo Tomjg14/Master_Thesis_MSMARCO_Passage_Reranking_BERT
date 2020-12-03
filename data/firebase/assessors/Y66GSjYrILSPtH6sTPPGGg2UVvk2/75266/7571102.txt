@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7571102
+query:			can vcenter standard manage essentials plus
+passage:			Passage: up vote 4 down vote favorite. Say you have 6 hosts and two vSphere Essentials Plus Kits: can all 6 hosts function as part of the same vCenter (cluster, data center) umbrella or is there a restriction with licensing (i.e. you'd have to go to Standard at that point). Need functionality of Essentials Plus, but for more than the 3 hosts permitted.
+subject_label:			4
+query_id:			75266

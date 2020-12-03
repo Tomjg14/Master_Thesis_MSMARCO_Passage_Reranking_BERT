@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6632804
+query:			define abraham lincoln during civil war
+passage:			Passage: Journey through the life of Abraham Lincoln, the 16th U.S. president, on Biography.com. Learn more about his roles in the Civil War and the Great Emancipation. Abraham Lincoln was the 16th president of the United States. He preserved the Union during the U.S. Civil War and brought about the emancipation of slaves.
+subject_label:			4
+query_id:			117113

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5948211
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Breaking News THE CAVS ARE NBA CHAMPS. Final Score: Cleveland Cavaliers defeat the Golden State Warriors 110-99. The Cavaliers get a signature win over the league leading Warriors. Two of the league's hottest teams got together Thursday night for a possible Finals preview, and they did not disappoint. The Warriors have shown that they belong in the championship discussion since the beginning of the year and tonight the Cavaliers showed that they too deserve to be taken seriously.
+subject_label:			5
+query_id:			846082

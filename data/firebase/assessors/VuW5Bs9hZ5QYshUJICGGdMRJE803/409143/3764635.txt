@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3764635
+query:			is education a constitutional right
+passage:			Passage: Education System in Turkey. According to the Constitution of the Republic of Turkey, every citizen has the right to education which is free of charge for the compulsory primary education. Except in specially licensed and foreign institutions, Turkish must be taught as the mother tongue.ccording to the Constitution of the Republic of Turkey, every citizen has the right to education which is free of charge for the compulsory primary education. Except in specially licensed and foreign institutions, Turkish must be taught as the mother tongue.
+subject_label:			4
+query_id:			409143

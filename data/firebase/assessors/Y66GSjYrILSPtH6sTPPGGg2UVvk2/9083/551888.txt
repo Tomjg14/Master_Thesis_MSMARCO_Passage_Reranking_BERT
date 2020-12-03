@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			551888
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: The Hippocratic Oath is an oath historically taken by physicians. It is one of the most widely known of Greek medical texts. In its original form, it requires a new physician to swear, by a number of healing gods, to uphold specific ethical standards. Of historic and traditional value, the oath is considered a rite of passage for practitioners of medicine in many countries, although nowadays various modernized versions are often used. Hippocrates is often called the father of medicine in Western culture.
+subject_label:			2
+query_id:			9083

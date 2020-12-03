@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5579495
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Features of the Hypothalamus. The hypothalamus is only about the size of a pearl, and is located in the middle part of the brain. It monitors the state of the body through the circulatory and nervous systems, and effectively links these two systems to the endocrine system through the pituitary gland.eatures of the Hypothalamus. The hypothalamus is only about the size of a pearl, and is located in the middle part of the brain. It monitors the state of the body through the circulatory and nervous systems, and effectively links these two systems to the endocrine system through the pituitary gland.
+subject_label:			1
+query_id:			178468

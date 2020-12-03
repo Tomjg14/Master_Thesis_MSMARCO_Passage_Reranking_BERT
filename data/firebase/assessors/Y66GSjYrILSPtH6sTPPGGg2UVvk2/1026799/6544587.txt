@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6544587
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: Last year, more than 28,000 people received organ transplants, more than 40,000 received corneal transplants and hundreds of thousands received tissue transplants, yet 6,590 died awaiting organ transplants. A surge in the number of donors is necessary to save more lives.
+subject_label:			1
+query_id:			1026799

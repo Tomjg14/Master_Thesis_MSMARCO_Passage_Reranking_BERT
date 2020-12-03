@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			869497
+query:			is callahan an irish name
+passage:			Passage: Callahan County, TX Real Estate & Houses for Sale. Discover houses and homes for sale for real estate in Callahan County, TX.
+subject_label:			1
+query_id:			405238

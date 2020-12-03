@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7959794
+query:			where is mathura
+passage:			Passage: NH-2 and Grand Trunk Road are not same[edit] Between Delhi and Etawah, NH-2 and Grand Trunk road are not same, Grand Trunk road passes through Aligarh and I think it meets NH-2 at Shikohabad where as NH-2 goes through Palwal, Mathura, Agra, Tundla, Firozabad, Shikohabad, Etawah, Kanpur etc.
+subject_label:			1
+query_id:			998591

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4103109
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: P2O5 is the empirical formula for phosphorus(V) oxide, P4O10. The Periodic Table of Elements Life is sustained by a number of chemical elements. 2 They are responsible for the birth of planets and the evolution of cells to complex organisms. 3 Everyone knows that withoutâ¦.
+subject_label:			1
+query_id:			1040038

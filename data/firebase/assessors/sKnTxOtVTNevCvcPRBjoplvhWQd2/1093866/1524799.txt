@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1524799
+query:			is thread.sleep implicit wait
+passage:			Passage: implicit. 1 implied, rather than expressly stated: implicit agreement. 2 unquestioning or unreserved; absolute: implicit trust; implicit obedience; implicit confidence. 3 potentially contained (usually followed by in): to bring out the drama implicit in the occasion. 4 Mathematics. 5 Obsolete.
+subject_label:			1
+query_id:			1093866

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6898704
+query:			what are sensitive periods for brain development
+passage:			Passage: With Otis turning two next month I thought it was time to refresh my memory about sensitive periods. I know at two years he is in or nearing the sensitive period for so many things. But what is a sensitive period and what should we expect at two years? What... With Otis turning two next month I thought it was time to refresh my memory about sensitive periods. I know at two years he is in or nearing the sensitive period for so many things. But what is a sensitive period and what should we expect at two years? What is a 'Sensitive Period'? Through observation Maria Montessori discovered the stages of development that all children follow. She found that children go through very specific and well defined periods of interest in certain areas of their development.
+subject_label:			3
+query_id:			564668

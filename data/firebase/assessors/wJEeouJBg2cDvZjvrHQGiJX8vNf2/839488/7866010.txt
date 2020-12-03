@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7866010
+query:			what is the plural of kohlrabies
+passage:			Passage: noun, plural kohlrabies. 1. a cultivated cabbage, Brassica oleracea gongylodes, whose stem above ground swells into an edible, bulblike formation. Also called stem cabbage, turnip cabbage. Origin of kohlrabi.
+subject_label:			5
+query_id:			839488

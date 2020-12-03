@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1040008
+query:			who owns cnn cable news network
+passage:			Passage: CNN stands for the Cable News Network. It was founded by Ted Turner in 1980 and was the first all-news cable TV channel. CNN sees itself as a centrist network, focused o â¦ n objective and neutral coverage of news all over the world, a network that strives not to take partisan stands on issues. Where is CNN located?
+subject_label:			4
+query_id:			1045203

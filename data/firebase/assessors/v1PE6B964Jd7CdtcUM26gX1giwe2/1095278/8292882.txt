@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8292882
+query:			average temp in fort worth in march
+passage:			Passage: 1 The price of coffee in Tempe is 8.2% higher than the national average. 2 Honolulu, HI is the most expensive city for coffee at $7.79. 3 Fort Lauderdale, FL is the least expensive city for coffee at $2.99. The price of coffee in Tempe is 8.2% higher than the national average. 2 Honolulu, HI is the most expensive city for coffee at $7.79. 3 Fort Lauderdale, FL is the least expensive city for coffee at $2.99.
+subject_label:			1
+query_id:			1095278

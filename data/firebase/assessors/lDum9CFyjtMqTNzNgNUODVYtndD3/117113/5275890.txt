@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5275890
+query:			define abraham lincoln during civil war
+passage:			Passage: Who the commanded the union army during the civil war? The Commander In Chief of the Union army during the Civil War was President Abraham Lincoln; the ranking general in the field was Ulysses S. Grant. Edit Share to:
+subject_label:			4
+query_id:			117113

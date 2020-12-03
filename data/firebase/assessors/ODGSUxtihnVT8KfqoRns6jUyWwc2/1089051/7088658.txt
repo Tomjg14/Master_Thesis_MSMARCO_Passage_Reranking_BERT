@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088658
+query:			vainglory meaning
+passage:			Passage: Vainglory is a quality possessed by people who are conceited, boastful, and full of themselves. It's an ugly trait. The two halves of this word pretty much define it. Vain people have an overly high opinion of themselves, and glory is an extreme amount of attention or fame. Vainglory is possessed by people who are vain and like to glorify themselves: they're cocky and egotistical. Anyone who always tells you about how smart, attractive, or successful they are is displaying vainglory. Vainglory is the opposite of humility.
+subject_label:			5
+query_id:			1089051

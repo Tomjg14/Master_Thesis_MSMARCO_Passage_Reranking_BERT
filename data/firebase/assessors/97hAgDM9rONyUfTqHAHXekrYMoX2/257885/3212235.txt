@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3212235
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: How long does the administrative law judge take to make a decision on an SSD or SSI disability case? Note:Here are recent statistics provided by SSA on this issue: As of March of this year, about 1.1 million claimants were awaiting a hearing decision, and the average processing time for a claim was about 518 days...with the average age of 318 days, measured as the time from the date of the hearing request.
+subject_label:			1
+query_id:			257885

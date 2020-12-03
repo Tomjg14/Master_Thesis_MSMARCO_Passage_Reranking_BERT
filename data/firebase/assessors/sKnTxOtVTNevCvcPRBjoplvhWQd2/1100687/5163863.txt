@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5163863
+query:			apartment cost in phoenix az
+passage:			Passage: There are miles from Phoenix to San Antonio and miles by car. Phoenix and San Antonio are far apart (by car). This is the best Phoenix, AZ-San Antonio, TX route.
+subject_label:			1
+query_id:			1100687

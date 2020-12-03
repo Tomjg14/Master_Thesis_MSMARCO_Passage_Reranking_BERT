@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7202001
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Calculate the empirical formula of naproxen (Aleve), an over-the-counter pain reliever that has 73.03% C by mass, 6.13% H by mass, and 20.84% O by mass. c14h14o3 Calculate the empirical formula of a compound that contains 1.651 g Ag and 0.1224 g O. Ag2O A compound containing phosphorus and oxygen has a molar mass of 219.9 g/mol and an empirical formula of P2O3. Determine its molecular formula.
+subject_label:			1
+query_id:			1040038

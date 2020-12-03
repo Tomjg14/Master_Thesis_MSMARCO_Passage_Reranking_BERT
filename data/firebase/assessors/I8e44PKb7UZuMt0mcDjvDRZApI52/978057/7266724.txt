@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7266724
+query:			where is berrimah
+passage:			Passage: Where is Graceville FL: Where is Grant-Valkaria town FL: Where is Green Cove Springs FL: Where is Greenbriar FL: Where is Grenelefe FL: Where is Gretna FL: Where is Grove FL: Where is Groveland FL: Where is Gulf Breeze FL: Where is Gulf Gate Estates FL: Where is Gulfport FL: Where is Harbor Bluffs FL: Where is Harbour Heights FL: Where is Harlem FL: Where is Harlem Heights FL
+subject_label:			1
+query_id:			978057

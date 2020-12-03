@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6101333
+query:			where is ridgewood ny located
+passage:			Passage: List Map. Coldwell Banker Residential Brokerage can help you find Ridgewood, NY homes for sale, condos and rentals. Refine your Ridgewood real estate search results by price, property type, bedrooms, baths and other features.
+subject_label:			2
+query_id:			991590

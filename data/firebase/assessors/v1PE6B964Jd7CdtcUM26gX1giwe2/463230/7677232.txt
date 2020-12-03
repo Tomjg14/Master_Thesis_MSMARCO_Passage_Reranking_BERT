@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7677232
+query:			neonatal hemochromatosis causes
+passage:			Passage: Neonatal hemochromatosis is a syndrome in which severe liver disease of fetal or perinatal onset is associated with deposition of stainable iron in extrahepatic sites.The distribution of extrahepatic iron mimics that observed in hepatic iron (HFE) disease, the most common form of hemochromatosis known in Europe and the Americas, and liver disease is ...
+subject_label:			4
+query_id:			463230

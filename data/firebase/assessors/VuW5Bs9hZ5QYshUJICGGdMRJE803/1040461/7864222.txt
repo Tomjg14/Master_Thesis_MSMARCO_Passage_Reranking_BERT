@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7864222
+query:			who is the grinning man
+passage:			Passage: The Grinning Man is the name given to one or more mysterious figures that has become associated with various reports of paranormal activity.
+subject_label:			4
+query_id:			1040461

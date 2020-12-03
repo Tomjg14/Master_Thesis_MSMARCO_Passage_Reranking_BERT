@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3949416
+query:			what is a hydromyelia
+passage:			Passage: To research the causes of Syringomyelia, consider researching the causes of these these diseases that may be similar, or associated with Syringomyelia: 1 Myelopathy. 2 Hydromyelia. 3 Syringohydromelia. 4 Scoliosis. 5 Spina bifida. 6 Spinal arachnoiditis. 7 Chiari malformation.
+subject_label:			2
+query_id:			687375

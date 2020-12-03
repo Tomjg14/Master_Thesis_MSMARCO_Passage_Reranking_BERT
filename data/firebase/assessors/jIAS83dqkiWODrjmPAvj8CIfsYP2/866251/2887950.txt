@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2887950
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Turtle Back Zoo. Housing nearly 700 animals, Turtle Back Zoo is located in West Orange, New Jersey. The zoo is actually a part of the Essex County Park System, which is considered as the oldest county park in the US. The zoo originally features animals that are indigenous to New Jersey.
+subject_label:			1
+query_id:			866251

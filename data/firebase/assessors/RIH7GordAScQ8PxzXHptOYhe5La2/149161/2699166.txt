@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2699166
+query:			difference between watt and hertz
+passage:			Passage: A dog whistle is typically in the range of 16,000 Hertz to 22,000 Hertz. Humans are believed to perceive 20 Hertz to 20,000 Hz, whereas the hearing range of dogs is believed to be between 40 Hertz to 60,000 Hertz.ow to Train a Dog to Respond to a Whistle. The different tones produced by the silent dog whistle will basically become cues just as with verbal commands or hand signals. A dog who has mastered verbal commands or hand signals can be switched over to whistle commands with the proper training.
+subject_label:			1
+query_id:			149161

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			250284
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: The Latin root word son means sound. Some words that are formed from this root are sonic, sonorous, resonant, resonate. 3 people found this useful. Edit. Share to: C3 Shooter. 66,336 Contributions. Be yourself.Everyone else is already taken.he Latin root word son means sound. Some words that are formed from this root are sonic, sonorous, resonant, resonate. 3 people found this useful. Edit. Share to: C3 Shooter. 66,336 Contributions. Be yourself.
+subject_label:			2
+query_id:			831784

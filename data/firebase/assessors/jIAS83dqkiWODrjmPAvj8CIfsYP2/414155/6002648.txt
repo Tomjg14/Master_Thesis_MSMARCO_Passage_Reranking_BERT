@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6002648
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: And although it's generally recommended that a woman of normal weight gain about 25 to 35 pounds during pregnancy (most gain 4 to 6 pounds during the first trimester and 1 pound a week during the second and third trimesters), don't fixate on the scale.
+subject_label:			2
+query_id:			414155

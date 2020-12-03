@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6734960
+query:			where did captain james cook explore?
+passage:			Passage: On February 14, 1779, Captain James Cook, the great English explorer and navigator, is murdered by natives of Hawaii during his third visit to the Pacific island group.n February 14, 1779, Captain James Cook, the great English explorer and navigator, is murdered by natives of Hawaii during his third visit to the Pacific island group.
+subject_label:			3
+query_id:			1000678

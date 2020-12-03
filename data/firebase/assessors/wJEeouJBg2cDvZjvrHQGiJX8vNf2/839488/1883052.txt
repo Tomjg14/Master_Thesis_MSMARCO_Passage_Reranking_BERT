@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1883052
+query:			what is the plural of kohlrabies
+passage:			Passage: How to Plant Kohlrabi. When thinking about how to plant your kohlrabi, you have a choice to start it outside or inside. If you start it inside, wait until the baby plants are four to six weeks old before transplanting them into your prepared garden soil outside.First, fertilize your soil and then plant the kohlrabi. You can have a continuous crop if you plant your kohlrabi every two to three weeks.Make sure to place the seeds Â¼ to Â½ inch deep into the soil about two to five inches apart if planting seeds directly outside.ow to Grow Kohlrabi. After four to six weeks, plant the baby plants outdoors in well drained, rich soil. Growing kohlrabi is most successful in cooler weather. The early crops started indoors and then transplanted outdoors will provide you with a nice crop.
+subject_label:			2
+query_id:			839488

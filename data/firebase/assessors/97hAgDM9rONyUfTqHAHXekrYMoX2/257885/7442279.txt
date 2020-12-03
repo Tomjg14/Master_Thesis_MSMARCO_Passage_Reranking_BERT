@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7442279
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: The SSA will process your request and provide an answer within 30 days. It will usually agree to the amount you request unless there is a discrepancy with your income or expenses. The SSA will deduct the payment from your monthly benefits or you can make the payment by credit card, debit card or check.
+subject_label:			5
+query_id:			257885

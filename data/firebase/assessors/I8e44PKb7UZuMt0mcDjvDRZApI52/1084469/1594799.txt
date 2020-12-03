@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1594799
+query:			what does a grassroots organization mean
+passage:			Passage: Title: Grassroots Organizer. Job Status: Exempt, Regular, Full time. The Grassroots Organizer has lead responsibility for building a network of activists and leaders for the. organization. The Grassroots Organizer is responsible for recruiting new supporters, engaging activists, and. developing volunteer leaders who identify with and support the Environmental Health Strategy Center.
+subject_label:			2
+query_id:			1084469

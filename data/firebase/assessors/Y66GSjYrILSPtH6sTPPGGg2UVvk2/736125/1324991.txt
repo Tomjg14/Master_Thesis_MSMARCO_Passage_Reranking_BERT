@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1324991
+query:			what is crossfit?
+passage:			Passage: What Elite Athletes Eat: 13 Meals From Famous CrossFit Games Competitors. Sufficient and well balanced nutrition is beneficial not only for the CrossFit Games athletes, but everyday Crosfitters looking to improve their health and performance. So take a look at what they eat when they need to perform, and when they need to reward themselves. September 16, 2015.
+subject_label:			1
+query_id:			736125

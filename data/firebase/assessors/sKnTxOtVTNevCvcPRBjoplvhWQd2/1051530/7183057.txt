@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7183057
+query:			what is mastoidectomy
+passage:			Passage: Tympanoplasty and Mastoidectomy Surgery Mastoidectomy Mastoidectomy is the portion of the operation in which the surgeon removes diseased air cells (cholesteatoma matrix) from the mastoid bone.
+subject_label:			5
+query_id:			1051530

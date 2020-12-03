@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			396948
+query:			definition, nepotism
+passage:			Passage: Dictionary entry overview: What does nepotism mean? â¢ NEPOTISM (noun) The noun NEPOTISM has 1 sense: 1. favoritism shown to relatives or close friends by those in power (as by giving them jobs) Familiarity information: NEPOTISM used as a noun is very rare.
+subject_label:			5
+query_id:			1101714

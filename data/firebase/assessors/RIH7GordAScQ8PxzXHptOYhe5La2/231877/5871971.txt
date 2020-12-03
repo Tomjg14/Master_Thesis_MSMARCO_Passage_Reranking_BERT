@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5871971
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Another major airport is Buffalo Niagara International Airport (BUF / KBUF), which has domestic flights from Buffalo, New York and is 25 miles from Niagara Falls, NY. John C. Munro Hamilton International Airport (YHM / CYHM) has domestic flights from Hamilton, Canada and is 56 miles from Niagara Falls, NY.omestic airports near Niagara Falls, NY. 6 miles: Niagara Falls, NY (IAG / KIAG) Niagara Falls International Airport. 25 miles: Buffalo, NY (BUF / KBUF) Buffalo Niagara International Airport. 56 miles: Hamilton, Canada (YHM / CYHM) John C. Munro Hamilton International Airport.
+subject_label:			3
+query_id:			231877

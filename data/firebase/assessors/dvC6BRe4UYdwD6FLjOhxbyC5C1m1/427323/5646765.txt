@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5646765
+query:			is the sec constitutional
+passage:			Passage: Constitutional Powers. 1 Initiates all revenue bills (Art. I, sec. 7) 2 Initiates (and passes or defeats) articles of impeachment (Art. I, sec. 2) 3 Gives advice and consent to treaties (Art. II, sec. 2) and to major presidential appointments (Art. Tries impeached officials (Art. I, sec.
+subject_label:			2
+query_id:			427323

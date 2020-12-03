@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			831687
+query:			does singing burn calories
+passage:			Passage: The heart rate at which an individual burns the highest percentage of calories from fat is known as the aerobic base. The aerobic base is typically anywhere from 40% to 70% of an individuals' maximum heart rate (the easiest method of guessing target heart rate is to subtract your age from 220).et's say a female walked for 30 minutes in the fat burning target heart rate. She felt no muscle burn and could sing while walking. In those 30 minutes, a 130-pound woman burns 150 calories, and 70 calories burned are from fat.
+subject_label:			1
+query_id:			171370

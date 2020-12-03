@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595502
+query:			what does fdg mean
+passage:			Passage: Re: Mild increased FDG uptake on PET/CT - what's it mean? by Nancy Shamanna on Tue Mar 08, 2016 2:26 pm Thanks, Tracy, for the detailed explanation of a PET (positron emission tomography) scan's uptake of a form of radioactive sugar.
+subject_label:			1
+query_id:			637459

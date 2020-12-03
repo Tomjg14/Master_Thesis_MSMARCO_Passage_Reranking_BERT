@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3597795
+query:			statute of limitations definition
+passage:			Passage: Definition. Action, agreement, claim, obligation, or right that can no longer be the subject of a legal action because the time limit imposed by the limitations act (see statute of limitations) has been exceeded.
+subject_label:			4
+query_id:			503390

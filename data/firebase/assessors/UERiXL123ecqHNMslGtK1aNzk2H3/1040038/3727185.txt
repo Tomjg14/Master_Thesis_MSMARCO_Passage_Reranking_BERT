@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3727185
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Phosphorus pentoxide. Phosphorus pentoxide is a chemical compound with molecular formula P 4 O 10 (with its common name derived from its empirical formula, P 2 O 5). This white crystalline solid is the anhydride of phosphoric acid.hosphorus pentoxide. Phosphorus pentoxide is a chemical compound with molecular formula P 4 O 10 (with its common name derived from its empirical formula, P 2 O 5). This white crystalline solid is the anhydride of phosphoric acid.
+subject_label:			1
+query_id:			1040038

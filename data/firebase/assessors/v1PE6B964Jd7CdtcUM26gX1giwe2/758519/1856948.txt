@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1856948
+query:			what is included in a clutch kit
+passage:			Passage: See All Clutch Kit for Mitsubishi Eclipse. Be it manual or automatic transmission, all automobiles use clutches. The clutch kit on your Mitsubishi Eclipse is what makes the clutch mechanism function.It is composed of the pressure plate, clutch disc, and a release bearing.Clutch problems are inevitable because the old clutch kit is designed to wear over time, regardless of how careful you are with your driving habits.ee All Clutch Kit for Mitsubishi Eclipse. Be it manual or automatic transmission, all automobiles use clutches. The clutch kit on your Mitsubishi Eclipse is what makes the clutch mechanism function.
+subject_label:			4
+query_id:			758519

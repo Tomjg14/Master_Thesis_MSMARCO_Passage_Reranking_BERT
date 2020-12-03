@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7679926
+query:			which situation does a company issue a note receivable
+passage:			Passage: Definition of record date: Date, set by the issuing company, on which an individual must own shares in order to be eligible to receive a declared... Definition of record date: Date, set by the issuing company, on which an individual must own shares in order to be eligible to receive a declared... Home Articles
+subject_label:			no_input
+query_id:			993153

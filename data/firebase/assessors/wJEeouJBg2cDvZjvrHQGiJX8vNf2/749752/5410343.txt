@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5410343
+query:			what is gabba
+passage:			Passage: While the Cats eventually made it to the Grand Final, they lost that match and it was a sad tale of Brownless' career that he played in four losing Grand Final teams with Geelong. Brownless retired in 1997 at 30 years of age. Billy Brownless has the record for most goals in a game at the Gabba, with 11.Once Brownless retired from football he moved into the media, appearing regularly on The Footy Show.hile the Cats eventually made it to the Grand Final, they lost that match and it was a sad tale of Brownless' career that he played in four losing Grand Final teams with Geelong. Brownless retired in 1997 at 30 years of age. Billy Brownless has the record for most goals in a game at the Gabba, with 11.
+subject_label:			1
+query_id:			749752

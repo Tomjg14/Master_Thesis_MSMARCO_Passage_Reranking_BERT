@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7811174
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: NBA Playoffs: Warriors vs. Cavaliers Game 4 LIVE SCORE UPDATES, NBA Finals (6/10/16) Golden State Warriors at Cleveland Cavaliers. Golden State Warriors guard Stephen Curry (R) defends against Cleveland Cavaliers guard Kyrie Irving (L) during Game 3 of the NBA Finals at Quicken Loans Arena in Cleveland.
+subject_label:			3
+query_id:			846082

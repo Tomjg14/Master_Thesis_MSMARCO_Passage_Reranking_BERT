@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7211423
+query:			what is the opposite of benefit?
+passage:			Passage: What is the opposite of aisle? What is the opposite of airy hope? What is the opposite of airy-fairy? What is the opposite of airy? What is the opposite of airworthy? What is the opposite of airworthiness? What is the opposite of ajar? What is the opposite of AJAX? What is the opposite of AKA? What is the opposite of aken? What is the opposite of akimbo? What is the opposite of akin?
+subject_label:			1
+query_id:			837681

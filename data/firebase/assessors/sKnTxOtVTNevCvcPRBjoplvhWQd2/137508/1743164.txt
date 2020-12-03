@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1743164
+query:			definition of purse
+passage:			Passage: Definition of handbag for English Language Learners. : a woman's small bag or purse used for carrying personal things and money.
+subject_label:			5
+query_id:			137508

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8290371
+query:			is cortana smart???
+passage:			Passage: Insteon calls on Cortana to control the smart home. A promised update to Insteon's Windows Phone app will introduce voice controls for smart-home devices. When , it seemed like just a matter of time before Cortana would be calling the shots. Today, the California-based home-automation network is confirming the speculation, announcing that full, Cortana-powered voice controls will be making their way to Insteon's Windows Phone 8.1 app in the coming months.
+subject_label:			4
+query_id:			407274

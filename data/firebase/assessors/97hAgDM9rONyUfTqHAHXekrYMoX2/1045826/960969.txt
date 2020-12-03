@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			960969
+query:			what is ssc je
+passage:			Passage: Application form of SSC JE Exam 2015 is released on 11 July 2015, as per the SSC Calendar 2015. Last Date to fill the SSC Junior Engineer Application form is 10 August 2015. Candidates have to fill the form in online mode, on the official website of Staff Selection Commission.
+subject_label:			2
+query_id:			1045826

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			531685
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: The 1972 Miami Dolphins are the only NFL team to go undefeated in both the regular season as well as the playoffs. Four teams have had an undefeated regular season, 1924 â¦Bears, 1942 Bears, 1972 Dolphins, 2007 Patriots.
+subject_label:			5
+query_id:			198807

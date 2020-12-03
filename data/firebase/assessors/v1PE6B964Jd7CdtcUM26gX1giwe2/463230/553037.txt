@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			553037
+query:			neonatal hemochromatosis causes
+passage:			Passage: Hereditary hemochromatosis isn't the only type of hemochromatosis. Juvenile hemochromatosis. This causes the same problems in young people that hereditary hemochromatosis causes in adults. But iron accumulation begins much earlier, and symptoms usually appear between the ages of 15 and 30.
+subject_label:			3
+query_id:			463230

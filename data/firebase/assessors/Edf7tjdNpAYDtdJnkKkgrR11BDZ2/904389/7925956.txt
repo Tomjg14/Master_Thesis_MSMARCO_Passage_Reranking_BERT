@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7925956
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Chick-fil-A stops serving breakfast at 10:30 A.M. and begins serving lunch after that. Chick-fil-A stops serving breakfast at 10:30 A.M. and begins serving lunch after that. Thanks for using. Thanks for using ChaCha.
+subject_label:			3
+query_id:			904389

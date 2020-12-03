@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4730757
+query:			what is a malanga
+passage:			Passage: Many other starchy foods are grown, some only in specific climates, including acorns, arrowroot, arracacha, bananas, barley, breadfruit, buckwheat, canna, colacasia, katakuri, kudzu, malanga, millet, oats, oca, polynesian arrowroot, sago, sorghum, sweet potatoes, rye, taro, chestnuts, water chestnuts and yams, and many kinds of beans, such as favas, lentils, mung beans, peas, and chickpeas.
+subject_label:			3
+query_id:			689885

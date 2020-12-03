@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6307976
+query:			who played fiddle for boxcar willie
+passage:			Passage: Someone recently sent me a political cartoon depicting President Obama playing the fiddle while the United States was burning in the background. It was portraying the Prez as the infamous Roman emperor Nero who âfiddled while Rome burned to the ground from a fire that he was rumored to have set himself.omeone recently sent me a political cartoon depicting President Obama playing the fiddle while the United States was burning in the background. It was portraying the Prez as the infamous Roman emperor Nero who âfiddled while Rome burned to the ground from a fire that he was rumored to have set himself.
+subject_label:			1
+query_id:			1046648

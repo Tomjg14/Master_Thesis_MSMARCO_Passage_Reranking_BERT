@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7914413
+query:			average money market interest rates
+passage:			Passage: Money Market Rates. Money Market Rates are tiered and are based on the Average Daily Balance. The interest is paid monthly. Rates are subject to change. Please verify todayâs rates with a Member Advisor.
+subject_label:			4
+query_id:			38946

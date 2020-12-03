@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7949456
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Sensory neurons carry information from receptors located throughout the body to the brain. Information from both the internal (inside the body) and external environments, in the form of light, heat, pressure, taste, and smell is detected by sensory neurons.
+subject_label:			4
+query_id:			1091108

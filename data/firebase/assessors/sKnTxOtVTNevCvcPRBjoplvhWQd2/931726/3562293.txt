@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3562293
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Contrast gumbo with its famous New Orleans counterparts: jambalaya (a relative of paella where the rice, stock, seasonings, vegetables, and meat are cooked together) and etouffee (Ã©touffÃ©e a-roux based thick stew often made with crawfish and served with). rice
+subject_label:			2
+query_id:			931726

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1500681
+query:			hydrocodone price per pill
+passage:			Passage: Acetaminophen, aspirin, and other analgesics that are used in preparations with hydrocodone are called âpotentiators.â The addition of potentiators to hydrocodone pills can lessen the need for high amounts of the addictive opioid substance.
+subject_label:			1
+query_id:			1094731

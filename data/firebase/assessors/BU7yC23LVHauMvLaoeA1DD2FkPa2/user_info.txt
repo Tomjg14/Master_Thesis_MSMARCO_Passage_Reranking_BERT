@@ -1,0 +1,7 @@
+user_id:			BU7yC23LVHauMvLaoeA1DD2FkPa2
+consent:			true
+batches:			["14","39"]
+english:			9
+unassessed_queries:			["1100765","1098044"]
+progress:			4
+contact:			false

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3182135
+query:			what is crossfit?
+passage:			Passage: What is CrossFit? CrossFit is a fitness regimen developed by Greg Glassman over several decades. Glassman, CrossFit's Founder and CEO, was the first person in history to define fitness in a meaningful, measurable way: increased work capacity across broad time and modal domains. He then created a program specifically designed to improve fitness and health.
+subject_label:			5
+query_id:			736125

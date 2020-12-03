@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7185644
+query:			what is njstart
+passage:			Passage: NJSTART is as self-service online platform that allows vendors to manage forms, certifications, submit proposals, access training manuals, reference guides and receive email alerts on upcoming procurement opportunities. There are several key advantages to the new system, but increased visibility is certainly a big one.
+subject_label:			5
+query_id:			1049791

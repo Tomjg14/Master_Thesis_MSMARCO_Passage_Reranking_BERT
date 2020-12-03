@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7569902
+query:			average amount of money stna make
+passage:			Passage: The average amount of money that the average game designer makes is somewhere between $60,000 and $70,000 a year.
+subject_label:			1
+query_id:			30860

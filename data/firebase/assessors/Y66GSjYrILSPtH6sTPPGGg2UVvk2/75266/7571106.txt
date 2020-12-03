@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7571106
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Essentials Plus Kit. vSphere Essentials Kits are for small businesses and combine virtualization for up to three physical servers with centralized management with vCenter Server Essentials. Customers can purchase One Year Term Licenses for vSphere Essentials Kits and vSphere Essentials Plus Kits from the VMware store.
+subject_label:			3
+query_id:			75266

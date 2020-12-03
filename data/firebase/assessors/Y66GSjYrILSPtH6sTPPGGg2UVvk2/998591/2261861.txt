@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2261861
+query:			where is mathura
+passage:			Passage: In 2018, Holi will be celebrated on March 2. The festival takes place a day earlier in West Bengal and Odisha. In addition, in some parts of India (such as Mathura and Vrindavan) festivities commence a week or so earlier. Find out when is Holi in future years. Where is Holi Celebrated? Holi celebrations take place in most areas of India. However, they're more exuberant in some places than others. Check out these 10 Places to Celebrate the Holi Festival in India (and one region that should be avoided). Traditional Holi celebrations are the biggest at Mathura and Vrindavan, four hours from Delhi.
+subject_label:			1
+query_id:			998591

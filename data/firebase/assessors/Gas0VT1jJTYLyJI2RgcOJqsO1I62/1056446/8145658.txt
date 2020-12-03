@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8145658
+query:			what is dockpanel used for
+passage:			Passage: How does a rocket work? What are the three types of fuel that are used to power modern rockets? What is orbital velocity? What is escape velocity? What is the main advantage of a multistage rocket? How were multistage rockets used in the 60s and how are they used today? What was the Space Race? What is a satellite?
+subject_label:			1
+query_id:			1056446

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3930408
+query:			effects hot stone has on the circulatory system
+passage:			Passage: To help students explore the chemical and physical effects of alcohol on these human body organ systems: the digestive system, the central nervous system, the circulatory system, and the endocrine system.
+subject_label:			1
+query_id:			178468

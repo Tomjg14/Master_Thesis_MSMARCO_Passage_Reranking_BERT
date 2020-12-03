@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2311183
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: How Many Miles Does the Average American Walk in a Year? A study published in 2010 in the journal Medicine & Science in Sports & Exercise says the average American walks 2.56 miles each day, or 5,117 steps. That translates into roughly 912 miles each year. How much the âaverageâ American walks each year depends on many factors, including health, disability status, age and other motivating factors.
+subject_label:			1
+query_id:			1096932

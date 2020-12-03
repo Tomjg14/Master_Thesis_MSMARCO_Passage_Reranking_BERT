@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1708795
+query:			is the sec constitutional
+passage:			Passage: II, sec. 1 [1789]). Earlier, Maryland had provided for an electoral college to choose its State senators (Constitution of 1776, sec. 14). According to A Review of the Meetings of Presidential Electors in Maryland, 1789-1980, .
+subject_label:			1
+query_id:			427323

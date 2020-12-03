@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6630695
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: When you see animals at Woodland Park Zoo, you help save wildlife. That's because a portion of every dollar you spend at Woodland Park Zoo supports animal conservation projects in the Northwest and around the world. Woodland Park Zoo is located just 10 minutes north of downtown Seattle, Washington, in the Phinney Ridge neighborhood. The zoo's 92-acres and award-winning exhibits are home to more than 1,000 animals representing 300 species from around the world.
+subject_label:			1
+query_id:			866251

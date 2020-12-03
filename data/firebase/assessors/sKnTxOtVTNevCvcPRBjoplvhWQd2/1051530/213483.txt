@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			213483
+query:			what is mastoidectomy
+passage:			Passage: A mastoidectomy is performed to remove diseased mastoid air cells. These cells sit in a hollow space in the skull, behind the ear. The diseased cells are often the result of an ear infection that has spread into the skull.Sometimes the infection spreads onto the temporal bone.If this occurs, parts of the bone may need to be removed. This results in hearing loss. There are several types of mastoidectomy. These include: 1 simple mastoidectomy: the surgeon opens the mastoid bone, removes the infected air cells, and drains the middle ear.f this occurs, parts of the bone may need to be removed. This results in hearing loss. There are several types of mastoidectomy. These include: 1 simple mastoidectomy: the surgeon opens the mastoid bone, removes the infected air cells, and drains the middle ear.
+subject_label:			5
+query_id:			1051530

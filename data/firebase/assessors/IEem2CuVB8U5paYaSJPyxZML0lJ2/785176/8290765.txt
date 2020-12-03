@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8290765
+query:			what is polydextrose made from
+passage:			Passage: Dr. Atkins and the vendors of low-carb products are correct that not only fiber but also glycerin and polydextrose have little or no effect on blood glucose. The story with sugar alcohols, however, is different.
+subject_label:			1
+query_id:			785176

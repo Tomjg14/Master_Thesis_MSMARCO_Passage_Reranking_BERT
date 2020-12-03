@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6229879
+query:			what is termis
+passage:			Passage: The kinase domain of Rho-kinase/ROK/ROCK is situated at the N-terminal end and has72% sequence homology with the catalytic domain ofmyotonic dystrophy kinase [3]. Rho-kinase has a puta-tive coiled-coil domain in its middle portion and apleckstrin homology (PH)-like domain at its C-termi-nal end.espite the abundance of Rho-kinase in neurons, analysis of the roles of Rho-kinasein the brain is just getting started. Recently, the in-volvement of Rho-kinase in the initiation of axon out-growth and the control of growth cone dynamics have FIG.
+subject_label:			1
+query_id:			1045227

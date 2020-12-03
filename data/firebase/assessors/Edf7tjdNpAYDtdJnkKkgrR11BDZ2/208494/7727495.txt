@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7727495
+query:			how big do newfypoo's get
+passage:			Passage: This is how we do, do do, this is how we do. Big hoops, and the room leaves, my click happening, my Maseratti. Said to Barbara, chique, at the super rica, grabbing tacos, checking out hotties. Now we talking astrology, getting our nails did, all Japanese-y. Day drinking at the Wildcats, sucking real bad at Mariah karaoke. It's no big deal, it's no big deal, it's no big deal. This is no big deal. This is how we do, yeah, chilling, laid back.
+subject_label:			1
+query_id:			208494

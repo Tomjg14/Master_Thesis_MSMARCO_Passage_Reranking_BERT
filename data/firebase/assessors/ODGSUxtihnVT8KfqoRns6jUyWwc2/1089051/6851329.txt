@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6851329
+query:			vainglory meaning
+passage:			Passage: As we have seen, in Hobbesâs state of nature, it is a known fact that there are vainglorious people who will try to maximize their self-interest/power at the expense of others by attacking. The major problem is that, in the state of nature, there is no reliable way to identify these vainglorious people in advance.
+subject_label:			4
+query_id:			1089051

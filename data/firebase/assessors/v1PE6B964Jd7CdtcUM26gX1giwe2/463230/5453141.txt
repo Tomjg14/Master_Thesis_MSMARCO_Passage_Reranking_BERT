@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5453141
+query:			neonatal hemochromatosis causes
+passage:			Passage: Hemochromatosis gene (HFE) testing is a blood test used to check for hereditary hemochromatosis, a disorder that is passed from a parent to a child (inherited) and causes the body to absorb too much iron. This HFE gene test is usually not used to check for other, less common causes of inherited hemochromatosis.
+subject_label:			4
+query_id:			463230

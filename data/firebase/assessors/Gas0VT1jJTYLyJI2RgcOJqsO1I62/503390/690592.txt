@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			690592
+query:			statute of limitations definition
+passage:			Passage: Webster Dictionary(0.00 / 0 votes)Rate this definition: 1 Purview(noun) the body of a statute, or that part which begins with Be it enacted, as distinguished from the preamble. 2 Purview(noun) the limit or scope of a statute; the whole extent of its intention or provisions. 3 Purview(noun) limit or sphere of authority; scope; extent.
+subject_label:			2
+query_id:			503390

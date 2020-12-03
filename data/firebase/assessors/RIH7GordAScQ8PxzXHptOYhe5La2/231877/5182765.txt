@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5182765
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: In addition to being the most populous province in the country, Ontario is also the most urban. The most outstanding feature of this urban pattern is the continuous network of communities around the western end of Lake Ontarioâ called the Golden Horseshoeâwhich includes St.Catharines-Niagara, Hamilton and Toronto.
+subject_label:			1
+query_id:			231877

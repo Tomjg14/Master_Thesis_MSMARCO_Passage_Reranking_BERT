@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1312930
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Customers will have to reserve their breakfast entree entrÃ©e of choice, though and From. aug 29 customers can visit.Www-chick-AForBreakfast.aforbreakfast com to reserve their breakfast, entree entrÃ©e as well as book the time they will come in to redeem their breakfast item at Their-local-Chick fil A. between sept 9. through 14
+subject_label:			2
+query_id:			904389

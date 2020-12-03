@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5953123
+query:			where did edison set up his first laboratory for research
+passage:			Passage: The first practical incandescent light bulb. Edison and his team of researchers in Edison's laboratory in Menlo Park, N.J., tested more than 3,000 designs for bulbs between 1878 and 1880. In November 1879, Edison filed a patent for an electric lamp with a carbon filament.arly research & developments. The story of the light bulb begins long before Edison patented the first commercially successful bulb in 1879. In 1800, Italian inventor Alessandro Volta developed the first practical method of generating electricity, the voltaic pile.
+subject_label:			4
+query_id:			968608

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3352751
+query:			what is aircraft ram air
+passage:			Passage: Definition of 'ram-air turbine'. ram-air turbine. noun. a small air-driven turbine fitted to an aircraft to provide power in the event of a failure of the normal systems.
+subject_label:			3
+query_id:			1064195

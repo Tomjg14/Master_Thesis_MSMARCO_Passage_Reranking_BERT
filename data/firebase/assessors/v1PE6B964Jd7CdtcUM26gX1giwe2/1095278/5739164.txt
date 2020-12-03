@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5739164
+query:			average temp in fort worth in march
+passage:			Passage: CityRating.com offers the average Dallas-Fort Worth temperature chart that displays the annual and monthly temperatures for Dallas-Fort Worth and dozens of other cities.verage temperature of Dallas-Fort Worth including average monthly and annual data.
+subject_label:			5
+query_id:			1095278

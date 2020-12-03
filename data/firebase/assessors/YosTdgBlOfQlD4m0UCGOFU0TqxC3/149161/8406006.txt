@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8406006
+query:			difference between watt and hertz
+passage:			Passage: Share it with your friends/family. 1 Difference Between Volts and Watts. 2 Difference Between Ammeter and Voltmeter. 3 Difference Between Volt and Amp. 4 Difference Between Ohms And Watts. 5 Difference Between BHP and PS. 6 Difference Between Current and Voltage. 7 Difference Between VA and Watts.
+subject_label:			3
+query_id:			149161

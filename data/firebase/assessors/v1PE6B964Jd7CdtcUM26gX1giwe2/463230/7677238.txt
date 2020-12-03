@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7677238
+query:			neonatal hemochromatosis causes
+passage:			Passage: Whitington (2007) postulated that some cases of neonatal hemochromatosis result from maternal alloimmunity directed at the fetal liver, and therefore do not represent an inherited mendelian disorder. Other causes may result from metabolic disease or perinatal infection.
+subject_label:			5
+query_id:			463230

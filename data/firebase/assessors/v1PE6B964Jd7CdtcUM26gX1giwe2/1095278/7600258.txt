@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7600258
+query:			average temp in fort worth in march
+passage:			Passage: 1 Compare Fort Worth, TX Weather To Other Cities. 2 Fort Worth air quality index & pollution index. 3 Fort Worth air quality information. 4 Fort Worth air quality information. 5 Average monthly Fort Worth temperature with heat index. 6 Fort Worth monthly precipitation with daily maximum. 7 Fort Worth monthly snow depth with daily maximum.
+subject_label:			3
+query_id:			1095278

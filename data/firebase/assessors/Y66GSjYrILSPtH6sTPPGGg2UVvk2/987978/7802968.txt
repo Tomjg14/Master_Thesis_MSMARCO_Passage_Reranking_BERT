@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7802968
+query:			where is miralago
+passage:			Passage: Miralago Subdivision Homes for sale in Ahwatukee Foothills. Miralago at the Foothills is a gated subdivision in the Foothills in Ahwatukee. Miralago is located in the south eastern area of Chandler Blvd and Desert Foothills Parkway. Homes in this gated subdivision were built between 1990 and 1995. A total of 104 houses are in the Miralago subdivision, with 47 of them being single story and the other 57 being 2 story houses.
+subject_label:			5
+query_id:			987978

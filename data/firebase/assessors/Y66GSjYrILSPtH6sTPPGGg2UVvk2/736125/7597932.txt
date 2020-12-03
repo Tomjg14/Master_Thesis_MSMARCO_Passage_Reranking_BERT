@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7597932
+query:			what is crossfit?
+passage:			Passage: what is crossfit? how to start; find a box; faq; message board; Courses. Home; Level 1 Course; Level 2 Trainer Course; Kids Course; Online Courses; Specialty Courses; Trainer Directory; FAQ; Certifications. Home; Certified Crossfit Trainer (CF-L3) Certified CrossFit Coach (CF-L4) Trainer Directory; FAQ; exercise & demos; games; journal; affiliates. about affiliation; how to affiliate; application
+subject_label:			1
+query_id:			736125

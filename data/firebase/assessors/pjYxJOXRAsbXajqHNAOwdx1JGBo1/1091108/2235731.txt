@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2235731
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Sensation is the detection of physical stimuli in the environment. Perception is our conscious experience of those stimuli. Describe how sensory information is translated into meaningful stimuli. Transduction is the process by which sensory stimuli are translated into signals the brain can interpret. Transduction occurs at sensory receptors, specialized cells in each sense organ. Sensory receptors send messages to the thalamus, which sends projections to cortical areas for perceptual processing.
+subject_label:			5
+query_id:			1091108

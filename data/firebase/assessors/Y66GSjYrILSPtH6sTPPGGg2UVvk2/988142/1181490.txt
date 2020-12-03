@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1181490
+query:			who paul clark
+passage:			Passage: Cracks started to appear in the band, though, as Axl Rose began to make increasing demands on the band. He received sole ownership of the band's name and Stradlin left the group in 1991. He was replaced by Gilby Clarke, who in turn was replaced by Paul Tobias, a childhood friend of Rose's.
+subject_label:			1
+query_id:			988142

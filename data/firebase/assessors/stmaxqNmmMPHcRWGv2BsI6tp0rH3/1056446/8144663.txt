@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8144663
+query:			what is dockpanel used for
+passage:			Passage: Chapman, Stephen. (2017, July 24). This Is What JavaScript Is Used For. Retrieved from https://www.thoughtco.com/what-is-javascript-used-for-2037679 Chapman, Stephen. This Is What JavaScript Is Used For. ThoughtCo. https://www.thoughtco.com/what-is-javascript-used-for-2037679 (accessed February 21, 2018).
+subject_label:			1
+query_id:			1056446

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7808016
+query:			how tall is samus aran
+passage:			Passage: Super Smash Bros. Melee Trophies. This intergalactic bounty hunter's full name is Samus Aran. Clad in a Power Suit made by the Chozo race and infused with their enhanced blood, she cleared the planet Zebes of a Metroid infestation.Samus is an orphan, the sole survivor of a Space Pirate raid that destroyed an Earth colony named K-2L..amusâs lack of defined personality is largely due to the fact that, aside from opening narrations, she has never had a speaking role except in Metroid: Other M. Prior to Metroid: Other M, her voice would be represented by text at the beginning narration, as well as throughout Metroid Fusion.
+subject_label:			2
+query_id:			341317

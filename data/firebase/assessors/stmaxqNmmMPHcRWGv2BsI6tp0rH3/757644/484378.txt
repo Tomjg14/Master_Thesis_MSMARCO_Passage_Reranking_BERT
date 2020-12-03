@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			484378
+query:			what is impact ratio analysis
+passage:			Passage: Gearing ratio refers to the fundamental analysis ratio of a company's level of long-term debt compared to its equity capital. The point when processing what amount of debt an organization is undertaking as contrasted with its equity, the debt to equity ratio is generally utilized.earing ratio refers to the fundamental analysis ratio of a company's level of long-term debt compared to its equity capital. The point when processing what amount of debt an organization is undertaking as contrasted with its equity, the debt to equity ratio is generally utilized.
+subject_label:			1
+query_id:			757644

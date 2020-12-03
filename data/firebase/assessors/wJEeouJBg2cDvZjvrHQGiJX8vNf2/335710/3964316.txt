@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3964316
+query:			how old is lil moco
+passage:			Passage: Answers of Question How old is Lil Pump?,Answer:I think like 56?,Answer:8,Answer:h,Answer:14,Answer:He's 23 years old.,Answer:16
+subject_label:			1
+query_id:			335710

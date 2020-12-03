@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7595707
+query:			what are stand up paddle boards made of
+passage:			Passage: Here are all the items you need to get out on the water paddling: 1 Stand Up Paddle board â Paddle boards come in all shapes and sizes. 2 Paddle â Stand Up Paddles come in a variety of constructions, from plastic, aluminum, wood, and carbon fiber â all with a variety of handle, blade and shaft shapes.
+subject_label:			5
+query_id:			566174

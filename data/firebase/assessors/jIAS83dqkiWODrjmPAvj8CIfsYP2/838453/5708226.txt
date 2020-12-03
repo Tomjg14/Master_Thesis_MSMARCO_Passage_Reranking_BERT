@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5708226
+query:			what is the parent company for adidas
+passage:			Passage: Nike and adidas are sportswear companies whose products are very popular around the world, while Nike has the upper hand in sales and sponsorships, Adidas is growing. Adidas owns Reebok, Taylor Made golf company and Rockport. Nike owns the Jordan Brand, Umbro, Hurley, Converse and Cole Haan.
+subject_label:			3
+query_id:			838453

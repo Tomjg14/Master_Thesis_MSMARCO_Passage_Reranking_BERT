@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3144270
+query:			define abraham lincoln during civil war
+passage:			Passage: LINCOLN'S ABUSE OF POWER DURING THE AMERICAN CIVIL WAR. By. Brian Pulito. When one considers all that occurred during the very turbulent period of the American Civil War, President Abraham Lincoln is usually considered to be a hero.
+subject_label:			1
+query_id:			117113

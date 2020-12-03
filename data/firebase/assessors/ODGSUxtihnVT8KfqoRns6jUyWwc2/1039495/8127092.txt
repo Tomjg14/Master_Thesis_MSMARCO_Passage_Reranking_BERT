@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8127092
+query:			who is the boss of google?
+passage:			Passage: âJames is one of the bosses at a certain media institution; you can google him.â âThree or so years ago I googled him, and there it was on the internet.â âBut I was intrigued by Dan's comment, so I googled him, as you do, and had a look at some of the things he's written.â
+subject_label:			1
+query_id:			1039495

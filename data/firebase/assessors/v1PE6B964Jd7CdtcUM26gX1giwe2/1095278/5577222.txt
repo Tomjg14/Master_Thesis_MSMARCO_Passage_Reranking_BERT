@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5577222
+query:			average temp in fort worth in march
+passage:			Passage: El Paso averages 1.61 inches of precipitation in September. September Fort Worth Weather-In the month of September, Fort Worth has recorded a record high of 110 and, the typical high is 88. Fort Worth has experienced a record low temperature of 49 and, the average low is 69.eptember Amarillo Weather-Amarillo in September has recorded a record high temperature of 103 and, the daily high averages 82. Amarillo has recorded a record low temp of 30 and, the low temperature averages 56. Amarillo normally experiences 1.88 inches of precipitation in September.
+subject_label:			4
+query_id:			1095278

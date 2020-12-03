@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6058057
+query:			how many calories in provolone cheese
+passage:			Passage: Calories In Salmon + Provolone Quesidillas Calories: 495, Fat: 27g, Carbs: 30g, Protein: 36g, Fiber: 2g. Calories In Grilled cheese with provolone Calories: 365, Fat: 22g, Carbs: 26g, Protein: 16g, Fiber: 1g. Calories In Chicken Sausage and Provolone Penne Bake Calories: 453, Fat: 17g, Carbs: 57g, Protein: 26g, Fiber: 9g.
+subject_label:			2
+query_id:			1097449

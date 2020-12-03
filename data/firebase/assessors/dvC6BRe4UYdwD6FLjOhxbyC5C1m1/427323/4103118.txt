@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4103118
+query:			is the sec constitutional
+passage:			Passage: Unconstitutional Official Acts. 16 Am Jur 2d, Sec 177 late 2d, Sec 256: The general misconception is that any statute passed by legislators bearing the appearance of law constitutes the law of the land. The U.S. Constitution is the supreme law of the land, and any statute, to be valid, must be In agreement. It is impossible for both the Constitution and a law violating it to be valid; one must prevail.
+subject_label:			2
+query_id:			427323

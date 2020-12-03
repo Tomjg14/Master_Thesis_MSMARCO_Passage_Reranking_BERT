@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3243231
+query:			rigorous testing definition
+passage:			Passage: And since we already have a rigorous definition of limits, the epsilon delta definition, gives us a rigorous definition for limits. It's a definition for limits. So we can prove when a limit exists, and what the value of that limit is. Let's use that to create a rigorous definition of continuity.
+subject_label:			3
+query_id:			489257

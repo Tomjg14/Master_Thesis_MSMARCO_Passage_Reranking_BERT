@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7455870
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: Back. 1 The Cross The Arthur Blessitt Story. 2 The Practice of the Presence of God. 3 The Shelter of the Most High: Living Your Life Under the Divine Protection of God. 4 Give Me a J! (Sharing Christ with People) Arthur Blessitt. 5 The Cross.
+subject_label:			1
+query_id:			1096932

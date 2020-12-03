@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2155188
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: Heart on my sleeve. Posted by ESC on May 20, 2000. In Reply to: Heart on sleeve posted by Bob on May 20, 2000. : : Where does the phrase I wear my heart on my sleeve come from. I know Shakespeare quotes it in Othello but what does it mean and where does it come from? : I don't know of any uses before Shakespeare, but there may have been. Or...
+subject_label:			3
+query_id:			1083663

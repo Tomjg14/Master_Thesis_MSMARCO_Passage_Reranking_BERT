@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1398113
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Last reviewed on RxList 4/28/2015. Botox (onabotulinumtoxinA) is an injectable neuro-toxin used for the treatment of chronic migraines, limb spasticity, axillary hyperhidrosis, cervical dystonia, strabismus, and blepharospasm.
+subject_label:			5
+query_id:			1077356

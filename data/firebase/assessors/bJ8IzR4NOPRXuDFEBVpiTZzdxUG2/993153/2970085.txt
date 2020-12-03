@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2970085
+query:			which situation does a company issue a note receivable
+passage:			Passage: Imputed Interest Rate (notes receivable) An approximated interest rate, used when a company cannot determine the interest rate of a note receivable because it has no ready market. To estimate PV, the company approximates an applicable interest rate, which may differ from the stated interest rate.
+subject_label:			3
+query_id:			993153

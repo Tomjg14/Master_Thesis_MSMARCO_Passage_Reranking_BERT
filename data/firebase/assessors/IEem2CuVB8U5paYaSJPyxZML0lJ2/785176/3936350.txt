@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3936350
+query:			what is polydextrose made from
+passage:			Passage: Synthesized from dextrose, sorbitol and citric acid, polydextrose is used in a wide range of commercial food products for a variety of purposes. Used as a humectant, polydextrose helps keep foods moist.As a stabilizer, thickener or bulking agent, it helps keep flavor and texture uniform in packaged foods.ynthesized from dextrose, sorbitol and citric acid, polydextrose is used in a wide range of commercial food products for a variety of purposes. Used as a humectant, polydextrose helps keep foods moist.
+subject_label:			4
+query_id:			785176

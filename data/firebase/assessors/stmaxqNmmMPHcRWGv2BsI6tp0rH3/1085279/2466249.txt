@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2466249
+query:			what county is stacy minnesota
+passage:			Passage: Stacy, Minnesota. Stacy is a city in Chisago County, Minnesota, United States, along the Sunrise River. The population was 1,456 at the 2010 census. Interstate 35 serves as a main route for the community.
+subject_label:			5
+query_id:			1085279

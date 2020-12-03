@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5774417
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: The primary functions of the Organ Center are to: 1 assist in placing donated organs for transplantation. 2 assist in gathering donor information and running the donor/recipient computer matching process. 3 assist with transportation of organs and tissues for the purposes of transplantation.
+subject_label:			1
+query_id:			1026799

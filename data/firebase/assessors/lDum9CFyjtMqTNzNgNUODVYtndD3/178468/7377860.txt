@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7377860
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Tired, sore and aching muscles are relaxed with improvements to strength and flexibility and tensions held at the deepest level are released. Hot & Cold Stone Massage Therapy. Hot and Cold Stone therapy can also be used to treat muscular injury or inflammation by using cooled or frozen stones.These provide a thermotherapeutic effect within the circulatory system, allowing the body to heal faster and more efficiently.ired, sore and aching muscles are relaxed with improvements to strength and flexibility and tensions held at the deepest level are released. Hot & Cold Stone Massage Therapy. Hot and Cold Stone therapy can also be used to treat muscular injury or inflammation by using cooled or frozen stones.
+subject_label:			4
+query_id:			178468

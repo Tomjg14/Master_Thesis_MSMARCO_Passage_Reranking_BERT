@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3034720
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: The clinical implication of this study is that a TSH greater than 2.5 mIU/L may not be normal during the first trimester of pregnancy. This study suggests that the upper limit of the TSH normal range should be redefined as less than 2.5 mIU/L during pregnancy.
+subject_label:			1
+query_id:			414155

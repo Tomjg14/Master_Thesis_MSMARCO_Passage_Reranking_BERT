@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7003817
+query:			linking verb synonym
+passage:			Passage: Define Copulas. Copulas synonyms, Copulas pronunciation, Copulas translation, English dictionary definition of Copulas. Linking verbs are used to describe the state of being of the subject of a clause. Unlike action verbs , they connect the subject to the predicate of the...
+subject_label:			5
+query_id:			440362

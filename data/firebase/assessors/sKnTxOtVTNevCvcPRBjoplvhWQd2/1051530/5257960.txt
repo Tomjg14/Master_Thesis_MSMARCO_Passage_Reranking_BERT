@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5257960
+query:			what is mastoidectomy
+passage:			Passage: The role of practice is especially significant in mastoidectomy as the surgeon is working in the immediate vicinity of minute, multifaceted and delicate structures such as auditory ossicles, lamellar bone, blood vessels and nerves.
+subject_label:			2
+query_id:			1051530

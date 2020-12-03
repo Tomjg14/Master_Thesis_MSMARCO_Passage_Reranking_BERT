@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8689671
+query:			is education a constitutional right
+passage:			Passage: The Ninth Amendment provides you to use rights that are not listed in the Constitution... The Enumeration in the Constitution, of certain rights, shall not be construed â¦ to deny or disparage others retained by the people.. Ex. The right to be educated...
+subject_label:			3
+query_id:			409143

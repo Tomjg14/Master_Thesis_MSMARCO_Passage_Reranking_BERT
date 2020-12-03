@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3640559
+query:			how much is college in florida
+passage:			Passage: How much you may need to borrow for college. Use this student loan calculator to determine how much you may need to borrow annually for college.ow much you may need to borrow for college. Use this student loan calculator to determine how much you may need to borrow annually for college.
+subject_label:			2
+query_id:			1095876

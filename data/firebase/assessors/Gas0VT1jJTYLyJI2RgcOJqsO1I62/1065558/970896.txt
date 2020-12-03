@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			970896
+query:			what is a variable account in a annuity
+passage:			Passage: In looking at variable annuity death benefits we should first do a review of what a variable annuity is. A variable annuity is a contract that a person purchases from an insurance company.
+subject_label:			4
+query_id:			1065558

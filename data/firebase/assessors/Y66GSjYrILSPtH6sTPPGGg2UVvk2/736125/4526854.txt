@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4526854
+query:			what is crossfit?
+passage:			Passage: Do Not Cross CrossFit. Greg Glassman's essential business outlook is this: he can do whatever the hell he wants to. What he wants to do right now is protect the brand of CrossFit, his extraordinary fitness company. CERTIFIABLE CrossFitters do thrusters as part of a training seminar at CrossFit Morristown in Morristown, New Jersey.
+subject_label:			1
+query_id:			736125

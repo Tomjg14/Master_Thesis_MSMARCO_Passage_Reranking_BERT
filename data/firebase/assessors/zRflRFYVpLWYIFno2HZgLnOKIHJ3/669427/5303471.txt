@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5303471
+query:			what hormone secretion causes goiter
+passage:			Passage: Goiter is a swelling (hypertrophy) of a gland in the neck called the thyroid gland. 1-3 The thyroid gland is situated in front of the windpipe and is responsible for producing and secreting hormones that regulate growth and metabolism. Treatment is not necessary unless the goiter is large and causes symptoms (there are often no symptoms). 2 Synthetic thyroid hormone is a treatment for underactive thyroid, while anti-thyroid drugs are options for an overactive gland.
+subject_label:			4
+query_id:			669427

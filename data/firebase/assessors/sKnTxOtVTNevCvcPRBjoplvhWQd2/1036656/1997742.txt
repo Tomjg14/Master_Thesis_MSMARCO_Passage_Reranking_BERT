@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1997742
+query:			what is the meaning of chicken rice?
+passage:			Passage: Remove from heat and let sit (with lid still on) for 5-10 minutes more. To cook rice in a rice cooker: Pour aromatics and rice (after frying) into your rice cooker, add 2 1/2 cups of your reserved poaching broth and salt. Follow the instructions for your model (usually this will just mean turn it on!). 4.hile your rice is cooking, remove the chicken from the ice bath and rub the outside of the chicken with the sesame oil. Carve the chicken for serving. 5. To make the chili sauce: Blend your chili sauce ingredients in a blender until smooth and bright red. 6.
+subject_label:			2
+query_id:			1036656

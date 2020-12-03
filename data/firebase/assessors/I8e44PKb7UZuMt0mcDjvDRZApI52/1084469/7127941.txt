@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7127941
+query:			what does a grassroots organization mean
+passage:			Passage: What does grassroots mean? Grassroots movements are generally those that are not top-down, but rather more horizontal in nature. Not coopted by traditional power structures, etc. I'm totally okay with that definition. What I am curious about is the other part of the defintition. Grassroots organisations are generally driven by the politics of a community, as Wiki puts it. So. If your organisation is all about the politics of a particular community, yet none of the people in that organisation are part of the community in question...is it grassroots just because it's not a top-down structure?
+subject_label:			3
+query_id:			1084469

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			918977
+query:			linking verb synonym
+passage:			Passage: Linking Verbs. Linking Verbs are verbs that express a state of being. They are called linking verbs because they link the subject of the sentence to a word or phrase in the predicate that renames or describes the subject (tells us more about the subject's state of being). Examples of Linking Verbs:
+subject_label:			3
+query_id:			440362

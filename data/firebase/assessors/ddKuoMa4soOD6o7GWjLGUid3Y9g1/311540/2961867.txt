@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2961867
+query:			how much does a spectacled bear weigh
+passage:			Passage: Thread: How much does an awning weigh? How much does an awning weigh? Just wanting to get a ball park figure on how much 2*2.5m awnings weigh? I'm going to see if I can get some brackets made up to allow mounting to the roof rails with no roof racks.
+subject_label:			1
+query_id:			311540

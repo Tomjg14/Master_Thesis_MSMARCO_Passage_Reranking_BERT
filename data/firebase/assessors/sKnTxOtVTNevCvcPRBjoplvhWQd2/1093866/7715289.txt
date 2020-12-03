@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7715289
+query:			is thread.sleep implicit wait
+passage:			Passage: Implicit Wait: Implicit as the word itself suggests is âsuggested though not directly expressedâ. So what I mean by this. An implicit wait is to tell WebDriver to poll the DOM for a certain amount of time when trying to find an element or elements if they are not immediately available. The default setting is 0.
+subject_label:			2
+query_id:			1093866

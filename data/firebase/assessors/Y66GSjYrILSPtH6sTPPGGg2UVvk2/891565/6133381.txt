@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6133381
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Two Competing Companies. By the terms of the bill, the Central Pacific Railroad Company would start building in Sacramento and continue east across the Sierra Nevada, while a second company, the Union Pacific Railroad, would build westward from the Missouri River, near the Iowa-Nebraska border.wo Competing Companies. By the terms of the bill, the Central Pacific Railroad Company would start building in Sacramento and continue east across the Sierra Nevada, while a second company, the Union Pacific Railroad, would build westward from the Missouri River, near the Iowa-Nebraska border.
+subject_label:			1
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7213229
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: The Social Security Administration (SSA) permits you to apply for retirement, spousal benefits, Medicare, or disability advantages on the web. The nice thing about this process is that the whole application takes only around fifteen minutes of your time.
+subject_label:			2
+query_id:			257885

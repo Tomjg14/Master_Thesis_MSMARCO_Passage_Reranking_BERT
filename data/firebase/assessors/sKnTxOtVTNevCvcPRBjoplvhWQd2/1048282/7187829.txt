@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187829
+query:			what is pivx
+passage:			Passage: PIVX has unique features that make it different and promising in the diverse cryptosphere. Some of these features are: 1. PIVX is the first proof of stake cryptocurrency with a Zerocoin protocol level anonymity, thus making it truly fungible. Read this, this, and this for more details on the Zerocoin protocol.
+subject_label:			3
+query_id:			1048282

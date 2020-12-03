@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7914414
+query:			average money market interest rates
+passage:			Passage: The average prime rate for the decade 2001 to 2010 was 5.4 percent, as compared to 7.8 percent during the previous decade. When this figure begins to rebound, the average money market interest rate should respond accordingly.
+subject_label:			3
+query_id:			38946

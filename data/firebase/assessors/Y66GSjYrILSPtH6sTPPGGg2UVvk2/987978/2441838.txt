@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2441838
+query:			where is miralago
+passage:			Passage: super bowl 2018 where | where is super bowl 2018 | where is the super bowl | where is the super bowl 2018 | where is the super bowl in 2018 | where are the olympics | where am i | where are the 2018 olympics | where is the olympics | where is new england | where is prince from | where was prince born | where is starman | where is justin timberlake from | where is super bowl 2019 | where is mauritania | where was prince from | where are the patriots from | where to watch superbowl online ...
+subject_label:			1
+query_id:			987978

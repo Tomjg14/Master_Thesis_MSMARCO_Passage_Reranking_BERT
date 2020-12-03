@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2905686
+query:			where does lice come from
+passage:			Passage: You don't have to be unclean or live in poor conditions to get lice BUT lice continue to be prevalent in the worst conditions where many diseases break out (i.e. typhus) All parasites are found in nature and originally transmitted to humans they didn't just magically appear... Aug 07, 2017. where do lice come from. NEW. Lice breed in wet wood and damp warm places. A friend of mine, who was 14 had them all over her body. She was playing with her pet hampster on the floor, between her legs, holding it close to her body etc. Her hampster died shortly after. It was infested with lice, so was the family cat.
+subject_label:			3
+query_id:			973362

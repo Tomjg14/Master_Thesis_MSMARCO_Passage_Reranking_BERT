@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7183059
+query:			what is mastoidectomy
+passage:			Passage: Tympanoplasty and Mastoidectomy or tympanomastoidectomy is surgery on the mastoid bone for infection and tympanic membrane (eardrum) to restore hearing.
+subject_label:			5
+query_id:			1051530

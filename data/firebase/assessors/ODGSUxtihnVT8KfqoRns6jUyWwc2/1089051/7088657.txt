@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088657
+query:			vainglory meaning
+passage:			Passage: Definitions for vainglory ËveÉªnËglÉr i, -ËgloÊr i, veÉªnËglÉr i, -ËgloÊr i Here are all the possible meanings and translations of the word vainglory. Princeton's WordNet (5.00 / 1 vote) Rate this definition: boastfulness, vainglory (noun)
+subject_label:			3
+query_id:			1089051

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1108956
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Fertilizer components and what each does for your plants. 1 The first number in a fertilizer formula is the nitrogen content..... 2 Nitrogen is used by plants for producing leaf growth and greener, lusher leaves. 3 The second number in a fertilizer formula is the phosphorus content..... The second number in a fertilizer formula is the phosphorus content..... 2 Phosphorus is used by plant to increase fruit development and to produce a strong root system. 3 The third number in a fertilizer formula is the potassium (potash) content..... 4 Potassium is used by plants for flower color and size.
+subject_label:			1
+query_id:			1040038

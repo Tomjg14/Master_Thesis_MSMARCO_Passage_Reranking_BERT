@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2450218
+query:			head turner meaning
+passage:			Passage: Potential photos and documents for Elmo Turner. Top record matches for Elmo Turner. Surname meaning for Turner. English and Scottish: occupational name for a maker of objects of wood, metal, or bone by turning on a lathe, from Anglo-Norman French torner (Old French tornier, Latin tornarius, a derivative of tornus âlatheâ).
+subject_label:			1
+query_id:			1100070

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7864220
+query:			who is the grinning man
+passage:			Passage: I will be thoroughly satisfied if they are as good as 'The Grinning Man,' which is an excellent addition to the series and a good episode for people who have somehow managed to miss the lateral vs. paranormal dealings of Jonathan Creek the first time round. 50 of 51 people found this review helpful.
+subject_label:			2
+query_id:			1040461

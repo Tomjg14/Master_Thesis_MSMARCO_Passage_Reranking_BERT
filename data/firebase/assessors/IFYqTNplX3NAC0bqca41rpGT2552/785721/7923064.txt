@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7923064
+query:			what is postulate in algebra
+passage:			Passage: Axioms and postulates are essentially the same thing: mathematical truths that are accepted without proof. Their role is very similar to that of undefined terms: they lay a foundation for the study of more complicated geometry. Axioms are generally statements made about real numbers. Sometimes they are called algebraic postulates.
+subject_label:			4
+query_id:			785721

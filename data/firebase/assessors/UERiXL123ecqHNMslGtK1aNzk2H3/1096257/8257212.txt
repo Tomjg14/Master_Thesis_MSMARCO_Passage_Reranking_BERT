@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8257212
+query:			how much does a audit senior make
+passage:			Passage: { seoText: How much does a Senior Administrative Assistant make in Seattle?The average Senior Administrative Assistant salary is $47,641. In Seattle, a Senior Administrative Assistant can make $51,181, which is 7.4% higher than the national median.
+subject_label:			1
+query_id:			1096257

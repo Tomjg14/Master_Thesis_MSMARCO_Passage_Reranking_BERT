@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6873013
+query:			vainglory meaning
+passage:			Passage: As we have seen, in Hobbesâs state of nature, it is a known fact that there are vainglorious people who will try to maximize their self-interest/power at the expense of others by attacking. The major problem is that, in the state of nature, there is no reliable way to identify these vainglorious people in advance. This leads us to our final condition of Hobbesâ state of nature. C5 (Uncertainty): In the state of nature, people cannot reliably know other peopleâs types.
+subject_label:			5
+query_id:			1089051

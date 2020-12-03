@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1218707
+query:			average money market interest rates
+passage:			Passage: However, the capital market depends upon the nature of and the conditions in the money market. The short-term interest rates of the money market influence the long-term interest rates of the capital market.
+subject_label:			3
+query_id:			38946

@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			2417754
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: Common house gecko. The common house gecko (Hemidactylus frenatus) (not to be confused with the Mediterranean species Hemidactylus turcicus known as Mediterranean house gecko), is a native of Southeast Asia. It is also known as the Pacific house gecko, the Asian house gecko, house lizard, or Moon Lizard.
+subject_label:			2
+query_id:			1003875

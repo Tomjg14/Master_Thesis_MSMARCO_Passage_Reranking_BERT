@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1808714
+query:			who played fiddle for boxcar willie
+passage:			Passage: Boxcar drummer Aaron Seibert and his wife are awaiting the birth of their first child, so the drums will play second fiddle for a while. John Sheridan & Joan Carroll at Boardwalk Bistro (7:30 Friday, 7 Saturday) Sometimes it's essential to catch some classy, and classic, piano/vocal jazz.
+subject_label:			1
+query_id:			1046648

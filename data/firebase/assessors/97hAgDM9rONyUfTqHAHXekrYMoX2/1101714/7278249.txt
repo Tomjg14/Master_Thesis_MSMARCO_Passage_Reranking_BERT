@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7278249
+query:			definition, nepotism
+passage:			Passage: Corruption we all know does not yield to easy definition, thus writersâ definitions have been. varied and divergent. Akinseye (2000) attempts at describing it as âmother of all crimesâ and. identifies four forms of corruption as bribery, prebendalism, graft and nepotism.
+subject_label:			1
+query_id:			1101714

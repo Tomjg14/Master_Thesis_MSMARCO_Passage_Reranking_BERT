@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7278030
+query:			which situation does a company issue a note receivable
+passage:			Passage: Notes Receivable (N/R) N/R is a receivable due the company, in the form of a promissory note, arising because the company made a loan. Making loans is the business of banks, not of operating business, and particularly not the business of a small company with limited financial resources. Notes receivable is probably a note due from one of three sources: 1. Customers, 2. Employee, or 3. Officers of the company. Customer notes receivable is when the customer who borrowed from the company probably did so because he could not meet the accounts receivable terms.
+subject_label:			5
+query_id:			993153

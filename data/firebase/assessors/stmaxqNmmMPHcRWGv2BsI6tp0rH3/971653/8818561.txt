@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8818561
+query:			where do the ash borer come from
+passage:			Passage: On other trees, other buprestids, such as the bronze birch borer and the two-lined chestnut borer, do produce D-shaped exit holes. These insects are not found in ash trees. The combination of a D-shaped exit hole and an ash tree is unique to EAB, and a sure indication that the insect is present.merald Ash Borer (EAB) Help Slow the Spread of the Emerald Ash Borer What You Can Do to Help | Stop the Beetle Emerald Ash Borer is now in Connecticut.Currently there is a quarantine affecting the movement of ash materials and firewood out of the State of Connecticut.
+subject_label:			3
+query_id:			971653

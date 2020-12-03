@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4284258
+query:			who is the boss of google?
+passage:			Passage: The instruments of the orchestra are divided into districts: the strings, woodwind, brass and percussion. Each section (group of instruments) will have a player who is the Boss. If the music says kiss in their part it is the boss who will kiss.
+subject_label:			1
+query_id:			1039495

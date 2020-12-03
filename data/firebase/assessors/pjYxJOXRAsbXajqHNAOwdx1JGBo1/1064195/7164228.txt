@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7164228
+query:			what is aircraft ram air
+passage:			Passage: Air which is forced to enter a moving aperture, such as the air intake of an aircraft. Example sentences âA modified cowling was needed along with a large intake under the fuselage to supply ram air but the project was not completely successful due to developmental problems and both companies dropped the experiment.â âThe aircraft still was getting ram air over the cooling fins, but most of the efficiency of the exchanger had been lost.â âA stock 5.3 litre Jaguar V12 was used, with the only changes being ram air intakes.â
+subject_label:			4
+query_id:			1064195

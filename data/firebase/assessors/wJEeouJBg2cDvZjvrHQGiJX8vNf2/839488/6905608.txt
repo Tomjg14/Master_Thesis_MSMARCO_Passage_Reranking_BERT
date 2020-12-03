@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6905608
+query:			what is the plural of kohlrabies
+passage:			Passage: A basket of kohlrabi. Except for the Gigante cultivar, spring-grown kohlrabi much over 5 cm in size tend to be woody, as do full-grown kohlrabi much over perhaps 10 cm in size; the Gigante cultivar can achieve great size while remaining of good eating quality.
+subject_label:			2
+query_id:			839488

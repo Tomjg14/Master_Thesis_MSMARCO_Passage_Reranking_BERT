@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7966574
+query:			temperature diode
+passage:			Passage: The most common function of a diode is to allow an electric current to pass in one direction (called the diode's forward direction), while blocking current in the opposite direction (the reverse direction).Thus, the diode can be viewed as an electronic version of a check valve. For a bias less than the PIV, the reverse current is very small. 2 For a normal PâN rectifier diode, the reverse current through the device in the micro-ampere (ÂµA) range. 3 However, this is temperature dependent, and at sufficiently high temperatures, a substantial amount of reverse current can be observed (mA or more).
+subject_label:			2
+query_id:			1090054

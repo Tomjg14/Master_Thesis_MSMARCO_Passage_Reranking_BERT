@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4883865
+query:			what is included in a clutch kit
+passage:			Passage: Item Description. Kupp Racing stage 4 clutch kit is a direct factory replacement clutch kit and it's designed for those who seek the ultimate in clutch performance and reliability. Kupp Racing clutch kit includes only the highest grade clutch components from the world's leading racing clutch manufacturers.
+subject_label:			3
+query_id:			758519

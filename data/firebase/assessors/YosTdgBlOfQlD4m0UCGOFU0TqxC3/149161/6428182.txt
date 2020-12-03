@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6428182
+query:			difference between watt and hertz
+passage:			Passage: RE: What's the difference between a 65 watt laptop charger and a 90 watt laptop charger? I'm trying to find a new laptop charger and I can either get it in a 65 watt or a 90 watt.I was just wondering if there was some significant difference. Thanks. Source(s): 39 difference 65 watt laptop charger 90 watt laptop charger: https://tinyurl.im/dm5Qe.'m trying to find a new laptop charger and I can either get it in a 65 watt or a 90 watt. I was just wondering if there was some significant difference.
+subject_label:			2
+query_id:			149161

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7697946
+query:			what network is pickles on cartoon
+passage:			Passage: This show is the reason why I started to watch Cartoon Network. A lot of my friends say Adventure Time is stupid, but I don't care what they say about Adventure Time. Adventure Time will always be my favorite show on Cartoon Network. - macyquinn5678.
+subject_label:			3
+query_id:			881695

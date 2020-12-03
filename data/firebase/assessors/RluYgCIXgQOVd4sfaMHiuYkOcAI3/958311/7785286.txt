@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7785286
+query:			when was jim vance funeral
+passage:			Passage: JAMES L. Jim VANCE. VANCE age 65, husband of Carolyn M. (Kucinic) Vance, of Spring City, PA, passed away peacefully Saturday afternoon, September 24, 2016 at Phoenixville Hospital, Phoenixville, Pennsylvania. Born on July 21, 1951 in Cleveland, OH, he was a son of James and Stella (Gbur) Vance.
+subject_label:			1
+query_id:			958311

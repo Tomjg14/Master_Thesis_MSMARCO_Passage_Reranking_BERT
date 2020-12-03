@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1952196
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Sensation is the process by which our sense organs. and receptors detect and respond to sensory. information that stimulates them. The information. at this stage is simply raw sensory data. It is. meaningless until it is sent to the relevant sensory. area in the brain for processing.
+subject_label:			4
+query_id:			1091108

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289618
+query:			who paul clark
+passage:			Passage: Dr. Paul Clark is a Vascular Surgery in Toledo, OH. Find Dr. Clark's phone number, address, insurance information, hospital affiliations and more.
+subject_label:			4
+query_id:			988142

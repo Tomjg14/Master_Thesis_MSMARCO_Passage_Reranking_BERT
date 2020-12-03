@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7864452
+query:			what is the parent company for adidas
+passage:			Passage: 50 Things You Didn't Know About adidas. adidas is the parent company to Reebok, Rockport, and Taylor Made. Further showing that adidas has diverse interests, its brand umbrella is just as broad.
+subject_label:			4
+query_id:			838453

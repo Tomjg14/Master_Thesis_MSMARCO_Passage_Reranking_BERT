@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3572516
+query:			what is the hormone that makes you fat
+passage:			Passage: Top 10 Vitamin D Rich Foods. Vitamin D is a fat-soluble vitamin that is different from other vitamins because our bodies can make most of what we need with exposure to sunlight. Vitamin D is more than a vitamin in that is acts as a pro-hormone and effects hormone balance and immune regulation of the body.
+subject_label:			2
+query_id:			825147

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6204475
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: Transvaginal Ultrasound. Transvaginal ultrasound can be used to detect a fetus or gestational sac up to a week before traditional ultrasound. A transvaginal ultrasound is performed by inserting a lubricated wand into the vagina and performing the ultrasound internally.etecting a Gestational Sac on Ultrasound. The gestational sac is seen earlier than a fetus can be detected on an ultrasound. A gestational sac can be seen as early as the fifth week of pregnancy or three weeks after conception.
+subject_label:			4
+query_id:			299732

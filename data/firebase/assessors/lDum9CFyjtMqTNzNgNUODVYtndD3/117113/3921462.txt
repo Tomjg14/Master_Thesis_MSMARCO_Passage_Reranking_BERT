@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3921462
+query:			define abraham lincoln during civil war
+passage:			Passage: A New Birth of Freedom: Reconstruction During the Civil War. The Civil War, in the words of President Abraham Lincoln, brought to America a new birth of freedom. And during the war began the nation's efforts to come to terms with the destruction of slavery and to define the meaning of freedom.
+subject_label:			3
+query_id:			117113

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			741807
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: Wear your heart on your sleeve means that you don't hide your emotions. Everyone can see immediately how you feel about something.
+subject_label:			5
+query_id:			1083663

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6656311
+query:			what is a variable account in a annuity
+passage:			Passage: The fees for variable annuities are typically lower than mutual fund fees. If youâre interested in a variable annuity, ask the adviser for a list of fees. Fees for management of each individual separate account range wildly, from as low as .25% to as high as 2% or more. Fixed annuities do not have management fees. Whiled there are no upfront fees for indexed annuities, there can be other fees.
+subject_label:			2
+query_id:			1065558

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4427673
+query:			phone number for bc transit junction
+passage:			Passage: A transitional vertebra at the junction between the chest and the lumbar spine may have a vestigial rib. However it is at the lumbosacral junction that transitional vertebrae occur commonly, especially in German Shepherds, and they often have clinical consequences.
+subject_label:			1
+query_id:			1091688

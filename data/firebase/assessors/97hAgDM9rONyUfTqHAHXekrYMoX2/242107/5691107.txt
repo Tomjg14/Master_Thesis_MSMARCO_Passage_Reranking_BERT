@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5691107
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: How long can you freeze italian sausages? i bought some italian sausages 2 weeks ago, there still sealed in the box and frozen, how long can it be frozen? thank you.ow long can you freeze italian sausages? i bought some italian sausages 2 weeks ago, there still sealed in the box and frozen, how long can it be frozen? thank you.
+subject_label:			2
+query_id:			242107

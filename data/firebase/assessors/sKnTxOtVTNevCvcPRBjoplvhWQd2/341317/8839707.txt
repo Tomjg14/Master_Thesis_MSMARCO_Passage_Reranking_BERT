@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8839707
+query:			how tall is samus aran
+passage:			Passage: Samus's first battle with Dark Samus takes place within the Space Pirates' mining facility in the Agon Wastes. Samus encounters her doppelganger in a room designed to process Phazon; Dark Samus absorbs a large amount of the Phazon and battles Samus.
+subject_label:			2
+query_id:			341317

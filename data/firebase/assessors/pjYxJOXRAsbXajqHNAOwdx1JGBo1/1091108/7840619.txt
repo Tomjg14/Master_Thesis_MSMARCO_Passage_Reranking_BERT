@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7840619
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: In the periphery, the somatosensory system detects various stimuli by sensory receptors, e.g. by mechanoreceptors for tactile sensation and nociceptors for pain sensation. The sensory information (touch, pain, temperature etc.,) is then conveyed to the central nervous system by afferent neurons.There are a number of different types of afferent neurons that vary in their size, structure and properties.n the periphery, the somatosensory system detects various stimuli by sensory receptors, e.g. by mechanoreceptors for tactile sensation and nociceptors for pain sensation. The sensory information (touch, pain, temperature etc.,) is then conveyed to the central nervous system by afferent neurons.
+subject_label:			4
+query_id:			1091108

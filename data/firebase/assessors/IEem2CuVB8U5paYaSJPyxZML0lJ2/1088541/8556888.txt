@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8556888
+query:			weather in fletcher,nc
+passage:			Passage: Weather for Belhaven, NC - Belhaven, NC Weather, Current Weather in Belhaven, NC. Local weather report for Belhaven, NC, Local Belhaven, NC weather. Forecast for Belhaven, North Carolina, Belhaven, NC weather forecast. Find your local Belhaven weather forecast. Belhaven, NC weather conditions.
+subject_label:			1
+query_id:			1088541

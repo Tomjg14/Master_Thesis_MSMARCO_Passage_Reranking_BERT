@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7651509
+query:			circulation money definition
+passage:			Passage: Definition of Monetary Policy. Monetary Policy is a strategy used by the Central Bank to control and regulate the money supply in an economy. It is also known as credit policy. In India, the Reserve Bank of India looks after the circulation of money in the economy.
+subject_label:			2
+query_id:			92542

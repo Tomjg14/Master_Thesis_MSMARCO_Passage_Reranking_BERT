@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7875504
+query:			what is the hormone that makes you fat
+passage:			Passage: Several hormones in the body can make you eat more and get fat. Fortunately, fixing the function of those hormones is relatively simple. Several hormones in the body can make you eat more and get fat.
+subject_label:			3
+query_id:			825147

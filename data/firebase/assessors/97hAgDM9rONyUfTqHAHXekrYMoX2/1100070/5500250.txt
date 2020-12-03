@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5500250
+query:			head turner meaning
+passage:			Passage: In the spring of 1997, Gerald Turner met with SMUâs head of development, Bill Lively, to discuss the biggest fundraising campaign in the schoolâs history, a five-year effort they hoped would net $300 million. âEither you are going to succeed at this,â Turner told Lively, âor both you and I are going to croak at the finish line.â.
+subject_label:			1
+query_id:			1100070

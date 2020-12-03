@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3317927
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: But Franklin persisted on the DNA project. J. D. Bernal called her X-ray photographs of DNA, the most beautiful X-ray photographs of any substance ever taken.. Between 1951 and 1953 Rosalind Franklin came very close to solving the DNA structure.
+subject_label:			4
+query_id:			1006199

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7073271
+query:			how big do newfypoo's get
+passage:			Passage: The breed mix is considered a hypoallergenic dog breed. Allergens can also be found in a dogs saliva and dander. The hair not fur that poodles have can help temper a personâs allergies to pet dander. Breeds that shed less are more likely to be hypoallergenic, Newfypoos are a low to no shed dog. 4 month old Newfypoo.
+subject_label:			1
+query_id:			208494

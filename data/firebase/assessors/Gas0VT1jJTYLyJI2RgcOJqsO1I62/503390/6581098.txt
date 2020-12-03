@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6581098
+query:			statute of limitations definition
+passage:			Passage: The FindLaw Legal Dictionary -- free access to over 8260 definitions of legal terms. Search for a definition or browse our legal glossaries. : barred by the passage of time under a statute of limitations, statute of repose, or procedural rule [petition for post-conviction relief was ].
+subject_label:			3
+query_id:			503390

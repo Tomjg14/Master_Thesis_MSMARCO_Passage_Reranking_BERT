@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3798692
+query:			what does extravert mean
+passage:			Passage: Extraversion is the act, state, or habit of being predominantly concerned with obtaining gratification from what is outside the self. Extraverts tend to enjoy human interactions and to be enthusiastic, talkative, assertive, and gregarious. Extraverts are energized and thrive off of being around other people.
+subject_label:			4
+query_id:			1083852

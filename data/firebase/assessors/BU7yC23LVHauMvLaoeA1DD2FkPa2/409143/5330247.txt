@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5330247
+query:			is education a constitutional right
+passage:			Passage: Seven fundamental rights were originally provided by the Constitution â right to equality, right to freedom, right against exploitation, right to freedom of religion, cultural and educational rights, right to property and right to constitutional remedies.hese sections are considered vital elements of the constitution, which was developed between 1947 and 1949 by the Constituent Assembly of India. The Fundamental Rights are defined as the basic human rights of all citizens.
+subject_label:			4
+query_id:			409143

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1575513
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Biogas is produced by processing residual waste from livestock (dung, manure and uneaten food), food production (fruit and vegetable waste, residues from meat, fish and dairy processing, brewery waste, food waste and much more) and effluents from industrial as well as municipal wastewater treatment plants.igestates are produced as a by-product of biogas manufacturing, which can in turn be used as high-quality digestate. The implementation of the Recycling and Waste Management Act is perfetctly implemented with the construction of rural biogas power plants from an economic and environmental perspective.
+subject_label:			2
+query_id:			1068726

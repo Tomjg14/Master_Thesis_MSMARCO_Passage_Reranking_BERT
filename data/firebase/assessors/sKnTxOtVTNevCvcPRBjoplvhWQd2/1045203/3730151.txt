@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3730151
+query:			who owns cnn cable news network
+passage:			Passage: Bob Beckel Returns to Cable News on CNN After Fox Exit. Bob Beckel has changed cable news networks, but not his look. More ways to share... Liberal pundit Bob Beckel, a former co-host of The Five on Fox News, returned to cable television on CNN last week. bob beckel, returns, cable, news, cnn, fox.
+subject_label:			1
+query_id:			1045203

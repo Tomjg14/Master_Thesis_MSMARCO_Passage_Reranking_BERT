@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5660314
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much does 6 xbox 360 games/cases weigh? How much does an xbox 360 elite weigh (in the box)? How much does an xbox 360 weigh? im going to fedex one? I am considering purchasing an Xbox 360, or a Playstation 3...
+subject_label:			1
+query_id:			311540

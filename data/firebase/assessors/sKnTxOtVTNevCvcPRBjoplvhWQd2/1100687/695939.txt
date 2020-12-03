@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			695939
+query:			apartment cost in phoenix az
+passage:			Passage: More trip calculations. 1 driving distance from Phoenix, AZ to Durango, CO. 2 cost to drive from Phoenix, AZ to Durango, CO. 3 reverse driving time from Durango, CO to Phoenix, AZ. 4 halfway between Phoenix, AZ and Durango, CO. 5 places to stop from Phoenix, AZ to Durango, CO.
+subject_label:			1
+query_id:			1100687

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4537872
+query:			what is the opposite of benefit?
+passage:			Passage: Confidence votes 19. The opposite meaning for the word benefits can be detriments, drawbacks, harm or liabilities. Anything that is negative as opposed to positive can be interpreted as an opposite to benefits. The opposite meaning for the word benefits can be detriments, drawbacks, harm or liabilities.
+subject_label:			2
+query_id:			837681

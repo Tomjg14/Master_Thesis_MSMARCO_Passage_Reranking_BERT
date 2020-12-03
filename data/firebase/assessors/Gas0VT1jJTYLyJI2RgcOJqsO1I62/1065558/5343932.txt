@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5343932
+query:			what is a variable account in a annuity
+passage:			Passage: Mutual of America's FPA is an individual variable annuity contract and is suitable for long-term investing, particularly for retirement savings. The value of a variable annuity contract will fluctuate depending on the performance of the Separate Account investment funds you choose.
+subject_label:			3
+query_id:			1065558

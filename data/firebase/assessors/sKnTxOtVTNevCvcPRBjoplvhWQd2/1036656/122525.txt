@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			122525
+query:			what is the meaning of chicken rice?
+passage:			Passage: Florida-Style Arroz Con Pollo. Arroz con Pollo. This is a classic Spanish-style chicken and rice recipe made with chicken parts, rice, saffron, garlic, and other vegetables and seasonings. The recipe is a classic in many Latin American countries, and it is a popular dish in Florida. What You'll Need.
+subject_label:			2
+query_id:			1036656

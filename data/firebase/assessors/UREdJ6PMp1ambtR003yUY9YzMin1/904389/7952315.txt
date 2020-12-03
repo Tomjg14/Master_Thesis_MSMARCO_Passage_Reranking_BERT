@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7952315
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Chick Fil A Hours. Please note that above time may changes based on different stores. Most of the stores follow the same timings, They usually open at around 6 AM and chick fil a close hours is 10 PM from Monday to Saturday. All stores are closed on Sunday. chick fil a store hours is 6 AM to 10 PM. Frequently asked questions.
+subject_label:			2
+query_id:			904389

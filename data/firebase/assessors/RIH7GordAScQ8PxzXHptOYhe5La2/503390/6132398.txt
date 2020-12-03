@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6132398
+query:			statute of limitations definition
+passage:			Passage: DEFINITION of 'Statute Of Limitations'. A statute of limitations is a law which sets out the maximum time that parties have to initiate legal proceedings from the date of an alleged offense. The precise form of a statute of limitations differs from one jurisdiction to the next. In general, the length of time allowed under a statute of limitations varies depending upon the severity of the offense.
+subject_label:			5
+query_id:			503390

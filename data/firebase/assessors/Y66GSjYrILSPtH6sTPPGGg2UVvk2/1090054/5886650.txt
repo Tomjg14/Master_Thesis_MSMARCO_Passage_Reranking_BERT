@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5886650
+query:			temperature diode
+passage:			Passage: Diode Resistance Formula. The resistance of diodes is equal to the below formula: Diode resistance is equal to the thermal voltage, VT, divided by the current, Id, passing through the diode. The thermal voltage of the diode is approximately 25mV at 300K, which is a temperature that is very close to room temperature. The precise formula to calculate thermal voltage is: VT= kT/q.
+subject_label:			3
+query_id:			1090054

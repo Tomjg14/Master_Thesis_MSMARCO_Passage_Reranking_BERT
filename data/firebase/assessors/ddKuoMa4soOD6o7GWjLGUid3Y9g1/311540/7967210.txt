@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7967210
+query:			how much does a spectacled bear weigh
+passage:			Passage: Spectacled bear. The spectacled bear (Tremarctos ornatus), also known as the Andean bear or Andean short-faced bear and locally as jukumari (Aymara), ukumari (Quechua) or ukuku, is the last remaining short-faced bear (subfamily Tremarctinae).
+subject_label:			2
+query_id:			311540

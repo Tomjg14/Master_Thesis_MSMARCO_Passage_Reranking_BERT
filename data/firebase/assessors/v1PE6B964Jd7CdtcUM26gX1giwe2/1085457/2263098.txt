@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2263098
+query:			carnation® evaporated milk total calories
+passage:			Passage: Get cooking with Carnation Evaporated Milk. Canadians have been counting on Carnation Evaporated Milk for more than 100 years to make delicious, nutritious treats and meals the whole family asks for again and again.And since Carnation Evaporated Milk is thicker and creamier than milk, it's a perfect lower-fat substitute for cream in most recipes.Try one of these quick and easy recipes. You can tell us what you think by rating recipes.nd since Carnation Evaporated Milk is thicker and creamier than milk, it's a perfect lower-fat substitute for cream in most recipes. Try one of these quick and easy recipes. You can tell us what you think by rating recipes.
+subject_label:			2
+query_id:			1085457

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3356946
+query:			was the great wall of china breached
+passage:			Passage: The Great Wall of China, in Shanhaiguan. The Great Wall of China is an ancient wall in China. The wall is made of cement, rocks, bricks, and powdered dirt. It was built to protect the north of the empire of China from enemy attacks. It is the longest structure humans have ever built.
+subject_label:			2
+query_id:			540906

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3895709
+query:			what is a malanga
+passage:			Passage: One of the most familiar tuber vegetables is the potato, but many kinds of tuber vegetables are used all over the world for starch and carbohydrates. Besides potatoes, edible tubers include taro or malanga, artichokes, yams, ginger, jicama and cushcush.ne of the most familiar tuber vegetables is the potato, but many kinds of tuber vegetables are used all over the world for starch and carbohydrates. Besides potatoes, edible tubers include taro or malanga, artichokes, yams, ginger, jicama and cushcush.
+subject_label:			1
+query_id:			689885

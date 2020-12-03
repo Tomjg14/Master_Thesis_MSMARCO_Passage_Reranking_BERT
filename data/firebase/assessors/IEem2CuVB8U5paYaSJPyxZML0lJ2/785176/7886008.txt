@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886008
+query:			what is polydextrose made from
+passage:			Passage: Polydextrose is a soluble non-viscous manmade polymer that is only partially fermented by the gut microbiota. An important factor drawing the attention of food manufactures to the use of polydextrose in various applications is its simplicity.
+subject_label:			5
+query_id:			785176

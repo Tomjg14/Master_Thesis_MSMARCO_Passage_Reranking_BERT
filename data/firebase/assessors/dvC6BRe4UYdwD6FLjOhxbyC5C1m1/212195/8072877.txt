@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8072877
+query:			how could the courts check the bureaucracy
+passage:			Passage: What is a 'Bureaucracy'? Bureaucracy refers to a specialized system and processes designed to maintain uniformity and controls within an organization. Bureaucratic processes are most common in large organizations or governments. For example, an oil company may establish a bureaucracy to compel its employees to complete safety checks when operating on a rig.
+subject_label:			3
+query_id:			212195

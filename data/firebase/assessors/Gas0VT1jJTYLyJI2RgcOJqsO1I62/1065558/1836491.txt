@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1836491
+query:			what is a variable account in a annuity
+passage:			Passage: 1 Example: Your variable annuity has a mortality and expense risk charge at an annual rate of 1.25% of account value. 2 Your average account value during the year is $20,000, so you will pay $250 in mortality and expense risk charges that year. Example: Your variable annuity has a mortality and expense risk charge at an annual rate of 1.25% of account value. 2 Your average account value during the year is $20,000, so you will pay $250 in mortality and expense risk charges that year.
+subject_label:			3
+query_id:			1065558

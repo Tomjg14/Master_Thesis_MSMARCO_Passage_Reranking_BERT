@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5224795
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: 1 Sensory neuron(s) then transmit information from the sensory receptor(s) to the Central Nervous System (i.e. the brain and spinal cord, sometimes referred to in the abbreviated form: C.N.S.). 2 This is happens because peripheral nerves connect to the spinal cord via the network of nerves within the nervous system. (Stimuli is the plural form, referring to more than one stimulus.). 2 In this context, a stimulus is something that human sensory receptors are able to detect. 3 E.g. sounds, physical contact, tastes, visual sensation, etc..
+subject_label:			4
+query_id:			1091108

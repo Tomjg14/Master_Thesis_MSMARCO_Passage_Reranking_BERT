@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8556813
+query:			how tall is samus aran
+passage:			Passage: You can even dress Bayonetta up in five Nintendo-themed costumes-Princess Peach, Princess Daisy, Link, Fox McCloud, and Samus Aran. Bayonetta This is the prequel to the Bayonetta 2 game, and it's every bit as sassy, destructive, and epic as you'd expect.
+subject_label:			1
+query_id:			341317

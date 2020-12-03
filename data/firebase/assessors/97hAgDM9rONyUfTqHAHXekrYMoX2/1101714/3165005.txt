@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3165005
+query:			definition, nepotism
+passage:			Passage: Nepotism is defined as: patronage bestowed or favoritism shown on the basis of family relationship, as in business and politics.. Technically, the opposite of nepotism wouldâ¦ be anti-nepotism or an anti-nepotism policy..
+subject_label:			4
+query_id:			1101714

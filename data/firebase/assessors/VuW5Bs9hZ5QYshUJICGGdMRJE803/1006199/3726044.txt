@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3726044
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: Structural Biochemistry/Nucleic Acid/DNA/Franklin's DNA X-ray Crystallography. Although the discovery of the structure of DNA was attributed to Watson and Crick, a keynote player in helping them discover this structure was a scientist by the name of Rosalind Franklin. Rosalind Franklin, along with Francis Wilkins, worked on DNA applying X-ray crystallography to find out its structural properties.
+subject_label:			2
+query_id:			1006199

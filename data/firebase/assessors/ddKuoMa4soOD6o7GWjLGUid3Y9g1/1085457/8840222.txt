@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8840222
+query:			carnation® evaporated milk total calories
+passage:			Passage: no it is carnation evaporated milk which used to be known as sterilised cream. What are you making?
+subject_label:			1
+query_id:			1085457

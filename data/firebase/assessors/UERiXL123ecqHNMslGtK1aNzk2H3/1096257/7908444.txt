@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7908444
+query:			how much does a audit senior make
+passage:			Passage: Deloitte Audit Senior Salaries. The typical Deloitte Audit Senior salary is $70,135. Audit Senior salaries at Deloitte can range from $49,784-$103,090. This estimate is based upon 1,441 Deloitte Audit Senior salary reports provided by employees. See all Audit Senior salaries to learn how this stacks up in the market.
+subject_label:			4
+query_id:			1096257

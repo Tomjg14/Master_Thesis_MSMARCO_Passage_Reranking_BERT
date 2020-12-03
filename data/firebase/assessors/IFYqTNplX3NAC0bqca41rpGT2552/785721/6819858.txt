@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6819858
+query:			what is postulate in algebra
+passage:			Passage: Number Sense and Operation- 3 questions. Algebra- 19 questions. Geometry- 8 questions. Measurement- 3 questions. Statistics and Probability- 6 questions. Geometry. The geometry regents is completely different. Yes, it is algebra, but its more logic than anything else. You need to know your theorems and postulates to do well on the geometry regents.
+subject_label:			2
+query_id:			785721

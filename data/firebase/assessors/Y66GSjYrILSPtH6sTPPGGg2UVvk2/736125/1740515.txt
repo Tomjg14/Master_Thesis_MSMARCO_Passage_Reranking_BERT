@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1740515
+query:			what is crossfit?
+passage:			Passage: Katrin Tanja Davidsdottir. In 2016, four-time CrossFit Games veteran Katrin Tanja Davidsdottir did what only two other athletes have done in the history of the CrossFit Games: win the CrossFit Games twice (Annie Thorisdottir won the Games in 2011 and 2012, and Rich Froning held the menâs title from 2011-2014).
+subject_label:			1
+query_id:			736125

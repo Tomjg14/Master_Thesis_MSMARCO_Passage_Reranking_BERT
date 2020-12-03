@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6700713
+query:			who is the grinning man
+passage:			Passage: More results. 1 grin and bear it. 2 broad smile/grin. 3 toothy smile/grin. smile/grin 1 broadly. smile/grin etc from ear to 2 ear. wipe the smile/grin off somebodyâs face.
+subject_label:			2
+query_id:			1040461

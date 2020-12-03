@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8091220
+query:			how much is college in florida
+passage:			Passage: What's The Average High Temp in Florida? 79.6 Â°F: What's the Average Low in Florida? 53 Â°F: What's the Average Temperature in Florida? 66.3 Â°F: How Many Inches of Rain per year does Florida get ? 64.02 inches: How Many Rainy Days a year are there in Florida? N/A: How Much Sunshine each year is there in Florida (in hours)? N/A: How much, if any, snow falls each year in Florida? N/A
+subject_label:			1
+query_id:			1095876

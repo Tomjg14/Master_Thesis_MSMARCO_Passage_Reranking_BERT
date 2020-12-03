@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7123258
+query:			is education a constitutional right
+passage:			Passage: Article 6 of the Texas Constitution is labeled Suffrage and consists of six sections. This article denies voting rights to minors, felons and people who are deemed mentally incompetent by a court. Article 7: Education. Article 7 of the Texas Constitution is labeled Education and consists of 19 sections.
+subject_label:			3
+query_id:			409143

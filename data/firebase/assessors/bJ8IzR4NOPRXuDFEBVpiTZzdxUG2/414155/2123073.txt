@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2123073
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Having a high white blood cell count is not always a cause for concern. The normal range of WBC count differs in various laboratories; however, it usually ranges between 4,500 and 10,000 per mcL. During the 3rd trimester of pregnancy, the WBC count can be between 12,000 and 18,000 per mcL and is still considered normal. Given below is the normal range of high white blood cell count during pregnancy. 1st Trimester of Pregnancy: 5.7 to 13.6 x 109/L. 2nd Trimester of Pregnancy: 5.6 to 14.8 x 109/L.
+subject_label:			2
+query_id:			414155

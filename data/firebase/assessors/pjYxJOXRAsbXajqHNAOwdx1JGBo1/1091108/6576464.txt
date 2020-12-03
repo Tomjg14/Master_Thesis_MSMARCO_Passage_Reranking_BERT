@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6576464
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Processing primarily occurs in the primary somatosensory area in the parietal lobe of the cerebral cortex: information is sent from the receptors via sensory nerves, through tracts in the spinal cord and finally into the brain.n the periphery, the somatosensory system detects various stimuli by sensory receptors, e.g. by mechanoreceptors for tactile sensation and nociceptors for pain sensation. The sensory information (touch, pain, temperature etc.,) is then conveyed to the central nervous system by afferent neurons.
+subject_label:			5
+query_id:			1091108

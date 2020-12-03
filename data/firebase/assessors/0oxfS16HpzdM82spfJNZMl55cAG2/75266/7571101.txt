@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7571101
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Essentials Plus is a Starter License, it cannot be expanded, so therefore, Essentials Plus, contains licenses for the following:-. 3 x 2 CPU Licenses for VMware vSphere (ESXi) for Host Servers. 1 x License for VMware vCenter Server (management server for the above hosts).
+subject_label:			1
+query_id:			75266

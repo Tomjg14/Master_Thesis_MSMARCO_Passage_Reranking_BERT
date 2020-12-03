@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779919
+query:			who played fiddle for boxcar willie
+passage:			Passage: Singer Boxcar Willie Dies Of Leukemia At 67. BRANSON, Mo. - BoxCar Willie, whose gentle country voice and songs of life on the road evoked memories of a time when hobos watched America pass by from the door of a freight car, died yesterday of leukemia. He was 67. The singer died at home, surrounded by his family and close friends, family spokeswoman Chisai Childs said.
+subject_label:			1
+query_id:			1046648

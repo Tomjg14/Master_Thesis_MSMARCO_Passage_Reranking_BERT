@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2011443
+query:			does singing burn calories
+passage:			Passage: Definition of 'singe'. Word Frequency. singe (sÉªndÊ ) Word forms: 3rd person singular present tense singes , present participle singeing , past tense , past participle singed. verb. If you singe something or if it singes, it burns very slightly and changes colour but does not catch fire. The electric fire had begun to singe the bottoms of his trousers.
+subject_label:			1
+query_id:			171370

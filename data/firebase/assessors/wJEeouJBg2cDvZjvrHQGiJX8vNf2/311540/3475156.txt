@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3475156
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much does the average Katana or Samurai Sword weigh? Just wondering.... Source(s): average katana samurai sword weigh: https://trimurl.im/e14/how-much-does-the-average-katana-or-samurai-sword-weigh
+subject_label:			1
+query_id:			311540

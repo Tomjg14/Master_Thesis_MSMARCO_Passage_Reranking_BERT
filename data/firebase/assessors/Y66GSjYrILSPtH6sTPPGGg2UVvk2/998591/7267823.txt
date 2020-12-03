@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7267823
+query:			where is mathura
+passage:			Passage: Offerings are not allowed in the temple.After, drive to Mathura. Famed for being the birthplace of the much-loved Hindu god Krishna, Mathura is one of Hinduismâs seven sacred cities and attracts floods of pilgrims round the year. Visit the Shri Krishna Janambhoomi Temple, the birthplace of the ancient Hindu God Lord Krishna.
+subject_label:			1
+query_id:			998591

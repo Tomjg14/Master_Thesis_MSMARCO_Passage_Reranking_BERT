@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1848298
+query:			hydrocodone price per pill
+passage:			Passage: Dr. Alan Wartenberg Dr. Wartenberg. Ask a pharmacist: The 215 on a pill is likely to just be the manufacturer's code for that particular pill; it is not the dose. In general, oxycodone is about 50% more potent than hydrocodone. This means that a hydrocodone pill, in order to be the equivalent to an oxycodone 5 mg, will generally be at least 7.5 mg ...Read more.
+subject_label:			1
+query_id:			1094731

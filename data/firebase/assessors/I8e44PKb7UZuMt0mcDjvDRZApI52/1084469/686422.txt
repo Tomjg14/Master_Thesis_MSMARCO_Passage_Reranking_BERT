@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			686422
+query:			what does a grassroots organization mean
+passage:			Passage: Astroturfing means pretending to be a grassroots movement, when in reality the agenda and strategy are controlled by a hidden, non-grassroots organization. In this manner, a faux show is presented, consisting of robotic individuals pretending to be voicing their own opinions.
+subject_label:			3
+query_id:			1084469

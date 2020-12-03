@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7567209
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincoln and the American Civil War - definition of Abraham Lincoln and the American Civil War by The Free Dictionary. http://www.thefreedictionary.com/Abraham+Lincoln+and+the+American+Civil+War.
+subject_label:			2
+query_id:			117113

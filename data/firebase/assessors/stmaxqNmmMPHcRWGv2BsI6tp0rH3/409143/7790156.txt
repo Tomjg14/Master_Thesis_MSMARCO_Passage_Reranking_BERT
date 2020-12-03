@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7790156
+query:			is education a constitutional right
+passage:			Passage: Student Rights. Welcome to the Student Rights section of FindLaw's Education Law Center. As the U.S. Supreme Court once declared, students do not shed their constitutional rights when they enter the schoolhouse door.. Still, school administrators may sometimes legally restrict the rights of those within their schools, universities, and educational institutions.
+subject_label:			2
+query_id:			409143

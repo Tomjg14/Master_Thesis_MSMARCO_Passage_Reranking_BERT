@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2636615
+query:			is cortana smart???
+passage:			Passage: Cortana will be available to third party developers: unlike Siri, which is limited to Apple's own apps and a few Apple-anointed services, Cortana could potentially work with any of your apps. Microsoft demonstrated Cortana working in Skype, Hulu Plus and Facebook. That third-party support could be significant. Cortana could be a wine expert and a travel agent and a personal assistant and anything else you might need to make your everyday life a little bit easier. The vision is of Cortana as a smart, well-informed helper or friend. It'll be a few months before we discover if Microsoft can deliver on those promises.
+subject_label:			3
+query_id:			407274

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4334758
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: How Long Does It Take to Find Out Your Appeal Status for Social Security Benefits? With more than 53 million retired workers getting Social Security benefits in 2012, the Social Security Administration receives many applications each month. If youâre about to apply for retirement benefits, you can do so by visiting your local SSA office, or you can apply online, by phone or by filling out an application and mailing it in.
+subject_label:			2
+query_id:			257885

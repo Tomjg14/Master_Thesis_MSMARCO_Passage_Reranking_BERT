@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7894012
+query:			phone number for bc transit junction
+passage:			Passage: Bc Transit Vancouver Customer Service Phone Numbers. The Customer Service Phone Number of Bc Transit Vancouver is +1- 250-385-2551, Fax: +1-250-995-5639 (touch to call) If the contact information is incorrect, please let us know HERE.
+subject_label:			3
+query_id:			1091688

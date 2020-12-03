@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8298790
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: Updated February 05, 2017. Do you want to know how many calories you burn walking one mile, two miles, or more? How much does your walking speed matter? Use these charts and calculators to show how many calories you are burning on your walk, depending on your weight and pace for various distances from one mile to the marathon distance of 26.2 miles.
+subject_label:			1
+query_id:			1096932

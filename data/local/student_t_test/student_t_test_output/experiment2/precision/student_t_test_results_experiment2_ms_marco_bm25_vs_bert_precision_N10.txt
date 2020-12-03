@@ -1,0 +1,15 @@
+model1: bm25
+model2: bert
+dataset: ms_marco
+metric: precision@10
+alpha: 0.05
+
+t=-1.950, df=42, cv=1.682, p=0.0578138414
+
+interpret via critical value:
+t <= cv
+Reject the null hypothesis that the means are equal.
+
+interpret via p-value:
+p > alpha
+Accept null hypothesis that the means are equal.

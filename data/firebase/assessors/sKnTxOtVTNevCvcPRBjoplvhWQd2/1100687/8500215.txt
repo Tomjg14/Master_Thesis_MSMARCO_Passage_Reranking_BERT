@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8500215
+query:			apartment cost in phoenix az
+passage:			Passage: The cost of living is 36% lower in Phoenix, AZ. Housing costs 61% less in Phoenix, AZ hide details -.
+subject_label:			3
+query_id:			1100687

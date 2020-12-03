@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8202231
+query:			what company was skittles made by?
+passage:			Passage: By 1982 Skittles were being made domestically and we were all invited to âtaste the rainbow.â Skittles now come in many different flavors, including: Original; Tropical; Wild Berry; Crazy Cores; Sour Skittles; Did you know that if you buy Original Skittles in England, the purple Skittle is Black Currant flavor and not grape?
+subject_label:			2
+query_id:			1085796

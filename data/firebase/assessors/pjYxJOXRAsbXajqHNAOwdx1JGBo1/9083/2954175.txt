@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2954175
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: Though considered some of the greatest philosophers, Plato, Aristotle, and Socrates are not the Fathers of Philosophy. The father of philosophy is traditionally consider â¦ ed to be Thales (approximately 624 BCE-c. 546 BCE). Rene Descartes is considered the Father of Modern Philosophy.
+subject_label:			1
+query_id:			9083

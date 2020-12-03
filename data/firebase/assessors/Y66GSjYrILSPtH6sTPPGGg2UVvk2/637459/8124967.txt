@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8124967
+query:			what does fdg mean
+passage:			Passage: FDG Metabolic Brain study. What: A PET brain scan is used to either diagnose, stage, restage, or monitor therapy response to primary brain cancers or metastatic brain tumors. FDG PET/CT brain studies can also differentiate different types of dementia. Images are acquired of just the brain after the same uptake period used in all other PET exams.
+subject_label:			no_input
+query_id:			637459

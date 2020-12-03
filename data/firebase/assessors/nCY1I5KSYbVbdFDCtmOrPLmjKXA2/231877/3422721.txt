@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3422721
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Hamilton, Ontario, incorporated as a city in 1846, population 519,949 (2011c), 504,559 (2006c). The City of Hamilton is situated at the west end of Lake Ontario, on Burlington Bay, 68 km southwest of Toronto, and 66 km west of Niagara Falls and the American border.
+subject_label:			3
+query_id:			231877

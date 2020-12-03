@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779918
+query:			who played fiddle for boxcar willie
+passage:			Passage: He said he took the BoxCar Willie look and name after seeing a freight train pass him by one day in Lincoln, Neb., as he was stuck in traffic. And there was an old boy sitting on a boxcar, dressed the way I dress today, and he looked just like a buddy of mine named Willie Wilson, he told The Associated Press in 1997.
+subject_label:			1
+query_id:			1046648

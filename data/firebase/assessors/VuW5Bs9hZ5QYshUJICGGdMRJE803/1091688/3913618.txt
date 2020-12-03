@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3913618
+query:			phone number for bc transit junction
+passage:			Passage: Enter only information associated with the branch where you opened your CIBC account. Click the Search button and review the search results. Click the branch name's link. Look below the branch's address, phone numbers and fax information for the branch's transit number. It appears next to the Transit # heading.lick the Search button and review the search results. Click the branch name's link. Look below the branch's address, phone numbers and fax information for the branch's transit number. It appears next to the Transit # heading.
+subject_label:			1
+query_id:			1091688

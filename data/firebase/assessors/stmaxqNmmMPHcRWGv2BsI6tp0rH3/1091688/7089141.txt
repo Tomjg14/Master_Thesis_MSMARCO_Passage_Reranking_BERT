@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7089141
+query:			phone number for bc transit junction
+passage:			Passage: Vermont Judicial Bureau located in White River Junction, VT - address, phone numbers, fax numbers and other information.
+subject_label:			2
+query_id:			1091688

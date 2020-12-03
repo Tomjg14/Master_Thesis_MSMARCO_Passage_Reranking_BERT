@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7072003
+query:			circulation money definition
+passage:			Passage: circulation of money meaning, circulation of money definition | English Cobuild dictionary. circulate. 1 verb If a piece of writing circulates or is circulated, copies of it are passed round among a group of people.
+subject_label:			no_input
+query_id:			92542

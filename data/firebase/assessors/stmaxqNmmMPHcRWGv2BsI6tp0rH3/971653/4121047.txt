@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4121047
+query:			where do the ash borer come from
+passage:			Passage: The CFIA is now focusing all its efforts related to the emerald ash borer towards surveillance, enforcement, and public awareness to prevent further spread of the pest. When the emerald ash borer was first detected in Canada, the CFIA included tree removal as one control measure. The CFIA has since decided to eliminate tree removal as a management option for the emerald ash borer because, from a national perspective, ash tree removal is not an effective way to prevent this pest from spreading to non-infested areas.
+subject_label:			4
+query_id:			971653

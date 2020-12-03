@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6160228
+query:			which situation does a company issue a note receivable
+passage:			Passage: Notes. At the end of the annual report are notes on the financial statements by the auditor. These notes contain any comments the auditor feels are necessary to understand the company's situation. Common notes deal with how the company depreciates assets, how it books revenue, and how it calculates profit.inances. The financial section of the annual report gives an objective portrait of the company's situation. The balance sheet and statement of assets and liabilities shows what the company owns and what loans are outstanding.
+subject_label:			no_input
+query_id:			993153

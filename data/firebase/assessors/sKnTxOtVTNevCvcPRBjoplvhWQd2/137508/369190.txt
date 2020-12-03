@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			369190
+query:			definition of purse
+passage:			Passage: If this is accurate, then the Filipino boxer will see his earnings increase to a whopping $425 million. A portion of his purse from his battle with Mayweather tomorrow will actually be given to Pacquiao regardless of the number of viewers that will pay $89.95 (standard definition) and $99.95 (high definition).
+subject_label:			1
+query_id:			137508

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7519784
+query:			how much does a audit senior make
+passage:			Passage: How much does a Audit Manager make? The national average salary for a Audit Manager is $96,416 in United States. Filter by location to see Audit Manager salaries in your area. Salary estimates are based on 4,776 salaries submitted anonymously to Glassdoor by Audit Manager employees. Salaries for Related Job Titles
+subject_label:			4
+query_id:			1096257

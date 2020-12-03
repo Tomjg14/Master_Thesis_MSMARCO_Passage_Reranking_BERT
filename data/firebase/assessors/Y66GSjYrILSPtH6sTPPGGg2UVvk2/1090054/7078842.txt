@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7078842
+query:			temperature diode
+passage:			Passage: 5. Diode Temperature Sensors . The ordinary semiconductor diode may be used as a temperature sensor. Cheap and nasty! The diode is the lowest cost temperature sensor and can produce more than satisfactory results if you are prepared to undertake a two point calibration and provide a stable excitation current. Almost any silicon diode is ok.
+subject_label:			4
+query_id:			1090054

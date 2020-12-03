@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7460520
+query:			what is impact ratio analysis
+passage:			Passage: WHAT IS RATIO ANALYSIS. Ratio analysis is the application of ratios in comparing similar variables. Ratio analysis is the process of systematically manipulating figures from the fiancial statements of a company to produce information that are used as part of investment decision making process.
+subject_label:			5
+query_id:			757644

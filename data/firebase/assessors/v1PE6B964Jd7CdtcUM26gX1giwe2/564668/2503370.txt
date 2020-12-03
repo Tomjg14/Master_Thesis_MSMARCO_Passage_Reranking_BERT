@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2503370
+query:			what are sensitive periods for brain development
+passage:			Passage: There appear to be critical periods for speech and language development in infants and young children when the brain is best able to absorb language. If these critical periods are allowed to pass without exposure to language, it will be more difficult to learn. What are the milestones for speech and language development?
+subject_label:			4
+query_id:			564668

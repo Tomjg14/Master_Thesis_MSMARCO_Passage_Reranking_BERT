@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7735846
+query:			is the sec constitutional
+passage:			Passage: Role of the U.S. Constitution. 1 Example of a federal government authority specified in the U.S. Constitution. 2 To regulate commerce ... among the ... states. U.S. Const. Art. 1, Sec. 8; for example, this statement empowers the U.S. federal government to regulate food that is in interstate commerce.
+subject_label:			4
+query_id:			427323

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1467380
+query:			molar mass of phenol
+passage:			Passage: For an element, what is the relationship between atomic mass and molar mass? molar mass is the value of atomic mass with units How do you determine the molar mass of a compound?
+subject_label:			4
+query_id:			455456

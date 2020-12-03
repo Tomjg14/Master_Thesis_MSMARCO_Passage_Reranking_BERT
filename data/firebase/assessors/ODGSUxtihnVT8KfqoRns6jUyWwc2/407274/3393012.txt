@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3393012
+query:			is cortana smart???
+passage:			Passage: Cortana is not all business either and like Siri she has a bit of an attitude with personal interaction that makes Cortana enjoyable to use. You can perform all of the traditional functions with Cortana, such as make phone calls, text people, add appointments, take notes, play music, get directions, check the weather, and much more. In addition there is location, time, and person awareness for reminders. As you can see, Cortana is quite smart and the more you use her the better she gets.
+subject_label:			5
+query_id:			407274

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2580934
+query:			how big is a micron
+passage:			Passage: A typical human cell might be one-tenth of the diameter of your hair (10 microns). Look down at your little toe -- it might represent 2 or 3 billion cells or so, depending on how big you are. Imagine a whole house filled with baby peas. If the house is your little toe, the peas are the cells.
+subject_label:			3
+query_id:			208822

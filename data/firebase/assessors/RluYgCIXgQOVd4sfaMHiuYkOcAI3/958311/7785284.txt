@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7785284
+query:			when was jim vance funeral
+passage:			Passage: You can enhance Jim Vance's memory by upgrading Jim's public record with words and pictures, signing Jim's memory book, recording an audio memory or lighting a candle. The information in this obituary is based on data from the US Government's Social Security Death Index. No further information is available.
+subject_label:			1
+query_id:			958311

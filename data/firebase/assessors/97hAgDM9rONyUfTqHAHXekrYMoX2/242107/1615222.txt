@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1615222
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: Question on how long you can keep cooked meat in refrigerator. Hi, I had a question about the length of time you can keep cooked meat in the refrigerator. I thought it was 3-4 days at most. As you can see, the sell by date is actually 5 days after the day they cooked it.
+subject_label:			4
+query_id:			242107

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8495506
+query:			what is process improvement (lean six sigma)
+passage:			Passage: What type of work experience do you need for the Lean Six Sigma Green Belt and Lean Six Sigma Black Belt? There is no specific work experience or number of years required to take the Lean Six Sigma Green Belt or Lean Six Sigma Black Belt Programs. Six Sigma methodologies strive to eliminate defects in processes that lead to customer dissatisfaction.
+subject_label:			1
+query_id:			786937

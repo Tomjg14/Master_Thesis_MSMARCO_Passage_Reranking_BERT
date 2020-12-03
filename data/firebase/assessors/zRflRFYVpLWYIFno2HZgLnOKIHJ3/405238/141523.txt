@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			141523
+query:			is callahan an irish name
+passage:			Passage: Callahan County was formed by the Texas legislature in 1858 from Bexar, Bosque, and Travis counties and named for James Hughes Callahan, a survivor of the Goliad Massacre and leader of the Callahan expedition.
+subject_label:			1
+query_id:			405238

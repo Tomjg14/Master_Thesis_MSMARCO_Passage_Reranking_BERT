@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5820166
+query:			average money market interest rates
+passage:			Passage: Both the interest rates of the interbank money market and the retail lending and deposit rates will be made available in the interest rates and yields area.In addition, data on the current yields of domestic issuers' debt securities and on the yield curve in the German bond market will be presented.oth the interest rates of the interbank money market and the retail lending and deposit rates will be made available in the interest rates and yields area.
+subject_label:			3
+query_id:			38946

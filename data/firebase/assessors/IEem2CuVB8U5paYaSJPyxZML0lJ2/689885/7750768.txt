@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7750768
+query:			what is a malanga
+passage:			Passage: Fiction. Donald Barthelme Mouth; Michael Brownstein The Plot to Save the World; Evan S. Connell The Scriptwriter; John Deck One Sunday in Spain; Harry Mathews The Bratislava Spiccato; Joy Williams Dimmer; Interview. John Steinbeck The Art of Fiction No. 45; E. B. White The Art of the Essay No. 1; Poetry. Ted Berrigan Two Poems; Jim Carroll Heroin; Jim Carroll The Birth and Death of the Sun; Tom Clark Three Poems; Scott Cohen Loneliness; Jim Dine Four Poems; Bruce F. Kawin Five Weeks of Poems to Marilyn; John Koethe Copley Square; Gerard Malanga Two Poems; Ron Padgett Crazy Otto; Anne Waldman
+subject_label:			1
+query_id:			689885

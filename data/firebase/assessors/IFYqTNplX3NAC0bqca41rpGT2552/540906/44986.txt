@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			44986
+query:			was the great wall of china breached
+passage:			Passage: Why was the Great Wall of China bulit? The Great Wall of China was built to protect China from its enemies and invaders from the North, especially the Mongols. The Mongols were a tribal group that would regularly conduct raids into China. Despite the wall, the Mongols eventually conquered China. The Wall also kept Chinese citizens from leaving China.
+subject_label:			1
+query_id:			540906

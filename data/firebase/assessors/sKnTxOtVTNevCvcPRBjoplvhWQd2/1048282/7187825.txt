@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187825
+query:			what is pivx
+passage:			Passage: PIVX also has an upper-hand over DASH in providing a better anonymity feature as PIVX has now become the only POS currency out there to implement the Zerocoin protocol. I think this is a lot better alternative to conjoin or mixing services.
+subject_label:			2
+query_id:			1048282

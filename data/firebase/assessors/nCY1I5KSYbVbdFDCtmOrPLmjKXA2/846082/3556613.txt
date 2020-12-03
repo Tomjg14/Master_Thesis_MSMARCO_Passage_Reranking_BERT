@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3556613
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Cavaliers vs. Warriors final score, 2015 NBA Finals: 3 things we learned as LeBron James carried Cleveland to victory. The Finals are all tied up after a stunning Cleveland win in Game 2. The Cleveland Cavaliers have tied up the 2015 NBA Finals with a stunning 95-93 overtime win over the Golden State Warriors in Game 2 on Sunday night at Oracle Arena.
+subject_label:			2
+query_id:			846082

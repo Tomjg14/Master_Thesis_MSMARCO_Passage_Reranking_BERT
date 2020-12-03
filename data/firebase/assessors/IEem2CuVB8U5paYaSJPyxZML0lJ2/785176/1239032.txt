@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1239032
+query:			what is polydextrose made from
+passage:			Passage: Inulin is a type of soluble fiber. Soluble fiber absorbs water and slows the rate that food moves through the digestive system. Other types of fiber added to commercial yogurt may include synthetic compounds like polydextrose or maltodextrin and fiber extracted from sorghum, soy hulls or oats.
+subject_label:			1
+query_id:			785176

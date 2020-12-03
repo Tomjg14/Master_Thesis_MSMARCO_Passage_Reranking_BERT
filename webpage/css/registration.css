@@ -1,0 +1,20 @@
+.start-template h1 {
+	text-align: center;
+}
+
+#contact-form {
+	margin-top: 0%;
+}
+
+#btn {
+	display: block;
+	margin-top: 15px;
+}
+
+label {
+	margin-right: 5px;
+}
+
+.custom-button {
+	width: 150px !important;
+}

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			757940
+query:			when did rosalind franklin take x ray pictures of dna
+passage:			Passage: Rosalind Franklin in DNA Rosalind Franklin used crystallography to make an x-ray image of the structure of DNA that led to the discovery of the double-helix by Watson and Cric â¦ k.osalind Franklin helped Watson and Crick view DNA by the use of x-rays. Her x-rays helped Watson and Crick build a model of a DNA molecule made out of tin that helped scienti â¦ st better understand the structure of DNA. 6 people found this useful.
+subject_label:			3
+query_id:			1006199

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6697212
+query:			how could the courts check the bureaucracy
+passage:			Passage: Through its power of oversight, Congress also monitors the federal bureaucracy to make sure that it acts properly. The courts sometimes get involved in the bureaucracy when issues of law and constitutionality arise, such as when a civil service regulation is violated or if an agency oversteps its jurisdiction.
+subject_label:			2
+query_id:			212195

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5569283
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: how many mlb teams have won 100 games and the world series in same year through the 2008 season 33 teams have won 100 games in the regular season and gone on to win the world series the same year but in the last 30 years it has happened only 3 times
+subject_label:			1
+query_id:			198807

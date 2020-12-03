@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7520610
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Associate make in Chandler, AZ? The average salary for a Senior Associate is $66,287 in Chandler, AZ. Salaries estimates based on 317 salaries submitted anonymously to Glassdoor by Senior Associate employees in Chandler, AZ. *Estimated Range
+subject_label:			1
+query_id:			1096257

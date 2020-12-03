@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669137
+query:			how tall is samus aran
+passage:			Passage: Samus Aran. Samus Aran (ãµã ã¹ã»ã¢ã©ã³, Samus Aran) is the protagonist of the Metroid series. Samus is the galaxy's most famous bounty hunter, constantly helping the Galactic Federation in their fight against the Space Pirates. She has appeared in all Super Smash Bros. games to date.
+subject_label:			3
+query_id:			341317

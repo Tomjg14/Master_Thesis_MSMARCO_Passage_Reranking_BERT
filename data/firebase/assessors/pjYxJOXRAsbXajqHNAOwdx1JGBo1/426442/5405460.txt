@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5405460
+query:			is the hawb the tracking number
+passage:			Passage: What is HAWB and how House airway bill works? When a shipper books cargo with a freight forwarder by air, he issues a document of reciept of goods from shipper which is called House airway Bill. In turn, the freight forwarder books same cargo with main airline carrier and he obtains MAWB under the said shipment.
+subject_label:			3
+query_id:			426442

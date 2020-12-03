@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088661
+query:			vainglory meaning
+passage:			Passage: Historical Examples. 1 I can say with a clear conscience, without any vainglory, that I had no fears for myself. 2 In performing their funerals, they show no state or vainglory. 3 What you tell me will confound the vainglory of our modern sceptics. 4 This was the moment of triumph and vainglory to the coachman.
+subject_label:			4
+query_id:			1089051

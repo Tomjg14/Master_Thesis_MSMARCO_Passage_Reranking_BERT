@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8380369
+query:			is cortana smart???
+passage:			Passage: The Bottom Line If you're a fan of Cortana, Windows 10 or Microsoft in general, Harman Kardon's Invoke is an exciting new smart speaker with quality sound and most of the expected smart speaker tricks.
+subject_label:			4
+query_id:			407274

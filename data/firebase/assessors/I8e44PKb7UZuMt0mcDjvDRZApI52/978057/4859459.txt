@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4859459
+query:			where is berrimah
+passage:			Passage: Where is Greenville AL: Where is Grove Hill town AL: Where is Guin AL: Where is Gulf Shores AL: Where is Guntersville AL: Where is Hackleburg town AL: Where is Haleyville AL: Where is Hamilton AL: Where is Hanceville AL: Where is Harpersville town AL: Where is Hartford AL: Where is Hartselle AL: Where is Harvest AL: Where is Hayneville town AL: Where is Hazel Green AL
+subject_label:			1
+query_id:			978057

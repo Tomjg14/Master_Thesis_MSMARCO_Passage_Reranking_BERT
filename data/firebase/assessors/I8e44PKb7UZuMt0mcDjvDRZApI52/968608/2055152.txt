@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2055152
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Edison's great success at the Menlo Park Laboratory made it a model for others. Alexander Graham Bell was influenced by what he called Edison's âcelebrated laboratory at Menlo Parkâ when he set up his own Volta Laboratory in Washington, D.C. in 1881 22.
+subject_label:			2
+query_id:			968608

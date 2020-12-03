@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7267822
+query:			where is mathura
+passage:			Passage: The city of Mathura is located in the western part of the state of Uttar Pradesh, in the north of India. It is a part of the great northern plains and is situated on the west bank of the river Yamuna. Mathura is 140 km south of Delhi and 60 km northwest of Agra. The climate of Mathura is extreme and tropical. Summers are extremely hot and winters are cold and foggy.
+subject_label:			5
+query_id:			998591

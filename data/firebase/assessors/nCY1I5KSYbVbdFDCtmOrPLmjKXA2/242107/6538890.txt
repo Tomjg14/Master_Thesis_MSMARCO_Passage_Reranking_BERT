@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6538890
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: How long do raw Italian sausages last after being frozen and thawed? Italian sausages that have been defrosted in the fridge can be kept for an additional 1 to 2 days in the refrigerator before cooking; Italian sausages that were thawed in the microwave or in cold water should be cooked immediately.
+subject_label:			2
+query_id:			242107

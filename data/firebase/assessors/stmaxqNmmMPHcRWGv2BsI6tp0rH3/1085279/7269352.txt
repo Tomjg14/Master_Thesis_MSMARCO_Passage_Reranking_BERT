@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7269352
+query:			what county is stacy minnesota
+passage:			Passage: Driving distance from Stacy, MN to Minneapolis, MN The total driving distance from Stacy, MN to Minneapolis, MN is 38 miles or 61 kilometers. Your trip begins in Stacy, Minnesota.
+subject_label:			3
+query_id:			1085279

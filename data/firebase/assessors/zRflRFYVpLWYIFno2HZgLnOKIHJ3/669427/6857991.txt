@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6857991
+query:			what hormone secretion causes goiter
+passage:			Passage: However, TSI also stimulates the thyroid to make too much thyroid hormone (causes hyperthyroidism). Since the pituitary senses too much thyroid hormone, it stops secreting TSH. In spite of this the thyroid gland continues to grow and make thyroid hormone. Therefore, Gravesâ disease produces a goiter and hyperthyroidism. goiter can occur in a gland that is producing too much hormone (hyperthyroidism), too little hormone (hypothyroidism), or the correct amount of hormone (euthyroidism). A goiter indicates there is a condition present which is causing the thyroid to grow abnormally.
+subject_label:			4
+query_id:			669427

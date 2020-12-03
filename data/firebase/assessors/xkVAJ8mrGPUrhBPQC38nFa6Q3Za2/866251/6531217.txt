@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6531217
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Wild Animal Adventures: Denmark's Best Zoos and Wildlife Parks. Walk on the wild side in zoos, wildlife and safari parks across Denmark. You can get up close to some of your favourite exotic animals at a number of big, wild animal destinations, such as Knuthenborg Safari Park and Aalborg Zoo. See Siku, Denmark's adorable polar bear cub or wonder at the new elephant house at Copenhagen Zoo.
+subject_label:			1
+query_id:			866251

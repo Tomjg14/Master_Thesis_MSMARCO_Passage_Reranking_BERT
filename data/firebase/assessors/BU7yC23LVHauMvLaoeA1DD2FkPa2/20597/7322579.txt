@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7322579
+query:			architectural design
+passage:			Passage: Architectural design values. Architectural design values make up an important part of what influences architects and designers when they make their design decisions. However, architects and designers are not always influenced by the same values and intentions. Value and intentions differ between different architectural movements.
+subject_label:			3
+query_id:			20597

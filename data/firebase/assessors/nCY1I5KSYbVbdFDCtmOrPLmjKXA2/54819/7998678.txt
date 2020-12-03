@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7998678
+query:			blue sky charge controller price
+passage:			Passage: Blue Sky Energy Charge Controllers. Blue Sky Energy Charge Controllers in stock and at the lowest price. Blue Sky Energy products are used worldwide to provide power in battery based or off-grid systems. Their charge controllers are available with or without digital display and optional remote display.
+subject_label:			2
+query_id:			54819

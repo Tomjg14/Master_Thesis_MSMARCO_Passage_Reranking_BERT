@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2534907
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Champion Cavs drink it all in after lifting Cleveland's title drought. NBA Finals 2016: Cavaliers vs. Warriors Game 7 TV Schedule, Odds and Predi... What happened the last time Cleveland won a major sports championship. Cleveland Cavaliers vs. Atlanta Hawks: Game 4 score, updates, TV channel,...
+subject_label:			2
+query_id:			846082

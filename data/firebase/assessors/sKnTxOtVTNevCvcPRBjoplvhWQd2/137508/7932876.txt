@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7932876
+query:			definition of purse
+passage:			Passage: Define pursed-lip breathing. pursed-lip breathing synonyms, pursed-lip breathing pronunciation, pursed-lip breathing translation, English dictionary definition of pursed-lip breathing. n. 1. a. The act or process of respiration. b. A single breath. 2. The time required to take one's breath. 3. a. Either of two marks, the rough breathing...
+subject_label:			3
+query_id:			137508

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			154620
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Heat rash occurs when the skin's sweat glands are blocked and the sweat produced cannot get to the surface of the skin to evaporate. This causes inflammation that results in a rash. Common symptoms of heat rash include red bumps on the skin, and a prickly or itchy feeling to the skin (also known as prickly heat). The rash appears as reddened skin with tiny blisters and is due to inflammation. It often occurs in skin creases or areas of tight clothing where air cannot circulate.
+subject_label:			5
+query_id:			1086248

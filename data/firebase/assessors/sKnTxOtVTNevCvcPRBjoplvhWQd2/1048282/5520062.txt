@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5520062
+query:			what is pivx
+passage:			Passage: PIVX Price Prediction, Analysis and Forecast 2017 2022 News, information, and discussions about cryptocurrencies, blockchains, technology, and events. Formed in May of 2013, Cryptocurrencytalk.com is your source for advice on what to mine, technical details, new launch announcements, and advice from trusted members of the community.
+subject_label:			2
+query_id:			1048282

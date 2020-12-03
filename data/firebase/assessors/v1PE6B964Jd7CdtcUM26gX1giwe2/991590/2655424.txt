@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2655424
+query:			where is ridgewood ny located
+passage:			Passage: The 347 Area Code (or Area Code 347) is located in the state of NY. Area Code 347 is one of the 269 3-digit telephone area codes in the USA. It covers roughly 1812 unique phone numbers and 2612 individuals near the city of Brooklyn.ocation & Map. Most numbers within Area Code 347 are located in the following cities: Brooklyn, Bronx, Staten Island, Saint Albans, Far Rockaway, Woodside, South Richmond Hill, Bayside, Flushing, Yonkers, Ridgewood.
+subject_label:			1
+query_id:			991590

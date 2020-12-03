@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5557295
+query:			what is polydextrose made from
+passage:			Passage: It can appear in product ingredient lists as soluble corn fiber, corn syrup, or corn syrup solids.3. Polydextrose. Polydextrose is a polysaccharide thatâs synthesized from glucose and sorbitol, a sugar alcohol made from corn syrup but also found in apples, pears, peaches, and prunes.
+subject_label:			no_input
+query_id:			785176

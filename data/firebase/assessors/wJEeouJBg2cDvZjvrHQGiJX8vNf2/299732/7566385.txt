@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7566385
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: 5 weeks day ultrasound gestational sac and yolk but no baby? I had an ultrasound done yesterday and they placed me at 5 weeks 4 days pregnant. All that was seen on the ultrasound was a gestational and yolk sack., My HCG levels also came back appropriate for 5 and half weeks (she didn't tell me the number though). The doctor didn't seem too worried but i sure am!! i go back for another ultrasound in 11 days ahhhhh... Posted: 03/09/2012 by jbrown92184.
+subject_label:			2
+query_id:			299732

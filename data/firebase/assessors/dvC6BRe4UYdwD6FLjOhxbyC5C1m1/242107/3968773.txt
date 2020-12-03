@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3968773
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: If you are wondering how long can you keep cooked sausage in the refrigerator, you've come to the right place. Cooked sausage can be kept in the refrigerator longer than raw sausage, so it is best to go ahead and cook it. According to the U.S. Department of Agriculture, fresh uncooked sausage can be kept in the refrigerator only one to two days although it can be kept in the freezer for one to two months. Once cooked, they recommend being able to keep it in the refrigerator for only three to four days (or two to three months in the freezer).
+subject_label:			5
+query_id:			242107

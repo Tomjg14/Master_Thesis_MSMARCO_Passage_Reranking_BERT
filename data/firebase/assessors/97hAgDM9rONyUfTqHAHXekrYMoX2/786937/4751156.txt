@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4751156
+query:			what is process improvement (lean six sigma)
+passage:			Passage: The Black Belt is the heart of the Lean Six Sigma operation. As a Black Belt, you can lead any team across the organization in executing process improvement projects. You may also conduct Lean Six Sigma training and act as coaches and mentors to other Belts-in-training. If your goal is to master this skill set and improve your value as an employee, then you should earn your Lean Six Sigma Black Belt. Certification - the recognition that you have both studied and successfully practiced the application of process improvement - is a more formal step in the process.
+subject_label:			2
+query_id:			786937

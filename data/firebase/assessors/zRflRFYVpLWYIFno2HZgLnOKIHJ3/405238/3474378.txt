@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3474378
+query:			is callahan an irish name
+passage:			Passage: Callahan Family Name. An Irish surname, Callahan is from the Gaeic term âceallachâ which means rivalry and strife. Another form âceallâ means someone smart, with a bright head. Variations in spelling for Callahan include Ceilahan, Callaghan, Callihan, Callachan, Kallahan, Calahan, OâCallahan, O;Kallaghan, Kelagan and Callighan.
+subject_label:			5
+query_id:			405238

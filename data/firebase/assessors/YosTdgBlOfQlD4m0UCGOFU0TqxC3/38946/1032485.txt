@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1032485
+query:			average money market interest rates
+passage:			Passage: Typically based on a particular money market rate or the average interest rate in a particular trading market, different index rates are used for each type of loan. In the United States, for example, the prime rate is the most common factor used to determine interest rates for variable rate loans.
+subject_label:			3
+query_id:			38946

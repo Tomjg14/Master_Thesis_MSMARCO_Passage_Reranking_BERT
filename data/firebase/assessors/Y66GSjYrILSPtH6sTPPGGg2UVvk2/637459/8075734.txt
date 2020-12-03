@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8075734
+query:			what does fdg mean
+passage:			Passage: (d, e) Axial FDG PET images (shown from superior [top left] to inferior [bottom right]) (d) and a coronal FDG PET image (e) show isolated urinary FDG activity in a small extrarenal pelvis (arrows). This finding could be misinterpreted as FDG-avid paraaortic or renal hilar lymph nodes if the relationship to the kidney is not clearly demonstrated.
+subject_label:			3
+query_id:			637459

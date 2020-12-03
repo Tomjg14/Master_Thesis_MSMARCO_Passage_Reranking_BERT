@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7133663
+query:			what does extravert mean
+passage:			Passage: An Extravert is somebody who does not get stressed or shy when confronted with talking to strangers. They are usually easy-going consequently they are frequently good speakers. The Extravert in a group will be the very first individual introduce himself to a small grouping of strangers. by Nickolas Yutzy Report definition Related Sources
+subject_label:			no_input
+query_id:			1083852

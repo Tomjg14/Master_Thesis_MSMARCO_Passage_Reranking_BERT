@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8279106
+query:			vainglory meaning
+passage:			Passage: conceit. 1. A regarding of oneself with undue favor: amour-propre, ego, egoism, egotism, narcissism, pride, vainglory, vainness, vanity.
+subject_label:			3
+query_id:			1089051

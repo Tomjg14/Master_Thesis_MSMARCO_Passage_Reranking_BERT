@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			150018
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Prickly heat (heat rash), also known as miliaria, is an itchy rash of small, raised red spots that causes a stinging or prickly sensation on the skin. It occurs when the sweat ducts in the outer layer of skin (epidermis) are obstructed.
+subject_label:			3
+query_id:			1086248

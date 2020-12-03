@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8300321
+query:			what does extravert mean
+passage:			Passage: An extravert's flow is directed outward toward people and objects, whereas the introvert's is directed inward toward concepts and ideas. 1 Contrasting characteristics between extraverted and introverted people include the following: 2 Extraverted are action-oriented, while introverted are thought-oriented.
+subject_label:			5
+query_id:			1083852

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2496466
+query:			what is a variable account in a annuity
+passage:			Passage: High interest fixed annuities are a refuge from the uncertainties of the equity market because their rate of return is guaranteed, and often beats CDs and money market accounts. When looking for high interest annuities, expect to examine not only fixed annuities, but also variable and equity-indexed annuity products.
+subject_label:			1
+query_id:			1065558

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5419369
+query:			molar mass of phenol
+passage:			Passage: Novolacs are phenol-formaldehyde resins with a formaldehyde to phenol molar ratio of less than one. The polymerization is brought to completion using acid-catalysis such as oxalic acid, hydrochloric acid or sulfonate acids.The phenol units are mainly linked by methylene and/or ether groups.ovolacs are phenol-formaldehyde resins with a formaldehyde to phenol molar ratio of less than one. The polymerization is brought to completion using acid-catalysis such as oxalic acid, hydrochloric acid or sulfonate acids.
+subject_label:			5
+query_id:			455456

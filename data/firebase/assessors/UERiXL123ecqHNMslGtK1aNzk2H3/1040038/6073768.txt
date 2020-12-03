@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6073768
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: The phosphate ion is a polyatomic ion with the empirical formula PO 4 3â and a molar mass of 94.97 g/mol. It consists of one central phosphorus atom surrounded by four oxygen atoms in a tetrahedral arrangement.
+subject_label:			1
+query_id:			1040038

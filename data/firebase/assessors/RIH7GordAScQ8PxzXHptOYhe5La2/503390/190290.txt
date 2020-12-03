@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			190290
+query:			statute of limitations definition
+passage:			Passage: Where it is precisely defined, as in a statute, that definition strictly controls any decision about whether a certain event covered by that statute was in fact an accident. In its most limited sense, the word accident is used only for events that occur without the intervention of a human being.
+subject_label:			1
+query_id:			503390

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192871
+query:			what is ssc je
+passage:			Passage: Based on the cutoff score, candidates have been shortlisted for Paper 2. The SSC JE cutoff Paper 1 is provided on this page. The SSC JE cutoff 2017 is applied at each of selection process. Candidates will have to secure the cutoff to become eligible for next stage of selection process.
+subject_label:			3
+query_id:			1045826

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7162884
+query:			what is a variable account in a annuity
+passage:			Passage: What is a 'Variable Annuity' A variable annuity is a type of annuity contract that allows for the accumulation of capital on a tax-deferred basis. As opposed to a fixed annuity that offers a guaranteed interest rate and a minimum payment at annuitization, variable annuities offer investors the opportunity to generate higher rates of returns by investing in equity and bond subaccounts.
+subject_label:			3
+query_id:			1065558

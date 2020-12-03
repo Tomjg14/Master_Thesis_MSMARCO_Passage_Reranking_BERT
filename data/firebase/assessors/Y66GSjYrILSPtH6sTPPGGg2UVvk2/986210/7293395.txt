@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7293395
+query:			who was the basket of apples by
+passage:			Passage: The Basket of Apples The Basket of Apples is an oil painting produced in 1895 by French painter Paul Cezanne. This painting by Paul Cezanne was noticed widely for its disjoint perspectives. The Basket of Apples due to its unbalanced parts was regarded as a balanced composition. Many unbalanced parts include the titled bottle, cookies shortened lines, inclined basket and the right side of the painting containing the table cloth does not matches with the same plane as the left side giving a view that there are two different viewpoints.
+subject_label:			5
+query_id:			986210

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7473030
+query:			where do the ash borer come from
+passage:			Passage: An exotic pest called the emerald ash borer has wreaked havoc on ash trees in Michigan. We don't want that kind of excitement here in Illinois, so we have asked homeowners to keep a look out. Check with your local U of I Extension office for information on emerald ash borer or www.na.fs.fed.us/spfo/eab.To complicate matters ash trees already suffer from other problems here in Illinois.e don't want that kind of excitement here in Illinois, so we have asked homeowners to keep a look out. Check with your local U of I Extension office for information on emerald ash borer or www.na.fs.fed.us/spfo/eab. To complicate matters ash trees already suffer from other problems here in Illinois.
+subject_label:			no_input
+query_id:			971653

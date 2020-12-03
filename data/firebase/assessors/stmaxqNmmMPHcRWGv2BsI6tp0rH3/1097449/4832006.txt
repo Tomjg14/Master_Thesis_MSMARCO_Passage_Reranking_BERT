@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4832006
+query:			how many calories in provolone cheese
+passage:			Passage: Calories per Ingredient. Here are the foods from our food nutrition database that were used for the nutrition calculations of this recipe. Calories per serving of Grilled cheese with provolone. 132 calories of White Bread, (2 slice) 100 calories of Provolone Cheese, (1 slice (1 oz)) 79 calories of American Cheese, (1 slice (3/4 oz))
+subject_label:			4
+query_id:			1097449

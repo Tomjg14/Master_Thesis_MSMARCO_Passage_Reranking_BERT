@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4048967
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Because of the quality, Chick-fil-A prices are higher than an average fast food restaurant. Their menu includes chicken sandwiches, chicken nuggets, chick-n-strips, sides, salads, and breakfast meals. Unlike most fast food restaurants, Chick-fil-A focuses on real white meat chicken.
+subject_label:			2
+query_id:			904389

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7677230
+query:			neonatal hemochromatosis causes
+passage:			Passage: Research the causes of these diseases that are similar to, or related to, Neonatal hemochromatosis: 1 Neonatal iron storage disease. 2 Neonatal iron storage disorder. 3 Perinatal hemochromatosis fulminant. Hepatic failure in 1 utero. Hepatic iron disease. HFE 1 disease. more related diseases...Â».
+subject_label:			4
+query_id:			463230

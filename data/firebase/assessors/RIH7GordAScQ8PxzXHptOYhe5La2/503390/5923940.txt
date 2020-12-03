@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5923940
+query:			statute of limitations definition
+passage:			Passage: Definition of statutory. 1 1 : of or relating to statutes. 2 2 : enacted, created, or regulated by statute a statutory age limit.
+subject_label:			1
+query_id:			503390

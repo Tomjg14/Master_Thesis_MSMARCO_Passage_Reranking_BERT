@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			348327
+query:			definition of purse
+passage:			Passage: Definition of bag. 1 1 : a usually flexible container that may be closed for holding, storing, or carrying something: such asa : purse; especially : handbagb : a bag for gamec : suitcase.
+subject_label:			3
+query_id:			137508

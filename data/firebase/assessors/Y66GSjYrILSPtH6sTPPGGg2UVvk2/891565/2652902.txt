@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2652902
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Oroville is situated at the head of navigation on the Feather River. The Yuba River flows into the Feather River near Marysville, California and these flow together to the Sacramento River.
+subject_label:			1
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7825371
+query:			where was the mediterranean gecko introduced
+passage:			Passage: In Texas, Mediterranean Geckos occur around homes and other buildings in Texas. They are widespread across the Galveston-Houston region. The Mediterranean gecko is an introduced species; it is native to Southern Europe and Northern Africa. Geckos have adapted well to living in and around homes.
+subject_label:			3
+query_id:			1003875

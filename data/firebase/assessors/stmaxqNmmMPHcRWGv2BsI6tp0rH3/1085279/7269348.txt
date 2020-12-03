@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7269348
+query:			what county is stacy minnesota
+passage:			Passage: Stacy, Minnesota is located in Chisago County. Zip codes in Stacy, MN include 55079, and 55078. The median home price in Stacy is $6 which is roughly $6/per square foot.
+subject_label:			3
+query_id:			1085279

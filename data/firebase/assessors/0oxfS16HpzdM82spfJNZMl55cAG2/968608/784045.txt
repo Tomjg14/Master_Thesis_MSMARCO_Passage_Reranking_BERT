@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			784045
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Thomas Edison. Thomas Edison's most famous invention, the lightbulb, paved the way for modern life. Introduction. In his 84 years, Thomas Edison acquired a record number of 1,093 patents (singly or jointly) and was the driving force behind such innovations as the phonograph, the incandescent light bulb and one of the earliest motion picture cameras. He also created the worldâs first industrial research laboratory.
+subject_label:			4
+query_id:			968608

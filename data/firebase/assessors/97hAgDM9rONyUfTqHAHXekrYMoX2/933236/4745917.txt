@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4745917
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Hottest Arizona temperature occurred 20 years ago - Tucson News Now. Hottest Arizona temperature occurred 20 years ago. A Newpaper from Lake Havasu City after the hottest day in Arizona. Image credit to Jon Fishman.
+subject_label:			1
+query_id:			933236

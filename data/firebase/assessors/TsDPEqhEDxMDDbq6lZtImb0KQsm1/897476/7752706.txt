@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7752706
+query:			what state has the easiest bar exam
+passage:			Passage: South Dakota ranks as the state with the easiest exam, followed by Wisconsin, Nebraska, and Iowa. There are fewer law schools in these states (South Dakota only has one, and Wisconsin, Nebraska, and Iowa each have two), meaning that there are generally fewer law graduates who take the bar.
+subject_label:			3
+query_id:			897476

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2085968
+query:			rigorous testing definition
+passage:			Passage: Webster Dictionary(0.00 / 0 votes)Rate this definition: Rigorous(adj) manifesting, exercising, or favoring rigor; allowing no abatement or mitigation; scrupulously accurate; exact; strict; severe; relentless; as, a rigorous officer of justice; a rigorous execution of law; a rigorous definition or demonstration.
+subject_label:			2
+query_id:			489257

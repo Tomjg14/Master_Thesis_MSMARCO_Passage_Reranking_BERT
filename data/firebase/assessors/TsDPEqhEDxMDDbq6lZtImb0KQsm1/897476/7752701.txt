@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7752701
+query:			what state has the easiest bar exam
+passage:			Passage: And, that is the state where you will take the bar exam, so this is an important decision to make. The degree of difficulty of the bar exam varies by state; some states have noticeably more difficult exams than others, and therefore have lower percentages of passage.
+subject_label:			2
+query_id:			897476

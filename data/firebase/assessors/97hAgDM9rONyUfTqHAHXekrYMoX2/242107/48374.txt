@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			48374
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: How long you can keep meat in the refrigerator depends on the type. Keep raw ground meats, sausage and poultry in the refrigerator for one to two days. Cook raw roasts, steaks, and chops, including pork chops, lamb chops, and veal chops, within three to five days. You can also keep cooked meat in the refrigerator for three or four days. Unopened cooked meat, such as hot dogs and luncheon meat, stays safe for about two weeks in the refrigerator.
+subject_label:			3
+query_id:			242107

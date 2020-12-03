@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1983614
+query:			weather in fletcher,nc
+passage:			Passage: Weather for Cherokee, NC - Cherokee, NC Weather, Current Weather in Cherokee, NC. Local weather report for Cherokee, NC, Local Cherokee, NC weather. Forecast for Cherokee, North Carolina, Cherokee, NC weather forecast. Find your local Cherokee weather forecast. Cherokee, NC weather conditions. Weather outlook for Cherokee, NC.
+subject_label:			1
+query_id:			1088541

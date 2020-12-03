@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			396944
+query:			definition, nepotism
+passage:			Passage: Definition of nepotism in the AudioEnglish.org Dictionary. Meaning of nepotism. What does nepotism mean? Proper usage and pronunciation (in phonetic transcription) of the word nepotism. Information about nepotism in the AudioEnglish.org dictionary, synonyms and antonyms.
+subject_label:			3
+query_id:			1101714

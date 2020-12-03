@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7971649
+query:			what's the difference between jambalaya and paella
+passage:			Passage: There are two basic differences. Types of rice and seasonings. The Paella uses a Spanish short grain rice with saffron and the Jambalaya uses a long grain rice with more of a creole seasoning. Traditional paella should be cooked on a fire, where jambalaya can be cooked stove top. HERE is my Paella recipe.
+subject_label:			5
+query_id:			931726

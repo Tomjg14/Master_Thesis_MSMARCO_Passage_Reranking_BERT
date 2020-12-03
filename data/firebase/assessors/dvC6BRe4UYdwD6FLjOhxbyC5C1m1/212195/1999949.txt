@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1999949
+query:			how could the courts check the bureaucracy
+passage:			Passage: List and describe four methods in which the president can control the federal bureaucracy? I need help with homework... the question is : List and describe four methods in which the president can control the federal bureaucracy. My question is, could you give me one example where the president ca control the federal bureaucracy?.
+subject_label:			3
+query_id:			212195

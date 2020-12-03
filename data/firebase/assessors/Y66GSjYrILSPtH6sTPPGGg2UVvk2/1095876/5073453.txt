@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5073453
+query:			how much is college in florida
+passage:			Passage: 1 How much is parking at the Universal Studios Florida amusement park in Orlando, Florida? How much is parking at the Universal Studios Florida amusement park in Orlando, Florida?
+subject_label:			1
+query_id:			1095876

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6553141
+query:			average amount of money stna make
+passage:			Passage: The amount of money that aerospace engineers make may vary depending on their experience and the company they work for. On average, they will earn about $85,000 per year.
+subject_label:			1
+query_id:			30860

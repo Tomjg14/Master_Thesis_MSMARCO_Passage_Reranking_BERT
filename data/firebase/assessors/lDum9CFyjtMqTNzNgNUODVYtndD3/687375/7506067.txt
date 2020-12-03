@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7506067
+query:			what is a hydromyelia
+passage:			Passage: Hydromyelia is a neurological condition characterized by a buildup of fluid inside the central canal of the spinal cord. This puts pressure on the nerves in the spinal cord and leads to neurological symptoms such as weakness in the extremities, difficulty walking, and disordered speech.
+subject_label:			5
+query_id:			687375

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1137854
+query:			what is crossfit?
+passage:			Passage: We take a closer look at Reebok's line of 'CrossFit' shoes with a comparison of the CrossFit Nano 3.0 vs Nano Speed. Here is what we thought of both.
+subject_label:			1
+query_id:			736125

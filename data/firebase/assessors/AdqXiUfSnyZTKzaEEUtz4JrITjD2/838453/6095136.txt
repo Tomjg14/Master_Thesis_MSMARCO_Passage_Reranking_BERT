@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6095136
+query:			what is the parent company for adidas
+passage:			Passage: Reebok Announces New Headquarters at Boston Seaport. Fitness footwear brand Reebok is ready to call Boston home. The move follows news last month that the company plans to relocate from its current location in Canton, Mass., part of a larger reorganization of the brand initiated by parent company Adidas.
+subject_label:			1
+query_id:			838453

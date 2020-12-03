@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6915719
+query:			blue sky charge controller price
+passage:			Passage: Most of the cards in the 1963 Topps set can be found with either a purple sky or a blue sky. The purple-and blue-sky variations are not documented in the price guides. For details and lots of examples, see 1963 Topps Football Color Variations on the rbwoodenpuzzles.com web site. Rookie cards of Pro Football Hall of Famers in the 1963 Topps set: Ray Nitschke, Larry Wilson, Deacon Jones, Bob Lilly, Willie Wood.
+subject_label:			2
+query_id:			54819

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7815870
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Scott's Seafood Restaurant on the Sacramento River and in Folsom. The freshest Seafood and Steaks served by a warm and gracious staff in a comfortable, intimate atmosphere. Winner of Best Seafood Restaurant in Sacramento 18 years running!
+subject_label:			5
+query_id:			891565

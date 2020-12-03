@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1560146
+query:			what is drop in baseball bat selection
+passage:			Passage: DeMarini Drop 3 Baseball Bats. This is the best selection of DeMarini drop 3 bats you can find today. I like the 2015 CF7 but itâs basically out of stock. If you have oneâ¦itâs still one of the best even though the 2016âs are selling like hotcakes.
+subject_label:			2
+query_id:			741392

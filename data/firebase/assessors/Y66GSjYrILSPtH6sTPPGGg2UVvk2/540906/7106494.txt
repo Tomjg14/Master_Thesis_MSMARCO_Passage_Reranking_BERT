@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7106494
+query:			was the great wall of china breached
+passage:			Passage: The Great Wall of China is truly one of the great wonders of the world. The History of the Great Wall of China goes back to the Chunqiu period (722-481 B.C.) and the various parts of the Great Wall of China stretch over 4,000 miles.
+subject_label:			2
+query_id:			540906

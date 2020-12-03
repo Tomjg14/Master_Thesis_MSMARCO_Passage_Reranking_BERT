@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7886011
+query:			what is polydextrose made from
+passage:			Passage: The fiber in Cocoa Pebbles comes from a little-known ingredient called polydextrose, which is synthesized from glucose and sorbitol, a low-calorie carbohydrate.
+subject_label:			5
+query_id:			785176

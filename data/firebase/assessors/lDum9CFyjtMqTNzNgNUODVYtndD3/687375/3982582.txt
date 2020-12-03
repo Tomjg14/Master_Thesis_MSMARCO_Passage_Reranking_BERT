@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3982582
+query:			what is a hydromyelia
+passage:			Passage: The pathogenesis of syringomyelia is debated.The cerebrospinal fluid also serves to cushion the brain. Excess cerebrospinal fluid in the central canal of the spinal cord is called hydromyelia. This term refers to increased cerebrospinal fluid that is contained within the ependyma of the central canal.
+subject_label:			4
+query_id:			687375

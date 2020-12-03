@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4302787
+query:			what is gabba
+passage:			Passage: The Gabba hosted its first rugby league Test match on 26 June 1909, when Australia defeated New Zealand 10â5. The Kangaroos continued to play Tests at this venue until 1956, and a ground record crowd of 47,800 people saw Australia play Great Britain in 1954.etween 1993 and 2005, The Gabba was redeveloped in six stages at a cost of A$128,000,000. The dimensions of the playing field are now 170.6 metres (east-west) by 149.9 metres (north-south) to accommodate the playing of Australian Football at elite level. The seating capacity of the ground is now 42,000.
+subject_label:			4
+query_id:			749752

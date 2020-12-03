@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7238874
+query:			what county is stacy minnesota
+passage:			Passage: Lodi township, Mower County, Minnesota: Mount Pleasant township, Wabasha County, Minnesota: Sunnyside township, Wilkin County, Minnesota: Lyle township, Mower County, Minnesota: Oakwood township, Wabasha County, Minnesota: Tanberg township, Wilkin County, Minnesota: Marshall township, Mower County, Minnesota: Pepin township, Wabasha County, Minnesota: Wolverton township, Wilkin County, Minnesota: Nevada township, Mower County, Minnesota
+subject_label:			1
+query_id:			1085279

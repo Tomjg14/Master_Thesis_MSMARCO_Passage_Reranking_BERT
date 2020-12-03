@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4629442
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: temperature the warmest month in tucson international tucson arizona is june with an average high temperature of 101 5 f the hottest day on record was june 27 1990 when the temperature hit 117 0 f
+subject_label:			2
+query_id:			933236

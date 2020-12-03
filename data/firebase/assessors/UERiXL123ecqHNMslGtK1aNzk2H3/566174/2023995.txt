@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2023995
+query:			what are stand up paddle boards made of
+passage:			Passage: Basic Paddle Board Equipment. Here are all the items you need to get out on the water paddling: Stand Up Paddle board â Paddle boards come in all shapes and sizes. The most common construction method is epoxy and fiberglass wrapped around an EPS foam core, with one or several fins to help the board track in the water.
+subject_label:			4
+query_id:			566174

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			187233
+query:			what county is laneview va located in
+passage:			Passage: Find 49 listings related to County Sheriff in Clintwood on YP.com. See reviews, photos, directions, phone numbers and more for County Sheriff locations in Clintwood, VA. Start your search by typing in the business name below. What do you want to find?
+subject_label:			1
+query_id:			608323

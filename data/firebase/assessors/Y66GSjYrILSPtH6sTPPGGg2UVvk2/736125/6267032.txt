@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6267032
+query:			what is crossfit?
+passage:			Passage: Inspired by my last post in rambling off my Crossfit workouts without realizing that half of the readers may not even know what is a WOD, I opted to put together a very basic list of what some Crossfit abbreviations and terms are so you can reference anytime you read my posts.
+subject_label:			1
+query_id:			736125

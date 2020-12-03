@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8829217
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: Related Eyes Questions When the eyes are open, what sensory organs provide information needed to maintain equilibrium? Sensory nerve fibers of cochlear provides information needed to maintain... What are the sensory receptors for the eyes and the nose? In the nose there are olfactory receptors. Photoreceptors are found in the eyes. What carries sensory information from the eye to the brain?
+subject_label:			2
+query_id:			1091108

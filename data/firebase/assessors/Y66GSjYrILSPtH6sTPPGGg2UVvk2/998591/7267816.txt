@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7267816
+query:			where is mathura
+passage:			Passage: The famous cities/villages of Mathura District are as follows. 1 Vrindavan. 2 Baldeo. 3 Nandgaon. 4 Barsana. 5 Goverdhan. 6 Gokul. 7 Chaumuhan. 8 Kosi Kalan.
+subject_label:			1
+query_id:			998591

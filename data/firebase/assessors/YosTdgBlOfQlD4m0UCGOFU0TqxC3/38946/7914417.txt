@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7914417
+query:			average money market interest rates
+passage:			Passage: As of March 23, 2011, the average rate of interest on money market bank accounts, taken from a sampling of 13, was approximately 1.6 percent. However, low rates of return had been the norm for money market bank accounts even before the country's economic downturn late in the 2000s.
+subject_label:			3
+query_id:			38946

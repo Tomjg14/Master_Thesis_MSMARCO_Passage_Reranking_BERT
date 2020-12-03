@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7816911
+query:			what is postulate in algebra
+passage:			Passage: How to Determine What Variables Represent. Algebra uses letters, called variables, to represent numbers that correspond to specific values. Algebraic variables can represent the unknown and what youâre solving for in an algebra problem, as well as known or set values.
+subject_label:			3
+query_id:			785721

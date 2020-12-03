@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3843903
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Lean Six Sigma in Healthcare Lean Six Sigma focuses on eliminating defects. In healthcare, a defect can be the difference between life and death. Use Lean Six Sigma to improve patient safety by eliminating life-threatening errors. Lean Six Sigma uses Define-Measure-Analyze-Improve-Control (DMAIC) â a five-step approach to process improvement. Focus on improving the patient experience by making sure your processes consistently deliver the desired results.
+subject_label:			2
+query_id:			786937

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6164713
+query:			how much is donald trump jr worth
+passage:			Passage: Jille Azis Net Worth. $150 Million 1981 5 ft 10 in (1.8 m) Apprentice Arabella Rose Kushner Barron Trump Businessperson Celebrities Donald Trump Donald Trump Jr. Eric Trump Fashion Model Ivana Trump Ivanka Ivanka Marie Trump Ivanka Trump Ivanka Trump Net Worth ivanka_trump IvankaTrump Jared Kushner Jared Kushner (m.
+subject_label:			1
+query_id:			321951

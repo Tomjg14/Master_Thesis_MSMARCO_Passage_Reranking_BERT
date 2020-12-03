@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7942372
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: The amount of your benefits is based on your lifetime earnings. If you're over 60 but not yet receiving benefits, you should receive a statement in the mail from the SSA reviewing your potential benefits at different retirement ages. The rest of us will need to get an online statement from Social Security.es, you'll be getting less, but you'll also start collecting earlier, and you might be surprised how long it takes to make up the difference. The government uses the example of someone who can receive $750 a month at 62 or $1,000 a month at a full retirement age of 66.
+subject_label:			2
+query_id:			257885

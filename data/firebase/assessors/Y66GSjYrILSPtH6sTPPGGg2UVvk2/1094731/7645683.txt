@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7645683
+query:			hydrocodone price per pill
+passage:			Passage: Best Answer: Around $2.00 - $3.00 per pill at low amounts. About $1.50 - $2.00 per pill when buying a bunch. That is for Lortab; I guess it would be about the same for Vicodin. Hydrocodone Street Value. Hydrocodone Street Price. This Site Might Help You.
+subject_label:			4
+query_id:			1094731

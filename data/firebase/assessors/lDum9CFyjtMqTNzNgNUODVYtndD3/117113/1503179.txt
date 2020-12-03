@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1503179
+query:			define abraham lincoln during civil war
+passage:			Passage: Conclusion In conclusion, civil war is both a need and a want... Abraham Lincoln And Civl War America. Jennifer Hubbard History 161 April 14, 2007 Abraham Lincoln and Civil War America By William E. Gienapp Abraham Lincoln was born on February 12,1807, in...
+subject_label:			4
+query_id:			117113

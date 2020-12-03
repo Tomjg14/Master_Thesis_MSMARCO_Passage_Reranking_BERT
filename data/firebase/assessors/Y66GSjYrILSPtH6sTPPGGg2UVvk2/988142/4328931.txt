@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4328931
+query:			who paul clark
+passage:			Passage: Before then, Trudeau had given the title of Senior Minister to a member of his cabinet; Paul Hellyer served as Senior Minister prior to his resignation from Trudeau's cabinet. Joe Clark 's brief-lived government did not have a deputy prime minister.Canada's most recent deputy prime minister was Anne McLellan, who in 2006 was also the first deputy prime minister to lose her seat in the House of Commons.efore then, Trudeau had given the title of Senior Minister to a member of his cabinet; Paul Hellyer served as Senior Minister prior to his resignation from Trudeau's cabinet. Joe Clark 's brief-lived government did not have a deputy prime minister.
+subject_label:			1
+query_id:			988142

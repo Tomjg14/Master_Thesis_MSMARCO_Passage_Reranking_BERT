@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5049791
+query:			blue sky charge controller price
+passage:			Passage: A pair of Swiss Blue Topaz. Swiss Blue Topaz is one of the prettiest and most famous members amongst the Blue Topaz family. It has a vivid blue color which is darker then the color Sky Blue Topaz and lighter then London Blue Topaz. The price starts from 1.5$ per carat.
+subject_label:			1
+query_id:			54819

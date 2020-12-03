@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7927961
+query:			temperature diode
+passage:			Passage: Microwave attenuator measurements The results discussed in the previous sections indicate that the temperature dependence of carrier lifetime is a good predictor of the temperature coefficient of PIN diode resistance and therefore the effect of temperature in PIN diode attenuators.
+subject_label:			2
+query_id:			1090054

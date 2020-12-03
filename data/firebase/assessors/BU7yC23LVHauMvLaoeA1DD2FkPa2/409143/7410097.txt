@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7410097
+query:			is education a constitutional right
+passage:			Passage: Analysis of the Constitutional Framework. The right to basic education, including adult basic education, unlike other socio-economic rights in the Bill of Rights, is neither formulated as a right of access nor subject to internal qualifiers.
+subject_label:			4
+query_id:			409143

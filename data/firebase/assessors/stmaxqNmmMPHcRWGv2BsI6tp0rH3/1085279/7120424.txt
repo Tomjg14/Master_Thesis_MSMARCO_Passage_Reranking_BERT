@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7120424
+query:			what county is stacy minnesota
+passage:			Passage: City of Stacy, MN - CHISAGO County Minnesota ZIP Codes. Detailed information on every zip code in Stacy Home | Products | Learn About ZIP Codes | Find a Post Office | Search | Contact | FAQs
+subject_label:			3
+query_id:			1085279

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1870038
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Women who are in the first trimester of pregnancy have normal thyroid levels that are between 0.25 mIU/L to 2.96 mIU/L. Women who are in the second trimester of pregnancy have normal thyroid levels that are between 0.45 mIU/L to 2.94 mIU/L. Women who are in the third trimester of pregnancy have normal thyroid levels that are between 0.42 mIU/L to 2.76 mIU/L.
+subject_label:			2
+query_id:			414155

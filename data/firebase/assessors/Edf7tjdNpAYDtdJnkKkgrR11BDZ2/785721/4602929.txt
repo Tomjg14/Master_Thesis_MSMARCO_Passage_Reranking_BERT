@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4602929
+query:			what is postulate in algebra
+passage:			Passage: An algebraic equation is an equation that includes one or more variables. Any expression that contains letters, numbers and algebraic operations, addition(+), subtraction(-), multiplication(Ã), division(Ã·) and exponentiation to rational exponent is called an Algebraic Expression.hile studying the algebraic expression first question arises in our mind, what is an algebraic expression. Algebraic expression is a set of constants, variables and operators with or without combinations, algebraic expressions can be in different forms.
+subject_label:			2
+query_id:			785721

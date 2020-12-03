@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5796941
+query:			definition of purse
+passage:			Passage: how to spot fake pradasIf the back sole strip does not have the word prada on it bold 3d letters If the strip on the tongue does not have the word prada on it Unless the sho â¦ es are worn a realistic price for the shoes are about Â£60 upwards depending on design etc.he cost of a Kate Spade purse depends on the particular Kate Spade purse one would like to buy. Definitely, one should pay $378 for West Valley Valentine Kate Spade purse or â¦ $398 for a West Valley Maryanne Kate Spade purse. 2 people found this useful.
+subject_label:			1
+query_id:			137508

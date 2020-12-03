@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7785290
+query:			when was jim vance funeral
+passage:			Passage: Memorial contributions may be made to the American Lung Association. James C. Jim Vance, age 89, passed peacefully under the care of Mt. Carmel Palliative Care on Saturday afternoon, February 18, 2017. He was born on September 1, 1927 in Columbus to the late Dale and Leona (Ross) Vance.
+subject_label:			1
+query_id:			958311

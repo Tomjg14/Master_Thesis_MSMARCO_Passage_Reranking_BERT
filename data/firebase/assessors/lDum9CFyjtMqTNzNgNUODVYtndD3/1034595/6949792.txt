@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6949792
+query:			what is the phone number to spe
+passage:			Passage: Looking for the definition of SPE? Find out what is the full meaning of SPE on Abbreviations.com! 'Solid Phase Extraction' is one option -- get in to view more @ The Web's largest and most authoritative acronyms and abbreviations resource.
+subject_label:			2
+query_id:			1034595

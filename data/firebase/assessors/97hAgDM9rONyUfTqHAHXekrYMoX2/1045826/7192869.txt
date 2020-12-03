@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192869
+query:			what is ssc je
+passage:			Passage: SSC JE Application Form 2017 â Apply Online Here. SSC JE Application Form 2017: Application form of SSC JE Exam 2017 will be released soon. SSC Junior Engineer application form will be available online only; direct link to apply online is available below, candidates can apply the same.
+subject_label:			1
+query_id:			1045826

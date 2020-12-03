@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5402950
+query:			what's the difference between jambalaya and paella
+passage:			Passage: rice mixes and side dishes. ZATARAIN'SÂ® Jambalaya Mix, Original. Creole jambalaya was born in New Orleans in the 18th century when Spanish settlers tried to re-create their beloved paella using Louisiana ingredients. Today itâs a local staple, common from music festivals to Mardi Gras parties to quiet weeknight meals.
+subject_label:			3
+query_id:			931726

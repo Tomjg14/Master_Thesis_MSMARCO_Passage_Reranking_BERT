@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4776895
+query:			where was the mediterranean gecko introduced
+passage:			Passage: Bugs!!! All geckos will hunt and eat living bugs introduced in their enclosure. Some geckos however are frugivorous (fruit eating) and can be offered prepared diets along with/instead of live foods. See below for Prepared Gecko Diets and the geckos that eat these diets. Crickets.
+subject_label:			1
+query_id:			1003875

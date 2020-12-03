@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2426296
+query:			is the sec constitutional
+passage:			Passage: Sec. 3. Revision or amendment by Convention of the People. A Convention of the People of this State may be called pursuant to Section 1 of this Article to propose a new or revised Constitution or to propose amendments to this Constitution.
+subject_label:			1
+query_id:			427323

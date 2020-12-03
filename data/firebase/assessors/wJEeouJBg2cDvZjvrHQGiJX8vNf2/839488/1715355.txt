@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1715355
+query:			what is the plural of kohlrabies
+passage:			Passage: 1. Cut the kohlrabi into wedges. Place in a saucepan and add about an inch of water, salt and pepper. Cover with a lid, and steam until the kohlrabi is tender, about 10 to 15 minutes. Drain and toss with parsley and olive oil.
+subject_label:			2
+query_id:			839488

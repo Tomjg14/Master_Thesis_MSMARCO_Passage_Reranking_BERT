@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3452697
+query:			what is the parent company for adidas
+passage:			Passage: Adidas Shoe Models List. Adidas Footwear is a German sports apparel manufacturer. It is the parent company of the Adidas Group which consists of Reebok, TaylorMade-Adidas and Rockport. Adidas is the largest sportswear manufacturer in Europe and the second-biggest sportswear manufacturer in the world, with American rival Nike being the biggest. It was founded in 1948 by Adolf âAdiâ Dassler.
+subject_label:			3
+query_id:			838453

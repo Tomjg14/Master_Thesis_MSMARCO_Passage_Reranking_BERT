@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1560753
+query:			phone number for bc transit junction
+passage:			Passage: New Jersey Transit Lost and Found Customer Service Phone Number. Phone Number of New Jersey Transit Lost and Found is +1 973-275-5555 / 973-491-7220 . New Jersey Transit is abbreviated as NJ Transit. It is a public transportation organization which is used to find the lost items.
+subject_label:			1
+query_id:			1091688

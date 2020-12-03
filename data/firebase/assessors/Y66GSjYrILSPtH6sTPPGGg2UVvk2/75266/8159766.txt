@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8159766
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Where is VMware vCenter database? I have started managing a VMware vSphere 5.5 datacenter for a new company. Even though the number of VMs is less than 50, SQLExpress is not being used. In fact, I cannot find any SQL database on vCenter server. Perhaps it is a remote database. But I am not able to find the location of the database anywhere in vCenter settings. Where can I find the path and nature of vCenter database? Thanks.
+subject_label:			1
+query_id:			75266

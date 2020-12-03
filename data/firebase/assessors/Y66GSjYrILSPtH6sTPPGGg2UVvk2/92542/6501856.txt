@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6501856
+query:			circulation money definition
+passage:			Passage: Define Gresham's law. Gresham's law synonyms, Gresham's law pronunciation, Gresham's law translation, English dictionary definition of Gresham's law. n. The theory holding that if two kinds of money in circulation have the same denominational value but different intrinsic values, the money with higher...
+subject_label:			1
+query_id:			92542

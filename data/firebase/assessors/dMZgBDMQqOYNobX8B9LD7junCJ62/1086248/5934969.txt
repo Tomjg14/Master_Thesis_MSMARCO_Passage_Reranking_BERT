@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5934969
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Prickly Heat. Prickly heat is also known as heat rash or miliaria. It is a red and itchy rash on the skin that causes a stinging or prickly feeling, hence the name. Although prickly heat usually occurs in hot conditions, it can affect people in winter if they are wearing too much clothing or sit too close to a heater.
+subject_label:			3
+query_id:			1086248

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2552488
+query:			who owns cnn cable news network
+passage:			Passage: CNN ratings drop below gardening network as Trump supporters boycott over bias. The 2nd week of August has been brutal to CNN. CNN, who has been extremely unfair to Donald Trump since his convention, is now doing worse than the HGN in ratings, an all time low for the first cable news network. RAGE: Trump supporters show CNN what they think of the biased network.
+subject_label:			1
+query_id:			1045203

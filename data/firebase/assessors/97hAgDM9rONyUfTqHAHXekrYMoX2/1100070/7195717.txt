@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7195717
+query:			head turner meaning
+passage:			Passage: âFor the moment the strutting ostriches are proving to be head-turners, especially in the case of children.â âThe car is a real head-turner, and will be available in bright colours to attract even more looks.â âIt's quite a head-turner and certainly draws a lot of amused smiles.â âShe was a voluptuous blonde bombshell, a head-turner who forged a career in movies and television.â âIf there's a bit of the extrovert in you, this could be your opportunity to be a real head-turner.â
+subject_label:			4
+query_id:			1100070

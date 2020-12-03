@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			77066
+query:			blue sky charge controller price
+passage:			Passage: Q: What is the Blue Sky Warranty? A: The 3M âBlue Sky Warrantyâ for Novec 1230 fluid states that if Novec 1230 is banned, or restricted, from use as a fire protection agent due to ozone depletion potential or global warming potential, 3M will refund the purchase price of the fluid.: What is the Blue Sky Warranty? A: The 3M âBlue Sky Warrantyâ for Novec 1230 fluid states that if Novec 1230 is banned, or restricted, from use as a fire protection agent due to ozone depletion potential or global warming potential, 3M will refund the purchase price of the fluid.
+subject_label:			1
+query_id:			54819

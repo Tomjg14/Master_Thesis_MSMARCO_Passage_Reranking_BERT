@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7410103
+query:			is education a constitutional right
+passage:			Passage: The right to basic education is immediately realisable, as confirmed by the Constitutional Court in the Juma Masjid Case: [4]. âUnlike some of the other socio-economic rights, this right is immediately realisable.
+subject_label:			5
+query_id:			409143

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7060044
+query:			what is impact ratio analysis
+passage:			Passage: countries and those with high debt to asset ratios in their analysis. Despite the opposing views on environmental impact among nations with low debt-to-asset ratios 7 whether high GDP countries are more or less environmentally impacting, this study will use countries with low debt-to-asset ratios so as to eliminate countries with overwhelming barriers to environmental success on the front of resource availability. Additionally, GDP as a significant predictor of countries
+subject_label:			2
+query_id:			757644

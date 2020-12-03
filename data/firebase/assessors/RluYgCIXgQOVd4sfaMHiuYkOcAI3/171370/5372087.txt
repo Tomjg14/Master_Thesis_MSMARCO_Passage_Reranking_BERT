@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5372087
+query:			does singing burn calories
+passage:			Passage: How many calories does the average person burn in a day? Quick Answer. An average person burns 1,600 to 2,500 calories in a day. According to Everyday Health, men burn between 1,900 and 2,500 calories per day, while women burn between 1,600 and 2,000 calories per day.
+subject_label:			1
+query_id:			171370

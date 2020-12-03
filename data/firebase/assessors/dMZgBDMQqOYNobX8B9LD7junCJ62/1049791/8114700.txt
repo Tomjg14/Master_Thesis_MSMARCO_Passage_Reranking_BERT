@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8114700
+query:			what is njstart
+passage:			Passage: What is the plural of of decorum? What is the plural of of decose? What is the plural of of decoside? What is the plural of of decoupage? What is the plural of of decoupler? What is the plural of of decoupling? What is the plural of of decoy duck? What is the plural of of decoy-duck? What is the plural of of decoyer? What is the plural of of decoyinine? What is the plural of of decoyman? What is the plural of of decrease?
+subject_label:			1
+query_id:			1049791

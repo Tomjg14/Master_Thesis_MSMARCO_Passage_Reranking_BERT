@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3058085
+query:			what is njstart
+passage:			Passage: What's your, what's your, what's your, what's your favourite. What's your, what's your, what's your, what's your favourite. What's your, what's your, what's your favorite. What's your, what's your, what's your, what's your, what's your.
+subject_label:			1
+query_id:			1049791

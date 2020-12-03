@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7999716
+query:			difference between watt and hertz
+passage:			Passage: The Watt is a measure of power and is voltage times current. Hertz is cycles per second as is a measure of frequency. current is a flow of electric charge. Hertz (Hz) is a unit of frequency, defined as the number of complete cycles of a periodic signal that take place in one second.
+subject_label:			5
+query_id:			149161

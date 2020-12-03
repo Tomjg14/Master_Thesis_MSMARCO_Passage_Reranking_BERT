@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7523965
+query:			what are stand up paddle boards made of
+passage:			Passage: Stand Up Paddle Boarding (SUP) Basics This article is part of our series: Stand Up Paddle Boarding (SUP) for Beginners. Stand up paddle boarding (SUP) offers a fun way to play on the water, with the added benefit of a full-body workout. And, since you stand at full height on your board, it gives you a unique vantage point for viewing whatâs down under the water and out on the horizon.
+subject_label:			1
+query_id:			566174

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2414968
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Confidence votes 116. Canada is the country that serves as the filming location for 'The Good Witch'. Specifically, the action takes place in Hamilton, southern Ontario.The city is the third largest of its province and the ninth of it's nation. Scenes are also filmed in Niagara On The Lake, near Niagara Falls, Ontario.onfidence votes 116. Canada is the country that serves as the filming location for 'The Good Witch'. Specifically, the action takes place in Hamilton, southern Ontario.
+subject_label:			1
+query_id:			231877

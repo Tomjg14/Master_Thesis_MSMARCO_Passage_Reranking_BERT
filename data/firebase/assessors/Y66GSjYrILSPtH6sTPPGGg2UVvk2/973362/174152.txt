@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			174152
+query:			where does lice come from
+passage:			Passage: For the most part, when the children leave the school, the lice also leave. Only rarely does a louse drop from a childâs head to a place where it could be transferred to another childâs head. Lice do not take up residence in school buildingsânot on the floors, carpet, books, desks, cafeteria, or playground. Whatâs more, lice are not capable of flying or jumping.
+subject_label:			2
+query_id:			973362

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7135413
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: The dos and don'ts of wearing your heart on your sleeve. How to put out (your heart, that is) We don't always practice what we preach, but ladies across America know a thing or two about wearing their hearts on their sleeves. We talked with a few of them and they happily provided us with a few of their dating dos and don'ts.
+subject_label:			2
+query_id:			1083663

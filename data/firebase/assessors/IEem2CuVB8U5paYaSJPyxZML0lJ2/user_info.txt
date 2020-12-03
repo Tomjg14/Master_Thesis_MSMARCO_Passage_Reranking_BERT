@@ -1,0 +1,7 @@
+user_id:			IEem2CuVB8U5paYaSJPyxZML0lJ2
+consent:			true
+batches:			["10","11","34","35"]
+english:			5
+unassessed_queries:			["495680","1084326"]
+progress:			10
+contact:			false

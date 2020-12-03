@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3674431
+query:			can vcenter standard manage essentials plus
+passage:			Passage: The same applies to the VM that runs the vCenter database (if this is a separate one). This is not really a big problem if you have only a handful of hosts or if you run the vCenter VM in a dedicated management cluster that consists of maybe two hosts only.here is at least one more method that you can use to track the location of your vCenter VM: Lately I posted about a way to monitor vSphere replication RPO with vCenter alarms, and this is similar, because we will use a vCenter alarm to monitor vMotion activity.
+subject_label:			1
+query_id:			75266

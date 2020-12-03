@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5326098
+query:			what is the parent company for adidas
+passage:			Passage: Its rival the University of Michigan has landed a 15-year, $169 million deal with Nike Inc. , leaving Adidas for what's likely the largest-ever contract between an apparel company and a university.ts rival the University of Michigan has landed a 15-year, $169 million deal with Nike Inc. , leaving Adidas for what's likely the largest-ever contract between an apparel company and a university.
+subject_label:			1
+query_id:			838453

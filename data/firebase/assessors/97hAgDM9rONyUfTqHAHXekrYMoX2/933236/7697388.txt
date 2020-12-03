@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7697388
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Publishing rights for most of Adams's photographs are now handled by the trustees of The Ansel Adams Publishing Rights Trust. An archive of Ansel Adams's work is located at the Center for Creative Photography (CCP) at the University of Arizona in Tucson.
+subject_label:			1
+query_id:			933236

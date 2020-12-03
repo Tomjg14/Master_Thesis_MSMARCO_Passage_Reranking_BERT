@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6493074
+query:			apartment cost in phoenix az
+passage:			Passage: Distance from Reno, NV to Phoenix, AZ. There are miles from Reno to Phoenix and miles by car. Reno and Phoenix are far apart (by car).
+subject_label:			1
+query_id:			1100687

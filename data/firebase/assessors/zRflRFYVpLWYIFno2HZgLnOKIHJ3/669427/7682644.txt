@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7682644
+query:			what hormone secretion causes goiter
+passage:			Passage: What Causes a Goiter? Goiters can occur when the thyroid gland produces either too much thyroid hormone (hyperthyroidism) or not enough (hypothyroidism). Much more rarely, the problem may arise when the pituitary gland stimulates thyroid growth to boost production of the hormone.
+subject_label:			5
+query_id:			669427

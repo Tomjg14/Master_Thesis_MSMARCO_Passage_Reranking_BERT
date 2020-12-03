@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7779923
+query:			who played fiddle for boxcar willie
+passage:			Passage: Born Lecil Martin in Sterrett, Texas, in 1931, BoxCar Willie was the son of a railroad man who used to play his fiddle on the porch while his son played guitar. By his teens he was performing in jamborees all over the state, but he gave up show business to enlist in the Air Force, where he spent 22 years.
+subject_label:			5
+query_id:			1046648

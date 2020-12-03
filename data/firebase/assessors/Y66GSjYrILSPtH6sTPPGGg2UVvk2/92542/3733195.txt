@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3733195
+query:			circulation money definition
+passage:			Passage: Definition of finance. 1 1 finances plural : money or other liquid resources of a government, business, group, or individual The library closed due to a lack of finances. 2 2 : the system that includes the circulation of money, the granting of credit, the making of investments, and the provision of banking facilities.
+subject_label:			1
+query_id:			92542

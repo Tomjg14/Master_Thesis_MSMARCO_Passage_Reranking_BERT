@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7680302
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Distance from Niagara on the Lake, Ontario to Hamilton, Ontario. Distance Â» Ontario Â» Niagara on the Lake Â» Ontario Â» Hamilton. There are 46 miles or 74 km from Niagara on the Lake to Hamilton. Niagara on the Lake and Hamilton are take 1 hour 1 min by car and you can see best route for this distance.
+subject_label:			5
+query_id:			231877

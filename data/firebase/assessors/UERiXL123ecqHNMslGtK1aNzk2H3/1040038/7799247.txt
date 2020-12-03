@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7799247
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Empirical and Molecular Formulas. Combustion analysis can only determine the empirical formula of a compound; it cannot determine the molecular formula. However, other techniques can determine the molecular weight. Once we know this value, coupled with the empirical formulas, we can easily calculate what the molecular formula is.
+subject_label:			2
+query_id:			1040038

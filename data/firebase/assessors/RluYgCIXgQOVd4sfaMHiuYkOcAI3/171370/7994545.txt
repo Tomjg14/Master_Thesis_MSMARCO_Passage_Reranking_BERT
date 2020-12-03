@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7994545
+query:			does singing burn calories
+passage:			Passage: Best Answer: During 20 minutes of singing, a person who weighs 150 lbs. burns about 34 calories if sitting down, or 45 calories if singing while standing up, according to CaloriesPerHour.com. Source(s):
+subject_label:			5
+query_id:			171370

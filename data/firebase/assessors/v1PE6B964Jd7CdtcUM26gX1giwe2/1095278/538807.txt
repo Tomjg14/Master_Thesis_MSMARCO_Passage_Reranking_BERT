@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			538807
+query:			average temp in fort worth in march
+passage:			Passage: The average sea temperature in and around Fort Lauderdale in March is 24Â°C (75Â°F). The weather in Fort Lauderdale in March is represented by Fort Lauderdale. Fort Lauderdale sunrise & sunset times for March 2018. Browse the sunrise & sunset times for Fort Lauderdale in March 2018.
+subject_label:			1
+query_id:			1095278

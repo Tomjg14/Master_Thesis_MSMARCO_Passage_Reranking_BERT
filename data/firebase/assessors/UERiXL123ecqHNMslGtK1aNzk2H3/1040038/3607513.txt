@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3607513
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Phosphorus pentoxide is the most used name for #P_4O_10#, the white molecular solid whose empirical formula is #P_2O_5#. It is the anhydride of phosphoric acid.
+subject_label:			1
+query_id:			1040038

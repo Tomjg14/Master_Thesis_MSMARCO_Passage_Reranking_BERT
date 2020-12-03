@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7401973
+query:			how much is donald trump jr worth
+passage:			Passage: In his net worth estimate, Donald values his personal brand at $3.3 billion. Other analysts value the brand at closer to $50 or $100 million. In November 2016, Donald Trump defeated Hillary Clinton to become the 45th President of The United States. 1 Donald Trump Jr. 2 Donald Trump Could Have Bought The Cowboys In 1984 For $50 Million. 3 Everything You Need To Know About Aras Agalarov - The Russian Billionaire Behind The Donald Trump Jr.
+subject_label:			5
+query_id:			321951

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2024000
+query:			what are stand up paddle boards made of
+passage:			Passage: The Manufacturer Direct SUP Company. Save $400 on SUP Boards and $100 on SUP Paddles, Nationwide. Tower is an SUP manufacturer offering direct pricing on the best stand up paddle boards, carbon fiber and wooden SUP paddles, flatwater paddleboarding accessories, stand up paddle surfing gear, and even inflatable SUP surfing boards.
+subject_label:			3
+query_id:			566174

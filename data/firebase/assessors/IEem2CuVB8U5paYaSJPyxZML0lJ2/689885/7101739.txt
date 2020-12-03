@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7101739
+query:			what is a malanga
+passage:			Passage: It is also common in Puerto Rico to make mofongo with cassava (mofongo de yuca), taro and eddoe (mofongo de malanga y yautÃ­a), bread fruit (mofongo de pana), or a combination of cassava, ripe and green plantains (trifongo), ripe and unripe plantains (mofongo de amarillo).
+subject_label:			2
+query_id:			689885

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4797825
+query:			what is a variable account in a annuity
+passage:			Passage: Variable life and Variable Annuity Products License FAQs. WHAT LICENSE IS REQUIRED TO SELL VARIABLE CONTRACTS? You must hold the Variable Life and Variable Annuity Products license.
+subject_label:			1
+query_id:			1065558

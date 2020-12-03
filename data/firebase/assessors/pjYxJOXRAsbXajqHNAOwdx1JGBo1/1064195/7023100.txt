@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7023100
+query:			what is aircraft ram air
+passage:			Passage: Some aircraft have more than one static port and some aircraft have an alternate static port in case one or more of the ports becomes blocked. Instruments: The pitot-static system involves three instruments: The airspeed indicator, altimeter, and vertical speed indicator. Static lines connect to all three instruments and ram air pressure from the pitot tube connects to only the airspeed indicator.
+subject_label:			2
+query_id:			1064195

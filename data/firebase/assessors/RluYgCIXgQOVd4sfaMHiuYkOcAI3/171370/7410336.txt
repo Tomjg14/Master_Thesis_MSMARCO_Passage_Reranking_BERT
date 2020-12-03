@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7410336
+query:			does singing burn calories
+passage:			Passage: How many calories does cycling burn? The average person will burn between 450 to 750 calories per hour cycling. The number of calories depends on your weight, speed and time spent biking. Use our calculator to get a person estimate of the calories burned on your last bike ride. Calories Burned Biking / Cyling Calculator. Enter your weight
+subject_label:			1
+query_id:			171370

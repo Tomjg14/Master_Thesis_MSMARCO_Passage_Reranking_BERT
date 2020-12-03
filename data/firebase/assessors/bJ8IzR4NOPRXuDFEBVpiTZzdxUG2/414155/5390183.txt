@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			5390183
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Pregnancy increases the risk that a woman may experience heartburn or acid reflux. During the first trimester, muscles in the esophagus push food more slowly into the stomach and the stomach takes longer to empty. This gives your body more time to absorb nutrients for the fetus, but can also result in heartburn.
+subject_label:			5
+query_id:			414155

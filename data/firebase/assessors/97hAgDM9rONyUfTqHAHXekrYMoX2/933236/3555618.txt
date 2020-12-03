@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3555618
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Average Temperatures in Tucson, Arizona, Usa. The annual average temperature in Tucson, Arizona, Usa is warm at 20.2 degrees Celsius (68.4 degrees Fahrenheit). There is a variation of average monthly temperatures of 19.6 C (35.3F) which is a slightly low range. The range/ variation of diurnal average temperatures is 15.3 C (27.5 F).
+subject_label:			3
+query_id:			933236

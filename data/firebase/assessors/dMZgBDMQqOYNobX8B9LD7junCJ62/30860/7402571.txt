@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7402571
+query:			average amount of money stna make
+passage:			Passage: Their most recent figures that are available are from May of 2013. According to the BLS data, the average salary of an STNA is $24,700. Or if you would prefer to the know the average hourly wage, it is $11.87. As with any job, the amount you make will vary based on your expericence, your location, and your employer. The BLS also provides salary ranges. The bottom 10% of State Tested Nursing Assistants in Ohio make $9.07 per hour while the top 10% make $15.35 per hour.
+subject_label:			5
+query_id:			30860

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			640517
+query:			what is the phone number to spe
+passage:			Passage: What does MEDICAL CODe 81001 stand for? 81001 is a CPT pathology and laboratory code for: Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, spe â¦ cific gravity, urobilinogen, any number of these constituents; automated, with microscopy.
+subject_label:			1
+query_id:			1034595

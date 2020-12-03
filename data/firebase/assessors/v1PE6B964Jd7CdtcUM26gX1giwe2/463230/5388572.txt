@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5388572
+query:			neonatal hemochromatosis causes
+passage:			Passage: Hemochromatosis is an iron metabolism disorder that may be inherited or acquired. People with hemochromatosis accumulate more iron than their body needs. As the body does not have a way to excrete excess iron, there is a progressive buildup of iron in tissues and organs.here are two types of hemochromatosis: primary hemochromatosis, an inherited form that is passed from one generation to the next, and secondary hemochromatosis, which is caused by some other disease or underlying condition. Primary or Hereditary Hemochromatosis (HH).
+subject_label:			4
+query_id:			463230

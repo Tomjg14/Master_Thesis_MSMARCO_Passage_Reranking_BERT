@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7377855
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Hot Stone Massage is a form of body work that involves the application of heated stones (thermotherapy) to the body within the context of a therapeutic massage.Round, smooth stones are heated to luxurious warmth, oiled and used in the palm of the hands to massage the body.y combining massage with hot stones, the circulatory system is both stimulated and relaxed. This circulatory activity promotes the release of toxins from the muscles, assisting the body in self-healing. In addition, tense muscles are also softened and eased by the deeply penetrating heat of the stones.
+subject_label:			3
+query_id:			178468

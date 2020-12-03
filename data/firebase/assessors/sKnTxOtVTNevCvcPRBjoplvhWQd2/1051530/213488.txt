@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			213488
+query:			what is mastoidectomy
+passage:			Passage: Mastoid operation. A mastoidectomy is a surgical procedure designed to remove infection in the bone behind the ear (mastoid bone). Its purpose is to create a âsafeâ ear and prevent further damage to the hearing apparatus.Mastoidectomy is often indicated for other diseases that spread to the mastoid bone, such as cholesteatoma.Cholesteatoma is an abnormal skin growth in the middle ear behind the eardrum. Repeated infections and/or and a tear or retraction of the eardrum can cause the skin to form an expanding sac. mastoidectomy is a surgical procedure designed to remove infection in the bone behind the ear (mastoid bone). Its purpose is to create a âsafeâ ear and prevent further damage to the hearing apparatus. Mastoidectomy is often indicated for other diseases that spread to the mastoid bone, such as cholesteatoma.
+subject_label:			5
+query_id:			1051530

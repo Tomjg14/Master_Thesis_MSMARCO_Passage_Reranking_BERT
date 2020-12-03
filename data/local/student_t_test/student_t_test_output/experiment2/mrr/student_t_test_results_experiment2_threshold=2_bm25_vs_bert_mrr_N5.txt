@@ -1,0 +1,15 @@
+model1: bm25
+model2: bert
+dataset: threshold=2
+metric: mrr@5
+alpha: 0.05
+
+t=1.626, df=42, cv=1.682, p=0.1113522507
+
+interpret via critical value:
+t <= cv
+Accept null hypothesis that the means are equal.
+
+interpret via p-value:
+p > alpha
+Accept null hypothesis that the means are equal.

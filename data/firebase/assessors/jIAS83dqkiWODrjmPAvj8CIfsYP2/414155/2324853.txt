@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2324853
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: It is absolutely safe to make love in the first trimester in a normal pregnancy. However, your gynaecologist may advise you to not have sex if you: You may also be advised to avoid sex during pregnancy if your husband has genital herpes.
+subject_label:			2
+query_id:			414155

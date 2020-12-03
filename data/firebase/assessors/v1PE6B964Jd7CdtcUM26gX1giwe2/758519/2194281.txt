@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2194281
+query:			what is included in a clutch kit
+passage:			Passage: A clutch kit comes with it a clutch disc or a clutch friction disc and clutch pressure plate, although some clutch kits have pilot bushings or pilot bearings. The pressure plate contains a clutch plate, springs, cover and release fingers.
+subject_label:			5
+query_id:			758519

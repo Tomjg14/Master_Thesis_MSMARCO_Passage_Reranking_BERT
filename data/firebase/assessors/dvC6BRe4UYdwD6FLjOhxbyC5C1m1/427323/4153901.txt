@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4153901
+query:			is the sec constitutional
+passage:			Passage: Term of Office of Senators. The term of the members of the Senate is expressly provided in Articles VI and XVIII respectively of the Constitution: Sec. 4. The term of office of the Senators shall be six years and shall commence, unless otherwise provided by law, at noon on the thirtieth day of June next following their election. Sec. 2.
+subject_label:			2
+query_id:			427323

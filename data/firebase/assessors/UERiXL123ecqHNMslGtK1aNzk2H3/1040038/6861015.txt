@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6861015
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Know what a molecular formula tells you. Like the empirical formula, the molecular formula fails to provide information about the bonding and structure of a molecule. Unlike the empirical formula, the molecular formula gives you details about how many of each atom is present in the molecule. The empirical formula and molecular formula are related by a whole number ratio.
+subject_label:			2
+query_id:			1040038

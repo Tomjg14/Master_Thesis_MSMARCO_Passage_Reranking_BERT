@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8153970
+query:			who is the grinning man
+passage:			Passage: The article said that the smiling man was dancing all the way and dressed up in a tux and hat and grinning all the time. Doesnât it remind any of you abt a circus clown who performs in front of people in order to get some appreciation.
+subject_label:			3
+query_id:			1040461

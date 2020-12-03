@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2720474
+query:			what company was skittles made by?
+passage:			Passage: Skittles. Skittles is a brand of chewy fruit flavored candies made by The MARS Company. They have hard, colorful shells which have the letter S on them. They come in many different flavors, some of which are covered in a sour powder, made from citric acid.
+subject_label:			5
+query_id:			1085796

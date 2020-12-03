@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8726896
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: Considered the father of modern printing, Johannes Gutenberg was a native son of Mainz, a medieval city thatâs now the capital of Germany... Considered the father of modern printing, Johannes Gutenberg was a native son of Mainz, a medieval city thatâs now the capital of Germanyâs Rhineland-Palatinate state.
+subject_label:			1
+query_id:			9083

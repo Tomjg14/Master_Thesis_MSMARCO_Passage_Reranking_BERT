@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7174391
+query:			what is dockpanel used for
+passage:			Passage: As already mentioned, the default behavior is that the last child of the DockPanel takes up the rest of the space, but this can be disabled using the LastChildFill. Here's an example where we disable it, and at the same time we'll show the ability to dock more than one control to the same side:
+subject_label:			4
+query_id:			1056446

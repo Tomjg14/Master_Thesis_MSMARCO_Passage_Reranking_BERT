@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2862988
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: #HackTheMenu. Chick-fil-A Menu Prices. Chick-fil-A is an American fast food restaurant chain headquartered in Georgia that specializes in chicken. Chick-fil-A does chicken most any way you can possibly think of including all sorts of sandwiches, chicken strips, chicken nuggets, chicken salads, chicken soups, chicken pies and even chicken breakfasts! They know how to do chicken! The Chick-fil-A menu prices include all of these items broken down by category.
+subject_label:			2
+query_id:			904389

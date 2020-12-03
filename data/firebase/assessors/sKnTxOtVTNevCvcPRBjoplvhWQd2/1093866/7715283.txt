@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7715283
+query:			is thread.sleep implicit wait
+passage:			Passage: Explicit WaitsÂ¶. An explicit wait is code you define to wait for a certain condition to occur before proceeding further in the code. The worst case of this is Thread.sleep(), which sets the condition to an exact time period to wait.
+subject_label:			3
+query_id:			1093866

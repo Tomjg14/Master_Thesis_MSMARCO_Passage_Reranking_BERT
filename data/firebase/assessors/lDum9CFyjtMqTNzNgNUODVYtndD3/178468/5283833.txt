@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5283833
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Side Effects of Massage on the Circulatory System. Massage therapy has a number of incredible benefits on the circulatory system, including the lymphatic and immune systems. Massage helps to promote the circulation of lymph, which usually depends on your bodyâs natural movement to flush it through the body.
+subject_label:			1
+query_id:			178468

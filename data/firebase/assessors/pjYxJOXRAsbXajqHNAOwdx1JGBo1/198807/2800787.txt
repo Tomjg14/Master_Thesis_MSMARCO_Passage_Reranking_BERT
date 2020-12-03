@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2800787
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: UNLV was undefeated in the regular season during the 1991 season, eventually losing to Duke in the NCAA tournament. Indiana University was the last team to go undefeated durinâ¦g the regular and post season. They were 32-0 in 1976.
+subject_label:			5
+query_id:			198807

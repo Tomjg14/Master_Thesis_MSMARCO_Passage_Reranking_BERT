@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7194254
+query:			what is termis
+passage:			Passage: Termis gives the operator a number of immediate benefits in terms of better overview and improved operation of the cooling or heating network. Reduces the energy usage, costs and CO2 emissions while ensuring the required level of service
+subject_label:			3
+query_id:			1045227

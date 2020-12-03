@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7231460
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: ROCK GYPSUM. Rock gypsum is a chemical precipitate formed by the evaporation of cencentrated solutions such as seawater. It ranges in texture from massive/granular to fibrous depending on the size and shape of the gypsum crystals. Sediment type: chemical; Composition: gypsum; Grain Size: varible, commonly fibrous or granular and medium to fine grained
+subject_label:			5
+query_id:			1007473

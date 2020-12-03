@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5697849
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Auditor make? The average Senior Auditor salary is $76,339. Filter by location to see Senior Auditor salaries in your area. Salary estimates are based on 12,524 salaries submitted anonymously to Glassdoor by Senior Auditor employees.
+subject_label:			5
+query_id:			1096257

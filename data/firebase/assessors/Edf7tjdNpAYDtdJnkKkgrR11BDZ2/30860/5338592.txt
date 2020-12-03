@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5338592
+query:			average amount of money stna make
+passage:			Passage: The average amount of money that a professional basketball player makes in Denmark is about $5 million. The amount will vary depending on the experience and teams played f â¦ or. Answered. In Salary and Pay Rates.
+subject_label:			1
+query_id:			30860

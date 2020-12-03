@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1124938
+query:			which situation does a company issue a note receivable
+passage:			Passage: Apply for a CUSIP Number. Note: ISIN.net is not affiliated nor endorsed by any agency or company that allocates CUSIP numbers. ISIN.net is a consulting firm and assists with documentation writing and the CUSIP application, but does not issue CUSIP Numbers.
+subject_label:			1
+query_id:			993153

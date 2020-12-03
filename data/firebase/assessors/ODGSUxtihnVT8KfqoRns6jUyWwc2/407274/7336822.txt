@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7336822
+query:			is cortana smart???
+passage:			Passage: cortana app on windows 10 review. Microsoft set release cortana powered smart speaker, Microsoft declares war on alexa: smart speaker developed with samsung to use cortana ai. microsoft has teamed up with harman kardon to make the device. Windows 10 review: windows 10 ui, cortana | techradar, Sign up for a new, free business service from techradar pro to help you in your job delivering high value, original content direct to your inbox.
+subject_label:			2
+query_id:			407274

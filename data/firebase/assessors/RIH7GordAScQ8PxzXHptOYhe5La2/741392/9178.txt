@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			9178
+query:			what is drop in baseball bat selection
+passage:			Passage: Drop refers to the length of the bat minus the weight of the bat. The higher the drop, usually the lighter the bat is. Again, some leagues and/or programs have a limit on how much the drop can be so always check your rule book. If youâre a power hitter, you may do well with a slightly heavier bat. If you play small ball and try to get base hits, a smaller bat will give you more control. How to Buy a T-Ball Bat. What You Need to Know About Youth Baseball Bats. How to Get the Most out of Your Wood Baseball Bat.
+subject_label:			5
+query_id:			741392

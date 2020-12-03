@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4343702
+query:			linking verb synonym
+passage:			Passage: Wiktionary (0.00 / 0 votes) Rate these synonyms: remember (verb). Synonyms: recall, reminisce. remember (verb). To recall from one's memory; to have an image in one's memory. Synonyms: recall, reminisce. remember (verb). To memorize; to put something into memory.
+subject_label:			2
+query_id:			440362

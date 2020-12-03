@@ -1,0 +1,7 @@
+user_id:			AdqXiUfSnyZTKzaEEUtz4JrITjD2
+consent:			true
+batches:			["3","4"]
+english:			9
+unassessed_queries:			["1007473","231877","846082","904389","208494"]
+progress:			7
+contact:			true

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7951752
+query:			what state has the easiest bar exam
+passage:			Passage: I don't know anyone who has failed my state's bar exam. I know many people who have failed the CPA exam. The pass/fail rate for my state is hovering around ~49% for the CPA exam in Missouri. The pass/fail rate for the bar exam is in the low 90's. Any tard can pass the Bar. It takes skill, diligence, a great work ethic, and intelligence to pass the CPA.
+subject_label:			1
+query_id:			897476

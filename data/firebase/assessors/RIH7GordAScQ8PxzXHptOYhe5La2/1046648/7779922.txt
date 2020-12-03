@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779922
+query:			who played fiddle for boxcar willie
+passage:			Passage: 200 videos Play all Popular Videos - Boxcar Willie Boxcar Willie - Topic Country Road Songs: Bobby Bare, Boxcar Willie, Jimmy Dean - Duration: 40:28. onemediamusic 47,416 views
+subject_label:			1
+query_id:			1046648

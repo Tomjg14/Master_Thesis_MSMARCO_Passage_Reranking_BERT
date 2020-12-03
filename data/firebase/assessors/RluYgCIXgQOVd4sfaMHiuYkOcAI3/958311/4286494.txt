@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4286494
+query:			when was jim vance funeral
+passage:			Passage: When he died, I went into my bedroom, phoned my mother and cracked up. She couldn't understand a word, I was crying so much.' The funeral, Jim says, was a haze. âI kept saying, âHe's not really dead'.' It was also the first time Mary, with whom Freddie had once lived for six years, snubbed Jim.
+subject_label:			1
+query_id:			958311

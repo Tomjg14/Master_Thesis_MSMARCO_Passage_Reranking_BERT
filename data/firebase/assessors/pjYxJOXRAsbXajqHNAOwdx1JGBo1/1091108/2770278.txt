@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2770278
+query:			refers to what happens when sensory information is detected by a sensory receptor
+passage:			Passage: View Full Document. 1 she says âIâm not hungry.â a. bottom-up b. sensory adaptation c. top-down d. vertical-horizontal Answer: _____ 17. ________ refers to the way that sensory information is interpreted and consciously experienced; ________ refers to what happens when sensory information is detected by a sensory receptor.
+subject_label:			3
+query_id:			1091108

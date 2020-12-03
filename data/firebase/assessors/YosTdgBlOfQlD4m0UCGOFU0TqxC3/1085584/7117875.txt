@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7117875
+query:			carbon reactivation facilities california
+passage:			Passage: Utilizing our indirect fired rotary kilns; we provide spent non-hazardous reactivated carbon exchange and custom spent carbon reactivation services. All spent carbon accepted for reactivation must qualify as non-hazardous.
+subject_label:			3
+query_id:			1085584

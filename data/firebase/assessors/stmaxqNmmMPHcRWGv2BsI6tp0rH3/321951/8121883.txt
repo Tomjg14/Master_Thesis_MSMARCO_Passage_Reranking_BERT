@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8121883
+query:			how much is donald trump jr worth
+passage:			Passage: Eric Trump, 31, is worth $150 million, according to Celebrity Net Worth. Itâs the same net worth as his brother, Donald Trump Jr., whom Eric views as a mentor. In 2006, Eric Trump told The New York Times that Donald Trump Jr. essentially raised him because his father worked 24 hours a day. Ivanka was also like a second mother to him.
+subject_label:			3
+query_id:			321951

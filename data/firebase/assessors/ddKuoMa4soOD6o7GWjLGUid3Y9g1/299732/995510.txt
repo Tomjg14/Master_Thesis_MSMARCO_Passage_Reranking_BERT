@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			995510
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: Artificially colored, showing gestational sac, yolk sac and embryo (measuring 3 mm as the distance between the + signs). The yolk sac is the first element seen in the gestational sac during pregnancy, usually at 3 days gestation. Identification of the gestational sac is a critical landmark in monitoring an early pregnancy, and can be reliably seen in human pregnancy using ultrasound.
+subject_label:			1
+query_id:			299732

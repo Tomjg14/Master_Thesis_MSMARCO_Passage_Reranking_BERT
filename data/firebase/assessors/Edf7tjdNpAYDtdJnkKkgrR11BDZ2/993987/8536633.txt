@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8536633
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: Function of the Digestive System The function of the digestive system is digestion and absorption. Digestion is the breakdown of food into small molecules, which are then absorbed into the body. The digestive system is divided into two major parts: The digestive tract (alimentary canal) is a continuous tube with two openings: the mouth and the anus. It includes the mouth, pharynx, esophagus, stomach, small intestine, and large intestine. Food passing through the internal cavity, or lumen, of the digestive tract does not technically enter the body until it is absorbed through the walls of the digestive tract and passes into blood or lymphatic vessels.
+subject_label:			2
+query_id:			993987

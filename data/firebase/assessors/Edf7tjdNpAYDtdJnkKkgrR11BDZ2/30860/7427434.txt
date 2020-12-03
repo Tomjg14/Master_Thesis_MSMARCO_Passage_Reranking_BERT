@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7427434
+query:			average amount of money stna make
+passage:			Passage: In many other states the certification is known as Certified Nursing Assistant, or CNA. The first step to get your certification is to attend STNA classes. These STNA classes are required to include at least 59 hours of classroom training and 16 hours of clinical training. Once you have completed your course, you will then be ready to take your test. There are two sections of the Ohio STNA test.
+subject_label:			2
+query_id:			30860

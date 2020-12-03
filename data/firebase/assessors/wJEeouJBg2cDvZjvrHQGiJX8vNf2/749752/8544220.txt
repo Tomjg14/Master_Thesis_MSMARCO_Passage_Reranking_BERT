@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8544220
+query:			what is gabba
+passage:			Passage: Name of Adderin Ingredients are: - Vinpocetine: serves as a driver in the reaction of sugar and also adenosine triphosphate important for maintaining power degrees in the brain. - GABBA: a hindering representative that keeps anxiousness levels dued to active nerve cell task, therefore effecting far better concentration.
+subject_label:			5
+query_id:			749752

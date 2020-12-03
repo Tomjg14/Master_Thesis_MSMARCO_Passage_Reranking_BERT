@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6712927
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Remove a Managed Host from vCenter Server in the vSphere Web Client. You can remove a managed host from vCenter Server to stop vCenter Server from monitoring and managing that host.If possible, remove managed hosts while they are connected.Center Server removes the managed host and its virtual machines from the inventory. vCenter Server then frees the amount of license capacity that was allocated for the host. The host retains its assigned license key.
+subject_label:			1
+query_id:			75266

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8038225
+query:			what is the meaning of chicken rice?
+passage:			Passage: Calories in Chicken Helper - Chicken Fried Rice (made with canned chicken) View the full Chicken Helper - Chicken Fried Rice (made with canned chicken) Recipe & Instructions. Submitted by: CORINA-MOMOF4.
+subject_label:			1
+query_id:			1036656

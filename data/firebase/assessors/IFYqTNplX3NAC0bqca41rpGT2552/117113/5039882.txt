@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5039882
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincoln. Abraham Lincoln was the president of the United States during the Civil War. He wanted a stronger federal government and was against slavery. It was his election that triggered the southern states leaving and the Civil War. He was determined that the country remain united.
+subject_label:			4
+query_id:			117113

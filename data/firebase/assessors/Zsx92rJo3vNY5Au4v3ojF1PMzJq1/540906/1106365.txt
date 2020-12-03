@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1106365
+query:			was the great wall of china breached
+passage:			Passage: Gallery. 1 The First Mound â at Jiayuguan, the western terminus. 2 The Great Wall of China at Badaling. 3 A portion of the Great Wall of China at Simatai, overlooking the gorge. 4 Mutianyu Great Wall, China. 5 The Old Dragon Head, the Great Wall where it meets the sea in the vicinity of Shanhaiguan. 6 Great Wall at Dandong.
+subject_label:			2
+query_id:			540906

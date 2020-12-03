@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187826
+query:			what is pivx
+passage:			Passage: PIVX Website Whitepaper Private Instant Verified Transaction, PIVX is a privacy-focused, open source cryptocurrency that is also decentralized. The cryptocurrency is run by a global community that includes technology enthusiasts, innovators, and investors.
+subject_label:			5
+query_id:			1048282

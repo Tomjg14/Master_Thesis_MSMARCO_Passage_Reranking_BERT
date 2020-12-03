@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7185645
+query:			what is njstart
+passage:			Passage: Welcome to NJSTART, the State of New Jerseyâs new eProcurement portal! This solution is designed to streamline the procurement process and make it more efficient for companies looking to do business with the State. If you havenât registered yet, ENROLL NOW. Registration is easy and takes only a few minutes. Suppliers can also create their own vendor profiles through the portal, eliminating the need to file duplicate forms every time they submit a proposal for a new contract.
+subject_label:			3
+query_id:			1049791

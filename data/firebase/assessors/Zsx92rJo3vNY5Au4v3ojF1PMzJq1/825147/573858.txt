@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			573858
+query:			what is the hormone that makes you fat
+passage:			Passage: Female belly fat and hormones. There are a few hormones we need to talk about in regards to belly fat in women. And before the calorie zealots get in an uproar, I am not saying calories donât matter. What I am saying is that it is the hormonal situation that determines where fat is stored, and belly fat is no different.
+subject_label:			3
+query_id:			825147

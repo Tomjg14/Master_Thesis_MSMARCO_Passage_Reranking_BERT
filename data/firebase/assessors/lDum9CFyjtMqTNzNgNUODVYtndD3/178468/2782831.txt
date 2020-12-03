@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2782831
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Transcript of System's Affected by Hemophilia. Hemophilia can really affect any of the systems, but mostly affects the Circulatory System, because of hemophilia's effect on blood. Hemophilia is also involved with the Urinary and Muscular Systems. It affects the circulatory system because of hemophilia's affects on blood.
+subject_label:			1
+query_id:			178468

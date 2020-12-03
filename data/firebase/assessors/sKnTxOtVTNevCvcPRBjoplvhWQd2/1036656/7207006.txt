@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7207006
+query:			what is the meaning of chicken rice?
+passage:			Passage: Definitions for chicken and rice. Here are all the possible meanings and translations of the word chicken and rice. Princeton's WordNet (0.00 / 0 votes) Rate this definition: chicken and rice (noun)
+subject_label:			4
+query_id:			1036656

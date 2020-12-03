@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			300460
+query:			what is drop in baseball bat selection
+passage:			Passage: Hi, James. A lower drop number for a baseball bat means it's a heavier bat; a higher number translates into a lighter bat. So, a lower drop number doesn't necessarily mean a better bat, but--depending on the player--a higher drop number could lead to more extra base hits and homeruns. Hope that helps.
+subject_label:			5
+query_id:			741392

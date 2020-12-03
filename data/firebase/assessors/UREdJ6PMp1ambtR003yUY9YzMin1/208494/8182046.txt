@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8182046
+query:			how big do newfypoo's get
+passage:			Passage: How big do dwarf caimans get??? Anyone whos asking how large a caiman gets is wanting to know how big a caiman gets and thats it. Sure theres other places to find that information but the kid decided to ask on here.
+subject_label:			1
+query_id:			208494

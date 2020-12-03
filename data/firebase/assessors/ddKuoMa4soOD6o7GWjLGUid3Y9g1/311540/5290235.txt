@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5290235
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much does a full grown grizzly weight? kgb answers Â» Science & Technology Â» Animals Â» How much does a full grown grizzly weight? The grizzly tops out at around 900 pounds, but some other races of the brown bear, like the kodiak, can weigh up to 1500 pounds or more. Tags: kodiak, brown bear, race and ethnicity in the united states census, grizzly.
+subject_label:			1
+query_id:			311540

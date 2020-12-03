@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6699682
+query:			what are sensitive periods for brain development
+passage:			Passage: Because the brain is such a sensitive and important organ, medical teams carefully map the location of any brain tumors, using different imaging scans, prior to surgery. They then develop a surgical plan and discuss the potential effects of brain surgery with patients and families.
+subject_label:			1
+query_id:			564668

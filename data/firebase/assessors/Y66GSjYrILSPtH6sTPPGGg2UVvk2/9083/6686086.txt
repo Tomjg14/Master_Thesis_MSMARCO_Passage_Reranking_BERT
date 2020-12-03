@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6686086
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: Zone therapy is considered the basis of modern reflexology, was pioneered and developed by Dr. William Fitzgerald, who is also considered one of the fathers of modern reflexology.
+subject_label:			1
+query_id:			9083

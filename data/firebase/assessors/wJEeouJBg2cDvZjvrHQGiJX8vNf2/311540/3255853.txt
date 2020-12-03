@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3255853
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much force does it take to cut someone's arm, hand, or head off with a sword (that weighs 3.5 to 5 lbs)? How much does an adult human kidney weigh? How much does the glycogen in your body weigh? A body weighs 150 N in the air and was found to weigh 100N in the water when fully submerged.
+subject_label:			1
+query_id:			311540

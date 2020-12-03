@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2227056
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Centralized visibility, proactive management and extensibility for VMware vSphere from a single console. VMware vCenter Server provides a centralized platform for managing your VMware vSphere environments, so you can automate and deliver a virtual infrastructure with confidence. VMware vCenter Server compatibility diagram.
+subject_label:			1
+query_id:			75266

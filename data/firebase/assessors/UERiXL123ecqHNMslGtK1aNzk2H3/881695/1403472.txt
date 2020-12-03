@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1403472
+query:			what network is pickles on cartoon
+passage:			Passage: What a Cartoon! Hard Luck Duck is a What a Cartoon! animated cartoon directed by William Hanna, produced by Hanna-Barbera Cartoons, and broadcast as a part of World Premiere Toons on Cartoon Network on April 16, 1995.
+subject_label:			1
+query_id:			881695

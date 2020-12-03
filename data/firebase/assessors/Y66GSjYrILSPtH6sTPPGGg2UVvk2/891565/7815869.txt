@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7815869
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Whether you are looking for information about Scotts Seafood On The River, searching for a top Restaurants business near me or within zip code 95822, or just trying to locate a company that offers Restaurants Seafood near Sacramento CA, you will find that b2bYellowpages.com will satisfy your search.
+subject_label:			1
+query_id:			891565

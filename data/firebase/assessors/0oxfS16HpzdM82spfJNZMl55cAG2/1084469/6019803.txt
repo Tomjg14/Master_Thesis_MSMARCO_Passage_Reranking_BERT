@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6019803
+query:			what does a grassroots organization mean
+passage:			Passage: grassroots noun [plural]. the grassroots âº the âordinary âpeople in a âsociety or an âorganization, âespecially a âpolitical âparty: The âfeeling among the grassroots of the Party is that the âleaders are not âradical enough.
+subject_label:			3
+query_id:			1084469

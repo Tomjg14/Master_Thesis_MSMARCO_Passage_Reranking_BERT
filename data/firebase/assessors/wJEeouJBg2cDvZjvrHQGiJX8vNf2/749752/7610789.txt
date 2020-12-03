@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7610789
+query:			what is gabba
+passage:			Passage: The Brisbane Cricket Ground, commonly known as The Gabba, is a major sports stadium in Brisbane, the capital of Queensland. It is named after the suburb of Woolloongabba, in which it is located.etween 1993 and 2005, The Gabba was redeveloped in six stages at a cost of A$128,000,000. The dimensions of the playing field are now 170.6 metres (east-west) by 149.9 metres (north-south) to accommodate the playing of Australian Football at elite level.
+subject_label:			5
+query_id:			749752

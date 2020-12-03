@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5235392
+query:			who owns cnn cable news network
+passage:			Passage: Launched in 1980, Cable News Network (CNN) has become one of the most popular news channels in the United States. Owner of CNN. CNN is technically owned by Turner Broadcasting System, Inc. (TBS). This means that, unsurprisingly, CNN is owned by Ted Turner, who of course founded and owns the collection of cable networks. Today TBS owns many channels domestically and internationally, along with many popular websites (such as SI.com, NBA.com, etc.). Ted Turner. Turner is the man behind TBS and thus CNN.
+subject_label:			5
+query_id:			1045203

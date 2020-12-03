@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2123174
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: It depends on how tall you are, how fast you walk, etc. Measure out a certain distance, the longer the more accurate, and count how many steps it takes to walk that distance. Multiply the measured distance (after converting into miles) by 10,000, then divide by however many steps you took.easure out a certain distance, the longer the more accurate, and count how many steps it takes to walk that distance. Multiply the measured distance (after converting into miles) by 10,000, then divide by however many steps you took.
+subject_label:			1
+query_id:			1096932

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			515841
+query:			what is a hydromyelia
+passage:			Passage: This type of Chiari malformation is associated with myleomeningocele (spina bifida). In Chiari II the tonsils as well as the cerebellum may extend through the foramen. This type of Chiari is congenital. Syringomyelia or hydromyelia (syrinx)
+subject_label:			2
+query_id:			687375

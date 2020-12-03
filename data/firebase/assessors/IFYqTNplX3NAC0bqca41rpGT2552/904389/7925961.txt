@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7925961
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Find What Time Chick-Fil-A Serves Breakfast & The Most Popular Breakfast Items. Last Update: January 5, 2017. Chick-Fil-Aâs cow mascot is no joke. This restaurant uses chicken and only that, presenting it in all forms on its menu â including breakfast.
+subject_label:			2
+query_id:			904389

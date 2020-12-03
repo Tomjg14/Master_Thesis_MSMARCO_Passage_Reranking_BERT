@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7722529
+query:			how could the courts check the bureaucracy
+passage:			Passage: The U.S. Congress in relation to the president and Supreme Court has the role of chief legislative body of the United States. However, the Constitution's Framers built a system in which three powerful branches of the government, using a series of checks and balances, could limit each other's power. As a result, it helps to understand how Congress interacts with the presidency as well as the Supreme Court to understand how it operates as an institution.
+subject_label:			1
+query_id:			212195

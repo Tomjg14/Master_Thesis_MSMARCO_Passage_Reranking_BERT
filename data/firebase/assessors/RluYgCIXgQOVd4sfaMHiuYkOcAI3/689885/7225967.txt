@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7225967
+query:			what is a malanga
+passage:			Passage: The Equipment Needed for a T-shirt Business October 16, 2014 Jay Malanga When a custom t-shirt business starts up, they need commercial screen printing equipment. There are many different types of printers and accessories that they could buy, but the basic equipment is all the same.
+subject_label:			1
+query_id:			689885

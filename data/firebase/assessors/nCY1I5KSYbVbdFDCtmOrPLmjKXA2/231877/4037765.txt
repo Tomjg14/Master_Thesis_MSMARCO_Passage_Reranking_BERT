@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4037765
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Hamilton [1] is a port city in Ontario with a population around 505,000. It is situated at the westernmost end of Lake Ontarioâthe city wraps around the lake and continues towards the Niagara Escarpment, referred to by locals as the mountain..
+subject_label:			2
+query_id:			231877

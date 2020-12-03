@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5514431
+query:			what company was skittles made by?
+passage:			Passage: 18 Nov, 2011 how is 0. Skittles are a popular confectionery product, first made in Britain. They were introduced into the United States not long after and were an instant hit. Today they are a part of Mars Inc., and are produced and marketed by Wrigley. Apart from the popular original flavor still available today, Skittles are also available in other flavors such as Wild Berry and Tropical. If you have ever wondered what Skittles are made of, keep reading to find out.
+subject_label:			3
+query_id:			1085796

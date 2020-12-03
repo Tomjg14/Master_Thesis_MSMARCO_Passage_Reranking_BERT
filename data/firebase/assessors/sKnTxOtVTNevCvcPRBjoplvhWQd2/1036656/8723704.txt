@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8723704
+query:			what is the meaning of chicken rice?
+passage:			Passage: What kind of rice should I feed my dog? Okay so I took my pug to the vet because she had diareha and the vet said for me to feed her chicken, rice & low-fat yogurt for 3 days. I was wondering what kind of rice & do i grill the chicken or boil it?
+subject_label:			2
+query_id:			1036656

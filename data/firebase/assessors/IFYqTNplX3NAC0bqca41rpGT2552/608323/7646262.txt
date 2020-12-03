@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7646262
+query:			what county is laneview va located in
+passage:			Passage: Colonial Heights City Hall 201 James Ave Colonial Heights VA 23834 51.2 miles from Laneview 804-520-9266. Petersburg City Hall # 202, 135 N Union St Petersburg VA 23803 52.2 miles from Laneview 804-733-2301. Smithfield Town Hall 310 Institute Street Smithfield VA 23430 53.9 miles from Laneview 757-365-4200
+subject_label:			2
+query_id:			608323

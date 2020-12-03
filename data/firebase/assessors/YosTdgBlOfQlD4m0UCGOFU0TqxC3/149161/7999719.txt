@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7999719
+query:			difference between watt and hertz
+passage:			Passage: Difference Between Decibel and Hertz. Decibel vs Hertz. Decibel and hertz are two units used in sound and wave mechanics. These two units are widely used in fields such as acoustic engineering, wave mechanics and even quantum mechanics. It is vital to have a clear understanding in these units in order to excel in these fields.
+subject_label:			3
+query_id:			149161

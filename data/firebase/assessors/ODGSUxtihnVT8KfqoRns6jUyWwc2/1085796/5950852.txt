@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5950852
+query:			what company was skittles made by?
+passage:			Passage: What are the average number of candies in a bag of Skittles? A standard 2-ounce bag of Skittles has an average of 54 candies per bag. Skittles are candy-coated, fruit-flavored chewy candy that debuted in 1979. They are made by Wrigley and are part of the Mars, Inc. brand of candies.
+subject_label:			1
+query_id:			1085796

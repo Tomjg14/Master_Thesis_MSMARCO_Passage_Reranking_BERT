@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7194251
+query:			what is termis
+passage:			Passage: Termis is the most advanced software for real-time planning and optimization of district heating and cooling network operations. Termis is the most advanced software for real-time planning and optimization of district heating and cooling network operations.
+subject_label:			5
+query_id:			1045227

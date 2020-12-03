@@ -1,0 +1,7 @@
+user_id:			UERiXL123ecqHNMslGtK1aNzk2H3
+consent:			true
+batches:			["13","38"]
+english:			8
+unassessed_queries:			[]
+progress:			6
+contact:			true

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7856346
+query:			who is the boss of google?
+passage:			Passage: Sundar Pichai: Google's new boss from humble roots. With Google creating its own parent company, Alphabet, there's a bit of moving about in the Google boardroom. Larry Page is now chief executive of Alphabet. Sergey Brin is its president. And moving up to be in charge of Google is 43-year-old Sundar Pichai.
+subject_label:			5
+query_id:			1039495

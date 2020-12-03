@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1157800
+query:			circulation money definition
+passage:			Passage: Definition of Currency. Any kind of money that is in public circulation and used as a medium of exchange to facilitate the transfer of goods and services.Currencies vary across countries and include the dollar, euro, pound, and yen.ny kind of money that is in public circulation and used as a medium of exchange to facilitate the transfer of goods and services.
+subject_label:			5
+query_id:			92542

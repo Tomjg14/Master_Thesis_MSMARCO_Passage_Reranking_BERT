@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			784230
+query:			rigorous testing definition
+passage:			Passage: rigorous (Adjective). Manifesting, exercising, or favoring rigour; allowing no abatement or mitigation; scrupulously accurate; exact; strict; severe; relentless; as, a rigorous officer of justice; a rigorous execution of law; a rigorous definition or demonstration. rigorous (Adjective). Severe; intense; inclement; as, a rigorous winter.
+subject_label:			1
+query_id:			489257

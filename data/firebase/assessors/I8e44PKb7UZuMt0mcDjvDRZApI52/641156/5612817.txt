@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5612817
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: For example, itâs not legal to force someone to sign a contract at gunpoint; if it was, then without the idea of âsigning under duress,â someone could hypothetically get anyone to sign anything. Instead, the justice system recognizes that some contracts are not valid because of the state of mind that the signee was under when signing.
+subject_label:			3
+query_id:			641156

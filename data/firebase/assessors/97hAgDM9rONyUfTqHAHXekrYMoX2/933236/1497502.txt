@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1497502
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Current time now in Time Zone: America Phoenix (Arizona - Mountain Standard Time) What time zone is Tucson Arizona Time in? Mountain Standard Time = Tucson Arizona Time Standard Time is 7 hours behind Greenwich Mean Time ( GMT-7 ). Tucson Arizona Time does not operate Daylight-Saving Time and so operates Mountain Standard Time all year around.
+subject_label:			1
+query_id:			933236

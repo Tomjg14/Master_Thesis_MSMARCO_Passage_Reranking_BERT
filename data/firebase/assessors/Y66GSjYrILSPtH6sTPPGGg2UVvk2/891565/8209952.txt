@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8209952
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Sacramento County Sheriff Scott Jones on the rise in concealed carry permits Sacramento County Sheriff Scott Jones, in a Jan. 28, 2016, interview with The Sacramento Bee's Capitol Bureau, explains his policy on concealed weapons permits.
+subject_label:			2
+query_id:			891565

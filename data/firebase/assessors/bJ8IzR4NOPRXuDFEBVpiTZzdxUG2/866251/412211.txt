@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			412211
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Many of the Zoos have them, but often they are only with a few of the animals. The Zoo has done alot of updating their site and park trying to compete with some of the larger Zoos. From what I could find out this Zoo also claims to be the oldest formal Zoo in the US.
+subject_label:			2
+query_id:			866251

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7731946
+query:			where is berrimah
+passage:			Passage: Position: Street Map Â» NT Â» Letter B Â» Berrimah. Street Map of Berrimah (Northern Territory), Australia. Below map you can see Berrimah street list. If you click on street name, you can see position on the map. Click on street name to see the position on Berrimah street map. In list you can see 35 streets.
+subject_label:			3
+query_id:			978057

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1339466
+query:			what is process improvement (lean six sigma)
+passage:			Passage: IMPRovIng SeRvICe deLIveRy In goveRnMenT WITH Lean SIx SIgMa Lean Thinking4 introduced many practitioners to Lean, including a five-step application guide: (1) specify value from the customerâs perspective; (2) identify the stream of processes used to provide value; ( ) remove non-value-added activities from the value Six Sigma Six Sigma
+subject_label:			2
+query_id:			786937

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3939061
+query:			when was jim vance funeral
+passage:			Passage: Jim Vance, who is celebrating his 46th year at NBC4, will continue anchoring for another few years. Vance will continue to anchor News4 at 6 with Doreen Gentzler. He will also contribute stories and special reports for News4 at 11, but will step down as anchor of that newscast at the end of May. After all those years of staying at work until midnight, Vance said heâs ready for an early bedtime.
+subject_label:			1
+query_id:			958311

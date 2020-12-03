@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7088655
+query:			vainglory meaning
+passage:			Passage: He checked the vainglory of Alexander, when he aspired to the honours of divinity, by pointing to his wounded finger, saying, See the blood of a mortal, not of a god.
+subject_label:			1
+query_id:			1089051

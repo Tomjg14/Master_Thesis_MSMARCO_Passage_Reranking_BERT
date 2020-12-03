@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			361868
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: wear heart on sleeve; wear heart on sleeve; wear heart on sleeve; wear heart on sleeve; wear heart on sleeve; wear heart on sleeve; wear her fingers to the bone; wear her to a frazzle; wear him to a frazzle; wear his fingers to the bone; wear in; Wear leveling; Wear leveling; Wear leveling; Wear levelling; wear me to a frazzle; wear more than one hat; wear motley
+subject_label:			2
+query_id:			1083663

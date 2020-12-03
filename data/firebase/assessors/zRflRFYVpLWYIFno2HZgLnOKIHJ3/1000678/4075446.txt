@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4075446
+query:			where did captain james cook explore?
+passage:			Passage: Captain James Cook FRS (7 November 1728[NB 1] â 14 February 1779) was a British explorer, navigator, cartographer, and captain in the Royal Navy.
+subject_label:			1
+query_id:			1000678

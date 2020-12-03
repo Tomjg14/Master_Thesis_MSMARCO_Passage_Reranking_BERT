@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4034158
+query:			what network is pickles on cartoon
+passage:			Passage: Johnny Bravo is an American animated television series created by Van Partible for Cartoon Network. The series was originally part of a series of shorts on Cartoon Network's animation showcase series What a Cartoon! .
+subject_label:			1
+query_id:			881695

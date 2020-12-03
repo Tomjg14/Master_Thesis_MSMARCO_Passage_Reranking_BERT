@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7120432
+query:			what county is stacy minnesota
+passage:			Passage: The city of Stacy is located in Chisago County. From the Census Estimates for 2016, Stacy has a population of 1,475 people <1> (see below for details). Stacy is 880 feet [268 m] above sea level. <2>. Time Zone: Stacy lies in the Central Time Zone (CST/CDT) and observes daylight saving time. Stacy is within the boundaries of the (651) area code.
+subject_label:			3
+query_id:			1085279

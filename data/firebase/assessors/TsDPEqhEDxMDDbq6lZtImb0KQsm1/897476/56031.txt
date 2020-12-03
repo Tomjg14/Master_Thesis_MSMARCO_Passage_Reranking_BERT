@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			56031
+query:			what state has the easiest bar exam
+passage:			Passage: We cover concepts like multiple bar admissions and reciprocity below. Passing the Bar Exam in at Least One State. Your future is not doomed if you never pass a bar exam, but your employment opportunities in the legal arena will increase exponentially if you pass the bar exam and get admitted in at least one state.
+subject_label:			1
+query_id:			897476

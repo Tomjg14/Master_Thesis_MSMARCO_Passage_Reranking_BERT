@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669619
+query:			is callahan an irish name
+passage:			Passage: Variant spellings of the Irish surname Callahan include: Callaghan, Calahan, O'Callahan, O'Callaghan, Kalahan, Kallaghan, Kallahan, O'Kallaghan, Kellaghan, Kelleghan, Kellahan, Kelahan, Ceilahan, Ceilaghan, Callachan, Calachan, Callagan, Calagan, Kelagan, Keelaghan, Kealahan, Kelaghan, Callighan, and others.
+subject_label:			4
+query_id:			405238

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7194258
+query:			what is termis
+passage:			Passage: Awards and Recognition Dr. William Wagner Named a TERMIS Fellow Dr. William Wagner Named a TERMIS Fellow By: The McGowan Institute For Regenerative Medicine | Category: Awards and Recognition, News Archive | September 28, 2015
+subject_label:			2
+query_id:			1045227

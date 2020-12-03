@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4166777
+query:			how big is a micron
+passage:			Passage: A muscle is a bundle of many cells called fibers. You can think of muscle fibers as long cylinders, and compared to other cells in your body, muscle fibers are quite big. They are from about 1 to 40 microns long and 10 to 100 microns in diameter. muscle is a bundle of many cells called fibers. You can think of muscle fibers as long cylinders, and compared to other cells in your body, muscle fibers are quite big. They are from about 1 to 40 microns long and 10 to 100 microns in diameter.
+subject_label:			1
+query_id:			208822

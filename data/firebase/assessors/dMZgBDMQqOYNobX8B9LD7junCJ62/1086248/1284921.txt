@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1284921
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Other Heat Rashes. Heat Rash - Prickly Heat. Unlike golfer's vasculitis, prickly heat is itchy. It is triggered by blocked sweat glands and causes raised itchy red dots or bumps. It is best treated by getting out of the heat for a few days and not scratching the area. Heat Rash and Prickly Heat.
+subject_label:			2
+query_id:			1086248

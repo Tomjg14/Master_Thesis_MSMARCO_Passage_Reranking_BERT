@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5465170
+query:			how much does a spectacled bear weigh
+passage:			Passage: Related QuestionsMore Answers Below. How much does a 5 gallon bottle of bottled water weigh? How much does a gallon of fresh water weigh? If the weight of gold is almost 20, and the weight of a 5 gallon bucket of water is 40 pounds, how much would a 5 gallon bucket of gold weigh?...
+subject_label:			1
+query_id:			311540

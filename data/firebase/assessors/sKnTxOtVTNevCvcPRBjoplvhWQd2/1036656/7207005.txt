@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7207005
+query:			what is the meaning of chicken rice?
+passage:			Passage: Hainanese chicken rice is a common dish in Thailand where it is called khao man kai (Thai: à¸à¹à¸²à¸§à¸¡à¸±à¸à¹à¸à¹), literally meaning chicken-oil rice. The chickens used in Thailand for this dish can be free range chickens of local breeds, resulting in a leaner and tastier dish, but increasingly meat chickens from large scale poultry farms are being used.
+subject_label:			4
+query_id:			1036656

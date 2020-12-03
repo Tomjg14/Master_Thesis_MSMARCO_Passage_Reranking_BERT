@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7596797
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Menlo Park, New Jersey, is where Edison built a laboratory in 1876. (Menlo Park is now part of Edison, New Jersey.) There he developed the electric light system and invented the first phonograph. However, Menlo Park served as his lab for only ten years.
+subject_label:			3
+query_id:			968608

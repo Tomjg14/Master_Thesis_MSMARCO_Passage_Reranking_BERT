@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7484678
+query:			what is the meaning of chicken rice?
+passage:			Passage: Orange Peel Chicken, without rice; Orange Peel Shrimp, without rice; Pepper Steak, without rice; Philip's Better Lemon Chicken, without rice; Pork Fried Rice; Salt & Pepper Prawns, without rice; Sesame Chicken, without rice; Shanghai Shrimp, with Garlic Sauce, without rice; Shrimp Fried Rice; Shrimp, with Candied Walnuts, without rice
+subject_label:			2
+query_id:			1036656

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1933404
+query:			what is the phone number to spe
+passage:			Passage: Medical Definition of SPES PHTHISICA. : a state of euphoria occurring in patients with pulmonary tuberculosis. What made you want to look up spes phthisica?edical Definition of SPES PHTHISICA. : a state of euphoria occurring in patients with pulmonary tuberculosis. What made you want to look up spes phthisica?
+subject_label:			1
+query_id:			1034595

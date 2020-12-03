@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3166068
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: Smooth muscle has been implicated to play a role in a large number of diseases affecting blood vessels, the respiratory tract (e.g., asthma), the digestive system (e.g. irritable bowel syndrome) and the urinary tract (e.g., urinary incontinence).These disease processes are not usually confined to the muscular tissue.mooth muscle has been implicated to play a role in a large number of diseases affecting blood vessels, the respiratory tract (e.g., asthma), the digestive system (e.g. irritable bowel syndrome) and the urinary tract (e.g., urinary incontinence).
+subject_label:			2
+query_id:			993987

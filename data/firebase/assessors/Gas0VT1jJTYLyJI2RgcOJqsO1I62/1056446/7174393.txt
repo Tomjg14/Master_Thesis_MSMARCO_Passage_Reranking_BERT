@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7174393
+query:			what is dockpanel used for
+passage:			Passage: dock 2.1 dock 2.2 dock 2.3 dock 2.4 dock 2.5 dock 2.6
+subject_label:			1
+query_id:			1056446

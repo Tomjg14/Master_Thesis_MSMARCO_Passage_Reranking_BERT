@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5075830
+query:			head turner meaning
+passage:			Passage: Sylvester Turner, Mayor. Mayor Sylvester Turner serves as the Executive Officer of the City. As the City's chief administrator and official representative, the Mayor is responsible for the general management of the City and for seeing that all laws and ordinances are enforced. Administrative duties include the appointments, with Council approval, of department heads and persons serving on advisory boards.
+subject_label:			1
+query_id:			1100070

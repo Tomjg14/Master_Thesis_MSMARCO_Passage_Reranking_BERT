@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6779876
+query:			how many calories in provolone cheese
+passage:			Passage: SargentoÂ® Sliced Reduced Fat Provolone Cheese. Youâll be surprised how good a reduced fat cheese can taste when itâs made our way. Our smoked provolone cheese makes a great sliced cheese for sandwiches or platters, and also melts well into authentic Italian dishes without adding extra calories. * Compared to Regular Sargento Provolone Cheese. See Nutrition Information for Saturated Fat Content.
+subject_label:			2
+query_id:			1097449

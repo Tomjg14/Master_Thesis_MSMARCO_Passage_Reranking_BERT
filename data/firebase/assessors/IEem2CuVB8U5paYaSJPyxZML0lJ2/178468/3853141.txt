@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3853141
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Circulatory system: When food has been digested, the nutrients are absorbed in the blood through the small intestine. The absorption of nutrients into the circulatory system allows body cells to get nutrients.54 people found this useful. Circulatory system: When food has been digested, the nutrients are absorbed in the blood through the small intestine. The absorption of nutrients into the circulatory system allows body cells to get nutrients. 54 people found this useful.
+subject_label:			1
+query_id:			178468

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2155186
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: 11. Wear your heart on your sleeve Meaning: to express your emotions openly, especially when others notice without much effort. In Othello, Iago says he'll wear my heart upon my sleeve. For daws to peck at: I am not what I am (Act 1, Scene 1). The phrase most likely stemmed from jousting matches in the Middle Ages. Knights would wear tokens (such as scarfs) from their ladies tucked into the sleeves of their armor. But the first recorded use appears in Shakespeare's play. 12. Dogs of war
+subject_label:			5
+query_id:			1083663

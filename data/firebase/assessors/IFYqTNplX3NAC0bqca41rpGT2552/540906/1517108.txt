@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1517108
+query:			was the great wall of china breached
+passage:			Passage: 3. Where is the Great Wall of China located? The Great Wall stretches across North China from east to west for over 6,000 kilometers. It extends from the Shanhai pass at the seaside in the Hebei province in the east to the Jiayu pass in Gansu province in the west. The sites of the Great Wall stretch across 15 provinces of China. 4. How was the Great Wall of China built?
+subject_label:			1
+query_id:			540906

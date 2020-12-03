@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1058463
+query:			head turner meaning
+passage:			Passage: Jump with Rope Turners. 1 1. Choose a longer rope. This rope should be long enough to easily go over the head of the jumper or jumpers while the turners stand a comfortable distance apart. 2 2. Jump after standing between the turners. Face one of them and place the rope to the right or left of your feet. 3 3. Run into the turning rope.
+subject_label:			1
+query_id:			1100070

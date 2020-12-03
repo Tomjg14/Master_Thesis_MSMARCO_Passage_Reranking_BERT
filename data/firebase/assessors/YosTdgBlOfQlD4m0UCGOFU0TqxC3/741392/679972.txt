@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			679972
+query:			what is drop in baseball bat selection
+passage:			Passage: The drop of the bat is the difference between the length minus the weight. For example, if a bat is 33 long and it weighs 30 ounces, then the drop is -3. The drop of the bat varies in baseball, depending on the level of play. Little League doesn't have any regulations for the drop zone.
+subject_label:			5
+query_id:			741392

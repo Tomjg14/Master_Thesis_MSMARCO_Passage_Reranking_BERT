@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7998679
+query:			blue sky charge controller price
+passage:			Passage: Outback offers a pair of excellent MPPT charge controllers as well. While these aren't as varied as the options offered by Blue Sky, they do an excellent job of fulfilling the market's need for larger controllers.
+subject_label:			2
+query_id:			54819

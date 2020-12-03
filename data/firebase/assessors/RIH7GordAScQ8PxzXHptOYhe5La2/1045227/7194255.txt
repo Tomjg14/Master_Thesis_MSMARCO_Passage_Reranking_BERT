@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7194255
+query:			what is termis
+passage:			Passage: McGowan Institute for Regenerative Medicine Director William Wagner, PhD, Professor of Surgery, Bioengineering, and Chemical Engineering at the University of Pittsburgh, has been named a Fellow of the Tissue Engineering and Regenerative Medicine International Society (TERMIS).
+subject_label:			1
+query_id:			1045227

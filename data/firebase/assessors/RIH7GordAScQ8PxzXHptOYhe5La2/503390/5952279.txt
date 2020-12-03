@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5952279
+query:			statute of limitations definition
+passage:			Passage: In case of damages, a claim accrues, by definition in the statute of limitations, at the time that the wrong upon which the claim is based was done, regardless of the time when damage results.
+subject_label:			2
+query_id:			503390

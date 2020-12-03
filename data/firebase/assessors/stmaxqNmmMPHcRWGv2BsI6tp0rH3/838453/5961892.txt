@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5961892
+query:			what is the parent company for adidas
+passage:			Passage: Reebok's parent company, Adidas, is headquartered in Germany, while the Reebok world headquarters remains located in Canton, Massachusetts. The Reebok-CCM Hockey offices are located in Quebec, Canada and Stockholm, Sweden. Reebok EMEA (Europe, Middle East, Africa) has its regional office in Amsterdam, Netherlands.
+subject_label:			4
+query_id:			838453

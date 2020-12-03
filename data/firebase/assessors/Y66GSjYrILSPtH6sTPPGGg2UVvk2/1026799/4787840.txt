@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4787840
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: The higher the MELD score the sicker the patient, and the higher on the transplant waiting list. UT Southwest Medicine reports livers are only matched for blood type (A, B, O, AB) and size. Unlike other organs, special tissue typing is not necessary to determine which liver donor makes the best match.he Methodist Hospital is the largest liver transplant center in Texas, and one of the largest in the United States. The MELD score is calculated by determining the patients bilirubin, creatinine, and INR. The MELD score ranges from 5-40.
+subject_label:			4
+query_id:			1026799

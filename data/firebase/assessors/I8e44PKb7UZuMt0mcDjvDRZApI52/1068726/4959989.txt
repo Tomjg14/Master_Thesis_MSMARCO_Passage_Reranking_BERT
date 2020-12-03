@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4959989
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: The composting or other reuse of biodegradable waste âsuch as food or garden waste âis also considered recycling. Materials to be recycled are either brought to a collection center or picked up from the curbside, then sorted, cleaned and reprocessed into new materials destined for manufacturing.lastic recycling is the process of recovering scrap or waste plastic and reprocessing the material into useful products, sometimes completely different in form from their original state.
+subject_label:			2
+query_id:			1068726

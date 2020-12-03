@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5928821
+query:			highest mileage crossover india
+passage:			Passage: The distance between cities of Haryana (India) is calculated in kilometers(kms), miles and nautical miles. Distance in miles gives you the mileage between cities by this Haryana (India) mileage calculator.
+subject_label:			2
+query_id:			202306

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2355110
+query:			where is miralago
+passage:			Passage: This article is about the house and resort. For Swiss village, see Miralago. Mar-a-Lago (English pronunciation: /mÉÉ¹.É.lÉ.goÊ/) is an estate and National Historic Landmark in Palm Beach, Florida, built from 1924 to 1927 by heiress and socialite Marjorie Merriweather Post.
+subject_label:			5
+query_id:			987978

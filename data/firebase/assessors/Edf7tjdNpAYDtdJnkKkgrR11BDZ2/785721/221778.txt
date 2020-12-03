@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			221778
+query:			what is postulate in algebra
+passage:			Passage: Intermediate Algebra: Intermediate Algebra is a branch of mathematics that substitutes letters for numbers and uses simplification techniques to solve equations. Algebraic equations: A scale, what is done on one side of the scale with a number is also done to the other side of the scale.
+subject_label:			2
+query_id:			785721

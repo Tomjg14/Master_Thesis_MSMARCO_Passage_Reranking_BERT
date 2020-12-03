@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6905616
+query:			what is the plural of kohlrabies
+passage:			Passage: Kohlrabi (German turnip or turnip cabbage; Brassica oleracea Gongylodes Group) is an annual vegetable, and is a low, stout cultivar of cabbage. Kohlrabi can be eaten raw as well as cooked. Edible preparations are made with both the stem and the leaves.
+subject_label:			2
+query_id:			839488

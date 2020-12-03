@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			699657
+query:			what does extravert mean
+passage:			Passage: Synonyms for Extrovert: extrovert (noun) extraversive, extravert, extraverted, extravertive, extroversive, extroverted, extrovertive. Other synonyms: accessible,
+subject_label:			5
+query_id:			1083852

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1736584
+query:			where is ridgewood ny located
+passage:			Passage: Constructed as a burial place, the mound was saved from destruction by the Wisconsin Archeological Society and local citizens in 1944 and donated to the City of Monona. The area where the mound was discovered, now known as Indian Mounds Park, is located at the corner of Midwood and Ridgewood Avenues.
+subject_label:			1
+query_id:			991590

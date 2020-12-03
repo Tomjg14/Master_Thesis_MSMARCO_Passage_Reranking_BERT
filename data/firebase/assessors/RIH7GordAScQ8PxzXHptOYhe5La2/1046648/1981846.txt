@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1981846
+query:			who played fiddle for boxcar willie
+passage:			Passage: How come on Willy Wonka and the Chocolate Factory the golden tickets skip the hood? WHo played the girl in who wanted goose eggs in the 1970s willy wonka movie??? Willy Wonka and the Chocolate Factory (1971), or Charlie and the Chocolate Factory (2005)?
+subject_label:			1
+query_id:			1046648

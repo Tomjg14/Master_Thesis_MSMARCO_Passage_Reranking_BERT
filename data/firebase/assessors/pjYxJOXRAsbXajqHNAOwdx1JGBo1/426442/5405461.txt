@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5405461
+query:			is the hawb the tracking number
+passage:			Passage: In documentary letter of credit transactions HAWBs are treated exactly the same as conventional air waybills, provided they indicate the issuer itself assumes the liability as carrier or is acting as the agent of a named carrier, or if the credit expressly permits the acceptance of a HAWB. Sea air waybill; bill of lading.
+subject_label:			2
+query_id:			426442

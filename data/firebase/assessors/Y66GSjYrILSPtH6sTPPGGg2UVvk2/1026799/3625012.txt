@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3625012
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: The OPTN's secure transplant information database contains all national data on the candidate waiting list, organ donation and matching, and transplantation. This system is critical in helping organ transplant institutions match waiting candidates with donated organs. Institutions also rely on the database to manage time-sensitive, life-critical data of all candidates, before and after their transplants.
+subject_label:			2
+query_id:			1026799

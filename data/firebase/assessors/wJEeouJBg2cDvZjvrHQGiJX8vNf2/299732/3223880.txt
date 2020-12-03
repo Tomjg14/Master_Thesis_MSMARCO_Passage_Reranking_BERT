@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3223880
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: The gestational sac (GS) is the first sign of early pregnancy on ultrasound and can be seen with endovaginal ultrasound at approximately 3-5 weeks gestation when the mean sac diameter (MSD) would approximately measure 2-3 mm in diameter. true gestational sac can be distinguished from a pseudogestational sac by noting: 1 its normal eccentric location: it is embedded in endometrium, rather than centrally within the uterine cavity. 2 presence of a yolk sac: seen at approximately 5.5 weeks. 3 presence of the double decidual sign (most helpful at 4-6.5 weeks).
+subject_label:			5
+query_id:			299732

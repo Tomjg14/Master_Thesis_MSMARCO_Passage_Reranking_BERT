@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4180167
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Pink discharge during pregnancy first trimester. A light pink discharge during pregnancy first trimester may have nothing to do with the pregnancy directly. If the discharge is dark pink, or reddish, it could be a lot more serious and may also be an indication of a miscarriage.
+subject_label:			1
+query_id:			414155

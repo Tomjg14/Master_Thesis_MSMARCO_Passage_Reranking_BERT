@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7785288
+query:			when was jim vance funeral
+passage:			Passage: Jim was preceded in death by his father James B. Vance. The Vance family will receive friends Sunday August 4, 2013 from 1-4 p.m. in the Bellville Snyder Funeral Home where funeral services will be held Monday at 11 a.m. The Rev. Dr. Michael V. Stine will officiate and burial will follow in Bellville Cemetery.
+subject_label:			5
+query_id:			958311

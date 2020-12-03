@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7796987
+query:			what is ssc je
+passage:			Passage: What is Japanese encephalitis? Japanese encephalitis (JE) is a potentially severe disease. JE is caused by a virus spread by infected mosquitoes in Asia and the western Pacific. JE virus is one of a group of mosquito-transmitted viruses that can cause inflammation of the brain (encephalitis). Where does Japanese encephalitis occur? JE occurs in Asia and parts of the western Pacific.
+subject_label:			1
+query_id:			1045826

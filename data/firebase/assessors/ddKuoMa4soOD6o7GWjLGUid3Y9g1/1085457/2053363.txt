@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2053363
+query:			carnation® evaporated milk total calories
+passage:			Passage: carnation breakfast essentialsÂ® powder drink mix carnation breakfast essentials Â® powder drink mix Mix with milk for a complete nutritional drink loaded with nutrition and flavor.
+subject_label:			1
+query_id:			1085457

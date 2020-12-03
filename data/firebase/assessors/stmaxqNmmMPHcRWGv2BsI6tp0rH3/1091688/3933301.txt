@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3933301
+query:			phone number for bc transit junction
+passage:			Passage: Email: - I would like a transit representative to contact me to discuss the incident (a phone number or email address is required). Yes, I have read this privacy policy. Information on this page is collected under the Freedom of Information and Protection of Privacy Act to provide the service you request.If you have questions about this collection, please email FOI_Request@BCTransit.com or call (1-844-482-6161) or visit BC Transit at 520 Gorge Road East, Victoria, BC V8W 2P3. I would like a transit representative to contact me to discuss the incident (a phone number or email address is required). Yes, I have read this privacy policy.
+subject_label:			3
+query_id:			1091688

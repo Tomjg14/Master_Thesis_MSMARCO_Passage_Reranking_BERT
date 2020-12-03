@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			838771
+query:			circulation money definition
+passage:			Passage: Define Money stock. Money stock synonyms, Money stock pronunciation, Money stock translation, English dictionary definition of Money stock. n. The amount of money in the economy. Measures of money supply usually include cash in circulation and current account deposits in banks, but may also...
+subject_label:			2
+query_id:			92542

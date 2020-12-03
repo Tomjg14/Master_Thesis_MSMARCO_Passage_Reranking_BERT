@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7864454
+query:			what is the parent company for adidas
+passage:			Passage: TaylorMade-Adidas Golf, based in Carlsbad, is on the auction block. German sports gear giant Adidas, parent company of TaylorMade, said Wednesday that it plans to sell off its TaylorMade, Ashworth and Adams golf brands and operations as U.S. participation in golf remains stagnant. TaylorMade is a very viable business, Adidas Chief Executive Herbert Hainer said in a statement. However, we decided now is the time to focus even more on our core strength in the athletic footwear and apparel market.
+subject_label:			3
+query_id:			838453

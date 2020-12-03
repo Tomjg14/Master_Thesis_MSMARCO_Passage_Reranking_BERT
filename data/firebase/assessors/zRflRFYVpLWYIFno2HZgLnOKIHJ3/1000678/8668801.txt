@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8668801
+query:			where did captain james cook explore?
+passage:			Passage: James Cook Biography. James Cook was a British explorer, captain and cartographer. Explore this biography to learn more about his profile, childhood, life and timeline. See the events in life of James Cook in Chronological Order. Quick Facts.
+subject_label:			1
+query_id:			1000678

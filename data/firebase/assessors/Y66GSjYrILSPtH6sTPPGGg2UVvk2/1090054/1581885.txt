@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1581885
+query:			temperature diode
+passage:			Passage: Other benefits of using tunnel diodes include low power dissipation, low noise, simple fabrication and environmental immunity, meaning the tunnel diode is affected by the environmental temperature. Disadvantages of tunnel diodes often include low peak-to-valley current ratio and reproducibility.
+subject_label:			1
+query_id:			1090054

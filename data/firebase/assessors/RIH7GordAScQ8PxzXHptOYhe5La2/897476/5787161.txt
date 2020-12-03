@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5787161
+query:			what state has the easiest bar exam
+passage:			Passage: State Bar Exams. Soon after graduating from, law school, youâll need to sit for the bar exam in your state, or in the state where you want to practice law. Studying for the bar exam will likely consume two to three months of your time and will take an additional few months to get the results.
+subject_label:			1
+query_id:			897476

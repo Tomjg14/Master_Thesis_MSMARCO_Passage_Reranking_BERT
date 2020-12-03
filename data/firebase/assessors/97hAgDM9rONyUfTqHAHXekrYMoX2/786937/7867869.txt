@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7867869
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Lean Six Sigma is the primary process improvement methodology used here at Cooper University Health Care. At Cooper, we apply Lean Six Sigma to improve all areas of operations. This balanced improvement approach strives to improve our key pillars of Quality, Safety, Patient Satisfaction, Employee Satisfaction and Cost.
+subject_label:			2
+query_id:			786937

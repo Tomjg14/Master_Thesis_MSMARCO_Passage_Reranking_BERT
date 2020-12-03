@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5047774
+query:			how much does a spectacled bear weigh
+passage:			Passage: Spectacled Bear Description. Spectacled Bears are generally smaller bears of the Ursidae family. Males are significantly larger than females (33% larger) and grow over 5 feet (1.5 metres) in length and weigh up to 340 pounds (154 kilograms). Females rarely weigh more than 180 pounds (82 kilograms).
+subject_label:			5
+query_id:			311540

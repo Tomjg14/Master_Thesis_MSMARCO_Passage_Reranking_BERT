@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3233042
+query:			what is impact ratio analysis
+passage:			Passage: Poisson's ratio also affects the decay of stress with distance according to Saint Venant's principle, and the distribution of stress around holes and cracks. An example. Analysis of effect of Poisson's ratio on compression of a layer. What about the effect of Poisson's ratio on constrained compression in the 1 (or x
+subject_label:			1
+query_id:			757644

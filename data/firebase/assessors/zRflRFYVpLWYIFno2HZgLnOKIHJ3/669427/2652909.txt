@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2652909
+query:			what hormone secretion causes goiter
+passage:			Passage: 1 Diffuse Toxic Goiter (Graves' Disease). 2 Overactivity of the entire thyroid gland caused by antibodies in the blood which stimulate the thyroid to grow and secrete excessive amounts of thyroid hormone. 3 Toxic Adenoma (hot nodule). 4 A dominant thyroid nodule, or lump, is overactive and secretes excess thyroid hormone.
+subject_label:			2
+query_id:			669427

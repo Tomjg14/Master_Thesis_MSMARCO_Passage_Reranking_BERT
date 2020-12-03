@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289325
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: Showcasing a playground and views of the lake, Hilton Charlotte University Place is located in Charlotte in the region of North Carolina, just 219 yards... Showcasing a playground and views of the lake, Hilton Charlotte University Place is located in Charlotte in the region of North Carolina, just 219 yards...
+subject_label:			2
+query_id:			988306

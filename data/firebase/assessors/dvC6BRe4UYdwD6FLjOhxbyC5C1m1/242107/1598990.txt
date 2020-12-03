@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1598990
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: How long can I keep mushrooms in refrig!! I've refrigerated mushrooms for 5 days until now, and they're turning dark. I'm wondering if it's ok to cook them?? and how long can I keep mushrooms in refrigerator?? __________________.There's really no hard or fast rule to how long you can keep mushrooms in the fridge. Frankly, you can keep them in the fridge for as long as they remain fresh-lol!! That said, so long as they're kept dry, they should last quite awhile, although they may begin drying out a bit.'ve refrigerated mushrooms for 5 days until now, and they're turning dark. I'm wondering if it's ok to cook them?? and how long can I keep mushrooms in refrigerator??
+subject_label:			1
+query_id:			242107

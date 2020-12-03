@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6136881
+query:			linking verb synonym
+passage:			Passage: A subject complement is the adjective, noun, or pronoun that follows a linking verb. The following verbs are true linking verbs: any form of the verb be [ am, is, are, was, were, has been, are being, might have been, etc.], become, and seem. These true linking verbs are always linking verbs. subject complement is the adjective, noun, or pronoun that follows a linking verb. The following verbs are true linking verbs: any form of the verb be [ am, is, are, was, were, has been, are being, might have been, etc.], become, and seem. These true linking verbs are always linking verbs.
+subject_label:			3
+query_id:			440362

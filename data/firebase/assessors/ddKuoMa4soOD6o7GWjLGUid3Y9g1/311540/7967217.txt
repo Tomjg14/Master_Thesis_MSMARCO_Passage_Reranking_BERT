@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7967217
+query:			how much does a spectacled bear weigh
+passage:			Passage: Spectacled Bears are relatively small species, compared to other species of bear. Adult males can range in weigh from 220 to 440 pounds, while females from 77 to 181 pound. Length can range from 120 to 200 cm. The males are larger than the females for about one third.
+subject_label:			4
+query_id:			311540

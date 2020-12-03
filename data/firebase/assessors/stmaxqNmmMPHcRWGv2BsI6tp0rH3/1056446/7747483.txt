@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7747483
+query:			what is dockpanel used for
+passage:			Passage: What are the uses of Librium Tablet? What are the side-effects of Librium Tablet? What is the composition of Librium Tablet? What other medicines does Librium Tablet interact with? When should you not use Librium Tablet? What precautions should you take while using Librium Tablet?
+subject_label:			1
+query_id:			1056446

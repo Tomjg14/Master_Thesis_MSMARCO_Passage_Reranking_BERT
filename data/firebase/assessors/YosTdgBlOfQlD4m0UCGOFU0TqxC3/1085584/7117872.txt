@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7117872
+query:			carbon reactivation facilities california
+passage:			Passage: Carbon reactivation services. Reactivated carbon is available with bulk density ranging from 0.45 g/cu.cm to 0.51 g/cu.cm, 5 percent moisture, 3 mm x 4.5 mm particle size, 800 sq. m/g substrate surface area, 50 percent carbon tetrachloride activity & 95 percent hardness.
+subject_label:			3
+query_id:			1085584

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7810602
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Please note: â¢ On Free Fun Friday, August 26, Franklin Park Zoo will close at 4:00 p.m., with the last admission at 3:30 p.m. â¢ On Saturday, August 20, Franklin Park Zoo will close at 1:00 p.m., with the last admission at 12:30 p.m., in preparation for Brew at the Zoo. x. About Us.
+subject_label:			2
+query_id:			866251

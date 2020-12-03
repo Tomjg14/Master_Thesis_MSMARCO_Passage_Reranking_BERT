@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			156463
+query:			which situation does a company issue a note receivable
+passage:			Passage: Meaning that the can receive goods immediately by agreeing to pay within 90 days. The various types of receivables include customer accounts receivables, notes receivable and other receivables. The amounts that a customer owes is called Customer Account Receivables, which is better known as Accounts Receivable. Notes receivable maybe loans that a company made to another firm.
+subject_label:			2
+query_id:			993153

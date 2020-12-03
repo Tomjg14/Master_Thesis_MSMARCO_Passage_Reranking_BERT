@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5236004
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: Has an nba team ever gone undefeated in their division? No team in NBA history has gone undefeated in their division. The Boston Celtics in 08-09 went 15-1 in their division, as did the Miami Heat in 03-04. In 1949-50 the Syracuse â¦Nationals also went 15-1 in their division. 4 people found this useful.
+subject_label:			4
+query_id:			198807

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5812776
+query:			what does a grassroots organization mean
+passage:			Passage: The urban political machines were no more than a political party organized on the grassroots level. They exsisted to win elections and reward its followers with jobs on â¦ the city's pallroll. The urban political machines were no more than a political party organized on the grassroots level. They exsisted to win elections and reward its followers with jobs on the city's pallroll. What are the advantages and disadvantages of urbanization?
+subject_label:			2
+query_id:			1084469

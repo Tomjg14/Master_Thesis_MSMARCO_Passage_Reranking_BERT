@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8784476
+query:			is thread.sleep implicit wait
+passage:			Passage: If you remove DoEvents from your code, your form will not repaint until the click event handler of the button is finished executing. For more information on messaging, see User Input in Windows Forms. Unlike Visual Basic 6.0, the DoEvents method does not call the Thread.Sleep method.
+subject_label:			1
+query_id:			1093866

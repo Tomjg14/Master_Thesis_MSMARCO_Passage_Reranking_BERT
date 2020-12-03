@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7074008
+query:			what is included in a clutch kit
+passage:			Passage: can am outlander clutch kit. Follow can am outlander clutch kit to get e-mail alerts and updates on your eBay Feed. Unfollow can am outlander clutch kit to stop getting updates on your eBay Feed. Yay! You're now following can am outlander clutch kit in your eBay Feed.ollow can am outlander clutch kit to get e-mail alerts and updates on your eBay Feed. Unfollow can am outlander clutch kit to stop getting updates on your eBay Feed. Yay! You're now following can am outlander clutch kit in your eBay Feed.
+subject_label:			2
+query_id:			758519

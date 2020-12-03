@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7992832
+query:			highest mileage crossover india
+passage:			Passage: In the following paragraphs, we have listed the Best Mileage Cars In India. And this list also provides price details of all the models weâve mentioned here. So, starting with the most fuel efficient, hereâs our list of Best Mileage Cars In India with Price, Specs, Images and more.
+subject_label:			5
+query_id:			202306

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6598153
+query:			where did edison set up his first laboratory for research
+passage:			Passage: Nevertheless, Edison became a voracious reader and at age 10, he set up a laboratory in his basement. When his mother could no longer stand the smell of his chemistry lab, Edison took a job as a trainboy on the railway and established a new lab in an empty freight car. He was 12 at the time.
+subject_label:			1
+query_id:			968608

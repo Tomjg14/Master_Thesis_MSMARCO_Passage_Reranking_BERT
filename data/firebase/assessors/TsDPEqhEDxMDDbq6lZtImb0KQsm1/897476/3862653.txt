@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3862653
+query:			what state has the easiest bar exam
+passage:			Passage: Bar Exam Results. @BarResults â Here are the links to the Bar Exam Results and Pass Rates by state for February 2017 State Bar Exams. Good Luck! If I havenât posted a release date, please tell me what it is. It means I donât have access to that info yet.
+subject_label:			2
+query_id:			897476

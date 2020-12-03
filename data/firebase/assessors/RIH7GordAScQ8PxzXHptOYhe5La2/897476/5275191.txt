@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5275191
+query:			what state has the easiest bar exam
+passage:			Passage: The practice of business law will always be in demand, as having a trustworthy and competent attorney is a critical component of owning and operating any type of business. Becoming a business lawyer is a process that requires years of education, and in many cases, hundreds of thousands of dollars.However, your hard work will be sure to pay off, as successful business attorneys can command impressive salaries.ass the bar exam. Every state has different requirements for attorneys, so study for and complete the bar exam in whatever state you wish to practice. Visit Barexam.org for a listing of links to each individual state's bar exam website.
+subject_label:			1
+query_id:			897476

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7115950
+query:			what company was skittles made by?
+passage:			Passage: Skittles are made by The William Wrigley Jr. Company, which is owned by Mars Inc. Skittles are made by The William Wrigley Jr. Company, which is owned by Mars Inc.
+subject_label:			5
+query_id:			1085796

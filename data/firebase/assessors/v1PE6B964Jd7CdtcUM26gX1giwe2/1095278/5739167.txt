@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5739167
+query:			average temp in fort worth in march
+passage:			Passage: Average temperature of Dallas-Fort Worth including average monthly and annual data.verage temperature of Dallas-Fort Worth including average monthly and annual data.
+subject_label:			5
+query_id:			1095278

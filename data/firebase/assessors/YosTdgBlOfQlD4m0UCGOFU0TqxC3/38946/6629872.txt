@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6629872
+query:			average money market interest rates
+passage:			Passage: money market account (MMA) Special savings-account which pays fluctuating interest rate that, on average, is higher than the interest rate on ordinary savings accounts.
+subject_label:			3
+query_id:			38946

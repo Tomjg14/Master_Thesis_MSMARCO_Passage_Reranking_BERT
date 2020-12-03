@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7063837
+query:			highest mileage crossover india
+passage:			Passage: 2017 Kia Niro: gas mileage review. However you choose to view the 2017 Kia Niro hybridâKia says it's a crossover utility, we call it a wagonâit's a good-looking and relatively capacious small car.
+subject_label:			3
+query_id:			202306

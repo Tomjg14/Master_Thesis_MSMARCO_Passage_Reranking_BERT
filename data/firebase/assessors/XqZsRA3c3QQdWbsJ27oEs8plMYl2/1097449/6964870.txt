@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6964870
+query:			how many calories in provolone cheese
+passage:			Passage: Provolone. A 1-oz slice of provolone cheese contains about 98 calories. A couple slices added to your sandwich adds a significant amount of both calories and fat. There are 4.8 grams of saturated fat in this serving size of provolone, contributing to a total fat of 7.4 grams.
+subject_label:			5
+query_id:			1097449

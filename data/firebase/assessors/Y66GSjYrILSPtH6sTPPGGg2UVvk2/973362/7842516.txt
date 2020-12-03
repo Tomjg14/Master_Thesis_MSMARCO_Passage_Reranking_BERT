@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7842516
+query:			where does lice come from
+passage:			Passage: Where Do Lice Come From? When your child comes back from school with head lice, maybe the first question you are asking yourself is this one: âHow did lice come to OUR family?â And you start thinking which of your childâs friends had head lice, and who actually had head lice in the first place.
+subject_label:			3
+query_id:			973362

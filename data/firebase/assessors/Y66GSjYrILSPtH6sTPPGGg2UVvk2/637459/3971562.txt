@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3971562
+query:			what does fdg mean
+passage:			Passage: FDG activity in the testes is mild. Faint FDG activity may be seen in the penis. Bone marrow FDG activity intensity is similar to liver but more homogenous, which is mildly above blood pool FDG activity. FDG activity in the bone marrow may be increased in anemic patients or patients on medications like G-CSF.
+subject_label:			2
+query_id:			637459

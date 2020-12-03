@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7277127
+query:			what does extravert mean
+passage:			Passage: Extraverted Feeling (Fe) is the dominant function of the ENFJ and ESFJ types and is considered an extraverted Judging function.
+subject_label:			3
+query_id:			1083852

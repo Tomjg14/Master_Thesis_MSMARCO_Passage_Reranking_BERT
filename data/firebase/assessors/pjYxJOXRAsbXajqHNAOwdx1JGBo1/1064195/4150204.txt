@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4150204
+query:			what is aircraft ram air
+passage:			Passage: This temperature is what the air temperature is like just outside the aircraft, not -55C. This phenomenon is famously why Concorde had significantly higher temperatures: as a supersonic aircraft, the resulting total air temperature was much higher, i.e. +100C instead of -55C.
+subject_label:			4
+query_id:			1064195

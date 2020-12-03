@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7117880
+query:			carbon reactivation facilities california
+passage:			Passage: Carbon reactivation services for municipal and industrial customers including granular activated carbon reactivation, recycling and other carbon services. Operates two reactivation facilities, a testing laboratory and service centers. www.evoqua.com/en/brands/IPS/productinforma...
+subject_label:			2
+query_id:			1085584

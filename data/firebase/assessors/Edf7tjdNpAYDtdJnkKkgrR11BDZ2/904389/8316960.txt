@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8316960
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: the money from each cup sold goes directly to thrive s network of farmers in central america the coffee is available at all chick fil a restaurants nationwide the price for a hot coffee starts at $ 1 59 and the ice coffee starts at $ 2 29the new breakfast items will be available for a limited time in the inland empire as well as philadelphia middle georgia and memphis tenn i candy my baconenn harris contact reporter chick fil a is testing a new breakfast menu with chicken and waffles greek yogurt and more chick fil a has started testing a new breakfast menu at select locations around the country including its 12 restaurants in the inland empire
+subject_label:			1
+query_id:			904389

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2463605
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Ozarks Zoos and Animal Parks. Springfield, MO has the only zoo in the area, but there are several tiger refuges and a number of drive through wild animal parks in the region. Butterfly palace and aquarium, too! More detailed information can be found on the regional search pages. Springfield Zoos and Animal Parks.
+subject_label:			2
+query_id:			866251

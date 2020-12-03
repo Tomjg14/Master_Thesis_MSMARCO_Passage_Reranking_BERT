@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7120428
+query:			what county is stacy minnesota
+passage:			Passage: At the time of the 2010 Census, Stacy had a population of 1,456 people. This makes Stacy the county's 6th most populous community. The population of Stacy represents 0.03% of the population of Minnesota (which has 5,303,925 people), making it the state's 297th most populous community. With a 2010 count of 1,456 people, the population of Stacy increased 13.93% from the 2000 Census (which had a count of 1,278 people).
+subject_label:			3
+query_id:			1085279

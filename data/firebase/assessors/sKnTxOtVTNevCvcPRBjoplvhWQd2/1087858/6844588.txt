@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6844588
+query:			what airport is in wilder ky
+passage:			Passage: More than 3,715 passengers travel on flights from this airport every day. View popular flights from this airport and the average price travelers paid. Pikeville, KY Travel Tips: First, start by examining the different airport options that are availble to you. You may find different low-fare airlines or cheaper tickets by flying into one airport and driving a short distance to Pikeville, KY. Be flexible in your travel plans in order to get the lowest fare to Pikeville, KY.
+subject_label:			1
+query_id:			1087858

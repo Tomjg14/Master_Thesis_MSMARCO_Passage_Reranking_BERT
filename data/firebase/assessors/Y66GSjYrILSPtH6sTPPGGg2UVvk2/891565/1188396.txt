@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1188396
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Incorporated. We are a family owned and operated walnut processing business located near the banks of the Sacramento River in the tight knit farming community of Dairyville. Situated just 155 miles south of the Oregon border, we are the northernmost walnut processing facility in the state.ncorporated. We are a family owned and operated walnut processing business located near the banks of the Sacramento River in the tight knit farming community of Dairyville. Situated just 155 miles south of the Oregon border, we are the northernmost walnut processing facility in the state.
+subject_label:			1
+query_id:			891565

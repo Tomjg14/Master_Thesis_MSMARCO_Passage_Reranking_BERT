@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1012822
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: However, walking is an excellent long-term weight-loss exercise. You can easily walk thousands of miles over decades, because walking has a very low injury risk. How many calories you burn on a one-mile walk depends on your speed and weight.
+subject_label:			1
+query_id:			1096932

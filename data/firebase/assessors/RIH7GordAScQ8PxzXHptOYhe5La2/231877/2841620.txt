@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2841620
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Although set in Middleton, USA it was filmed in Hamilton and Niagara on the Lake, Ontario. In the sequel The Good Witch's Charm, the map on the wall in the police station shows Middleton north and west of Chicago, in the vicinity of DuPage County.lthough set in Middleton, USA it was filmed in Hamilton and Niagara on the Lake, Ontario. In the sequel The Good Witch's Charm, the map on the wall in the police station shows Middleton north and west of Chicago, in the vicinity of DuPage County.
+subject_label:			1
+query_id:			231877

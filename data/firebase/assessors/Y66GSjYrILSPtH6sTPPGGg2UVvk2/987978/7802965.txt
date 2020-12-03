@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7802965
+query:			where is miralago
+passage:			Passage: The Miralago is a modern hotel with gardens and outdoor pool set on the shores of Lake Piediluco. It offers comfortable rooms with lake views, LCD TV with satellite channels, parquet floors, and air conditioning. You will enjoy beautiful views of the lake from Hotel Miralago's summer terrace and from the restaurant. The hotel provides free Wi-Fi in the lobby, and it has a TV lounge. A breakfast buffet is served daily.
+subject_label:			4
+query_id:			987978

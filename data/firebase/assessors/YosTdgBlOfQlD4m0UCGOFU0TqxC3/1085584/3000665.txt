@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3000665
+query:			carbon reactivation facilities california
+passage:			Passage: Properties. Epoxyethane is very reactive becacuse of its structure. The ring between the two carbons and oxygen is very strained and the bond angle is forced to be much smaller than is normal in carbon. This means that it is very reactive; and the carbon-oxygen bond is also broken in reactions.poxyethane is very reactive becacuse of its structure. The ring between the two carbons and oxygen is very strained and the bond angle is forced to be much smaller than is normal in carbon. This means that it is very reactive; and the carbon-oxygen bond is also broken in reactions.
+subject_label:			2
+query_id:			1085584

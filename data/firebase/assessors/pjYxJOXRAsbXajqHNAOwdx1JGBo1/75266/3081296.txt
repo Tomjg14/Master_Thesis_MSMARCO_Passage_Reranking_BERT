@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3081296
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Another exclusive feature of the vCenter Server Appliance 6.5 is the improved appliance management capabilities. The vCenter Server Appliance Management Interface continues its evolution and exposes additional health and configurations.
+subject_label:			1
+query_id:			75266

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8470753
+query:			neonatal hemochromatosis causes
+passage:			Passage: Hereditary hemochromatosis, an iron overload syndrome, does not cause anemia. However, one of the treatments for hemochromatosis (phlebotomy - removal of blood) can cause anemia. In brief: The treatment can... Hereditary hemochromatosis, an iron overload syndrome, does not cause anemia. However, one of the treatments for hemochromatosis (phlebotomy - removal of blood) can cause anemia.
+subject_label:			4
+query_id:			463230

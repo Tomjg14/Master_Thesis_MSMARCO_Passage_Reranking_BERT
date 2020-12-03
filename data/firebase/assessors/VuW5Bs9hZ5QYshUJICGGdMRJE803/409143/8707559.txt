@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8707559
+query:			is education a constitutional right
+passage:			Passage: According to the Indian Constitution, there are six basic Fundamental Rights of Indian Citizens, which are right to equality, right to freedom of religion, cultural and educational rights, right to freedom, right to constitutional remedies and right against exploitation.
+subject_label:			2
+query_id:			409143

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1698522
+query:			what is the meaning of chicken rice?
+passage:			Passage: What it is: A thick and creamy rice soup or porridge. Why it's awesome: Comfort food at its finest. Rice is simmered with spices and aromatics (and in this case, chicken), then topped with spring onions and fried garlic for extra crunch.
+subject_label:			2
+query_id:			1036656

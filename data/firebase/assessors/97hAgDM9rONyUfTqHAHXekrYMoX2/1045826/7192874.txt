@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192874
+query:			what is ssc je
+passage:			Passage: Check details of SSC JE 2018 answer key, result, cut off here. SSC JE 2018: SSC had conducted SSC JE Paper 1 from Jan. 22 to 29, 2018. SSC JE result 2018 is likely to be declared in March. The application process for SSC JE 2018 took place from Oct 21 to Nov 17, 2017.
+subject_label:			1
+query_id:			1045826

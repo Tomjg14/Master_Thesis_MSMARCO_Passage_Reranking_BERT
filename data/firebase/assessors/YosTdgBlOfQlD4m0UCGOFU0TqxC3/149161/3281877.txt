@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3281877
+query:			difference between watt and hertz
+passage:			Passage: SI derived units include the hertz, the newton, the pascal (unit of pressure or stress), the ohm, the farad, the joule, the coulomb, the tesla, the lumen, the becquerel, the siemen, the volt, and the watt.
+subject_label:			3
+query_id:			149161

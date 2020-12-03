@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8468586
+query:			how much does a audit senior make
+passage:			Passage: As a senior software engineer, what can I do to make the jump Into management? If every company wants to hire senior software engineers, where do all these senior software engineers get their head start? How much does a senior software engineer make at Google? What is a Senior Software Engineer supposed to know?
+subject_label:			2
+query_id:			1096257

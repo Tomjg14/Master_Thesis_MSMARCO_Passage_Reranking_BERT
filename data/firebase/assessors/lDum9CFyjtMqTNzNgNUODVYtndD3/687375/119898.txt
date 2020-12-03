@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			119898
+query:			what is a hydromyelia
+passage:			Passage: 0 evaluations from hydromyelia patients report major effectiveness of Epidural Steroid Injection for pain (0%) 1 evaluation from a hydromyelia patient reports moderate effectiveness of Epidural Steroid Injection for pain (100%) 0 evaluations from hydromyelia patients report slight effectiveness of Epidural Steroid Injection for pain (0%)
+subject_label:			2
+query_id:			687375

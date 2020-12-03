@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4874335
+query:			when was jim vance funeral
+passage:			Passage: John Candy's funeral would be held on March 21, 1994, at St. Martin's of Tours Church in LA. The church was near his home at 1630 Mandeville Canyon. Among those attending his funeral would be Jim Belushi, Bill Murray, Chevy Chase, Martin Short, Rick Moranis, Tom Hanks, Ed Harris, and Director Harold Ramis.
+subject_label:			1
+query_id:			958311

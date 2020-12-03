@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7943850
+query:			when was jim vance funeral
+passage:			Passage: In 1825 he married Mira Margaret Baird, daughter of Zebulon Baird, at their Beaverdam home. David and Mira Vance lived at the Vance homeplace on Reems Creek with his mother, Priscilla Brank Vance, until her death in 1837, when they bought a stockstand and inn on the Buncombe Turnpike near what is now Marshall.
+subject_label:			1
+query_id:			958311

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6482938
+query:			where do the ash borer come from
+passage:			Passage: Due to the recent discovery of the emerald ash borer. (EAB) in Michigan, it is important to be able to recognize. and identify ash trees. To date, emerald ash borer has only. been found on ash trees (see page 4). Not sure if your tree is.
+subject_label:			3
+query_id:			971653

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4787290
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Definition - What does Backdating mean? Backdating is the practice of assigning a date to a document that is earlier than the date the document was originally created or signed and finalized. Under most circumstances, backdating is considered fraudulent and illegal.
+subject_label:			1
+query_id:			641156

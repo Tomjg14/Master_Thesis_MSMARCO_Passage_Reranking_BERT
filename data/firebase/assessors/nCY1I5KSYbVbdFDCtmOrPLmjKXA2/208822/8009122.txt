@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8009122
+query:			how big is a micron
+passage:			Passage: One micron of length converted to millimeter equals to 0.0010 mm. How many millimeters of length are in 1 micron? The answer is: The change of 1 Âµ ( micron ) unit of length measure equals = to 0.0010 mm ( millimeter ) as the equivalent measure for the same length type.
+subject_label:			4
+query_id:			208822

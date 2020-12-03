@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7098181
+query:			what airport is in wilder ky
+passage:			Passage: The closest airport to Wilder, KY, United States is Cincinnati/Northern Kentucky International Airport (CVG). See also a map of the airports near Wilder.
+subject_label:			5
+query_id:			1087858

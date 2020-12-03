@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6591469
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: Other sources say that you can keep the fresh cooked sausage in the refrigerator up to seven days if kept at 40 degrees F (which is the normal setting in both restaurant and home refrigerators). Another says up to five days for cooked Italian sausage, lightly smoked sausage, or breakfast sausage. echnically in the sausage family, hot dogs can be kept in the refrigerator for up to two weeks unopened or for seven days in the refrigerator after opening.
+subject_label:			5
+query_id:			242107

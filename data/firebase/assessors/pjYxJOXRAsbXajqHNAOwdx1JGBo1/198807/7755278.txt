@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7755278
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: Do Kevin Daniels and Hank St. Clare possess any of the same personality traits? What major league baseball team has the record for most wins in a season? The 1906 Chicago Cubs and the 2001 Seattle Mariners hold the MLB record for wins in the regular season with 116. Most innings ever played in major league baseball? The MLB record for innings played was 26 by Brooklyn and Boston in 1920.
+subject_label:			1
+query_id:			198807

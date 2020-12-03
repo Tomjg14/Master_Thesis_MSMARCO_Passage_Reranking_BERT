@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3674427
+query:			can vcenter standard manage essentials plus
+passage:			Passage: Creating new databases for VMware vCenter is something I have to do over and over again. I use mostly Microsoft SQL Server 2008 R2 so here are six quick procedures to simplify the creation and make all your vCenter databases to the same standard. usually create a directory path for my SQL database D:\Microsoft SQL Server in which I will create two directories for the vCenter databses, vcenter-server and vcenter-update-manager. Microsoft SQL Server directory structure for User Databaes.
+subject_label:			1
+query_id:			75266

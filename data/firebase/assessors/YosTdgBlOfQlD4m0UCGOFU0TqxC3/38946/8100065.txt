@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8100065
+query:			average money market interest rates
+passage:			Passage: How I Picked the Best Money Market Accounts for 2018 Most savers choose a money market account instead of a savings account because they want a higher interest rate. Looking for MMAs with rates significantly higher than the national average effectively limited my search to online banks.
+subject_label:			3
+query_id:			38946

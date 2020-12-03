@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3554027
+query:			what is gabba
+passage:			Passage: Yo Gabba Gabba! Join DJ Lance Rock and his friendly toy monster friends Muno, Foofa, Brobee, Plex, and Toodee. Yo Gabba Gabba invites preschoolers to sing and dance along to a variety of catchy songs that impart simple yet important life lessons. Unlock more free episodesYou are signed in. Log Out.
+subject_label:			2
+query_id:			749752

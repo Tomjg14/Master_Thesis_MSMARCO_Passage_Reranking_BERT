@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2744363
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Creole jambalaya originates from the French Quarter of New Orleans, in the original European sector. It was an attempt by the Spanish to make paella in the New World, where saffron was not readily available due to import costs. Tomatoes became the substitute for saffron.he first appearance in print of any variant of the word 'jambalaya' in any language occurred in Leis amours de Vanus; vo, Lou paysan oou theatre, thÃ©Ã¢trÃ© By (Fortune) FortunÃ©, fortunat chailan first Published in provencal. provenÃ§al in 1837
+subject_label:			2
+query_id:			931726

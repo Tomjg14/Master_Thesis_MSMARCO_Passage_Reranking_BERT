@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3372719
+query:			what is impact ratio analysis
+passage:			Passage: What is a 'Sensitivity Analysis'. A sensitivity analysis is a technique used to determine how different values of an independent variable impact a particular dependent variable under a given set of assumptions.
+subject_label:			2
+query_id:			757644

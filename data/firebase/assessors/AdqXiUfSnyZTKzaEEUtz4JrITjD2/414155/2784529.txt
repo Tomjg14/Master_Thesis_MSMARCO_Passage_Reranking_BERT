@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2784529
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Some : Some women do have light bleeding during the first trimester when the fetus implants into the uterus. Please contact your gynecologist for an evaluation. White discharge is normal during pregnancy but if it is an excessive amount or you have the itching then it may be an infection.
+subject_label:			1
+query_id:			414155

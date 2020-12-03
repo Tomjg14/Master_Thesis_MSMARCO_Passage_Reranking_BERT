@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3220539
+query:			molar mass of phenol
+passage:			Passage: Definitions of molecular mass, molecular weight, molar mass and molar weight. 1 Molecular mass (molecular weight) is the mass of one molecule of a substance and is expressed in the unified atomic mass units (u). Molar mass (molar weight) is the mass of one mole of a substance and is expressed in g/mol.
+subject_label:			5
+query_id:			455456

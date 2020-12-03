@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2682285
+query:			where does lice come from
+passage:			Passage: You can get head lice from sitting in a desk next to. someone who is infested with head lice. Head lice are spread through direct head-to-head. contact. The lice do not hop, jump or fly, so sitting. near someone with head lice does not increase the. risk of getting the lice.
+subject_label:			5
+query_id:			973362

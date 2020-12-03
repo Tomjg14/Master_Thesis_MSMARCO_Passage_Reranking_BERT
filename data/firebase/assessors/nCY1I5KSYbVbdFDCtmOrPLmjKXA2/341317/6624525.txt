@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6624525
+query:			how tall is samus aran
+passage:			Passage: Henry Samueli Net Worth is $1.7 Billion. Henry Samueli Net Worth is $1.7 Billion. Henry Samueli is co-founder, senior vice president, and chief technology officer of the Broadcom Corporation; he has a net worth of $1.7 billion. Henry Samueli has in addition to his company has built is net w Henry Samueli is co-founder, senior vice president, and chief technology officer of the Broadcom Corporation, owner of the Anaheim Ducks, and Sat, 18 Nov 2017 02:36:00
+subject_label:			1
+query_id:			341317

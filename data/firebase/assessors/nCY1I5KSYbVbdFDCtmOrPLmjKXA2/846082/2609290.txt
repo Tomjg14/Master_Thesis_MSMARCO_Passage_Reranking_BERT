@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2609290
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Team effort fuels Warriors past Cavs in Game 1 (3:18)Steph Curry and Klay Thompson combine for just 20 points, but the rest of the team scores 84 points as the Warriors roll to a 104-89 Game 1 victory over the Cavaliers. (3:18)
+subject_label:			4
+query_id:			846082

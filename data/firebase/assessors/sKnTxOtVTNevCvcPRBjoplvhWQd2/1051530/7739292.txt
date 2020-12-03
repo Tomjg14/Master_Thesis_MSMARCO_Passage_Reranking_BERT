@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7739292
+query:			what is mastoidectomy
+passage:			Passage: Q. Pain and popping in ear months after a mastoidectomy. A. Complications of a mastoidectomy include: facial nerve paralysis or weakness (a rare complication caused by facial nerve injury)sensorineural...
+subject_label:			4
+query_id:			1051530

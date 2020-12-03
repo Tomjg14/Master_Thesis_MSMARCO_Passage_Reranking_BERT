@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2822545
+query:			carbon reactivation facilities california
+passage:			Passage: The method used to extract a metal from its ore depends on where the metal is in the reactivity series. Metals above Carbon in the Reactivity Series. A metal above carbon in the reactivity series (potassium, sodium, lithium, calcium, magnesium and aluminium) can be extracted by electrolysis.
+subject_label:			2
+query_id:			1085584

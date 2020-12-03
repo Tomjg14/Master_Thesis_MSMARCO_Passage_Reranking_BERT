@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7310187
+query:			temperature diode
+passage:			Passage: When you run HWMonitor, it will show you the CPU Voltages, Diode 1 & 2 Temperatures, Fan Speeds, ACPI Temp, the CPU temps, the GPU (Video Card) Temps, the Hard Drive temps and more, depending on your computer. Note: Diode 2 can give a false reading so donât worry at it.
+subject_label:			1
+query_id:			1090054

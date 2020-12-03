@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2481
+query:			what does extravert mean
+passage:			Passage: Introvert and extravert. Introvert and extravert, basic personality types according to the theories of the 20th-century Swiss psychiatrist Carl Jung.
+subject_label:			no_input
+query_id:			1083852

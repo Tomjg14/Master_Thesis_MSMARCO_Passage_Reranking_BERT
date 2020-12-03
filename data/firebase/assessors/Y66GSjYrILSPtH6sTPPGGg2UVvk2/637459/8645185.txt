@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8645185
+query:			what does fdg mean
+passage:			Passage: Several processes determine FDG uptake in tumor cells. Of major importance is the integrity of the vascular network that is necessary for supply of nutrients to the cell. FDG enters the cells by the same facilitated transport mechanism as glucose. The most common glucose transporters expressed on the cell membrane are Glut-1 which are insulin independent. Once inside the cell, FDG is phosphorylated by hexokinase into FDG-6-phosphate. FDG-6-phosphate does not enter into further metabolism and accumulates intracellularly.
+subject_label:			3
+query_id:			637459

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2094750
+query:			what is termis
+passage:			Passage: Nearby Terms. 1 voluntary expor... 2 voluntary forec... 3 voluntary leave. 4 voluntary organ... 5 voluntary reduc... 6 voluntary redun... 7 voluntary reser... 8 voluntary secto... 9 voluntary termi... 10 voluntary trade. 11 voluntary windi... 12 volunteer. 13 vortal. 14 vostro account. 15 voting agreemen... 16 voting control. 17 voting right.
+subject_label:			1
+query_id:			1045227

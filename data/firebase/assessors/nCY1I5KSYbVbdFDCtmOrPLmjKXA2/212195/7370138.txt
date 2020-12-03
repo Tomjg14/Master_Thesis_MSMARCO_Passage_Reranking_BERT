@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7370138
+query:			how could the courts check the bureaucracy
+passage:			Passage: Making the world better, one answer at a time. 1 constitutional provision that the courts can use to check the bureaucracy is judicial review. Judicial review is the power of the courts to declare laws unconstitutional. The courts can check the bureaucracy by declaring laws made by the bureaucracy unconstitutional.
+subject_label:			5
+query_id:			212195

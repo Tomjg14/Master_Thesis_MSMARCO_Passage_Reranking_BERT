@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8100199
+query:			phone number for bc transit junction
+passage:			Passage: Atlanta MARTA Customer Service Phone Number Phone Number of Atlanta MARTA is (404) 848-5000. Atlanta Marta is a short form, used for The Metropolitan Atlanta Rapid Transit Authority.
+subject_label:			2
+query_id:			1091688

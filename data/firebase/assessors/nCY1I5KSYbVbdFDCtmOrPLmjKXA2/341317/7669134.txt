@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669134
+query:			how tall is samus aran
+passage:			Passage: If the height and weight do indeed refer to Samus in suit, then it would be Varia. Notice that it says Samus Aran with Full Equipment, and in Metroid 2 the Varia is the only suit item. --Poiuyt Man talk 02:57, 19 August 2005 (UTC) ah yes....been playing MP lately......
+subject_label:			1
+query_id:			341317

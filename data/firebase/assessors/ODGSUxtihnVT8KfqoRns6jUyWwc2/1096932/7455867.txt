@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7455867
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: Here are some amazing Arthur Blessitt Facts:-He has carried the cross for the last 49 years.-He holds the Guiness Book of World Records for most miles walked.-Arthur has walked through every country on the planet (including every island grouping) sharing the Gospel with millions, that's right MILLIONS, of people along the way.
+subject_label:			2
+query_id:			1096932

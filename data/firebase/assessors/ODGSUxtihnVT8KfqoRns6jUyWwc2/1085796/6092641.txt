@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6092641
+query:			what company was skittles made by?
+passage:			Passage: They have hard sugar shells and inside mainly contains sugar, corn syrup, and hydrogenated palm kernel oil. Skittles have no vitamin a, proteins, or calcium. There is over 47,000 bags of skittles made each day and more than 200,000,000 individual skittles made each day. And to put the coating of the skittles on it takes around 8 hours. The original fruit flavor skittles consist of orange, lemon, lime, grape, and strawberry. Later on different/new flavors were introduced.
+subject_label:			1
+query_id:			1085796

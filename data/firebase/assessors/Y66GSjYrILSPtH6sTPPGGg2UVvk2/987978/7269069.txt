@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7269069
+query:			where is miralago
+passage:			Passage: Where is Shellman GA: Where is Skidaway Island GA: Where is Social Circle GA: Where is Soperton GA: Where is Sparks town GA: Where is Sparta GA: Where is Springfield GA: Where is St. Marys GA: Where is St. Simons GA: Where is Statenville GA: Where is Statham GA: Where is Stone Mountain GA: Where is Summerville GA: Where is Sunnyside GA: Where is Suwanee GA
+subject_label:			1
+query_id:			987978

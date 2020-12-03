@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8050180
+query:			who played fiddle for boxcar willie
+passage:			Passage: Tomatoes come in about every color from white to purple, pink, yellow, orange, mottled, or, yes, striped. (No polka-dots.) Commonly grown varieties include Beefsteak, Big Boy, Brandywine and Boxcar Willie, to touch only on the Bs.
+subject_label:			1
+query_id:			1046648

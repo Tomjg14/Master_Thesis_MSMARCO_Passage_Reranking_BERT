@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8362712
+query:			neonatal hemochromatosis causes
+passage:			Passage: In addition to primary hemochromatosis â an inherited disease also known as hereditary and genetic hemochromatosis â and secondary hemochromatosis, there are two other forms of the disease: juvenile hemochromatosis and neonatal hemochromatosis.Hemochromatosis causes the body to absorb and store too much iron.Because the body has no system through which to rid itself of excess iron, it gets stored in the tissue. The surplus iron accumulates in the organs causing them damage. If left untreated, hemochromatosis can cause heart, liver, and pancreatic failure.n addition to primary hemochromatosis â an inherited disease also known as hereditary and genetic hemochromatosis â and secondary hemochromatosis, there are two other forms of the disease: juvenile hemochromatosis and neonatal hemochromatosis.
+subject_label:			5
+query_id:			463230

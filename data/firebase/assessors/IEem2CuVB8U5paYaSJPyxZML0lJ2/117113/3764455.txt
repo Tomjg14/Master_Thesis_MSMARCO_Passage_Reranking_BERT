@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3764455
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincoln and the Telegraph. Interest in Technology Helped Lincoln Command the Military During the Civil War. History & Culture. President Abraham Lincoln used the telegraph extensively during the Civil War, and was known to spend many hours in a small telegraph office set up in the War Department building near the White House.
+subject_label:			3
+query_id:			117113

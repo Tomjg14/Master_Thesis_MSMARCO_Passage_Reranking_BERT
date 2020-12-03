@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4463648
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: A+E Networks. Considered the father of modern science, Galileo Galilei (1564-1642) made major contributions to the fields of physics, astronomy, cosmology, mathematics and philosophy.alileo Galilei was born in Pisa in 1564, the first of six children of Vincenzo Galilei, a musician and scholar. In 1581 he entered the University of Pisa to study medicine, but was soon sidetracked by mathematics.
+subject_label:			1
+query_id:			9083

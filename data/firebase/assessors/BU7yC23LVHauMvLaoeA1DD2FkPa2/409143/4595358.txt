@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4595358
+query:			is education a constitutional right
+passage:			Passage: This case involves the fundamental and religious future and education of their children. [emphasis supplied] Consequently, it is clear the constitutional right of a parent to direct the upbringing and education of his child is firmly entrenched in the U.S. Supreme Court case history. Furthermore, a higher standard of review applies to fundamental rights such as parental liberty than to other rights.
+subject_label:			2
+query_id:			409143

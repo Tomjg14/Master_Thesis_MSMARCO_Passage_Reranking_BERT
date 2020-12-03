@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595508
+query:			what does fdg mean
+passage:			Passage: FDG definition / FDG means? The Definition of FDG is given above so check it out related information. What is the meaning of FDG? The meaning of the FDG is also explained earlier. Till now you might have got some idea about the acronym, abbreviation or meaning of FDG. What does FDG mean? is explained earlier. You might also like some similar terms related to FDG to know more about it.
+subject_label:			1
+query_id:			637459

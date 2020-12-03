@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7641629
+query:			molar mass of phenol
+passage:			Passage: Alright so the equation is : C6H5OH(s)+7O2(g) -> 6CO2(g)+3H2O(l) 2.000g of pure phenol is completely burned (^). 64.98kJ of heat was released. What is the molar heat of combustion of phenol in kJ/mole at 25 Celcius.
+subject_label:			4
+query_id:			455456

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1878239
+query:			who played fiddle for boxcar willie
+passage:			Passage: edit Differences in Playing Style and Technique. When played in a folk style, it is said to be a fiddle and when played in classical tones it's called a violin. In fact, the playing style is the main criteria that differs the fiddle from the violin.The violinist reproduces the composerâs music with exacting accuracy, down to the loudness of individual notes. violin is called a fiddle when playing folk music. A fiddle is also a colloquial term for instruments used by players in all genres, including classical music. Fiddle playing, or fiddling, is a style of music.
+subject_label:			1
+query_id:			1046648

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2731065
+query:			where is ridgewood ny located
+passage:			Passage: Williams Holdings has approximately 20 employees at this location and 26 total employees at all locations. Where is Williams Holdings located? Williams Holdings is located at 150 Lawrence Bell Dr, Buffalo, NY 14221. This location is in Erie County and the Buffalo-Cheektowaga-Niagara Falls, NY Metropolitan Area. Is Richard Williams the only contact you have for Williams Holdings, LLC?
+subject_label:			1
+query_id:			991590

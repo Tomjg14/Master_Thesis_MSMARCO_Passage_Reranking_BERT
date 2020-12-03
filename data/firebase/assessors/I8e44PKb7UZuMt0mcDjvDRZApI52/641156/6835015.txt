@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6835015
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: What does the abbreviation Its mean in a legal document? The abbreviation Its in a legal document means the title that the person signing the document holds in a firm. This is applicable only when you sign a document on behalf o â¦ f a corporation and not as an individual.
+subject_label:			1
+query_id:			641156

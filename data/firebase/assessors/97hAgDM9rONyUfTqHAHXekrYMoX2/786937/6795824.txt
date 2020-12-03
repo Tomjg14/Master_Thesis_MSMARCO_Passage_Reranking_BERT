@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6795824
+query:			what is process improvement (lean six sigma)
+passage:			Passage: KEYWORDS business / hypothesis testing / Lean Six Sigma / process improvement / tool selection. Reprints. Process improvement plays a very vital role in organizations. Lean Six Sigma is one means for creating a deployment that is to improve the business. Through this effort there should be an upbeat task of determining, analyzing and enhancing an organizationâs business processes to achieve optimization and new quality standards.
+subject_label:			4
+query_id:			786937

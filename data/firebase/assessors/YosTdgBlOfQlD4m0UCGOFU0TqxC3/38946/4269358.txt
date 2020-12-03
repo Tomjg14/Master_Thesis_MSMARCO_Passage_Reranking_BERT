@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			4269358
+query:			average money market interest rates
+passage:			Passage: U.S. Average Savings Account Interest Rate. As of April 2016, the national average savings account interest rate is only 0.06 percent for all balances, according to the FDIC â the same as it was before the fed funds rate increase at the end of 2015. The national average money market account interest rate is slightly higher, however. For deposits less than $100,000, the average money market account interest rate is 0.08 percent; for deposits of $100,000 and higher, the rate is 0.12 percent. These rates have remained steady since before the fed funds rate increase in December 2015.
+subject_label:			5
+query_id:			38946

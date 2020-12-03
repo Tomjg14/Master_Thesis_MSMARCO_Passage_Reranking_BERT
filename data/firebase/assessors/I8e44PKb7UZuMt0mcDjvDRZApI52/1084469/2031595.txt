@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2031595
+query:			what does a grassroots organization mean
+passage:			Passage: Faking a grassroots movement is known as astroturfing, which, as the name suggests, is named after AstroTurf, the iconic brand of artificial grass. Astroturfing means pretending to be a grassroots movement, when in reality the agenda and strategy are controlled by a hidden, non-grassroots organization.rassroots organizations derive their power from the people, thus their strategies seek to engage ordinary people in political discourse to the greatest extent possible. Below is a list of strategies considered to be grassroots because of their focus on engaging the populous. 1 Hosting house meetings or parties.
+subject_label:			4
+query_id:			1084469

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3799777
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincoln was President of the United States of America during the Civil War. Jefferson Davis wa President of the Confederate States of America during the Civil War. Edit
+subject_label:			3
+query_id:			117113

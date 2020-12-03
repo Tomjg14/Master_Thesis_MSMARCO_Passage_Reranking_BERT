@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2615732
+query:			how much is college in florida
+passage:			Passage: 1 50% - What is the average cost of food per dy for a college student? 2 72% - How much spending money does the average college student need per month? 3 63% - How much do groceries cost per month for the average college student? 4 47% - On average how much does a student spend on tuition at teachers college? 73% - How much should a college student budget to furnish an apartment? 2 55% - How much does an apartment in fresno cost a college student? 3 67% - How much is it for an average college student to live in uk? 4 66% - What does the average college student spend on breakfast?
+subject_label:			1
+query_id:			1095876

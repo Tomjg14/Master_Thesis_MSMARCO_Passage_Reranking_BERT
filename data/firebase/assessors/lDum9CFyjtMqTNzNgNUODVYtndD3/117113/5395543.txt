@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5395543
+query:			define abraham lincoln during civil war
+passage:			Passage: Lead Story. Lincoln delivers Gettysburg Address. On November 19, 1863, at the dedication of a military cemetery at Gettysburg, Pennsylvania, during the American Civil War, President Abraham Lincoln delivers one of the most memorable speeches in American history.ead Story. Lincoln delivers Gettysburg Address. On November 19, 1863, at the dedication of a military cemetery at Gettysburg, Pennsylvania, during the American Civil War, President Abraham Lincoln delivers one of the most memorable speeches in American history.
+subject_label:			4
+query_id:			117113

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			785740
+query:			what is a hydromyelia
+passage:			Passage: Related Disorders-Syringomyelia. Syringomyelia (also called syrinx or hydromyelia) is a condition that occurs when spinal fluid collects inside the spinal cord. The spinal cord is connected to the lower part of the brain, called the brainstem.elated Disorders-Syringomyelia. Syringomyelia (also called syrinx or hydromyelia) is a condition that occurs when spinal fluid collects inside the spinal cord. The spinal cord is connected to the lower part of the brain, called the brainstem.
+subject_label:			5
+query_id:			687375

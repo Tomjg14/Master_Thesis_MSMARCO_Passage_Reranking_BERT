@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4477919
+query:			what airport is in wilder ky
+passage:			Passage: Local airports near Park City, KY. 13 miles: Glasgow, KY (GLW / KGLW) Glasgow Municipal Airport. 29 miles: Bowling Green, KY (BWG / KBWG) Bowling Green-Warren County Regional Airport. 50 miles: Tompkinsville, KY (KTZV / TZV) Tompkinsville-Monroe County Airport.
+subject_label:			3
+query_id:			1087858

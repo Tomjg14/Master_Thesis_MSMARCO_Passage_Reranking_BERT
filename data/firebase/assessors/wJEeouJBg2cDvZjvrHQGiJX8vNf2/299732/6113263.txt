@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6113263
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: Ultrasound. 1 yolk sac appears as a circular anechoic structure within gestational sac, but outside the amniotic membrane. 2 yolk sac should be seen when the mean sac diameter (MSD) is 20 mm on transabdominal scanning and is usually seen endovaginally with an MSD of 8-10 mm. yolk sac appears as a circular anechoic structure within gestational sac, but outside the amniotic membrane. 2 yolk sac should be seen when the mean sac diameter (MSD) is 20 mm on transabdominal scanning and is usually seen endovaginally with an MSD of 8-10 mm.
+subject_label:			3
+query_id:			299732

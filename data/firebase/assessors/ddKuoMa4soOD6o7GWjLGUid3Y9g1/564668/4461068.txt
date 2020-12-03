@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4461068
+query:			what are sensitive periods for brain development
+passage:			Passage: The phrase 'sensitive periods in human development' may sound like it refers to moody teenagers, but it actually refers to periods of time when a child easily absorbs information in a specific way. The most important sensitive periods occur between birth and age six.
+subject_label:			5
+query_id:			564668

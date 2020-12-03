@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4474806
+query:			what is the hormone that makes you fat
+passage:			Passage: Steroids are another major group of lipids. Steroids include cholesterol, chlorophyll, and hormones. Our bodies use cholesterol to make the hormones testosterone (male hormones) and estrogen (female hormones).Chlorophyll is used by plants to absorb light for photosynthesis. There are two main types of fats: saturated fats and unsaturated fats. 2 Saturated Fats-Saturated fats are solids at room temperature. 3 These fats tend to come from foods like red meat, cheese, and butter.
+subject_label:			2
+query_id:			825147

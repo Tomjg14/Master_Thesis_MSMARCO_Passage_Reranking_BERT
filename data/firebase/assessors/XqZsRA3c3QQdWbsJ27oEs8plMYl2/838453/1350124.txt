@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1350124
+query:			what is the parent company for adidas
+passage:			Passage: It is the holding company for the Adidas Group, which consists of the Reebok sportswear company, TaylorMade-Adidas golf company (including Ashworth), 9.1% of FC Bayern Munich and Runtastic, an Austrian fitness technology company. Adidas revenue for 2016 was listed at â¬19.29 billion.
+subject_label:			5
+query_id:			838453

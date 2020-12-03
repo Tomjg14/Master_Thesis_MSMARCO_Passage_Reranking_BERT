@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7446791
+query:			is cortana smart???
+passage:			Passage: Moreover Cortana also claimed Microsoft can communicate in both directions with a more natural way, not like Appleâs Siri or Google Now. Cortana name itself is taken from one of Microsoftâs Halo game character. In the game this character is a female figure drawn from artificial intelligence. Cortana smart, because he just can not take orders, but also to learn, adapt, and reply to all natural speech with words and sound smart.
+subject_label:			2
+query_id:			407274

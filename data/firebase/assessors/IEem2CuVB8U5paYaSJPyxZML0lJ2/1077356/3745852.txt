@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3745852
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: pain for patients with cervical dystonia. This was demonstrated in botulinum toxin naive naÃ¯ve patients as well as patients previously treated with a. botulinum. TOXIN myobloc was the FIRST-fda approved treatment for cervical, dystonia and remains the only Type b botulinum toxin approved for use in THE. us
+subject_label:			3
+query_id:			1077356

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5179386
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: City Spotlight. Eugene Pilots Residential Food Waste Collection The City of Eugene is launching a two-year residential food waste collection pilot to make it easier for people to recycle their food waste, instead of throwing it away.
+subject_label:			1
+query_id:			1068726

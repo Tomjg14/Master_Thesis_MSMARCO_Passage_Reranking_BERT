@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1360686
+query:			where is berrimah
+passage:			Passage: Where is Surgut: Where is Svobodnyj: Where is Syktyvkar: Where is Syzran: Where is Taganrog: Where is Tambov: Where is Tichoreck: Where is Tichvin: Where is Timashyovsk: Where is Tobolsk: Where is Toljatti: Where is Tomsk: Where is Troick: Where is Tuapse: Where is Tujmazy: Where is Tula: Where is Tumen: Where is Tver: Where is Uchta: Where is Ufa: Where is Ulan-Ude: Where is Uljanovsk
+subject_label:			1
+query_id:			978057

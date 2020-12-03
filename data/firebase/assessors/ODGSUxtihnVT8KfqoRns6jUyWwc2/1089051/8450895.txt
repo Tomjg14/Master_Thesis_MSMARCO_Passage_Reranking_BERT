@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8450895
+query:			vainglory meaning
+passage:			Passage: On Vainglory for PC, you will play against people playing it on mobile devices like iphones, ipads and android devices and against other players from computer.The differences of the mobile version and computer version is that you can play with a mouse and keyboard short keys.n Vainglory for PC, you will play against people playing it on mobile devices like iphones, ipads and android devices and against other players from computer.
+subject_label:			1
+query_id:			1089051

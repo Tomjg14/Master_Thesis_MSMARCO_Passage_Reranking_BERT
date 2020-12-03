@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6864021
+query:			is the sec constitutional
+passage:			Passage: 1974 U.S. Constitution Honest Value Never Fails. One Troy Ounce .999 Fine Silver Constitution Mint Provo Utah, U.S.A. No state shall make any thing but Gold and Silver Coins a tender in payment of Debt Art. 1, Sec. 10, U.S. Constitution.
+subject_label:			1
+query_id:			427323

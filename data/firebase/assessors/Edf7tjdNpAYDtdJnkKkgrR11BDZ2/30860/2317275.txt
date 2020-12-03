@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2317275
+query:			average amount of money stna make
+passage:			Passage: According to the Bureau of Labor Statistics, head chefs made an average annual salary of $44,780 in 2010. Bakers, on the other hand, made an average annual salary of around $25,350 in that same year.Research suggests that pastry chefs can expect to make annual salaries between the average amounts of these two professions.More experienced chefs, obviously, will be able to make slightly more money, as will chefs located in more densely populated areas.esearch suggests that pastry chefs can expect to make annual salaries between the average amounts of these two professions. More experienced chefs, obviously, will be able to make slightly more money, as will chefs located in more densely populated areas.
+subject_label:			1
+query_id:			30860

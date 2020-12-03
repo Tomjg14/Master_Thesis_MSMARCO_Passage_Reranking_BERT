@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3303258
+query:			who paul clark
+passage:			Passage: The movie is called A Dog of Flanders and is directed by James B. Clark. .It tells the story of a young boy named Nello Dass (David Ladd) who with his grandfather, Jehan (Donald Crisp) reside in the city of Antwerp and make a modest living delivering milk.he dog who played the title role of The Dog of Flanders (named Patrasche in the movie-the same name Peter Paul Reubens named his dog) is the same dog who played the title role in Old Yeller. See more Â».
+subject_label:			no_input
+query_id:			988142

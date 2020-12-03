@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5405459
+query:			is the hawb the tracking number
+passage:			Passage: Making the world better, one answer at a time. Mawb has air lines document its has11 digits hawb is console document it has many numbers if house in shipment in mawb has consol address hawb has importer address if one document has 3 places mawb number it is master. 1 person found this useful.
+subject_label:			1
+query_id:			426442

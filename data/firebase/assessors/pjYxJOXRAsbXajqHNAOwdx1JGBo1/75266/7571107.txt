@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7571107
+query:			can vcenter standard manage essentials plus
+passage:			Passage: You throw out your essentials licenses, and rebuy everything (i.e. vCenter Standard x1 and Hypervisor x3-6). VSA is not part of the standard edition (unless you get a kit) so you would need to also buy a license for that. As explained by our reseller, you cannot mix essentials + individual licenses.
+subject_label:			4
+query_id:			75266

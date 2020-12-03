@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6348432
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: However a twin pregnancy ultrasound at 5 weeks may also be effective. Also see twin pregnancy test. Twin pregnancy ultrasound frequency will be determined by the doctor. The gestational sac is usually seen at about 4 to 4 Â½ weeks and the yolk sac is visible at 5 weeks. At about 5 Â½ weeks, the embryo can be measured.
+subject_label:			2
+query_id:			299732

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7092965
+query:			weather in fletcher,nc
+passage:			Passage: Fletcher NC Weather Forecast - Find local 28732 Fletcher weather forecasts and current conditions for Fletcher, NC. Local travel weather conditions.
+subject_label:			5
+query_id:			1088541

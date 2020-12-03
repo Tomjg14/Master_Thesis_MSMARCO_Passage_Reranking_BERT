@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1919856
+query:			hydrocodone price per pill
+passage:			Passage: Hydrocodone begins to work within 10 to 20 minutes of swallowing the pill. Its pain-relieving effects last 4 to 8 hours. Hydrocodone has a half-life of 3 to 4 hours; thatâs how long it takes the body to eliminate half of the drug from the bloodstream. It takes several half-lives to eliminate all the hydrocodone. A small fraction may still be present in the blood a day or so after taking one pill.
+subject_label:			1
+query_id:			1094731

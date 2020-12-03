@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6194790
+query:			what is the phone number to spe
+passage:			Passage: SPE may be owned by one or more other entities and certain jurisdictions may require ownership by certain parties in specific percentages. Often it is important that the SPE not to be owned by the entity on whose behalf the SPE is being set up.PE's are typically used by companies to isolate the firm from financial risk. A company will transfer assets to the SPE for management or use the SPE to finance a large project thereby achieving a narrow set of goals without putting the entire firm at risk.
+subject_label:			1
+query_id:			1034595

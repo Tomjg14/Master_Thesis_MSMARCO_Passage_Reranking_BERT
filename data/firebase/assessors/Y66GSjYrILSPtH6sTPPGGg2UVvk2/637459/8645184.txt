@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8645184
+query:			what does fdg mean
+passage:			Passage: Assessment for malignancy and metastatic disease with PET FDG imaging is improved when supplemented by CT images . FDG imaging is performed in the fasting state to minimize competitive inhibition of FDG uptake by glucose.. A 4 hour fast is recommended prior to initiation of the PET FDG study.
+subject_label:			5
+query_id:			637459

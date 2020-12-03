@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5314457
+query:			what is included in a clutch kit
+passage:			Passage: Notes: To be used w/52285615 Dual Mass to Solid Flywheel: Kit: Clutch kit contains 1) pressure plate, 1) clutch disc, 1) throw-out bearing.Detailed Notes: This kit contains: pressure plate (1); clutch disc (1); & throw-out (1). This is the service kit for 52285615 conversion kit which contains solid flywheel.1) In Stock. Part Number: W0133-1889961. Notes: To be used w/52285615 Dual Mass to Solid Flywheel: Kit: Clutch kit contains 1) pressure plate, 1) clutch disc, 1) throw-out bearing. Detailed Notes: This kit contains: pressure plate (1); clutch disc (1); & throw-out (1).
+subject_label:			5
+query_id:			758519

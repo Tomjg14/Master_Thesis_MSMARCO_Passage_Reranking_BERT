@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7195714
+query:			head turner meaning
+passage:			Passage: Synonyms for head turner at Thesaurus.com with free online thesaurus, antonyms, and definitions. Dictionary and Word of the Day.
+subject_label:			3
+query_id:			1100070

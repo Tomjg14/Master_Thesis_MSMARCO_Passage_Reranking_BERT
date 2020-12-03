@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4031296
+query:			where does lice come from
+passage:			Passage: Can Dogs Carry Lice? While it is rare, dogs can carry lice. However it is not the same lice that humans get. Lice are species specific, meaning that people can only get head lice from coming in close contact with other people. Human head lice will live on the scalp area of humans but not dogs. There are two types of lice that dogs can get from other dogs.
+subject_label:			3
+query_id:			973362

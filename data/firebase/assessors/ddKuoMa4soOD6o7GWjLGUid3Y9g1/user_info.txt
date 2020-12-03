@@ -1,0 +1,7 @@
+user_id:			ddKuoMa4soOD6o7GWjLGUid3Y9g1
+consent:			true
+batches:			["18","19"]
+english:			9
+unassessed_queries:			[]
+progress:			6
+contact:			false

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7555809
+query:			how much is college in florida
+passage:			Passage: Florida offers two convenient options for families to save for college. The Florida 529 Plan is a savings account which allows you to invest in options such as mutual funds. How much you invest and when you contribute to the plan is up to you, and earnings withdrawn for qualified education expenses are tax free. The Florida Prepaid Plan allows you to pay for tuition and fees at a Florida public college or university at current prices.
+subject_label:			4
+query_id:			1095876

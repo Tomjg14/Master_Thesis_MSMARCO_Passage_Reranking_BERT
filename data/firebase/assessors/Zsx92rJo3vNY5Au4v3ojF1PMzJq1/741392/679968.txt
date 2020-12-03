@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			679968
+query:			what is drop in baseball bat selection
+passage:			Passage: Drop 3 baseball bats are more important today than ever before and I want to explain why. The way the game is played today has forced leagues to have certain rules regarding the bats used. Click here to see the best-rated drop 3 baseball bats of 2014 or 2015 and then continue reading the rest of this article.
+subject_label:			3
+query_id:			741392

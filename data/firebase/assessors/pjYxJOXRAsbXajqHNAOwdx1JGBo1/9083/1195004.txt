@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1195004
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: Rating Newest Oldest. Best Answer: Rudolf Ludwig Karl Virchow (13 October 1821 â 5 September 1902) was a German doctor, anthropologist, pathologist, prehistorian, biologist and politician, known for his advancement of public health. Referred to as the father of modern pathology, he is considered one of the founders of social medicine.
+subject_label:			1
+query_id:			9083

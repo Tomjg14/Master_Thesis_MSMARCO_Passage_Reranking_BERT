@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7202002
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: Answers.com Â® WikiAnswers Â® Categories Science Chemistry Elements and Compounds What is the empirical formula of the phosphorus selenide? What would you like to do? Flag
+subject_label:			1
+query_id:			1040038

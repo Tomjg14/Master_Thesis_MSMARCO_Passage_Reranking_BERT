@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5405464
+query:			is the hawb the tracking number
+passage:			Passage: Hi Pals, from a strictly UCP 600 point of view difference is only in the signature. MAWB will be signed by issuing carrier or its agent, HAWB will be signed by issuing consolidator or its agent.
+subject_label:			1
+query_id:			426442

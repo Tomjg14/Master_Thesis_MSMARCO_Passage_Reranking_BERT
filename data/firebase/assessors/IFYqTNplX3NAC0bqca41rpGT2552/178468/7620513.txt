@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7620513
+query:			effects hot stone has on the circulatory system
+passage:			Passage: The heart lies at the center of the circulatory system, functionally speaking, and is responsible for circulating blood throughout the body. Since cells depend on blood supply to receive nutrients and oxygen, heart disease that affects the function of the circulatory system can be quite dangerous. There are a number of effects that heart disease can have on the circulatory system itself.
+subject_label:			1
+query_id:			178468

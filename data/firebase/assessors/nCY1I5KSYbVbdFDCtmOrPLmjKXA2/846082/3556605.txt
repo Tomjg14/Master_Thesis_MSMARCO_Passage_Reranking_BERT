@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3556605
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Warriors vs. Cavaliers: Live Score and Highlights for 2015 NBA Finals Game 6. By Matthew Schmidt , Featured Columnist Jun 16, 2015. For the first time in 40 years, the Golden State Warriors are NBA champions. Behind 25 points apiece from Stephen Curry and Andre Iguodala, the Warriors topped the Cleveland Cavaliers, 105-97, at Quicken Loans Arena on Tuesday night to win the 2015 NBA Finals, 4-2. Iguodala was named Finals MVP for his masterful performance on both ends of the floor.
+subject_label:			2
+query_id:			846082

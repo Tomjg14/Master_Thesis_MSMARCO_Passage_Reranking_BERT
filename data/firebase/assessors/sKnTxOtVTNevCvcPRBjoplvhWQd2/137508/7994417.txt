@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7994417
+query:			definition of purse
+passage:			Passage: The public coffers; the treasury; as, to exhaust a nation's purse, or the public purse. Long purse, or heavy purse, wealth; riches. Light purse, or empty purse, poverty, or want of resources. Sword and purse, the military power and wealth of a nation. PURSE, v.t. To put in a purse. 1. To contract into folds or wrinkles. Thou didst contract and purse thy blow.
+subject_label:			3
+query_id:			137508

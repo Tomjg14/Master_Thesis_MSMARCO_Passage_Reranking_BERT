@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3445011
+query:			what is postulate in algebra
+passage:			Passage: What is the Side-Angle-Side Postulate for Triangle Congruence? The Side-Angle-Side postulate is just one of many postulates you can use to show two triangles are congruent. This tutorial introduces you to the SAS postulate and shows you how to use it!
+subject_label:			2
+query_id:			785721

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8370752
+query:			what is mastoidectomy
+passage:			Passage: A mastoidectomy is a surgical procedure that removes diseased mastoid air cells. These cells sit behind your ear in a hollow space in your skull. A mastoidectomy is a surgical procedure that removes diseased mastoid air cells. The mastoid is the part of your skull located behind your ear. Itâs filled with air cells made of bone and looks like a honey comb. The diseased cells are often the result of an ear infection that has spread into your skull.
+subject_label:			5
+query_id:			1051530

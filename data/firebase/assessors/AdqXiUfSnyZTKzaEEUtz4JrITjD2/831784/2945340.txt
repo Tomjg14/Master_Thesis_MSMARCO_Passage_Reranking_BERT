@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2945340
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: Etymology is the study of: A. Words B. Animals C. Language D. Plants. Weegy: The etymology of a word is its linguistic history. For example, the word etymology comes to us from the Ancient Greek language. User: Etymology is the study of what Weegy: Etymology is the study of the history and origins of words. ] User: The root word graph- means: A. Write B. Measure C. Attach D. Cut Weegy: The root word graph- means: write. The House of Representatives has the special power to A. ...
+subject_label:			1
+query_id:			831784

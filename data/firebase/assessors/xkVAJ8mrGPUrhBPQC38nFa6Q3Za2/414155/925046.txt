@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			925046
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Prenatal visit coding First, compare and contrast the code choices for a typical prenatal visit for a woman having a normal first pregnancy. In ICD-9-CM, you would report V22.0 (supervision of normal first pregnancy). ICD-10-CM gives you these four choices: Z34.00, Encounter for supervision of normal first pregnancy, unspecified trimester. Z34.01, Encounter for supervision of normal first pregnancy, first trimester.
+subject_label:			1
+query_id:			414155

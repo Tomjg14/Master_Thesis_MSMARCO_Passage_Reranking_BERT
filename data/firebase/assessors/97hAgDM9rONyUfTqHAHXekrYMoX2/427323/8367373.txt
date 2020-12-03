@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8367373
+query:			is the sec constitutional
+passage:			Passage: Sec. 9.001. ADOPTION OR AMENDMENT OF HOME-RULE CHARTER. This chapter applies to the adoption or amendment of a municipal charter by a municipality authorized to do so by Article XI, Section 5, of the Texas Constitution. Acts 1987, 70th Leg., ch. 149, Sec. 1, eff. Sept. 1, 1987.
+subject_label:			2
+query_id:			427323

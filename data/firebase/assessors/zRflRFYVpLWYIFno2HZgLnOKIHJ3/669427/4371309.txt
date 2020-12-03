@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4371309
+query:			what hormone secretion causes goiter
+passage:			Passage: Multinodular Goiter. A goiter simply means an enlarged thyroid. A goiter can either be a simple goiter where the whole thyroid is bigger than normal or a multinodular goiter where there are multiple nodules.Multinodular goiters can be either a toxic multinodular goiter (i.e. makes too much thyroid hormone and causes hyperthyroidism.ee Hyperthyroidism Â» .) or non-toxic (i.e. does not make too much thyroid hormone). It is not known what causes multinodular goiters in most cases, but iodine deficiency (i.e. too little iodine in the diet) and certain genetic factors have been shown to lead to multinodular goiters.
+subject_label:			5
+query_id:			669427

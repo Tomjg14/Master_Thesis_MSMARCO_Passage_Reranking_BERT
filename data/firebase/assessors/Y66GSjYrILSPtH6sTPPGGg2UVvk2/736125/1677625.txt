@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1677625
+query:			what is crossfit?
+passage:			Passage: ESPN & the CrossFit Games: How It All Started & What It Means Now (+ the 2015 TV Schedule) On July 21st, the 9th annual CrossFit Games will take place at the Stub Hub Center in Carson, CA.
+subject_label:			1
+query_id:			736125

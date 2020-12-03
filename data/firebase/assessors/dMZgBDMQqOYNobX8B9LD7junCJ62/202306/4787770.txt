@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4787770
+query:			highest mileage crossover india
+passage:			Passage: High Mileage Vehicles You Should Buy. We already told you about the most reliable car brands, but now let's look at the top high mileage vehicles by class like compact, midsize, full size, crossover, SUV, pickup and minivan. We analyzed almost 300,000 vehicles on Mojo Motors from the model years 2002 to 2012 to find the highest mileage used vehicles. Advertisement.
+subject_label:			1
+query_id:			202306

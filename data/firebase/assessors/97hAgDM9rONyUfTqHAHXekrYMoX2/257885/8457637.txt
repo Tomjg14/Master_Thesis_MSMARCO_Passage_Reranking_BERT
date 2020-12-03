@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8457637
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: If a parent or spouse dies before reaching retirement age, the survivors may be eligible to collect SSA benefits. SSA bases its determination on death benefits by how long the worker in question has been paying into the SSA fund. Younger people are not required to have been working as long as older people.
+subject_label:			1
+query_id:			257885

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3907384
+query:			rigorous testing definition
+passage:			Passage: Medical Definition of rigor. 1 1a: chill 1b: a tremor caused by a chill. 2 2a: rigidity or torpor of organs or tissue that prevents response to stimulib: rigor mortis.
+subject_label:			3
+query_id:			489257

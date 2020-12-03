@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5828613
+query:			how big do newfypoo's get
+passage:			Passage: Re: How big do pepper plants get. I did get a giant marconi from Lowes from all places, only reason I got it, cuz I saw train's pics-it'll be interesting to see how big it grows! Also got a california gold, and some other unnamed peppers-tags got lost.e: How big do pepper plants get. I did get a giant marconi from Lowes from all places, only reason I got it, cuz I saw train's pics-it'll be interesting to see how big it grows! Also got a california gold, and some other unnamed peppers-tags got lost.
+subject_label:			1
+query_id:			208494

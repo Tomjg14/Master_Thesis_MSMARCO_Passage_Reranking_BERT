@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7894007
+query:			phone number for bc transit junction
+passage:			Passage: BC Junction Office hours are: Monday-Friday 7:45 AM to 4:00 PM; Saturday 9:00 AM to 5:00 PM; The BC Junction Office is closed and buses will not run on major holidays. Routes Serving the BC Junction. If you are new to BC Transit, we strongly recommend you review our how to ride guide.
+subject_label:			3
+query_id:			1091688

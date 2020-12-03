@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7669136
+query:			how tall is samus aran
+passage:			Passage: Samus Aran is a human. She is 6 feet 3 inches tall and weighs 198 pounds, without her armor. Despite this relatively high weight, her body is very slender and narrow, although this may be accountable to her muscle/bone density given her superhuman abilities.
+subject_label:			5
+query_id:			341317

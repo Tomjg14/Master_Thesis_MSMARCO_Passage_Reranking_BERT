@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7074002
+query:			what is included in a clutch kit
+passage:			Passage: Related: can am outlander 800 clutch kit can-am outlander max clutch kit 2011 can-am outlander clutch kit can am outlander can-am outlander 500 clutch kit. eBay Motors (749).ollow can am outlander clutch kit to get e-mail alerts and updates on your eBay Feed. Unfollow can am outlander clutch kit to stop getting updates on your eBay Feed. Yay! You're now following can am outlander clutch kit in your eBay Feed.
+subject_label:			1
+query_id:			758519

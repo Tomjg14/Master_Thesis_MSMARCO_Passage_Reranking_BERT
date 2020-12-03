@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7455864
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: Arthur Blessitt has carried the cross around the world in every nation and is listed in the Guinness World Records for the worldâs longest walk over 42,279 miles 68,041 km, in 324 countries, island groups & territories for 50 years. Copyright Â© 2018 Arthur Blessitt Evangelistic Association
+subject_label:			4
+query_id:			1096932

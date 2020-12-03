@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			3132683
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: Gestational Age Week 5 (Fetal Age: Week 3) Development. Around 5 weeks, the gestational sac is often the first thing that most transvaginal ultrasounds can detect. This is seen before a recognizable embryo can be seen. Within this time period, a yolk sac can be seen inside the gestational sac.
+subject_label:			2
+query_id:			299732

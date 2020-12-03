@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8453623
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: james scored 40 points in the cavaliers game 3 nba finals 96 91 victor y over the golden state warriors on tuesday night bringing his three game total to 123 points the most ever scored by a player through the first three games of the finalsames scored 40 points in the cavaliers game 3 nba finals 96 91 victor y over the golden state warriors on tuesday night bringing his three game total to 123 points the most ever scored by a player through the first three games of the finals
+subject_label:			4
+query_id:			846082

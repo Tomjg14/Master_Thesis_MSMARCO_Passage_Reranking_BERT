@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2468538
+query:			who was the basket of apples by
+passage:			Passage: How to Use Vinegar to Detoxify the Liver. Apple cider vinegar on a wooden table with a basket of apples. Apple cider vinegar boasts various healing properties for the skin and blood, as well as liver detoxification properties, according to NaturalNews.com.
+subject_label:			1
+query_id:			986210

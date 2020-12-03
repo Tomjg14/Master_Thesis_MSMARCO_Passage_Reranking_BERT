@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8128697
+query:			what is gabba
+passage:			Passage: PheniTropic by Biotics Research provides natural support for stress and anxiety relief. Contains GABA derivative beta-Phenyl-gabba-aminobutyric acid, a naturally occurring inhibitory neurotransmitter Supports natural relief of stress and anxiety
+subject_label:			2
+query_id:			749752

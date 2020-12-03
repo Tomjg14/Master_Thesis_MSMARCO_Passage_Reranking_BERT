@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			434516
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Compostable food ware. Compostable food ware cannot go in your recycling cart. Plain uncoated (non-shiny) paper plates and approved Cedar Grove compostable food ware (pdf) is accepted in your food and yard waste cart. All other food ware labeled compostable or biodegradable goes in your garbage.
+subject_label:			1
+query_id:			1068726

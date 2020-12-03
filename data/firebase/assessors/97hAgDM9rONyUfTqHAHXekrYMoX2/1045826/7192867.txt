@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192867
+query:			what is ssc je
+passage:			Passage: SSC-JE Eligibility. 1 Junior Engineer (Civil), CPWD â The student of Diploma holder and B.A / B.tech in civil engineering from recognized Institute/ University. 2 Junior Engineer (Electrical), CPWD â The candidate of Diploma holders/ B.E / B.Tech from recognized Institute/ University.
+subject_label:			1
+query_id:			1045826

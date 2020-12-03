@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7677231
+query:			neonatal hemochromatosis causes
+passage:			Passage: Neonatal hemochromatosis (NH) is characterized by hepatic failure in the newborn period and heavy iron staining in the liver. In addition, there is marked siderosis of extrahepatic tissues, including the heart and pancreas (Driscoll et al., 1988).
+subject_label:			4
+query_id:			463230

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4866005
+query:			vainglory meaning
+passage:			Passage: Definition of VAINGLORY. 1. : excessive or ostentatious pride especially in one's achievements.
+subject_label:			3
+query_id:			1089051

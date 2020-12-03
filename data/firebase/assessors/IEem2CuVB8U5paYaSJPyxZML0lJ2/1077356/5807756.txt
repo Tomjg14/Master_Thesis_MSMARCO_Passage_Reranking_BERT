@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5807756
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Botox injections are noted primarily for the ability to reduce the appearance of some facial wrinkles. They are also used to treat such problems as repetitive neck spasms (cervical dystonia), excessive sweating (hyperhidrosis), overactive bladder and lazy eye. Botox injections may also help prevent chronic migraines in some people. Botox was the first drug to use botulinum toxin.
+subject_label:			4
+query_id:			1077356

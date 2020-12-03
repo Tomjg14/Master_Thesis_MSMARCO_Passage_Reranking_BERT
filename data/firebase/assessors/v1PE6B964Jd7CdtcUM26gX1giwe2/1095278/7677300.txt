@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7677300
+query:			average temp in fort worth in march
+passage:			Passage: Employees in Fort Worth, TX have a longer average commute time than the national average of 25.2 minutes. 1.8% of the workforce in Fort Worth, TX have super commutes in excess of 90 minutes. That is lower than the national average of 2.8%.
+subject_label:			1
+query_id:			1095278

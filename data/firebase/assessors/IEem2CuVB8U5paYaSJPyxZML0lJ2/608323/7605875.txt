@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7605875
+query:			what county is laneview va located in
+passage:			Passage: Cross Junction, VA Other Information. 1 Located in FREDERICK County, Virginia. 2 Cross Junction, VA is also known as: 3 CROSS JCT, VA. WHITACRE, VA.
+subject_label:			1
+query_id:			608323

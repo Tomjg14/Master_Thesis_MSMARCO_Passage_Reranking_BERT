@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7409372
+query:			does singing burn calories
+passage:			Passage: Golf may not be a strenuous sport, but like all activities, it does burn calories. The amount of calories burned while playing depends on whether you walk...
+subject_label:			1
+query_id:			171370

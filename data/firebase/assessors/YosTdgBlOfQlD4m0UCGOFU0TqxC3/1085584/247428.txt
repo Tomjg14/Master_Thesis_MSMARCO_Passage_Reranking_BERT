@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			247428
+query:			carbon reactivation facilities california
+passage:			Passage: Hydrocarbons that have 4 bonds to every carbon atom are called alkanes. These are the least reactive of the hydrocarbons. Hydrocarbons that have a double bond between two carbon atoms are called alkenes. These are more reactive than alkanes.Electron-poor molecules react at the pi bond of alkenes. Hydrocarbons that have a triple bond between two carbon atoms are called alkynes.ydrocarbons that have a double bond between two carbon atoms are called alkenes. These are more reactive than alkanes. Electron-poor molecules react at the pi bond of alkenes.
+subject_label:			2
+query_id:			1085584

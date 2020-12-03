@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4883859
+query:			what is included in a clutch kit
+passage:			Passage: Bought off eBay. Full clutch kit mind you. For 85$ shipped. Seems to be the best bang for the buck clutch kit wise. As all the big box places wanted $100 or more for a duralast or what have you. Should arrive today at some point.
+subject_label:			1
+query_id:			758519

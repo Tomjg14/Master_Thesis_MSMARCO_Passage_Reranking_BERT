@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6094175
+query:			phone number for bc transit junction
+passage:			Passage: Alternate Phone Number for City Hall & Other City Departments At the end of 2016, the City transitioned to a new telephone system, which resulted in a new phone number of 321.221.7540 for all City departments. An alternate phone number, 321.604.3017, is also available.
+subject_label:			1
+query_id:			1091688

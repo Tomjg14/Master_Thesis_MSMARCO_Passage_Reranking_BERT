@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7262614
+query:			where did captain james cook explore?
+passage:			Passage: Cook, James (1728-1779) English explorer. James Cook was one of the foremost figures of the Age of Exploration. During his career, Cook circumnavigated the globe twice, and captained three voyages of discovery for England. Cook made significant contributions to the fields of surveying, cartography, advanced mathematics, astronomy, and navigation.
+subject_label:			2
+query_id:			1000678

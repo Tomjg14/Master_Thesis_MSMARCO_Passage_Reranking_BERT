@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4873388
+query:			what is gabba
+passage:			Passage: It's fun game time! Let's play and follow along with Plex. When he says WIGGLE!, move around and go crazy, and when he says HOLD STILL, don't move just like a statue. For more Yo Gabba Gabba! visit http://www.yogabbagabba.com and get Yo Gabba Gabba! toys and merchandise at www.yogabbagabba.com/shop!
+subject_label:			1
+query_id:			749752

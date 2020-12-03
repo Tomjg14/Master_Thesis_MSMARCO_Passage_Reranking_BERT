@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4435452
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: What Can I See on Ultrasound at 5 Weeks? On your 5 weeks pregnant ultrasound, you should be able to see your gestational sac and the yolk sac which is always present when you are 5 weeks pregnant. If you are carrying fraternal twins, you will be able to see the yolk sac as well as the fetal poles in two separate sacs.
+subject_label:			2
+query_id:			299732

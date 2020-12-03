@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			2012805
+query:			who owns cnn cable news network
+passage:			Passage: For other uses, see CNN (disambiguation). The Cable News Network (CNN) is an American basic cable and satellite television news channel owned by the Turner Broadcasting System division of Time Warner. It was founded in 1980 by American media proprietor Ted Turner as a 24-hour cable news channel.
+subject_label:			5
+query_id:			1045203

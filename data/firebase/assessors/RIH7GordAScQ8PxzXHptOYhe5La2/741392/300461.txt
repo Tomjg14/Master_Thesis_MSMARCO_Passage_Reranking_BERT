@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			300461
+query:			what is drop in baseball bat selection
+passage:			Passage: If you still have questions on about selecting the right youth baseball bat, check out our Bat Sizing Chart. s we offer free shipping both ways. USA Baseball: Youth Bat Rules. USA Baseball, the national governing body for the sport of baseball in the United States, follows the USABat Standard. This video explains the USA Baseball bat standard.
+subject_label:			1
+query_id:			741392

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7402569
+query:			average amount of money stna make
+passage:			Passage: According to the BLS data, the average salary of an STNA is $24,700. Or if you would prefer to the know the average hourly wage, it is $11.87. Of course these salary figures are just averages, and when you are just starting out you may make less than this.
+subject_label:			4
+query_id:			30860

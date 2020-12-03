@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1283446
+query:			how much does a spectacled bear weigh
+passage:			Passage: Spectacled Bear Distribution. Spectacled bears are the only species of bears that live in South America. They have been identified around Venezuela, Columbia, Ecuador, Bolivia and Peru.
+subject_label:			2
+query_id:			311540

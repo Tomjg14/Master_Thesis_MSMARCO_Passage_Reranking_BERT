@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2055155
+query:			where did edison set up his first laboratory for research
+passage:			Passage: It was out of this tradition that Edison forged the first industrial research laboratory. When Edison set up his Menlo Park Laboratory in 1876 he was seeking to extend, not replace, this shop tradition. Nonetheless, Menlo Park prefigured a new model of research, as Edison merged the shop tradition with sophisticated laboratory research into basic scientific and technical principles.
+subject_label:			5
+query_id:			968608

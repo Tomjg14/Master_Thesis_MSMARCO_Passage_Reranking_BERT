@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7697949
+query:			what network is pickles on cartoon
+passage:			Passage: Top 10 Cartoon Network / Adult Swim Shows Best Cartoon Network Shows of 2013 Top Ten Least Funny Shows From Nick, Cartoon Network, and Disney Channel Top Ten Cartoon Network Shows of 2014 Top 10 Shows On Nick and Disney and Cartoon Network.
+subject_label:			2
+query_id:			881695

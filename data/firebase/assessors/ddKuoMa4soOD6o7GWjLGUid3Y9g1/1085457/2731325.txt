@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2731325
+query:			carnation® evaporated milk total calories
+passage:			Passage: Carnation Evaporated Milk is a versatile, shelf-stable dairy product that replaces milk and cream in cooking. With less water than whole milk, this concentrated milk is richer and creamier than whole milk. Carnation Evaporated Milk is known as The Cooking Milk. It is real milk which has been gently heated to remove about half the water. The Cooking Milk benefits: 1 Adds creaminess and flavor. 2 Improves moistness. 3 Provides sweet richness to candies and desserts. 4 Adds depth of flavor to savory dishes.
+subject_label:			2
+query_id:			1085457

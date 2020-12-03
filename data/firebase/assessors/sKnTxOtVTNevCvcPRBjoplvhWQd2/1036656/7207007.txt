@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7207007
+query:			what is the meaning of chicken rice?
+passage:			Passage: It is an Indian dish that includes rice and either lamb, chicken, fish, and vegetables along with spices like saffron. What is biryani? It is an Indian dish that includes rice and either lamb, chicken, fish, and vegetables along with spices like saffron.
+subject_label:			2
+query_id:			1036656

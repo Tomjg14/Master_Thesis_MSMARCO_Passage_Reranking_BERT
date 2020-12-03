@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7682641
+query:			what hormone secretion causes goiter
+passage:			Passage: Unformatted text preview: 44) What is a goiter? Explain how goiters can develop in both hyposecretion and hypersecretion disorders. In these hyposecretion and hypersecretion disorders, would you expect the levels of other regulatory hormones involved in control of thyroid hormone secretion to be high or low? Why?
+subject_label:			3
+query_id:			669427

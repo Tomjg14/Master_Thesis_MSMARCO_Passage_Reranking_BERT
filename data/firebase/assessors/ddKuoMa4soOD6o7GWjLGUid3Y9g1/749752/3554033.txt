@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3554033
+query:			what is gabba
+passage:			Passage: Â© GabbaCaDabra, LLC. YO GABBA GABBA and all related titles, logos and characters (other than DJ LANCE ROCK) are trademarks of GabbaCaDabra, LLC. DJ LANCE ROCK is a trademark of Lance Robertson.
+subject_label:			4
+query_id:			749752

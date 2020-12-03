@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2565445
+query:			which situation does a company issue a note receivable
+passage:			Passage: If you need other services see our other services here. These companies can be registered in any other state as a foreign company doing business in that state, if you need an aged company in a different state. Unless otherwise noted, the aged company does not have an EIN issued yet. These are clean shelf companies.
+subject_label:			2
+query_id:			993153

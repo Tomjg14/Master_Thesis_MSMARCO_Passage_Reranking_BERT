@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8738118
+query:			how big is a micron
+passage:			Passage: How many microns in 1 micrometer? The answer is 1. We assume you are converting between micron and micrometre. You can view more details on each measurement unit: microns or micrometer The SI base unit for length is the metre. 1 metre is equal to 1000000 microns, or 1000000 micrometer. Note that rounding errors may occur, so always check the results. Use this page to learn how to convert between microns and micrometres. Type in your own numbers in the form to convert the units! âºâº Want other units? You can do the reverse unit conversion from micrometer to microns, or enter any two units below:
+subject_label:			5
+query_id:			208822

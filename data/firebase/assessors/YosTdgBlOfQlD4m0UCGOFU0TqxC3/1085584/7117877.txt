@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7117877
+query:			carbon reactivation facilities california
+passage:			Passage: Features and Benefits. 1 Facilities meet and comply with all RCRA, Benzene NESHAP and Subpart CC requirements. 2 Limit liabilities - Certificate of Reactivation certifies processing meets or exceeds appropriate regulations. 3 Cost effective â easy procedures for carbon profiling and acceptance.
+subject_label:			3
+query_id:			1085584

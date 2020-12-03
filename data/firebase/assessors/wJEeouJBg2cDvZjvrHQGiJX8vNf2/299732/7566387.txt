@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7566387
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: This all being said, seeing no yolk sac at 6 weeks can also be a sign of miscarriage. When you are faced with an ultrasound that shows no yolk sac, you will probably be told to wait for a follow-up ultrasound. The wait can be very difficult, naturally, but is necessary for an accurate diagnosis.
+subject_label:			3
+query_id:			299732

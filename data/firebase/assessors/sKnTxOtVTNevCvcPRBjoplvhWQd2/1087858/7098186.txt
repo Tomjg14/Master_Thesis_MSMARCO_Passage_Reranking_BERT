@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7098186
+query:			what airport is in wilder ky
+passage:			Passage: How to get to Wilder. Fly in to Cincinnati, OH (LUK-Cincinnati Municipal - Lunken Field), 4.8 mi (7.8 km) from downtown Wilder. Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.) is the next closest major airport, 9.7 mi (15.6 km) away. What to see around Wilder Fun outdoor activities are on hand along with these attractions:
+subject_label:			4
+query_id:			1087858

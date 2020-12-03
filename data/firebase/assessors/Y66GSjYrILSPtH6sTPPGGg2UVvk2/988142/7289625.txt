@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289625
+query:			who paul clark
+passage:			Passage: Paul Clark - Songs From the Savior, Vol. 2 [FULL ALBUM, 1973, Christian Soft Rock] - Duration: 37:27. Classic Christian Vinyl 3,895 views
+subject_label:			no_input
+query_id:			988142

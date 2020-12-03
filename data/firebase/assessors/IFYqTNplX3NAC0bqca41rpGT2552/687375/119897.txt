@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			119897
+query:			what is a hydromyelia
+passage:			Passage: Hydromyelia is a medical condition that involves widening of the intraspinal cavity or is a marked dilatation of the central spinal canal. The central canal of the spinal column is the main area of affectation that results to increased pressure due to fluid accumulation.
+subject_label:			4
+query_id:			687375

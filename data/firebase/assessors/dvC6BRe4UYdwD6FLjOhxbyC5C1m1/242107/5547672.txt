@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5547672
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: How long can I keep cooked ground turkey in the refrigerator before it will go bad? I cooked the turkey yesterday, and it is in the fridge now.
+subject_label:			1
+query_id:			242107

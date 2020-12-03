@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5243300
+query:			what is postulate in algebra
+passage:			Passage: Let's review. A postulate is a statement accepted to be true without proof. Some common algebraic properties are also postulates and deal with the four operations: addition, subtraction, multiplication, and division. Other true statements are geometric postulates and include the ruler, angle addition, and segment addition postulates.
+subject_label:			5
+query_id:			785721

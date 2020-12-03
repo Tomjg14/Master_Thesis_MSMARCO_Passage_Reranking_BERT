@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			997090
+query:			what is process improvement (lean six sigma)
+passage:			Passage: What is Lean Six Sigma? At its most basic, Lean Six Sigma is a data-driven, team-based, and structured approach to solving business problems. It is a powerful process improvement methodology that combines the waste reduction focus and tools inherent in Lean with the cultural, structural and analytical methods of Six Sigma. The DMAIC process (Define-Measure-Analyze-Improve-Control) provides the overriding structure to solve problems.
+subject_label:			5
+query_id:			786937

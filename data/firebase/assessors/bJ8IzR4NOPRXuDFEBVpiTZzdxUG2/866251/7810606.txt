@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7810606
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Established in 1912. Franklin Park Zoo is a 72-acre site, nestled in Boston's historic Franklin Park. Long considered the crown jewel of Frederick Law Olmsted's Emerald Necklace Park System, the Zoo opened in 1912.
+subject_label:			2
+query_id:			866251

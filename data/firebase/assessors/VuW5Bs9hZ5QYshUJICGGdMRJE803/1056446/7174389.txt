@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7174389
+query:			what is dockpanel used for
+passage:			Passage: A DockPanel can be used for docking your controls to the top, bottom, left or right from the panel. Puil Marked as answer by LINK_me_with_LINQ Friday, March 11, 2011 1:17 PM
+subject_label:			3
+query_id:			1056446

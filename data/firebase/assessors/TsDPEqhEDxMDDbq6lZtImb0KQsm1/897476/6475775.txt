@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6475775
+query:			what state has the easiest bar exam
+passage:			Passage: What is the bar exam? Most states require you to pass a bar exam in order to be licensed to practice law in that state. The content of each stateâs bar exam differs, but in general the bar exam tests knowledge of legal concepts generally and the laws of the testing state specifically. The bar exam is offered twice a year, in February and July.
+subject_label:			2
+query_id:			897476

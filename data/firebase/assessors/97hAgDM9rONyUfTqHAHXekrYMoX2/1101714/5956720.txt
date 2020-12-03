@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5956720
+query:			definition, nepotism
+passage:			Passage: Nepotism Definition. Simply put, the definition of nepotism is favoring relatives. Nepotism in the workplace occurs when employers favor relatives in making employment decisions, with little to no regard for anything but kinship.
+subject_label:			5
+query_id:			1101714

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4048279
+query:			what is the meaning of chicken rice?
+passage:			Passage: Calories From Carbohydrates. MedlinePlus reports that each g of carbohydrates has four calories. Due to the rice and the teriyaki sauce, teriyaki chicken rice bowls are relatively high in carbohydrates with more than 76 g. This means that every rice bowl has more than 305 calories from carbs.
+subject_label:			2
+query_id:			1036656

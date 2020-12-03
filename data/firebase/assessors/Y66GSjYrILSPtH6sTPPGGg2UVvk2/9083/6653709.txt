@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6653709
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: In the West, Hippocrates is considered a father of modern medicine. He was a famous Greek physician of the fourth century, founder of European medicine, an ancient Greek physician. Hippocrates put forward the humoral theory, holding that the human body by blood, mucus, yellow and black bile four bâ¦.
+subject_label:			5
+query_id:			9083

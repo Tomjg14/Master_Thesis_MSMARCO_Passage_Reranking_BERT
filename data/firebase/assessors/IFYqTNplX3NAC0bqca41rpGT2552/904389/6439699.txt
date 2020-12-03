@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6439699
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Chick-fil-A first opened in the Atlanta Airport on Concourse A in 1996 and closed the location in 2012 to relocate with HMSHost to Concourse C. Like all Chick-fil-A restaurants, it will be closed on Sunday.
+subject_label:			1
+query_id:			904389

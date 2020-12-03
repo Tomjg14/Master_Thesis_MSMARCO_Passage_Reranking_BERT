@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5936498
+query:			temperature diode
+passage:			Passage: Although diodes are not as accurate as other sensors like thermocouple, they provide reasonable accuracy, which makes them usable in lot of low precision applications. This article talks about the fundamentals of diode s forward voltage and steps to make accurate temperature measurements using them.
+subject_label:			3
+query_id:			1090054

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4677262
+query:			what is impact ratio analysis
+passage:			Passage: PESTLE analysis factors are Political, Economic, Sociological, Technological, Legal and Environmental. The PESTLE analysis examines each factor to assess what their impact or potential impact on the organisation.here are other methods of analysis which the PESTLE analysis works alongside such as a SWOT analysis. SWOT stands for Strengths, Weaknesses, Opportunities and Threats. The Opportunity and Threats aspect are concerned with the external factors what influences the market and performance.
+subject_label:			2
+query_id:			757644

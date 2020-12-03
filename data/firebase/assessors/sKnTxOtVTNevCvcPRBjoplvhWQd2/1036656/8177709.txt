@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8177709
+query:			what is the meaning of chicken rice?
+passage:			Passage: The following is a list of what to feed a sick dog, foods found in your home that are pet-friendly to help your dog recover from feeling unwell. Chicken and Rice. These are mild foods, primary ingredients in lots of dog foods. The combination will soothe an upset stomach. All you need is boneless and skinless chicken with plain rice.
+subject_label:			1
+query_id:			1036656

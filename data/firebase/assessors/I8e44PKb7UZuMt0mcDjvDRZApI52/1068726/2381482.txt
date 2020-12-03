@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2381482
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Packaging. Between a quarter and a third of all domestic waste is packaging: much of this is food packaging. Itâs difficult to recycle, too. Plastic which is contaminated with food is hard to reuse. Glass bottle banks for recycling are now ubiquitous in the UK â and the material collected really is reused. 2 The average glass bottle contains over 25% recycled glass. 3 Green glass bottles manufactured in this country contain at least 60%, and sometimes as much as 90%, recycled glass.
+subject_label:			2
+query_id:			1068726

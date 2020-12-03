@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8419533
+query:			hydrocodone price per pill
+passage:			Passage: Savings Tips. 1 FDA Update: The FDA has asked manufacturers to limit prescription acetaminophen products to 325 mg per dose. 2 Split a Higher Dosage Pill: Cut a higher-dosage pill in half to save 50% or more. 3 Coupon Notice: This drug is a controlled substance. 4 Cheaper Alternative: Less expensive drugs that work the same way may be available.ydrocodone / acetaminophen, lorcet. Hydrocodone / acetaminophen is an opioid / acetaminophen combination used to treat pain. Hydrocodone is an opiate and is considered a narcotic pain medicine. Acetaminophen is sold over the counter for pain and fever.
+subject_label:			1
+query_id:			1094731

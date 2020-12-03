@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8334585
+query:			what does a grassroots organization mean
+passage:			Passage: Definition of Grassroots Movement. What is a grassroots movement? What is the definition of the term grassroots movement as it applies to politics? In politics, a grassroots movement is a movement that develops organically at a local level before spreading throughout the state and even the country.
+subject_label:			3
+query_id:			1084469

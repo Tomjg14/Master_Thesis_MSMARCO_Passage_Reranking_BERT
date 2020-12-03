@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5377159
+query:			highest mileage crossover india
+passage:			Passage: Top 11 Crossovers and SUVs With the Best Highway Fuel Economy for 2014. For many drivers, freeway travel comprises the lion's share of their time spent behind the wheel. In cases like this, strong gas mileage can save money, and the mileage figure that's most important is highway fuel economy.
+subject_label:			1
+query_id:			202306

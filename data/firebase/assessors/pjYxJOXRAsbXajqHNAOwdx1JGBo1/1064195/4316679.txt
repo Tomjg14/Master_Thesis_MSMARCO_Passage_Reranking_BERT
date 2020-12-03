@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4316679
+query:			what is aircraft ram air
+passage:			Passage: What kind of FAA aviation safety inspectors (airworthiness) are there? There are two kinds: general aviation and air carrier. This separation between the two is based on the industry standard of assigning aircraft of less than 12,500 pounds to GA and aircraft 12,500 pounds and heavier to air carrier.
+subject_label:			1
+query_id:			1064195

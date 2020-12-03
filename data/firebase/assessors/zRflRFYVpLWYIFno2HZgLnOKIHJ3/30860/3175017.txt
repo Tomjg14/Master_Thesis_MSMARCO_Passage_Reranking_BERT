@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3175017
+query:			average amount of money stna make
+passage:			Passage: Much of an STNA's work day revolves around basic personal care, or bath and bedpan duty. The STNA helps patients make use of the restroom or bedpan and provides bathing assistance or sponge baths as needed.
+subject_label:			1
+query_id:			30860

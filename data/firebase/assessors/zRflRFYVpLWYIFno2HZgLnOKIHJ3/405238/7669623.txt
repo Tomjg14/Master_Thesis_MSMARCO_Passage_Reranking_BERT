@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669623
+query:			is callahan an irish name
+passage:			Passage: Ceallachan ( Callahan , Callaghan , Cellachan , Ceallaghan , Cellachain , Ceallachain ) of Cashel ( Caisal , Caisil ) , was the 10th century King of the Irish province of Munster ( i.e. the southwestern quarter of Ireland ) from whom the family names of Callahan and MacCarthy and their variations ( e.g. Callaghan , OâCallahan , OâCallaghan , ...
+subject_label:			5
+query_id:			405238

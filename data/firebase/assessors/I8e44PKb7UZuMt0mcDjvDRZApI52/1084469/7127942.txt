@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7127942
+query:			what does a grassroots organization mean
+passage:			Passage: First, grassroots organizations, in my experience, are more about the content or the agenda itself, rather than about how the organization is structured. I have worked in organizations structured as hierarchies that have been very grassroots in content and politics.
+subject_label:			2
+query_id:			1084469

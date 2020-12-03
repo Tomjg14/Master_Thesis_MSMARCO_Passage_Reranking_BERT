@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			235879
+query:			where is ridgewood ny located
+passage:			Passage: Prison Information. NY DOC - Taconic Correctional Facility is as state jail facility located at 250 Harris Road Bedford Hills, NY 10507-2497.NY DOC - Taconic Correctional Facility serves the entire state of New York. While municipal and county jails tend to serve similar functions, regardless of the states where they are located, state jail facilities may serve very different purposes depending on their location.
+subject_label:			1
+query_id:			991590

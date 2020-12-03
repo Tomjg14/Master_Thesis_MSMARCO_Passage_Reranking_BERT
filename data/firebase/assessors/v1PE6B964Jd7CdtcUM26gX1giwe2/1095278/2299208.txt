@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2299208
+query:			average temp in fort worth in march
+passage:			Passage: Time Usage: Fort Worth, Texas does utilize Daylight Saving Time. Daylight Saving Start Date: Fort Worth, Texas starts Daylight Saving Time on Sunday March 11, 2018 at 2:00 AM local time. Daylight Saving End Date: Fort Worth, Texas ends Daylight Saving Time on Sunday November 4, 2018 at 2:00 AM local time.
+subject_label:			1
+query_id:			1095278

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7067274
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: TRUE. Hippocrates is considered the father of modern medicine because he did not believe that illness was a punishment inflicted by the gods. True False. Weegy: TRUE. [
+subject_label:			4
+query_id:			9083

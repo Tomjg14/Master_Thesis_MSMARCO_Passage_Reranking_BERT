@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7591792
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: During the third trimester, the growth of the baby can push the stomach out of its normal position, which can lead to heartburn. However, each woman is different and being pregnant doesn't necessarily mean you'll automatically have heartburn.
+subject_label:			1
+query_id:			414155

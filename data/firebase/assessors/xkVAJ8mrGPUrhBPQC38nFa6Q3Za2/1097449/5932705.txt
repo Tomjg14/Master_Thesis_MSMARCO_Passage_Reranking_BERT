@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5932705
+query:			how many calories in provolone cheese
+passage:			Passage: There are 98 calories in 1 slice of Provolone Cheese. Get full nutrition facts and other common serving sizes of Provolone Cheese including 1 cubic inch and 1 oz. Register | Sign In
+subject_label:			4
+query_id:			1097449

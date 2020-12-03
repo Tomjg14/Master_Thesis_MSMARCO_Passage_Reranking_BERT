@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7062744
+query:			what does extravert mean
+passage:			Passage: Extrovert (sometimes spelled extravert) means basically turned outwardâthat is, toward things outside oneself. The word was coined by the eminent psychologist C. G. Jung in the early 20th century. The opposite personality type, in Jung's view, was the introvert.
+subject_label:			5
+query_id:			1083852

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1192706
+query:			carnation® evaporated milk total calories
+passage:			Passage: NestlÃ© Carnation Evaporated Milk 6 x 97 fluid ounces. Carnation Evaporated Milk is a versatile, shelf-stable dairy product that replaces milk and cream in cooking. With less water than whole milk, this concentrated milk is richer and creamier than whole milk. Carnation Evaporated Milk is known as The Cooking Milk. It is real milk which has been gently heated to remove about half the water. The Cooking Milk benefits: Adds creaminess and flavor. Improves moistness.
+subject_label:			2
+query_id:			1085457

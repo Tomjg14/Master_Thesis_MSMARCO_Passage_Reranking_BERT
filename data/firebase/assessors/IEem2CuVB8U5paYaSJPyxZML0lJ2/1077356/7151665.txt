@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7151665
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Because each muscle affected by dystonia has to be injected separately, and also because there is a limit to the total quantity of toxin that can be injected into the body at one time, botulinum toxin is more suitable for treating dystonias which are focal to one or two areas of the body rather than generalised dystonia.
+subject_label:			4
+query_id:			1077356

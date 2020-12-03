@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7776241
+query:			where do the ash borer come from
+passage:			Passage: Green Menace-Emerald Ash Borer Scientific name: Agrilus planipennis The adult emerald ash borer Homeland / Origin: This alien invader is from northern China and Korea. It can also be found in eastern Russia, Japan, and Mongolia. It isn't a major pest of ash trees in its native range, but it sure is trouble in the United States. Arrival date: Before 2002, the emerald ash borer (EAB) was never found outside of Asia.
+subject_label:			5
+query_id:			971653

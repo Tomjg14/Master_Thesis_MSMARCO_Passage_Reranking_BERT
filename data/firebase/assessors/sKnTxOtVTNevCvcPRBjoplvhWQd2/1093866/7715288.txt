@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7715288
+query:			is thread.sleep implicit wait
+passage:			Passage: Case 1: Explicit wait time is less than Implicit Wait time The explicit wait maximum elapsed time is mentioned as 10 seconds and Implicit Time mentioned as 20 seconds. In this case, time taken to find an element is 20 seconds.
+subject_label:			4
+query_id:			1093866

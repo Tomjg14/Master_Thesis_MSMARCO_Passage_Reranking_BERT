@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8157116
+query:			average temp in fort worth in march
+passage:			Passage: Average Temperatures for Dallas-Fort Worth. Dallas-Fort Worth's coldest month is January when the average temperature overnight is 34.0Â°F. In July, the warmest month, the average day time temperature rises to 95.4Â°F. Average Rainfall for Dallas-Fort Worth
+subject_label:			4
+query_id:			1095278

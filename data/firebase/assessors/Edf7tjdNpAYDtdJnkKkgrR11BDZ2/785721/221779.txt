@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			221779
+query:			what is postulate in algebra
+passage:			Passage: Intermediate algebra is not harder, it's a remedial algebra class. So it's basically high school algebra. College algebra is very different. Intermediate still deals with polynomial equations and all that jazz. College is purely graphs. Graphing equations, looking at graphs and formulas and figuring out what is what. I whizzed through algebra 1 and intermediate. Then I barely got a B in college algebra. And it wasn't just me, several people dropped it because it was much more difficult.
+subject_label:			1
+query_id:			785721

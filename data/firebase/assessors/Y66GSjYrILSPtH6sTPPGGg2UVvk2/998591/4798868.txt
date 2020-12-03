@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4798868
+query:			where is mathura
+passage:			Passage: The holi festival is a very famous festival of the Mathura and Vrindavan. Some highly enthusiastic people living in other regions of India gather at Mathura and Vrindavan especially to see the holi celebration.Mathura and Vrindavan is the great land where Lord Krishna took birth and do lots of activities.here are many reasons to celebrate the holi festival every year. It is the grand celebration of colors, delicious foods, unity and love. Traditionally, it is celebrated to get success over the evil power or badness of goodness. It is named as âPhagwahâ, as it is celebrated in the Hindi month, Phalgun.
+subject_label:			1
+query_id:			998591

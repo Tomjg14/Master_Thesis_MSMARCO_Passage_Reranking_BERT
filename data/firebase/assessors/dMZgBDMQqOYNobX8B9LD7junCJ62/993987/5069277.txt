@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5069277
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: 25. The aortic arches connect the ventral blood vessel, a tube lying under the digestive tract, with the dorsal blood vessel, a tube lying on top of the digestive tract. The dorsal blood vessel is the main pumping organ for the blood and it carries blood in an anterior direction.The ventral blood vessel carries blood to the rear of the worm. Lateral blood vessels branch off from the two main vessels and carry blood to and from the internal organs.n animals, examples of organs are the brain, liver, heart, kidney, stomach, etc. Each organ has one or more particular functions to perform and the tissues in a particular organ work with each other to perform these functions. For example the human heart has the function of pumping blood throughout the body.
+subject_label:			3
+query_id:			993987

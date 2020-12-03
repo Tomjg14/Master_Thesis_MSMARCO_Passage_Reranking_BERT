@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7078844
+query:			temperature diode
+passage:			Passage: Measuring Temperature with a Silicon Diode Due to the high sensitivity, nearly linear response, and easy availability, we will use a 1N4148 diode for the temperature transducer in our measurements. 1.0 Analysis of the thermal dependence in the diode equation The current conducted through an ideal diode is described by the Shockley ideal diode equation: I D = I S exp qV D nk BT â1 where q is the electron charge, k B is Boltzmannâs constant, T is the temperature of the diode junction, and V D is the voltage across the diode (positive voltage indicates a forward-biased diode). n is a quality factor or emission coeï¬cient that typically lies in the range of 1â2 and is usually assumed to be approximately 2 for a diode. I
+subject_label:			2
+query_id:			1090054

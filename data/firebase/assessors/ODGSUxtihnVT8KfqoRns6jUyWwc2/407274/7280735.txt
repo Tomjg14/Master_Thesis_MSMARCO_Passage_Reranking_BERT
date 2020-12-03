@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7280735
+query:			is cortana smart???
+passage:			Passage: which Dr. Halsey says to the six-year-old Spartan candidates in Halo: The Fall of Reach. Cortana also recites a few lines from the Cortana Letters in Halo 3 in some of her messages and in the announcement trailer. Some of the lines are said in the Cortana moments in the level Cortana. Being a smart AI, Cortana's operational life span is approximately seven years.
+subject_label:			4
+query_id:			407274

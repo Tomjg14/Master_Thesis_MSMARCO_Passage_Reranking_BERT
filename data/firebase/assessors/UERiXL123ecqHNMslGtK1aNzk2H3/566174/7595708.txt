@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595708
+query:			what are stand up paddle boards made of
+passage:			Passage: Stand Up Paddle Boards (SUP) Tower is the manufacturer direct paddle board company with a design-centric focus. We're the manufacturer, the retail store, and the marketing arm all rolled into one... which means you save $500 to over $1000 on stand up paddle boards. Yes, we're the company that was featured on ABC's Shark Tank and that billionaire Mark Cuban invested in... our value proposition is that much better than the competition in the stand up paddle board market. It was a no-brainer for him.
+subject_label:			1
+query_id:			566174

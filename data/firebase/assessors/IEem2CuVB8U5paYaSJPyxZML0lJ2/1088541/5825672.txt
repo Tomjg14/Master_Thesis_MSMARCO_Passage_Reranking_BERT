@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5825672
+query:			weather in fletcher,nc
+passage:			Passage: arden nc weather copyright Â© 2018 Weather for Arden, NC - Arden, NC 28704 Weather, Current Weather in Arden, NC. Local weather report for Arden, NC, Local Arden, NC 28704 weather. Forecast for Arden, North Carolina, Arden, NC weather forecast. Find your local Arden weather forecast. Arden, NC weather conditions. Weather outlook for Arden, NC. Weather report for Arden, NC. Weather Maps and Driving Directions arden nc weather.
+subject_label:			1
+query_id:			1088541

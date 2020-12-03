@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4245234
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: The Sacramento River Deep Water Ship Channel connects the Delta to the Port of Sacramento, with its terminus located near Rio Vista, on the northwestern side of the Delta. The Stockton Ship Channel is a dredged and partially straightened section of the San Joaquin River cutting directly through the Delta from the Port of Stockton to the San Joaquin's confluence with the Sacramento near Antioch.
+subject_label:			1
+query_id:			891565

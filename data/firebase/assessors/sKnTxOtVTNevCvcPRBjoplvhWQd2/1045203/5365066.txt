@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5365066
+query:			who owns cnn cable news network
+passage:			Passage: By Frank Lake on November 22, 2013. Bill OâReilly shocked the cable news world today by announcing he is leaving Fox News and heading to CNN. Bill OâReilly is done with the No Spin Zone. CNN has made him the largest offer in the history of cable news. âBill OâReilly will be a part owner of our network. And OâReilly plans on making CNN the number one network in all of cable,â said a source close to CNN.
+subject_label:			1
+query_id:			1045203

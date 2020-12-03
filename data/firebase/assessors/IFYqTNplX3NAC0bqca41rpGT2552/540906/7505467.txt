@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7505467
+query:			was the great wall of china breached
+passage:			Passage: Great Wall breached: Starbucks sets up shop. By BRAD WONG, SEATTLE POST-INTELLIGENCER REPORTER. Published 10:00 pm, Tuesday, September 20, 2005. In the end, it appears that the Great Wall of China has failed -- at least in stopping one invader. The imposing stone structure attracts millions of tourists, snakes across provinces and makes for gorgeous souvenir photographs.
+subject_label:			1
+query_id:			540906

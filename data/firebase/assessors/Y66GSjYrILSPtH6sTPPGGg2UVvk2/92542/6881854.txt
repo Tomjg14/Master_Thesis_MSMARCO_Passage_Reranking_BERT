@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6881854
+query:			circulation money definition
+passage:			Passage: Definition: An uncirculated coin refers to the condition of a coin that indicates that it has never circulated in the regular money supply in the economy.In other words, the coin shows no signs of wear on any of its surfaces.mage Courtesy of: Heritage Auction Galleries, Ha.com. Definition: An uncirculated coin refers to the condition of a coin that indicates that it has never circulated in the regular money supply in the economy. In other words, the coin shows no signs of wear on any of its surfaces.
+subject_label:			3
+query_id:			92542

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5973596
+query:			what are sensitive periods for brain development
+passage:			Passage: Behavioral teratogens---teratogens that tend to harm the prenatal brain, affecting the future childs intellectual and emotional functioning. Timing---the effect of a teratogen on the developing organism depends on what period in the pregnancy (in development) the child is exposed to the teratogen.
+subject_label:			1
+query_id:			564668

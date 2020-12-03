@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7192866
+query:			what is ssc je
+passage:			Passage: SSC JE 2017. SSC JE 2017: Staff Selection Commission (SSC) conducted paper 2 of the SSC JE exam on July 30, 2017. Around 8332 candidates appeared for the exam. The exam is conducted for recruitment of Junior Engineers Group B Non-Gazetted posts in Civil, Mechanical, Electrical and Quality and Quantity Assurance in Central Government departments.
+subject_label:			no_input
+query_id:			1045826

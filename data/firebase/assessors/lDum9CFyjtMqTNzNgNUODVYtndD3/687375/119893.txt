@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			119893
+query:			what is a hydromyelia
+passage:			Passage: Hydromyelia Information Page What research is being done? The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to hydromyelia in its clinics and laboratories at The National Institutes of Health (NIH) and supports additional research through grants to major research institutions across the country.
+subject_label:			3
+query_id:			687375

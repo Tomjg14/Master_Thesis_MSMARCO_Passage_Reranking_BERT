@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3296426
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Columbian Park Zoo The Columbian Park Zoo is a zoo located in Lafayette, Indiana at Columbian Park. The zoo is home to more than 190 animals from over 90 species. The zoo is in Columbian Park, which also includes playgrounds, picnic areas, a walking trail, and a baseball stadium. Admission to the zoo is free.
+subject_label:			2
+query_id:			866251

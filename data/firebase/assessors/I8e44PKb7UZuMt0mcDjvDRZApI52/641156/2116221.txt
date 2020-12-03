@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2116221
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Magna Carta. The Magna Carta, also known as the Great Charter, the Magna Carta Libertatum and The Great Charter of the Liberties of England, is a document that was signed by King John in 1215. He signed the document under duress after facing ongoing rebellion from his barons.
+subject_label:			2
+query_id:			641156

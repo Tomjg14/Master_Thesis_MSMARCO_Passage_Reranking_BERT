@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5077231
+query:			what is process improvement (lean six sigma)
+passage:			Passage: Lean Six Sigma Whatâs Next? 14 What Holistic Improvement Looks LikeTwo Critical Elements â¡ Management System for Holistic Improvement â¡ Improvement Project Portfolio ASQ Lean Six Sigma Conference 2010.
+subject_label:			1
+query_id:			786937

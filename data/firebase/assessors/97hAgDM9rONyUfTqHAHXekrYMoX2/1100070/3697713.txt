@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3697713
+query:			head turner meaning
+passage:			Passage: Turner is the 28th-most common surname in the United Kingdom. Early recordings of this surname include Ralph le Turner in the late 12th century. The earliest recorded spelling of this family name dates from 1180 for Warner le Turnur.he origin of the name comes from Old French Le meaning The and etourneau meaning starling, thus giving us LeTourneau (pronounced le turner). Over time the Le or L' was dropped and in nearly all cases the spelling of the remaining tourneau became Anglicised.
+subject_label:			1
+query_id:			1100070

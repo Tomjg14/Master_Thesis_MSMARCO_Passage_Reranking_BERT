@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2394674
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: '-ject' means 'to throw'. It comes from the Latin word 'iacio, iacere, iaci, iactum,' or perhaps from 'iacto, iactare, iactavi, iactatus'. They mean the same thing: 'to throw' â¦ . We derive 'eject', 'subject', 'project', 'reject', 'inject', and 'interject' from this word.
+subject_label:			5
+query_id:			831784

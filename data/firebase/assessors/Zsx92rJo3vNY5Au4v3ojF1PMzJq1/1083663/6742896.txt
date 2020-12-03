@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6742896
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: In compliment extern, âtis not long after. But I will wear my heart upon my sleeve. For daws to peck at. I am not what I am. you, as sure as your nameâs Roderigo, if I were the Moor I wouldnât want to be Iago. I may seem to love and obey him, but in fact, Iâm just serving him to get what I want.n compliment extern, âtis not long after. But I will wear my heart upon my sleeve. For daws to peck at. I am not what I am. you, as sure as your nameâs Roderigo, if I were the Moor I wouldnât want to be Iago. I may seem to love and obey him, but in fact, Iâm just serving him to get what I want.
+subject_label:			2
+query_id:			1083663

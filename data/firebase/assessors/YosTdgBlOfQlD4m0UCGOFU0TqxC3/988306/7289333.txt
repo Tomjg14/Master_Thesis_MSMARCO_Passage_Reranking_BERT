@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7289333
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: The Hilton Charlotte University Place is owned by UPH Lakeside, LP, and managed by GF Management, LLC, one of the nationâs leading hospitality management companies based in Center City Philadelphia, PA.
+subject_label:			5
+query_id:			988306

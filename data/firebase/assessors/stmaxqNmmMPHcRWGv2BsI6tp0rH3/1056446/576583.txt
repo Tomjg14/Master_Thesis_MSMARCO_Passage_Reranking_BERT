@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			576583
+query:			what is dockpanel used for
+passage:			Passage: Discover the basics of polymers and what makes them so useful See examples of polymers and their common uses. What is a polymer? Discover the basics of polymers and what makes them so useful See examples of polymers and their common uses.
+subject_label:			1
+query_id:			1056446

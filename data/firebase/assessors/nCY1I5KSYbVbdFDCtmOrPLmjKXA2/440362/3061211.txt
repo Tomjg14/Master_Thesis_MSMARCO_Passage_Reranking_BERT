@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3061211
+query:			linking verb synonym
+passage:			Passage: See more synonyms on Thesaurus.com. verb (used with object) 1. to join, link, or fasten together; unite or bind: to connect the two cities by a bridge; Communication satellites connect the local stations into a network.
+subject_label:			3
+query_id:			440362

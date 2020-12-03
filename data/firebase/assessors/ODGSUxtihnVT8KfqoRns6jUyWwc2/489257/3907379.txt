@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3907379
+query:			rigorous testing definition
+passage:			Passage: Definition of rigor for English Language Learners. 1 rigors : the difficult and unpleasant conditions or experiences that are associated with something. : 2 the quality or state of being very exact, careful, or strict.
+subject_label:			5
+query_id:			489257

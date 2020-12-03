@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3234398
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: Smooth muscle lines the blood vessels, hair follicles, urinary tract, digestive tract, and genital tract. Its speed of contraction is slower than that of striated muscle, but it can remain contracted longer. Cardiac muscle is striated like skeletal muscle but, like smooth muscle, is controlled involuntarily.
+subject_label:			2
+query_id:			993987

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3837279
+query:			temperature diode
+passage:			Passage: Rensselaer Polytechnic Institute, Troy, NY 12180. ABSTRACT. The junction temperature of red (AlGaInP), green (GaInN), blue (GaInN), and ultraviolet (GaInN) light-emitting diodes. (LEDs) is measured using the temperature coefficients of the diode forward voltage and of the emission-peak energy. The junction temperature increases linearly with DC current as the current is increased from 10 mA to 100 mA.
+subject_label:			3
+query_id:			1090054

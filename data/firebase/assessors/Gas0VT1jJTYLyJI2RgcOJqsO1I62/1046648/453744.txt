@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			453744
+query:			who played fiddle for boxcar willie
+passage:			Passage: Usage notes: This phrase comes from a story about the Roman emperor Nero, who fiddled (= played the violin) while the city of Rome was burning. Environmentalists claim that the government is fiddling while Rome burns. See also: burn, fiddle, Rome.
+subject_label:			1
+query_id:			1046648

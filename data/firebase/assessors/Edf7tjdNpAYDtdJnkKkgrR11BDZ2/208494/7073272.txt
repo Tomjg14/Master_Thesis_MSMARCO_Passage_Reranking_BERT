@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7073272
+query:			how big do newfypoo's get
+passage:			Passage: The newfypoo is generally a large dog breed, but the adult size of the newfypoo is generally dependent upon the type poodle used in breeding. Since most newfypoos are bred with standard poodles, the offspring is almost always a large dog that weighs between 60-130 pounds and is 21-30 inches tall from ground to shoulder. The breed is considered loyal, calm, and highly intelligent.
+subject_label:			5
+query_id:			208494

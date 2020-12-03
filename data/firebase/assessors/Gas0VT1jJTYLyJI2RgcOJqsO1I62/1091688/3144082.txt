@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3144082
+query:			phone number for bc transit junction
+passage:			Passage: Find DMV Office of White River Junction, VT, obtain DMV phone number, available services and appointments, and then pass your test.
+subject_label:			1
+query_id:			1091688

@@ -1,0 +1,7 @@
+user_id:			pjYxJOXRAsbXajqHNAOwdx1JGBo1
+consent:			true
+batches:			["21","46"]
+english:			8
+unassessed_queries:			[]
+progress:			6
+contact:			true

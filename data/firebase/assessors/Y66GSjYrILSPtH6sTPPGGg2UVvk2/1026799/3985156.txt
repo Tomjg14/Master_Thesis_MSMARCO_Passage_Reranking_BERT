@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3985156
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: This is because the person's immune system detects that the antigens on the cells of the organ are different or not matched.. Mismatched organs, or organs that are not matched closely enough, can trigger a blood transfusion reaction or transplant rejection.
+subject_label:			1
+query_id:			1026799

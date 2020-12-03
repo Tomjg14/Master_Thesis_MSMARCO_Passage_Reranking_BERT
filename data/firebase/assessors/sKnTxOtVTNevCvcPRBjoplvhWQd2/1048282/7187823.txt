@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187823
+query:			what is pivx
+passage:			Passage: PIVX Coin Supply. PIVX doesnât have a finite coin supply cap like Bitcoin or DASH. But PIVXâs supply increases every year by approx 2.6 million. At present, the circulating supply of PIVX is 55,169,505 units, and it will reach 312 million after 100 years from now (when none of us will be alive). Also, PIVXâs average block mining time is 1 minute, which makes it a lot faster than both Bitcoin and DASH. PIVX Market Cap
+subject_label:			3
+query_id:			1048282

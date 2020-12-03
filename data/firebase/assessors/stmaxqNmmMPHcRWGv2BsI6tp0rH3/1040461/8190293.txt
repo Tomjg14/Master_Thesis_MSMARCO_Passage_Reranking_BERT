@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8190293
+query:			who is the grinning man
+passage:			Passage: It was quite plain that he acted the bully, and his friend the peacemaker, for some particular purpose; or rather, it would have been to any one but the weak old man; for they exchanged glances quite openly, both with each other and with the gipsy, who grinned his approval of the jest until his white teeth shone again.
+subject_label:			2
+query_id:			1040461

@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7210726
+query:			what is the phone number to spe
+passage:			Passage: Spe Corporate Services has been in business for approximately 16 years. Spe Corporate Services has approximately 3 employees at this location. Jack Kindberg is the President at Spe Corporate Services. You can contact Jack at (661) 294-2037. The phone number for Spe Corporate Services is (661) 294-2037. There are 65 commercial tenants at 10202 Washington Blvd, Culver City, CA.
+subject_label:			5
+query_id:			1034595

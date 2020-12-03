@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7815874
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Scott's Seafood on the River is located near the cities of Broderick, West Sacramento, Bryte, Arden Arcade, and Mc Clellan.
+subject_label:			3
+query_id:			891565

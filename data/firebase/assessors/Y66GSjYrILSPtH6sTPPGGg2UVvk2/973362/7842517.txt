@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7842517
+query:			where does lice come from
+passage:			Passage: Where do lice come from when your child comes home and there is an outbreak? Lice are not good at walking or jumping, they can only crawl. They have six legs like other insects but these are adapted for clinging on to the hair rather than walking. They avoid light and prefer to remain inside the hair close to the scalp.
+subject_label:			3
+query_id:			973362

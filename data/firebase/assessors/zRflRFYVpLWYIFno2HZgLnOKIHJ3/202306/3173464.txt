@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3173464
+query:			highest mileage crossover india
+passage:			Passage: The Edge is a comfortable, quick, smooth-riding light SUV with five seats and fresh styling. Even though it's a crossover, its gas mileage isn't what it could be, and it lacks the third row of seats that seems so important to buyers nowadays.he Edge is a comfortable, quick, smooth-riding light SUV with five seats and fresh styling. Even though it's a crossover, its gas mileage isn't what it could be, and it lacks the third row of seats that seems so important to buyers nowadays.
+subject_label:			1
+query_id:			202306

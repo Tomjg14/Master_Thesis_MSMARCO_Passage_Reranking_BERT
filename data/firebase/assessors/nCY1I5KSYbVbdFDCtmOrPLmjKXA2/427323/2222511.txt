@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2222511
+query:			is the sec constitutional
+passage:			Passage: The Politics of Slavery. 1 The 1816 Indiana Constitution forbade slavery in Article 8, sec. 1 and Article 11, sec. 7. Source: The full text of the 1816 Indiana Constitution is available at âRoad to Indiana Statehood,â The Digital Collections of IUPUI University Library at http://www.ulib.iupui.edu/digitalscholarship/collections/ISC .
+subject_label:			1
+query_id:			427323

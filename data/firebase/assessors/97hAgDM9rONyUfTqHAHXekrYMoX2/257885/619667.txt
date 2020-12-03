@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			619667
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: The amount of Social Security survivorâs benefits to which you are entitled varies depending on the amount of retirement benefit your deceased spouse was entitled to, your age and (potentially) how long you were married.In most cases, you will be entitled to full benefits if you are of retirement age (62 or older).enerally speaking, if you are of retirement age (62 years old), you can receive Social Security retirement benefits based on your spouseâs record with the SSA.
+subject_label:			3
+query_id:			257885

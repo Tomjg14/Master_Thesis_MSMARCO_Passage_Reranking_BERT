@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3963487
+query:			is callahan an irish name
+passage:			Passage: Darby shows the brief, which becomes known as the Pelican Brief to Thomas Callahan, her law professor and lover. Callahan shows it to an FBI lawyer, Gavin Verheek. Both Callahan and Verheek are killed soon after.
+subject_label:			1
+query_id:			405238

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4516477
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Project Manager make? The average Senior Project Manager salary is $104,645. Filter by location to see Senior Project Manager salaries in your area. Salary estimates are based on 11,262 salaries submitted anonymously to Glassdoor by Senior Project Manager employees.
+subject_label:			1
+query_id:			1096257

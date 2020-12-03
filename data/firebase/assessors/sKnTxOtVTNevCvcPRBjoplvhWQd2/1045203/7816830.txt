@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7816830
+query:			who owns cnn cable news network
+passage:			Passage: Jointly owned by Comcast and General Electric, MSNBC is considered by many to be one of the most liberal cable news channels of all the mainstream media. For years, MSNBC trailed Fox News and CNN in the ratings. However, it began beating CNN after the ratings for that network began to freefall. In 2014 CNN beat MSNBC.
+subject_label:			2
+query_id:			1045203

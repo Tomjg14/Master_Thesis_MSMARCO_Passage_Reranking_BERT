@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			7825374
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: Status and Distribution of the Mediterranean Gecko (Hemidactylus turcicus) in Virginia. The Mediterranean Gecko (Hemidactylus turcicus) is native to the Mediterranean area but included on the North American Introduced Species Checklist (. ) because of its human-mediated dispersal. It was first reported in the United States from Key West, Florida (Fowler, 1915).
+subject_label:			5
+query_id:			1003875

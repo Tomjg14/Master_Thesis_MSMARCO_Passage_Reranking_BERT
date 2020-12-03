@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2074684
+query:			who owns cnn cable news network
+passage:			Passage: The Cable News Network (CNN) is an American basic cable and satellite television channel that is owned by the Turner Broadcasting System division of Time Warner.
+subject_label:			5
+query_id:			1045203

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7202000
+query:			what is the empirical formula for phosphorus selenide
+passage:			Passage: the empirical formula is P2 Se because both phosphorus and selenium have other oxidation states. and P2 Se is the simplest formula that can take place. phosphorus's oxidation states include: 5, 3, -3 selenium's oxidation states include: 6,4,-2
+subject_label:			4
+query_id:			1040038

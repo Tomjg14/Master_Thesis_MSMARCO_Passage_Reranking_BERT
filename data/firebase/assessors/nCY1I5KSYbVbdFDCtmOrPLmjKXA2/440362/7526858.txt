@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7526858
+query:			linking verb synonym
+passage:			Passage: Synonyms and Antonyms for linking_verb. 1. linking verb (n.) an equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
+subject_label:			4
+query_id:			440362

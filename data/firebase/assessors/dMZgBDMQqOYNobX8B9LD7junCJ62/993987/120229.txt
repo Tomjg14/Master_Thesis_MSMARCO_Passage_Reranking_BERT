@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			120229
+query:			which muscle type is involved in the function of the digestive tract and blood vessels?
+passage:			Passage: CREST syndrome: Introduction. CREST syndrome is a type of systemic scleroderma and an ongoing, progressive, autoimmune disease that attacks the connective tissues of the body. CREST syndrome can also affect any part of the body.CREST is an acronym for a group of conditions that are hallmarks of CREST syndrome and affect the skin, muscles, digestive tract and other organs and blood vessels. The exact cause of CREST syndrome is not known, but it is classified as an autoimmune disease.REST is an acronym for a group of conditions that are hallmarks of CREST syndrome and affect the skin, muscles, digestive tract and other organs and blood vessels. The exact cause of CREST syndrome is not known, but it is classified as an autoimmune disease.
+subject_label:			1
+query_id:			993987

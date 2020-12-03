@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2061165
+query:			what is the phone number to spe
+passage:			Passage: What is SPE. Society of Petroleum Engineers (SPE) is the largest individual-member organization serving managers, engineers, scientists and other professionals worldwide in the upstream segment of the oil and gas industry. SPE offers a unique opportunity to contribute to the profession through its programs and activities.
+subject_label:			3
+query_id:			1034595

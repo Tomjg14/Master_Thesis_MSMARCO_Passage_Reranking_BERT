@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8832515
+query:			how old is lil moco
+passage:			Passage: Lil Twist is from Dallas, Texas. He dropped out of high school after completing one year. When he was 12 years old, Lil Twist went to a Lil Wayne concert in Tyler, Texas and opened for Lil Wayne. Impressed, Cortez and Wayne flew Lil Twist to Atlanta to see how he was in a recording studio.
+subject_label:			3
+query_id:			335710

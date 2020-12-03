@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3935446
+query:			molar mass of phenol
+passage:			Passage: Molar Mass is the mass of one mole of a substance (6.02 x 1023 formula units). The unit for molar mass (note it is the mass of a mole) is grams/mole. Atomic Weight is the molar mass of an element. Formula Weight is the molar mass of an IONIC compound.
+subject_label:			5
+query_id:			455456

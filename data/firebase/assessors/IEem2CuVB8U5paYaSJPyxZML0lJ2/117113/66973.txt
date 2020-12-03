@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			66973
+query:			define abraham lincoln during civil war
+passage:			Passage: Noun. 1. Lincoln - 16th President of the United States; saved the Union during the American Civil War and emancipated the slaves; was assassinated by Booth (1809-1865). Abraham Lincoln, President Abraham Lincoln, President Lincoln.
+subject_label:			5
+query_id:			117113

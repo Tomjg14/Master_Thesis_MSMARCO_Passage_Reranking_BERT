@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2794338
+query:			hydrocodone price per pill
+passage:			Passage: A pill of 10 mg of hydrocodone was sold for the price of $4 in Tulsa, Oklahoma on October 26th, 2016, while one user bought it for $5 in Ohio on October 28th, 2016 and another one paid $10 in Philadelphia, Pennsylvania on October 30th, 2016.
+subject_label:			5
+query_id:			1094731

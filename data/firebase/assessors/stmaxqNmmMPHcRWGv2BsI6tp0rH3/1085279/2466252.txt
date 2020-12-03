@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2466252
+query:			what county is stacy minnesota
+passage:			Passage: Recent posts about Stacy, Minnesota on our local forum with over 2,000,000 registered users. Stacy is mentioned 13 times on our forum: Latest news from Stacy, MN collected exclusively by city-data.com from local newspapers, TV, and radio stations. Ancestries: German (34.0%), Swedish (13.8%), American (9.6%), Norwegian (8.6%), Irish (4.7%), Italian (3.3%).
+subject_label:			2
+query_id:			1085279

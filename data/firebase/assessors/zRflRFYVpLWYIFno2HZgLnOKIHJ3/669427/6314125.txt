@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6314125
+query:			what hormone secretion causes goiter
+passage:			Passage: Hyperthyroid goiter: If the amount of stimulating hormone is excessive, the thyroid will both enlarge and secrete too much thyroxin. The result--hyperthyroidism with a â¦goiter. Graves' disease is the most common form of this disorder. the level of thyroid hormone is High.
+subject_label:			4
+query_id:			669427

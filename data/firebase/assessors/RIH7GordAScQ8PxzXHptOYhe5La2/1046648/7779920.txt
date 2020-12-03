@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7779920
+query:			who played fiddle for boxcar willie
+passage:			Passage: Boxcar, Willie. Boxcar Willie. Known as the worldâs favorite hobo, Boxcar Willie took a long train ride to his destination as a country music star. When he finally got there, he didnât waste a moment of his time.
+subject_label:			1
+query_id:			1046648

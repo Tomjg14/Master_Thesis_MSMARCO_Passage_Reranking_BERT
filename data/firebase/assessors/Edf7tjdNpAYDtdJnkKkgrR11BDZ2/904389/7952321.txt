@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7952321
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Home Â» Breakfast Hours Â» Chick-Fil-A Breakfast Hours. Chick-Fil-Aâs cow mascot is no joke. This restaurant uses chicken and only that, presenting it in all forms on its menu â including breakfast. Combining chicken with much loved biscuits and butter, Chick-Fil-A will have you wishing they were open on Sundays.
+subject_label:			3
+query_id:			904389

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595505
+query:			what does fdg mean
+passage:			Passage: FDG (the radioactive, sugary koolaid compound you have before the PET/CT) uptake does in fact increase in areas of the skeleton where there is significant osteoblastic activity versus what is seen in bones with normal osteoblastic / osteoclastic activity - just as FDG uptake increases in areas where cancer cells are present (which have increased metabolic activity versus normal cells and therefore suck up more of the radioactive koolaid).
+subject_label:			5
+query_id:			637459

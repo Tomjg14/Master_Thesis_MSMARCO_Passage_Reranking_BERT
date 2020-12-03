@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3405577
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: What Warriors must do to beat Cavaliers. USA TODAY Sports' Sam Amick and Jeff Zillgitt break down what Golden State will need to do to win the NBA finals. What Warriors must do to beat Cavaliers USA TODAY Sports' Sam Amick and Jeff Zillgitt break down what Golden State will need to do to win the NBA finals. Post to Facebook. What Warriors must do to beat Cavaliers
+subject_label:			1
+query_id:			846082

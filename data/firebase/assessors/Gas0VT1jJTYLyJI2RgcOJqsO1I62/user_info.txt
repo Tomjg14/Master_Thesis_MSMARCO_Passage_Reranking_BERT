@@ -1,0 +1,7 @@
+user_id:			Gas0VT1jJTYLyJI2RgcOJqsO1I62
+consent:			true
+batches:			["15","16"]
+english:			8
+unassessed_queries:			[]
+progress:			6
+contact:			false

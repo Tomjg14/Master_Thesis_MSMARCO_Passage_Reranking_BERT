@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8203484
+query:			where does lice come from
+passage:			Passage: Hi, this is a weird question, but I wanted to know where do head lice come from in the first place? They live in the scalp and feed on the hosts blood by m Ask a question
+subject_label:			2
+query_id:			973362

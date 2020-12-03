@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7894008
+query:			phone number for bc transit junction
+passage:			Passage: Details of Transit Number # 05800-004 . Bank : Toronto-Dominion Bank . Branch : The Junction Shopping Centre . Routing Number : 000405800. Transit Numner (MICR) # 05800-004. Address : 32555-140 London Ave., Mission, BC V2V 6M7.
+subject_label:			5
+query_id:			1091688

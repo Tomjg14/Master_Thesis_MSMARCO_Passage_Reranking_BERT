@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886009
+query:			what is polydextrose made from
+passage:			Passage: Functional refers to both the synthetic variety like polydextrose as well as naturally occurring inulin, which is extracted and purified from chicory roots. Polydextrose shares with dietary fiber one fundamental property: It seems to rev up your GI tract.
+subject_label:			5
+query_id:			785176

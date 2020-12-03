@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8207477
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Food Contamination and Foodborne Illness Prevention . Food becomes contaminated through a variety of mechanisms. Some things that can contribute to foodborne illness are: inadequate handwashing; cross-contamination; storage and cooking temperatures; contamination of food by animal waste ; Hand Washing
+subject_label:			3
+query_id:			1068726

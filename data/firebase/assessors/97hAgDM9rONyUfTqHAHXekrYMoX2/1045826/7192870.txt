@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192870
+query:			what is ssc je
+passage:			Passage: The Paper 1 of SSC JE 2018 was conducted by SSC from January 22 to January 29, 2018. SSC had released the SSC JE notification 2018 on October 20, 2017 and the application form of SSC JE 2018 was made available from October 21, 2017. The last date to fill SSC JE application form was November 17, 2018.
+subject_label:			1
+query_id:			1045826

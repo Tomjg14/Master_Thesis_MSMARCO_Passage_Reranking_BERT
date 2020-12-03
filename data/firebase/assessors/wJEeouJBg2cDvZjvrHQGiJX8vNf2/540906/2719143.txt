@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2719143
+query:			was the great wall of china breached
+passage:			Passage: Home Other Information Great Wall Facts. Where is the Great Wall of china locatedï¼. The Great Wall stretches across North China from east to west for over 6,000 kilometers. It extends from the shanhai pass at the seaside in the Hebei province in the east to the Jiayu pass in Gansu province in the west. The sites of the Great Wall stretch across 15 provinces of China. But since the great wall in Beijing is very long and protected well while most of the great walls in other China areas are not kept well and opened for tourists, it is commonly thought Beijing is the only place to see the Great Wall.
+subject_label:			2
+query_id:			540906

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2565465
+query:			what is crossfit?
+passage:			Passage: In my time coaching and programming in several different CrossFit boxes, Iâve noticed there is some confusion surrounding the CrossFit RX standard and what it means to each and every individual CrossFitter. This confusion, can drastically change the experience of CrossFit for each person.
+subject_label:			2
+query_id:			736125

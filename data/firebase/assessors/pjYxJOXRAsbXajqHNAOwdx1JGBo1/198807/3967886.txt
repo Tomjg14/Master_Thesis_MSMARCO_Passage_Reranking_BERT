@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3967886
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: Miami Dolphins and New England Patriots are the only Nfl teams to go undefeated in the regular season, but the Dolphins are the only team to go undefeated and also win the Supâ¦erbowl.
+subject_label:			5
+query_id:			198807

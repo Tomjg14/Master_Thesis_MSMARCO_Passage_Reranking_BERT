@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7729944
+query:			where is mathura
+passage:			Passage: Vrindavan City, the Living place of lord Krishna. Vrindavan (also spelled as Vrindaban or Brindavan) city is located at Mathura district in the state of Uttar Pradesh about 11 km away from Mathura city close to the Agra-Delhi highway.
+subject_label:			3
+query_id:			998591

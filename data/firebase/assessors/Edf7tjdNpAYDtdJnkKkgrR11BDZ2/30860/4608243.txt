@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4608243
+query:			average amount of money stna make
+passage:			Passage: Ohio STNA Skills Test - Question. This is a very specific question regarding the Ohio STNA Skills Test. Of the 24 skills that STNA's must learn, there are only a handful that specifically state to WEAR GLOVES at some point during the procedure. What I need to know is this: we learned to wash our hands first, then to put on the gloves.
+subject_label:			2
+query_id:			30860

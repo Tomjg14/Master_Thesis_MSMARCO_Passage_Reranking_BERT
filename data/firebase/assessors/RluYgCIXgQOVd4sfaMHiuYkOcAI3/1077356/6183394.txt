@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6183394
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: Answers. Relevance. Rating Newest Oldest. Best Answer: Botulinum toxin type A or BOTOX Botulinum toxin type A is a toxin produced by the bacteria that causes botulism. Botulinum toxin type A affects the nerves. When injected into a muscle, it produces a reduction in the activity of the muscle.Botulinum toxin type A is used to reduce abnormal head position and neck pain in patients with cervical dystonia (spasms of the neck muscles).otulinum toxin type A affects the nerves. When injected into a muscle, it produces a reduction in the activity of the muscle. Botulinum toxin type A is used to reduce abnormal head position and neck pain in patients with cervical dystonia (spasms of the neck muscles).
+subject_label:			5
+query_id:			1077356

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1818506
+query:			how much is college in florida
+passage:			Passage: You have successfully emailed the post. Tim Tebow Was Aaron Hernandez's 'Life Instructor' In College. One of the more surprising parts of Rolling Stone's big feature on Aaron Hernandez is how much support the coaches at the University of Florida tried to give him in college.
+subject_label:			1
+query_id:			1095876

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7569626
+query:			how big do newfypoo's get
+passage:			Passage: How Big Do They Get? How Long Do They Live? How big a brook trout gets is dependent on what stream it comes from. The common size that many anglers catch from heavily fished streams or lakes is 150 to 250 mm (6 to 10 in), but in areas of little fishing, they can get as large as 400 mm (15 in).
+subject_label:			1
+query_id:			208494

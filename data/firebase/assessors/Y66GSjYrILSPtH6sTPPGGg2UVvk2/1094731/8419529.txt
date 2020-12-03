@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8419529
+query:			hydrocodone price per pill
+passage:			Passage: Report Abuse. Well where I live which is Louisville KY the street price for an oxycodone 5mg is $3 per pill. For a 7.5mg its $4 and for a 10mg its $5.Oxycodone (percocet) is stronger that hydrocodone (lortab/vicidan) so of you found the right person you could probally up the price a little.jogemommy Â· 7 years ago.eport Abuse. Well where I live which is Louisville KY the street price for an oxycodone 5mg is $3 per pill. For a 7.5mg its $4 and for a 10mg its $5.
+subject_label:			5
+query_id:			1094731

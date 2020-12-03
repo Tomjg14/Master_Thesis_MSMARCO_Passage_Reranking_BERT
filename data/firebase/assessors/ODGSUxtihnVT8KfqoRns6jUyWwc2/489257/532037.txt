@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			532037
+query:			rigorous testing definition
+passage:			Passage: Definition of rigor in the Legal Dictionary - by Free online English dictionary and encyclopedia. What is rigor? Meaning of rigor as a legal term. What does rigor mean in law?
+subject_label:			3
+query_id:			489257

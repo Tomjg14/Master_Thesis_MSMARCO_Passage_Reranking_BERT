@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6089458
+query:			what is process improvement (lean six sigma)
+passage:			Passage: The Basics of Lean Six Sigma. Lean Six Sigma is a combination of two powerful methods: Lean and Six Sigma. Lean + Six Sigma = Lean Six Sigma. Lean and Six Sigma complement each other. Lean accelerates Six Sigma, delivering. greater results than what would typically be achieved by Lean or Six Sigma individually. Combining these two methods gives your improvement team a comprehensive tool set to.
+subject_label:			5
+query_id:			786937

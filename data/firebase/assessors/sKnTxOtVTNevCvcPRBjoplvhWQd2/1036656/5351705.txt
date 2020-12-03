@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5351705
+query:			what is the meaning of chicken rice?
+passage:			Passage: Oyako means-mother and child, so goes to say, chicken and egg. Donburi means-rice bowl. So the dish literally means chicken and eggs in a bowl, served over hot rice. The photo is not my own but to give you an idea of what is looks like.
+subject_label:			4
+query_id:			1036656

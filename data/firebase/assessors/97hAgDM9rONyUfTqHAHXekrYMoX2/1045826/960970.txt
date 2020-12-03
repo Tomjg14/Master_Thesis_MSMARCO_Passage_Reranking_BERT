@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			960970
+query:			what is ssc je
+passage:			Passage: Staff Selection Commission has announced latest notification regarding SSC Junior Engineer Exam. Staff Selection Commission conduct this exam for recruiting eligible job hunters for Junior Engineer (JE) Post in various disciplines that is Mechanical, Civil and Electrical under different organization and departments.
+subject_label:			5
+query_id:			1045826

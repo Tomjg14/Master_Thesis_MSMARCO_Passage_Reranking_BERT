@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7226036
+query:			what is process improvement (lean six sigma)
+passage:			Passage: It is a methodology that looks to combine the benefits of the lean manufacturing process with the 6 Sigma statistical approaches. What is lean six sigma? It is a methodology that looks to combine the benefits of the lean manufacturing process with the 6 Sigma statistical approaches.
+subject_label:			4
+query_id:			786937

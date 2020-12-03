@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7215943
+query:			when was jim vance funeral
+passage:			Passage: vance al weather copyright Â© 2018 Weather for Vance, AL - Vance, AL 35490 Weather, Current Weather in Vance, AL. Local weather report for Vance, AL, Local Vance, AL 35490 weather. Forecast for Vance, Alabama, Vance, AL weather forecast. Find your local Vance weather forecast. Vance, AL weather conditions. Weather outlook for Vance, AL. Weather report for Vance, AL. Weather Maps and Driving Directions vance al weather.
+subject_label:			1
+query_id:			958311

@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			6036780
+query:			where was the mediterranean gecko introduced
+
+passage:			Passage: Mediterranean house geckos, Hemidactylus turcicus, are an introduced species that can reach lengths of 4-5 inches. They have a rounded snout and bumps on the upper surface of their body (Fig 1.). The tail is cylindrical and slightly flattened and tapers toward the tip and is banded with brown stripes.
+subject_label:			2
+query_id:			1003875

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5817347
+query:			average amount of money stna make
+passage:			Passage: The difference in salary is due to a smaller amount of optometrists who are making more money, which increases the average salary, so it is not safe to assume that an optometristâs salary in a larger city will be more than a smaller one.he difference in salary is due to a smaller amount of optometrists who are making more money, which increases the average salary, so it is not safe to assume that an optometristâs salary in a larger city will be more than a smaller one.
+subject_label:			1
+query_id:			30860

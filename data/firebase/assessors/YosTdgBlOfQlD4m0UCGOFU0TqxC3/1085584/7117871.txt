@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7117871
+query:			carbon reactivation facilities california
+passage:			Passage: Spent Carbon Reactivation And Recycling. Evoqua Water Technologies operates three regional state-of-the-art reactivation and recycling facilities to handle RCRA hazardous and non-hazardous liquid and vapor phase spent carbon. In recent years, a variety of market dynamics have driven the cost of virgin activated carbon upward.
+subject_label:			3
+query_id:			1085584

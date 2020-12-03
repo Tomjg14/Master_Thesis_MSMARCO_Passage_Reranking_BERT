@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7595984
+query:			what is included in a clutch kit
+passage:			Passage: A clutch kit is a cluster of manual transmission parts which includes a pressure plate, clutch disc, and a release bearing. When the clutch goes out, it is often best to replace the entire kit versus individual clutch parts. Individual part replacement can result in unexpected part failure due to the age of the different parts. Complete kit replacement insures all parts are of the same age.
+subject_label:			4
+query_id:			758519

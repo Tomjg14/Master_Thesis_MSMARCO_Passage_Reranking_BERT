@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6095300
+query:			is the sec constitutional
+passage:			Passage: Original U.S. Constitution. Note that there is no such prohibition against Congress, or any delegated power to make anything legal tender. Congress was originally understood to have no power to make anything legal tender outside of federal territories, under Art. I Sec. 8 Cl. 17 and Art. IV Sec. 3 Cl.
+subject_label:			3
+query_id:			427323

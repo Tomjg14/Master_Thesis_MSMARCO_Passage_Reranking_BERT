@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7192865
+query:			what is ssc je
+passage:			Passage: SSC JE 2018: Staff Selection Commission (SSC) conducted the SSC JE 2018 Paper 1 from January 22 to January 29, 2018. The admit card of SSC JE Paper 1 had been released by the commission on January 9, 2018.
+subject_label:			1
+query_id:			1045826

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6922601
+query:			when was jim vance funeral
+passage:			Passage: Posted in Blog Tags: adam tuss, alex naini, andrea roane, angie goff, barbara harrison, bob ryan, doug kammerer, elizabeth thorp, jeanhee, jim vance, kate benett, keith russell, melissa mollet, mona nabili, nbc4, pamela brown, richard jordan, tony tull, veronica johnson, z burger No Comments Â»
+subject_label:			1
+query_id:			958311

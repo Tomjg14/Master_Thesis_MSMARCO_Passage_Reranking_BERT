@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7120431
+query:			what county is stacy minnesota
+passage:			Passage: Stacy is located in southeast Minnesota. Stacy is between the Chisago, Washington, Anoka, Isanti county. Stacy has 3.51 square miles of land area and 0.07 square miles of water area. As of 2010-2014, the total Stacy population is 1,539, which has grown 20.42% since 2000. The population growth rate is much higher than the state average rate of 9.44% and is much higher than the national average rate of 11.61%.
+subject_label:			4
+query_id:			1085279

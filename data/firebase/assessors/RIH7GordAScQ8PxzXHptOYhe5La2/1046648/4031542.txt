@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4031542
+query:			who played fiddle for boxcar willie
+passage:			Passage: Suetonius, who was not even born at the time of the fire, and Cassius Dio, who lived about 100 years after the episode, were the ones who alleged that Nero set Rome alight. According to one legend Nero played the fiddle during the fire. However, the fiddle did not exist in Nero's time.
+subject_label:			1
+query_id:			1046648

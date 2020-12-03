@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1979531
+query:			what is drop in baseball bat selection
+passage:			Passage: What is a BBCOR baseball bat? What is BBCOR? Pull out your PHD and start reading. It is a extremely complicated, exhaustively wordy new standard for testing baseball bats for High School and College Baseball players. The following protocol has been adopted by the NCAA and must be followed when baseball bats are submitted for BBCOR certification.
+subject_label:			2
+query_id:			741392

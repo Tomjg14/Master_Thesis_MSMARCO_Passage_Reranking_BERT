@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			939824
+query:			highest mileage crossover india
+passage:			Passage: The result is that the term SUV is often applied to both crossovers and SUVs. In the past, that was even more common. Before, SUV brought up negative associations with large size and poor gas mileage. That's when many automakers started using the term crossover to describe a vehicle that was crossing over from the practicality of an SUV to the drivability and fuel efficiency of a car.
+subject_label:			4
+query_id:			202306

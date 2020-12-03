@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1394736
+query:			what is drop in baseball bat selection
+passage:			Passage: The smaller the drop, the heavier the bat. In each of those categories there will be a number e.g. -10oz, -11oz, -12oz etc. Those numbers are the DROP which represent the weight difference between the length of the bat and the actual weight of the bat. For example, If looking for a 30inch, 20oz Youth Baseball bat, we know that the difference between the length and the weight is 10oz.
+subject_label:			5
+query_id:			741392

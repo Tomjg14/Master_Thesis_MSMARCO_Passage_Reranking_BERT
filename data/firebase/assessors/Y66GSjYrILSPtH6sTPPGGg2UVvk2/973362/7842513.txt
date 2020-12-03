@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7842513
+query:			where does lice come from
+passage:			Passage: From where did the lice come? My kid is clean, washes hair regularly then how come she have lice in her hair? There are a bunch of other questions that comes to the mind like, Where do head lice come from originally? Where does lice originate from? What causes head lice to begin? How are lice created? How does the first person get lice? blah blahâ¦ Where Does Head Lice Come From? The traces of head lice have been found in Ancient Egypt. Head lice can also be found in prehistoric phase. With time, it has evolved and adapted itself to the environment. It has migrated from one region to another through its host; that is why it is present in almost every region of the world. It is a parasite exclusive to humans as it can not live in animals. Where do head lice originate from?
+subject_label:			3
+query_id:			973362

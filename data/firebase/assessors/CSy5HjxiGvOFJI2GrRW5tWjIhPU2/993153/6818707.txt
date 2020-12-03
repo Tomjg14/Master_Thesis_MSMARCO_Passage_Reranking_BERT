@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6818707
+query:			which situation does a company issue a note receivable
+passage:			Passage: The supplier (or vendor) of the goods on credit is also referred to as a creditor. If the company receiving the goods does not sign a promissory note, the vendor's bill or invoice will be recorded by the company in its liability account Accounts Payable (or Trade Payables).
+subject_label:			no_input
+query_id:			993153

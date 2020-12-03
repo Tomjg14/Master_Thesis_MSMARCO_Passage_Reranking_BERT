@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7794678
+query:			what is the opposite of benefit?
+passage:			Passage: Opposite Of Praise; Which Part Of Your Body Do You Like The... Are You Male Or Female? What Is The Opposite Of Sin? My Essay For The Topic 'Why People Go To... Pls Help Me On How To Write A Salary Increment... Olympic Boycott? What Is The Opposite Of Behind The Schedule? A Custom That Is Worthy Adopting; Question - Opposite Of Benefit Passage
+subject_label:			1
+query_id:			837681

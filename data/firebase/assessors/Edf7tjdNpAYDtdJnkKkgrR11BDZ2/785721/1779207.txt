@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1779207
+query:			what is postulate in algebra
+passage:			Passage: In mathematics, there is algebra in the sense of solving quadratic equations, but in higher level mathematics, there are various kinds of algebras, which are really totally different from what we normal people call algebra.
+subject_label:			2
+query_id:			785721

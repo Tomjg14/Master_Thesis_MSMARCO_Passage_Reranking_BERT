@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6925210
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: To be properly recycled, recyclables must be appropriately sorted by consumers, and properly collected. During sorting, the recyclables are checked for food and other contaminants, which could potentially cause the item to go straight to waste disposal. Recycling is a commodity business with supply and demand.
+subject_label:			1
+query_id:			1068726

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7289621
+query:			who paul clark
+passage:			Passage: Paul Thompson Clark MBE[1][2] (born 4 December 1953, Belfast)[3] is a Northern Irish television presenter and journalist. He is currently a presenter and reporter for UTV Live.
+subject_label:			no_input
+query_id:			988142

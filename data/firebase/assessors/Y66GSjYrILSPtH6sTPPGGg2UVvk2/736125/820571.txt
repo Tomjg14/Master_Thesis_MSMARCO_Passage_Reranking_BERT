@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			820571
+query:			what is crossfit?
+passage:			Passage: What is CrossFit? The CrossFit prescription is performing âfunctional movements that are constantly varied at high intensity.â CrossFit is a core strength and conditioning program. The CrossFit program is designed to elicit as broad an adaptational response as possible.
+subject_label:			no_input
+query_id:			736125

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7802967
+query:			where is miralago
+passage:			Passage: MiraLago At A Glance: MiraLago is a newer West Parkland gated community of luxury estate homes from 2,100 to over 4,600 square feet under living areas. There are multiple builder models to choose from with elegant 1 and 2-story homes including 3-6 bedrooms, 2- or 3-car garages, and inviting covered entries and patios.
+subject_label:			5
+query_id:			987978

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4412960
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Many of the body changes and symptoms of pregnancy you experience in the first trimester will begin to fade once you reach the second trimester. For example, morning sickness typically only occurs during the first trimester. Other symptoms, like heartburn, may actually stay the same or get worse.
+subject_label:			5
+query_id:			414155

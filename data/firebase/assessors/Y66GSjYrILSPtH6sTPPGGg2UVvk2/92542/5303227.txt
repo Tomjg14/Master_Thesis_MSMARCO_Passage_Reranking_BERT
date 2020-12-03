@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5303227
+query:			circulation money definition
+passage:			Passage: Definition of M0, M1, M2, M3, M4. Different measures of money supply. Not all of them are widely used and the exact classifications depend on the country. M0 and M1, also called narrow money, normally include coins and notes in circulation and other money equivalents that are easily convertible into cash.ot all of them are widely used and the exact classifications depend on the country. M0 and M1, also called narrow money, normally include coins and notes in circulation and other money equivalents that are easily convertible into cash.
+subject_label:			1
+query_id:			92542

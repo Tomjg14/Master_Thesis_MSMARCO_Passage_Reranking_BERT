@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8160049
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: What Not To Recycle. Not all glass can be recycled. The following items should not be placed into your recycling bin: Any glass contaminated with stones, dirt, and food waste. Ceramics, such as dishware, ovenware, and decorative items. Heat-resistant glass, such as Pyrex. Mixed colors of broken glass. Mirror or window glass.
+subject_label:			1
+query_id:			1068726

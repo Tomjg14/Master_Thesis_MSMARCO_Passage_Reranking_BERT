@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3933303
+query:			phone number for bc transit junction
+passage:			Passage: The successor to the British Columbia Electric Railway, which started in 1897 and in 1961 became a division of BC Hydro, BC Transit was created in 1972 as the provincial government took over BC Hydro systems.C Transit carries out overall planning and delivery for all of the different municipal transit systems in British Columbia.
+subject_label:			2
+query_id:			1091688

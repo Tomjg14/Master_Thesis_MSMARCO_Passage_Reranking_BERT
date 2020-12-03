@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			169073
+query:			what does extravert mean
+passage:			Passage: What Does T Mean? What Does The Below Sentence Mean? What Does This Mean? What Does Swipe And Ficky Mean In This... What Does This Word Mean? ? Re: What Does It Mean? What Does This Phrase Mean: Burst Into The Seams? What Does It Mean? What Does The Statement Mean? What Does White-Out Mean? What Does Knock Me Clean Over Mean? What Does 'Want' Mean In The Below Example? What Does State To The Left Below Mean? What Does Sloppy-Joe Mean In Below Lines? What Does Jeopardy Mean?
+subject_label:			1
+query_id:			1083852

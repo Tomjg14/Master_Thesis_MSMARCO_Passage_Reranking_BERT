@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7434231
+query:			is the hawb the tracking number
+passage:			Passage: Air Freight (HAWB) Tracking. The House Air Waybill (HAWB) tracking is a tool which is used to track your air freight or air cargo consignment by using your HAWB number or AMI booking reference number. We are currently in the process of developing an online HAWB Tracking tool which will become available in the coming months. This will allow you to track the progress of your consignment with ease via our website.
+subject_label:			2
+query_id:			426442

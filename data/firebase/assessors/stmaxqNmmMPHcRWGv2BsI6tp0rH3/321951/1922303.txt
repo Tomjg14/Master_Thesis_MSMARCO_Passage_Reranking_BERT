@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1922303
+query:			how much is donald trump jr worth
+passage:			Passage: The main reason this net worth differs from most generally accepted evaluations of his wealth, has to do with how Donald values his personal brand. In his net worth estimate, Donald values his personal brand at $3.3 billion. Other analysts value the brand at closer to $50 or $100 million. 1 Donald Trump Jr.
+subject_label:			2
+query_id:			321951

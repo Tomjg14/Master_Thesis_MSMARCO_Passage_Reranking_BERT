@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			961850
+query:			what is drop in baseball bat selection
+passage:			Passage: The more negative the drop, the lighter the bat is relative to the length of the bat. So, in general, young kids will swing high drop (more negative) bats and older kids will swing low drop (less negative) bats. An important note about drop for older boys playing baseball: The natural drop of wood is -3.
+subject_label:			5
+query_id:			741392

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7098180
+query:			what airport is in wilder ky
+passage:			Passage: Next Image. 1 All Hampton Inn & Suites - Wilder, KY is visible from I-275, located on a hill that provides guests with a magnificent view of the downtown Cincinnati skyline! Hampton Inn & Suites - Wilder, KY is visible from I-275 at Exit #77, located on a hill with a magnificent view of the downtown Cincinnati skyline!
+subject_label:			1
+query_id:			1087858

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7455869
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: During his walk around the world, Blessitt has held audience with numerous world and religious leaders including, George W. Bush, Billy Graham, Pope John Paul II, Yasser Arafat and Muammar al-Gaddafi and was arrested 24 times.
+subject_label:			1
+query_id:			1096932

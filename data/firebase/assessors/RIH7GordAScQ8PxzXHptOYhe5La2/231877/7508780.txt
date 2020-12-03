@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7508780
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: Burlington is a city in Ontario, Canada. It lies across Burlington Bay from Hamilton and is located a 45-minute drive from Toronto and Niagara. It is listed among the best cities to live in Canada. Nestled on the shore of beautiful Lake Ontario in the shadow of the Niagara Escarpment, Burlington offers everything for that perfect get-away.
+subject_label:			3
+query_id:			231877

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8660428
+query:			apartment cost in phoenix az
+passage:			Passage: The gas prices for the cost to drive from Phoenix, AZ to Denver, CO Has been Galculated: 46 this month. The gas prices for the cost to drive from Tucson, AZ to San Diego, CA Has been Galculated: 39 this month. The gas prices for the cost to drive from Phoenix, AZ to Seattle, WA Has been Galculated: 35 this month.he gas prices for the cost to drive from Phoenix, AZ to Tecumseh, OK Has been Galculated: 15 this month. The gas prices for the cost to drive from Laveen, AZ to Phoenix, AZ Has been Galculated: 14 this month. The gas prices for the cost to drive from Phoenix, AZ to Flagstaff, AZ Has been Galculated: 14 this month.
+subject_label:			1
+query_id:			1100687

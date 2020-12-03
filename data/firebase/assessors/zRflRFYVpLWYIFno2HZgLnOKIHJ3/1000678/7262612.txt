@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7262612
+query:			where did captain james cook explore?
+passage:			Passage: Purchase this paperback edition of The Journals of Captain Cook. Explorations of Captain James Cook in the Pacific As Told by Selections of His Own Journals, 1768-1779. by James Cook and edited by A. Grenfell Price. Who better to tell the story of the voyages of Captain Cook than the captain himself.
+subject_label:			1
+query_id:			1000678

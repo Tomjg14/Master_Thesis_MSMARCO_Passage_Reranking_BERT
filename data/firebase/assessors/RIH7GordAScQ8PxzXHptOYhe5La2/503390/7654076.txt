@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7654076
+query:			statute of limitations definition
+passage:			Passage: Statute of Limitations Definition. Statute of limitations is a blanket term used to describe state statutes that specify the time limit that a plaintiff has to file a complaint or that the prosecutor has to file criminal charges. Thus, if this time has passed, the plaintiff or prosecutor is barred from initiating a case against the defendant.
+subject_label:			5
+query_id:			503390

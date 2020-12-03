@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4949609
+query:			average money market interest rates
+passage:			Passage: Interest Rates Today: The Highest Interest Rates in the World Checking, savings, money market account and CD interest rates in the U.S. are low. Consider that the average 12-month CD rate is a mere 0.24 percent, according to the FDIC.
+subject_label:			5
+query_id:			38946

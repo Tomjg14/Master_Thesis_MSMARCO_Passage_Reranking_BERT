@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6304514
+query:			which situation does a company issue a note receivable
+passage:			Passage: Administrative receivership differs from simple receivership in that an administrative receiver is appointed over all of the assets and undertaking of the company. This means that an administrative receiver can normally only be appointed by the holder of a floating charge.nforcement is also a significant aspect of the situations where administrative receivership is still permitted â for example, the ability to take control of the entirety of the assets is important in structuring insolvency-remote special purpose companies that issue securities or operate infrastructure projects.
+subject_label:			1
+query_id:			993153

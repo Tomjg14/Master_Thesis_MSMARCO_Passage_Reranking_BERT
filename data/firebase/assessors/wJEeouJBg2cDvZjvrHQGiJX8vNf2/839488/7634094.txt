@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7634094
+query:			what is the plural of kohlrabies
+passage:			Passage: What is the plural of of licencee? What is the plural of of licence plate? What is the plural of of licence to print money? What is the plural of of licensed practical nurse? What is the plural of of licensed victualler? What is the plural of of licensee? What is the plural of of license plate? What is the plural of of licenser? What is the plural of of license to print money?
+subject_label:			1
+query_id:			839488

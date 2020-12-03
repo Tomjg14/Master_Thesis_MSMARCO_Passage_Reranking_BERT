@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			861988
+query:			what is aircraft ram air
+passage:			Passage: What is the difference between Ram Air and Cold Air Intake systems? A Ram Air Intake technically is a cold air intake system, since it draws cooler air down into the engine than does a stock intake. The main difference comes from where it draws that cooler air, and how it faciilitates combustion.
+subject_label:			3
+query_id:			1064195

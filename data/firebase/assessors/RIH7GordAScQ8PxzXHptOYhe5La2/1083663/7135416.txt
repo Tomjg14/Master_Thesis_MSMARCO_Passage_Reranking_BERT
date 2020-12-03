@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7135416
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: Answer . 'Wearing your heart on your sleeves' means instead of keeping a secret heart (loving one or others without communication) the person shows and communicates verballâ¦y to those around them how much they love and respect others thus, 'wearing your heart on your sleeve.'. You do this by outwardly showing your emotions.
+subject_label:			5
+query_id:			1083663

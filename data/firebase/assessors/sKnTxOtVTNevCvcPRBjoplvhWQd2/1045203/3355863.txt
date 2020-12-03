@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3355863
+query:			who owns cnn cable news network
+passage:			Passage: United States cable news. Cable news refers to television channels devoted to television news broadcasts, with the name deriving from the proliferation of such networks during the 1980s with the advent of cable television. In the United States, early networks included CNN in 1980, Financial News Network in 1981 and CNN2 (now HLN) in 1982.
+subject_label:			1
+query_id:			1045203

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6936740
+query:			temperature diode
+passage:			Passage: In the amplifier circuitry, diodes may be used to provide a known (approximately) voltage drop where required by the design of the circuit. They can also be used for temperature feedback, although for direct temperature compensation a transistor is more common. These diodes are generally small-signal types like 1N4148. In logic switching, diodes are often used for simple OR-type functions. Look on Wikipedia for diode OR. These are small-signal types. If the amplifier has a switching power supply, or is a Class D amplifier, high speed switching diodes are used extensively.
+subject_label:			2
+query_id:			1090054

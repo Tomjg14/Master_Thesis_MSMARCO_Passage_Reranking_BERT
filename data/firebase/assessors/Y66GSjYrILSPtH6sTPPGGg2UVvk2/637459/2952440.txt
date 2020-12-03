@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2952440
+query:			what does fdg mean
+passage:			Passage: Most PET scans today are performed with an imaging radiopharmaceutical -- most commonly FDG (Fluorodeoxyglucose), which is a tracer that goes into the heart to provide a picture of the organ's function on PET scans. If a person exercises before having a PET/CT scan, more FDG appears in the heart region, obscuring the view. The researchers found that the same thing happens with caffeine: The heart beats faster when you drink coffee, just as it does when you exercise.
+subject_label:			4
+query_id:			637459

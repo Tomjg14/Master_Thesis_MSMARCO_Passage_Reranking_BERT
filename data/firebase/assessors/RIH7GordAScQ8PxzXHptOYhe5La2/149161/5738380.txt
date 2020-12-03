@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5738380
+query:			difference between watt and hertz
+passage:			Passage: Decibels to watts, volts, hertz, pascal conversion calculator. Convert dB, dBm, dBW, dBV, dBmV, dBÎ¼V, dBu, dBÎ¼A, dBHz, dBSPL, dBA to watts, volts, ampers, hertz, sound pressure. Set the quantity type and decibel unit.
+subject_label:			1
+query_id:			149161

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5752052
+query:			where is mathura
+passage:			Passage: Mathura is situated 145 kms from capital city of India, New Delhi. This is at a distance of 58 kms from Agra. Well developed road and railways are available to reach the place. Mathura is one of the major city between New Delhi and Agra and daily many number of buses and trains run between the two.
+subject_label:			5
+query_id:			998591

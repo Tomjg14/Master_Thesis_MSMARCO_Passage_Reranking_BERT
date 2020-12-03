@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7637590
+query:			what is a malanga
+passage:			Passage: Places. 1 Malanga, neighbourhood in Maputo, Mozambique. 2 Malanga, ancient name of Kanchipuram, India. 3 Char Malanga, village in Bangladesh. Malangas, Zamboanga Sibugay, a town in the 1 Philippines. Malangas Coal Reservation. Malangas Institute.
+subject_label:			2
+query_id:			689885

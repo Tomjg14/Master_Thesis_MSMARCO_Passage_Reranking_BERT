@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5509006
+query:			apartment cost in phoenix az
+passage:			Passage: Las Vegas and Phoenix are far apart (by car). This is the best Las Vegas, NV-Phoenix, AZ route.
+subject_label:			1
+query_id:			1100687

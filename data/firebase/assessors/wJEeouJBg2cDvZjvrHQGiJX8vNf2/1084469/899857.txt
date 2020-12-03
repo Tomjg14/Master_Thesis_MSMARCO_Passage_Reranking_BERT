@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			899857
+query:			what does a grassroots organization mean
+passage:			Passage: What does PEO stand for? PEO stands for proepicardial organ. Q: A: How to abbreviate proepicardial organ? proepicardial organ can be abbreviated as PEO. Q: A: What is the meaning of PEO abbreviation? The meaning of PEO abbreviation is proepicardial organ. Q: A: What is PEO abbreviation? One of the definitions of PEO is proepicardial organ. Q: A: What does PEO mean? PEO as abbreviation means proepicardial organ. Q: A: What is shorthand of proepicardial organ? The most common shorthand of proepicardial organ is PEO.
+subject_label:			1
+query_id:			1084469

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2053367
+query:			carnation® evaporated milk total calories
+passage:			Passage: Calories in Carnation Breakfast Essentials (With Milk). Find nutrition facts for Carnation Breakfast Essentials (With Milk) and over 2,000,000 other foods in MyFitnessPal.com's food database. Calorie Counter
+subject_label:			2
+query_id:			1085457

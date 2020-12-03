@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5274440
+query:			how big is a micron
+passage:			Passage: How to convert delta microns or nanometers to delta cm-1(inverse cm) Of course this is where it gets tricky, because the result depends on the absolute wavenumber, in other words a bandwidth of 10 cm-1 is 1000 microns at one wavelength, but 0.1 microns at another.
+subject_label:			4
+query_id:			208822

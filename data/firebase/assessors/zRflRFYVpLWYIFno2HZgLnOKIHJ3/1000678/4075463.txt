@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4075463
+query:			where did captain james cook explore?
+passage:			Passage: CAPTAIN JAMES COOK PowerPoint PPT Presentation. CAPTAIN JAMES COOK . British Explorer. His life. James Cook was born on October 27, 1728 in Main-Cleveland in the North Riding of Yorkshire. His birthplace was a thatched cottage.
+subject_label:			1
+query_id:			1000678

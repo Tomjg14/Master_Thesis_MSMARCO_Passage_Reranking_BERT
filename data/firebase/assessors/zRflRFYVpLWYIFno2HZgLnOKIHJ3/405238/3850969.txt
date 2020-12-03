@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3850969
+query:			is callahan an irish name
+passage:			Passage: And Chris Farley did such a seamless depiction of this funny guy named Tommy Boy, that I still, in my heart of hearts, just know that there really IS a big dumb funny guy named Tommy Callahan, somewhere in Sandusky, Ohio, who is running an autoparts factory.
+subject_label:			1
+query_id:			405238

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7229260
+query:			what is postulate in algebra
+passage:			Passage: This Site Might Help You. RE: JJ Thomson + William Thomson? Which subatomic particle did J.J Thomson discover and what did this lead him to postulate about the nature of the atom? William Thomson postulated what became known as the "plum pudding" model of the atoms structure.
+subject_label:			1
+query_id:			785721

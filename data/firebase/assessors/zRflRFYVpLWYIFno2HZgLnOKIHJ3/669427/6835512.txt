@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6835512
+query:			what hormone secretion causes goiter
+passage:			Passage: The term âgoiterâ simply refers to the abnormal enlargement of the thyroid gland. It is important to know that the presence of a goiter does not necessarily mean that the thyroid gland is malfunctioning.A goiter can occur in a gland that is producing too much hormone (hyperthyroidism), too little hormone (hypothyroidism), or the correct amount of hormone (euthyroidism).A goiter indicates there is a condition present which is causing the thyroid to grow abnormally.his signal is called thyroid stimulating hormone (TSH). As the name implies, this hormone stimulates the thyroid to produce thyroid hormone and to grow in size. This abnormal growth in size produces what is termed a âgoiter.â Thus, iodine deficiency is one cause of goiter development.
+subject_label:			5
+query_id:			669427

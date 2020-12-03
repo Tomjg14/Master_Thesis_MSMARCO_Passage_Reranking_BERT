@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7189813
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Frequently Asked Questions: Contamination. Q: What items are considered contaminants in recycling? A: Many items can be considered contaminants. Contamination happens when non-recyclable items are mixed in with recyclables items or when recyclable items are placed in the wrong recycling bins. Innocent looking paper smeared with food or grease cannot be processed with clean paper and can ruin a newly made product if it is not caught before it goes to the factory.
+subject_label:			4
+query_id:			1068726

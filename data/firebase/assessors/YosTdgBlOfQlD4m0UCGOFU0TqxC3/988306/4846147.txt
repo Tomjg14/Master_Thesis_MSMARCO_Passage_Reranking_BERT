@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4846147
+query:			who owns charlotte hilton university place hotel
+passage:			Passage: See Full Restaurant List Make a Reservation at Edgewater Bar & Grille - Hilton Charlotte University Place
+subject_label:			2
+query_id:			988306

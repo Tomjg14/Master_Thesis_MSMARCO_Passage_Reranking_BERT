@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			851739
+query:			what is the hormone that makes you fat
+passage:			Passage: What Leptin Is. Leptin is a hormone secreted by adipose tissue (fat cells) that tells you youâre full. (Its opposite hormone is called ghrelin, which tells you youâre hungry. You can remember this because the word ghrelin sounds like a stomach growling.) Because leptin is secreted by fat cells, you produce more leptin as your weight increases.
+subject_label:			5
+query_id:			825147

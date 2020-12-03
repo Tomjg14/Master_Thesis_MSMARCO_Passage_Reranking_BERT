@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5742137
+query:			what is the hormone that makes you fat
+passage:			Passage: Are female hormones making you fat... Female hormones are responsible for hormonal weight gain during puberty, pregnancy and menopause. They affect ALL women regardless of race, culture, creed, body shape or size.ndrogen. This is the hormone that we can point fingers at for that weight gain that makes you look for apple-shaped, you know that middle-aged spread-it's androgen that is responsible for sending new weight gained to wrap around your mid-section.
+subject_label:			1
+query_id:			825147

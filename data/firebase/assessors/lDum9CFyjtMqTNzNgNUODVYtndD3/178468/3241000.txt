@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3241000
+query:			effects hot stone has on the circulatory system
+passage:			Passage: Circulatory system. The circulatory system contains the heart and the blood vessels and moves blood throughout the body. Our body has about five litres of blood continually travelling through the circulatory system. All our circulatory organs work together, forming a very efficient pipe network for our bodies.
+subject_label:			2
+query_id:			178468

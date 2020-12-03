@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			6530722
+query:			how could the courts check the bureaucracy
+
+passage:			Passage: The prices are generally set per tile, not per court (for example, a good quality basketball court is usually made out of tiles that cost around $15 a piece). Check out the link below for more information. Depending on how big the basketball court will be, the price could range anywhere from a few thousand to a hundred thousand dollars. The prices are generally set per tile, not per court (for example, a good quality basketball court is usually made out of tiles that cost around $15 a piece). Minor edit?
+subject_label:			1
+query_id:			212195

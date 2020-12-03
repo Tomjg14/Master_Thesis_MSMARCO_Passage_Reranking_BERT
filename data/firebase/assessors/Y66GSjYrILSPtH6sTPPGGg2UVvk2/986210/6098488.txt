@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6098488
+query:			who was the basket of apples by
+passage:			Passage: Say you have 18 apples. You want to split them into baskets of 6. You now have 3 (baskets) of 6 (apples). You have 3 * 6 = 18 apples in total. Images: http://micasamontessori.ie/septe... http://comfortablydomestic.com/2...
+subject_label:			1
+query_id:			986210

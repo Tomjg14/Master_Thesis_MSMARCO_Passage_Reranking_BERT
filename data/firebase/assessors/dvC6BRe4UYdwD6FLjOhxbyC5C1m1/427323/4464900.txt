@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4464900
+query:			is the sec constitutional
+passage:			Passage: This title may be cited as the Fair Housing Act. Sec. 801. [42 U.S.C. 3601] Declaration of Policy. It is the policy of the United States to provide, within constitutional limitations, for fair housing throughout the United States. Sec. 802.
+subject_label:			3
+query_id:			427323

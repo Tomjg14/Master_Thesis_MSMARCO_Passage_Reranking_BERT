@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			200057
+query:			what is process improvement (lean six sigma)
+passage:			Passage: It is not surprising that the earliest adopters of Lean Six Sigma arose in the service support functions of manufacturing organizations like GE Capital, Caterpillar Finance, and Lockheed Martin. Lean Six Sigma for services is a business improvement methodology that maximizes shareholder value by achieving the fastest rate of improvement in customer satisfaction, cost, quality, process speed, and invested capital. Ironically, Six Sigma and Lean have often been regarded as rival initiatives.
+subject_label:			2
+query_id:			786937

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4893227
+query:			where is ridgewood ny located
+passage:			Passage: Ridgewood NY Zip Code Lookup and List. Below is a list of Ridgewood NY zip codes. For your research we have also included Ridgewood Area Code, Time Zone, UTC and the local Queens County FIPS Code. Each Ridgewood New York zip code has a center Longitude / Latitude point (the Ridgewood center is -73.8797 / 40.7029). For your convenience we have also indicated if that zip code in Ridgewood observes Daylight Savings time.
+subject_label:			5
+query_id:			991590

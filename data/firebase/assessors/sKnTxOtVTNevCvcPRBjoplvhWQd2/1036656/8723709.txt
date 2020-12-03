@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8723709
+query:			what is the meaning of chicken rice?
+passage:			Passage: Best Answer: Actually, just regular white rice and boiled chicken, and the lo-fat yogurt is what you want. The vet has put the dog on a bland diet which means no grease, seasonings, and no red meat. Skin the chicken , and give the white rice plain. Good luck getting her to eat it.
+subject_label:			2
+query_id:			1036656

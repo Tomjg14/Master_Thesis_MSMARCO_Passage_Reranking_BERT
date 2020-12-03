@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3439242
+query:			how many calories in provolone cheese
+passage:			Passage: How many carbs are in 1 serving? With 3.82 g per 500 calories, this specific food has a miniscule level of carbs (it has the same degree as foods like parmesan cheese, veal and provolone cheese). Compared to foods in its food group, this item has a typical amount of carbs.
+subject_label:			2
+query_id:			1097449

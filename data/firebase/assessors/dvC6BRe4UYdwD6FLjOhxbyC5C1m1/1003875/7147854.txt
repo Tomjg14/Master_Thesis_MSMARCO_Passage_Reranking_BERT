@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7147854
+query:			where was the mediterranean gecko introduced
+passage:			Passage: The Texas banded gecko (Coleonyx brevis) is difficult to distinguish from the western banded gecko; it occurs only in the Chihuahuan Desert of southeastern New Mexico and west Texas. Geckos seen on sidewalks and house walls of urban areas are Mediterranean geckos (Hemidactylus turcicus), an introduced species with warty skin and lacking movable eyelids. There are eight subspecies of the western banded gecko, four in the desert regions of the Southwest: 1 Desert (C.v. variegatus) southeastern California, southwestern Nevada and western Arizona. 2 San Diego (C.v. abbotti) Pacific slopes of southern California into northern Baja.
+subject_label:			3
+query_id:			1003875

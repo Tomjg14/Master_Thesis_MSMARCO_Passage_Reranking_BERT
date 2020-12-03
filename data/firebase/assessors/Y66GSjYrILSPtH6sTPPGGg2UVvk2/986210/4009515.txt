@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4009515
+query:			who was the basket of apples by
+passage:			Passage: 1 Enter your model number to make sure this fits. 2 1 Dozen 1/2 Peck Wooden Apple or Picking Baskets. 3 1/2 Peck Size Wooden Basket with Wooden Spool Handle. 4 Basket Size 8.5. Natural Wood Color.
+subject_label:			1
+query_id:			986210

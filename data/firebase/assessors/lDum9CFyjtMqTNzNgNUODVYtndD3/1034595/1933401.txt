@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1933401
+query:			what is the phone number to spe
+passage:			Passage: The name, Spes Unica, embodies the hopes and dreams for what will happen in this academic building. Spes Unica Hall is a tribute to the rich educational tradition begun by our founder. It represents a future that will see Saint Maryâs ever more widely recognized for the excellent education of women.or all alumnae and for those who will use Spes Unica Hall there is a connection with the Sisters of the Holy Cross and a call from Saint Maryâs College to be people of hope. 1 Educating heart, mind, and soulKelley gives back to the community all that Saint Maryâs gives her Â».
+subject_label:			2
+query_id:			1034595

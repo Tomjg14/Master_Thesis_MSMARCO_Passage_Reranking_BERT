@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7118965
+query:			carnation® evaporated milk total calories
+passage:			Passage: Nutrition information and analysis for Carnation Evaporated Milk. See calories, carbs, fat, and compare to thousands of other foods. Food Access Environmental Health
+subject_label:			1
+query_id:			1085457

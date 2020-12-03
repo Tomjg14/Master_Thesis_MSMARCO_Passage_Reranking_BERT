@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5073753
+query:			who owns cnn cable news network
+passage:			Passage: Cable Network Ranker: July 2016 and Week of July 25. Fox News was the most-watched cable network of the month, in prime time and in total day. CNN was the most-watched cable network of this past week in prime time, and MSNBC finished No. 3.
+subject_label:			1
+query_id:			1045203

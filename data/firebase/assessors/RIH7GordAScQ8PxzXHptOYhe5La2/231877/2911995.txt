@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2911995
+query:			how far is niagara on the lake to hamilton
+passage:			Passage: The area from Oshawa, Ontario around the west end of Lake Ontario to Niagara Falls, with Hamilton at its centre, is known as the Golden Horseshoe and had a population of approximately 8.1 million people in 2006.
+subject_label:			1
+query_id:			231877

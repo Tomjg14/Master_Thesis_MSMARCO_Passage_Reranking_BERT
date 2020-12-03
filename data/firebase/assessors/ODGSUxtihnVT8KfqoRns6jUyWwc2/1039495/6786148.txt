@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6786148
+query:			who is the boss of google?
+passage:			Passage: Meaning: A person who exercises control and makes decisions. Classified under: Nouns denoting people. Context example: he is his own boss now. Hypernyms (boss is a kind of...): leader (a person who rules or guides or inspires others) Hyponyms (each of the following is a kind of boss):
+subject_label:			1
+query_id:			1039495

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2110850
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: What is the distance in miles from Lafayette LA to Lake Charles LA? How many miles between Beaumont TX and Port Arthur TX? Given is the calculated distance as well as the driving travel time, which does not take into account driving conditions, traffic, etc. The distance between Beaumont, Texas anâ¦d Port Arthur, Texas is 22 miles. The resulting travel time is 27 minutes.
+subject_label:			1
+query_id:			1096932

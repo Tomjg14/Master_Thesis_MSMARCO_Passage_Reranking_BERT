@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			902190
+query:			what is the parent company for adidas
+passage:			Passage: Adidas AG is a multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike. It is the holding company for the Adidas Group, which consists of the Reebok sportswear company, TaylorMade golf company, Runtastic, an Austrian fitness technology company, and 8.33% of Bayern Munich, the football club. Adidas' revenue for
+subject_label:			5
+query_id:			838453

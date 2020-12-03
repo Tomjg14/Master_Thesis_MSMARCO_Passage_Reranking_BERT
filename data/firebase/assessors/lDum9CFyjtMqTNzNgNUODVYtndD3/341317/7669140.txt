@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7669140
+query:			how tall is samus aran
+passage:			Passage: Samus is suppose to be 6'3 without the suit. Pretty sure that she's supposed to be 6' with the suit on, and 225 LBS (meaning the suit probably weighs about 90-100 pounds). Without the suit, she's probably about 5' 10 and 130 LBS. That's still tall enough to tower over a great many men.
+subject_label:			4
+query_id:			341317

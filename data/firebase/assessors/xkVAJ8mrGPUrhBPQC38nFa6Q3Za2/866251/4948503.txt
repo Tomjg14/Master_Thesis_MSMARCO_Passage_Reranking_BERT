@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4948503
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: The animals behave as if it were night, and zoo visitors can see them. Zoos are also showing more kinds of animals. Many zoos now include insects, spiders, crustaceans (lobsters, for example), and other invertebrates (animals without backbones) in their exhibits.nimal Diets. More kinds of food are probably served in a zoo than in most restaurants. To feed their livestock, zoos are always buying large quantities of grain, fruit, vegetables, meat, fish, and other foods. Many zoo visitors enjoy seeing animals fed.
+subject_label:			1
+query_id:			866251

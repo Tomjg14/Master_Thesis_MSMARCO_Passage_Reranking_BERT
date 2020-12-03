@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7411710
+query:			definition, nepotism
+passage:			Passage: There are many differences between nepotism and cronyism and the main difference between nepotism and cronyism is that nepotism means granting favoritism or assignments of close family member to any position either it is in politics, entertainment, business or religion.
+subject_label:			3
+query_id:			1101714

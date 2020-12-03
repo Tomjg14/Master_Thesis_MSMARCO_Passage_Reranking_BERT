@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6623537
+query:			how many weeks can a yolk sac be seen on ultrasound
+passage:			Passage: The gestational sac is seen earlier than a fetus can be detected on an ultrasound. A gestational sac can be seen as early as the fifth week of pregnancy or three weeks after conception. If no gestational sac is seen, it could mean that the expectant mother ovulated late.f HCG levels are higher and no gestational sac is seen, it could be an indication of an ectopic pregnancy, or a pregnancy that implants outside of the uterus. Transvaginal Ultrasound. Transvaginal ultrasound can be used to detect a fetus or gestational sac up to a week before traditional ultrasound.
+subject_label:			1
+query_id:			299732

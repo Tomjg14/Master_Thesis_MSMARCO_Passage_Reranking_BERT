@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2367565
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: A rock is a solid natural object composed of one, or in most instances, a combination of minerals. Rocks can lithify from sediments, solidify from melt, precipitate out of sat â¦ urated solutions, or metamorphose from other rock types.
+subject_label:			2
+query_id:			1007473

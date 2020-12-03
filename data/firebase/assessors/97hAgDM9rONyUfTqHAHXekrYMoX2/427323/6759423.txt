@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6759423
+query:			is the sec constitutional
+passage:			Passage: Q 1. Ans. Eighteen. For every constituency, there is a voters list Article 326 of the Constitution, and Sec. 19 of R. P. Act, 1950 stipulate that the minimum age for registration of a voter is 18 years. 1. Ans. Eighteen. For every constituency, there is a voters list Article 326 of the Constitution, and Sec. 19 of R. P. Act, 1950 stipulate that the minimum age for registration of a voter is 18 years.
+subject_label:			1
+query_id:			427323

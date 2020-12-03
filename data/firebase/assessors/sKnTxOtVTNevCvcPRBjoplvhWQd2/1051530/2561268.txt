@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2561268
+query:			what is mastoidectomy
+passage:			Passage: Otologic surgery generally refers to surgery of the middle ear and mastoid related to chronic otitis media, such as tympanoplasty, or ear drum surgery, ossiculoplasty, or surgery of the hearing bones, and mastoidectomy.
+subject_label:			4
+query_id:			1051530

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1041939
+query:			what is dockpanel used for
+passage:			Passage: And if our God is for us, then who could ever stop us. And if our God is with us, then what could stand against. And if our God is for us, then who could ever stop us. And if our God is with us, then what could stand against.What could stand against.nd if our God is for us, then who could ever stop us. And if our God is with us, then what could stand against. And if our God is for us, then who could ever stop us. And if our God is with us, then what could stand against. Then what could stand against.
+subject_label:			5
+query_id:			1056446

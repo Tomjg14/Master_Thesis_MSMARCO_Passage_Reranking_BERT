@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4048960
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Because of the quality, Chick-fil-A prices are higher than an average fast food restaurant. If you are looking to serve Chick-fil-A at your next party or event, you can view Chick-fil-A catering prices here. Their menu includes chicken sandwiches, chicken nuggets, chick-n-strips, sides, salads, and breakfast meals.
+subject_label:			2
+query_id:			904389

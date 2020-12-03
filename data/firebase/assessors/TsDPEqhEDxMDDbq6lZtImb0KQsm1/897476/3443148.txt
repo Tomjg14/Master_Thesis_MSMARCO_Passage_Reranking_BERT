@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3443148
+query:			what state has the easiest bar exam
+passage:			Passage: Bar Exam Information. The bar exam is offered twice a year in most states, once in February and once in July. Most statesâ bar exams are two days long, although in some states the exam is three days long.
+subject_label:			1
+query_id:			897476

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5072960
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: wear something on your sleeve. to make your feelings or beliefs known to everyone Some people feel the need to wear their patriotism on their sleeve. Usage notes: often used in the form wear your heart on your sleeve (to make your emotions known to others): I don't like wearing my heart on my sleeve.
+subject_label:			5
+query_id:			1083663

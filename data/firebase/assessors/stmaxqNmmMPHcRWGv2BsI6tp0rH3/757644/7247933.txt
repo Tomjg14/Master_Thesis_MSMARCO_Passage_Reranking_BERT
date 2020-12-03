@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7247933
+query:			what is impact ratio analysis
+passage:			Passage: A sustainable business and mission requires effective planning and financial management. 1 Ratio analysis is a useful management tool that will improve your understanding of financial results and trends over time, and provide key indicators of organizational performance. Managers will use ratio analysis to pinpoint strengths and weaknesses from which strategies and initiatives can be formed. Funders may use ratio analysis to measure your results against other organizations or make judgments concerning management effectiveness and mission impact.
+subject_label:			3
+query_id:			757644

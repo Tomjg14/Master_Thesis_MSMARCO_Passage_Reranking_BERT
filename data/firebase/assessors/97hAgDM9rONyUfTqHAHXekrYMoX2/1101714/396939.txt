@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			396939
+query:			definition, nepotism
+passage:			Passage: Nepotism Law and Legal Definition. In the business world, nepotism is the practice of showing favoritism toward one's family members or friends in economic or employment terms. For example, granting favors or jobs to friends and relatives, without regard to merit, is a form of nepotism.
+subject_label:			5
+query_id:			1101714

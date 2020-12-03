@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5771764
+query:			who is the boss of google?
+passage:			Passage: LINK / CITE ADD TO WORD LIST. noun. The definition of a sycophant is a person who tries to gain attention by flattering wealthy or influential people. An example of a sycophant is someone who agrees with everything his boss says and who brings his boss gifts once a month.n example of a sycophant is someone who agrees with everything his boss says and who brings his boss gifts once a month.
+subject_label:			1
+query_id:			1039495

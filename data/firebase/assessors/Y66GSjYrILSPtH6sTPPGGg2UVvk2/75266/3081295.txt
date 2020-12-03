@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3081295
+query:			can vcenter standard manage essentials plus
+passage:			Passage: vCenter Server has the largest partner ecosystem in the industry, with our open Web Client Plug-in SDK. As a result, vCenter Server customers can implement back-up, data protection, server management, network management and security management, directly from vCenter. VMware launched the Web Client Plug-in Certification Program in 2016 to ensure a better end-user experience for customers.
+subject_label:			1
+query_id:			75266

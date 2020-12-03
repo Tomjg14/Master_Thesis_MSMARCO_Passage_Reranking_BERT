@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7187832
+query:			what is pivx
+passage:			Passage: WHAT IS PIVX? PIVX is an acronym for P rivate I nstant V erified Transaction(X). Ok, so thatâs the name. What âisâ PIVX? PIVX is a transactional security and privacy-focused decentralized open source cryptocurrency. What does that mean? It means that at its core, PIVX is designed, engineered, and evolving with the best practices and developments to ensure your transactional security and privacy. Ok, so what does that mean?
+subject_label:			5
+query_id:			1048282

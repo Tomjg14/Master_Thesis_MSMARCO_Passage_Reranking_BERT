@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8305931
+query:			linking verb synonym
+passage:			Passage: All forms of the verb be are always linking verbs. Forms of be: be being been am is are was were. Other verbs can be linking verbs or action verbs: Examples: feel taste smell look grow. To find a linking verb: 1) If the verb is a form of be (be, being, been, am, is, are, was, were), you have a linking verb. 2) For other verbs, if you can replace the verb with a form of be and the sentence makes sense, you have a linking verb.
+subject_label:			4
+query_id:			440362

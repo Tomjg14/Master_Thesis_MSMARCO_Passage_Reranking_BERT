@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7482736
+query:			effects hot stone has on the circulatory system
+passage:			Passage: The perfusionist is responsible for the management of circulatory and respiratory functions of the patient which has a great effect on the patient systemic condition and allows the cardiac surgeon to focus on the actual surgical procedure and less on the immediate needs of the patient.
+subject_label:			1
+query_id:			178468

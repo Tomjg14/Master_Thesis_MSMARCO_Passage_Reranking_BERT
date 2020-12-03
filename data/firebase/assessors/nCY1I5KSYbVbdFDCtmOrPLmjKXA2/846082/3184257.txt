@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3184257
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Cleveland Cavaliers defeat the Golden State Warriors: NBA finals, Game 6 â as it happened! LeBron James scores 41 points in his second straight NBA finals game as the Cleveland Cavaliers defeat the Golden State Warriors 115-101 to force a Game 7. Updated.
+subject_label:			5
+query_id:			846082

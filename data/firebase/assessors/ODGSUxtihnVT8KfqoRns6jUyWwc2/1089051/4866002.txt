@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4866002
+query:			vainglory meaning
+passage:			Passage: Vainglory is the translation of kenodoxia, empty glory or pride, nearly akin to vanity in the modern sense (Philippians 2:3). Kenodoxos is vainglorious (Galatians 5:26, Let us not be desirous of vainglory, the Revised Version (British and American) Let us not become vainglorious).
+subject_label:			4
+query_id:			1089051

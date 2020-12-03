@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7952317
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: Chick-Fil-A Breakfast hours: 6:30 A.M to 10:30 A.M. Closed on Sundays. Lunch hours will begin immediately after the end of breakfast, at 10:30 A.M. Chick Fil A Holiday Hours. All Chick-Fil-A restaurant are closed on the major holidays: Easter Sunday, Thanksgiving Day, and Christmas Day.
+subject_label:			5
+query_id:			904389

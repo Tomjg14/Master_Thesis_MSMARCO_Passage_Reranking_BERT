@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1730905
+query:			linking verb synonym
+passage:			Passage: Wiktionary(5.00 / 1 vote)Rate these synonyms: 1 instigate(verb) Synonyms: 2 instigate(verb) To goad or urge forward; to set on; to provoke; to incite.
+subject_label:			1
+query_id:			440362

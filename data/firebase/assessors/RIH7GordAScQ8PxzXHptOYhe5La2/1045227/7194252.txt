@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7194252
+query:			what is termis
+passage:			Passage: Termis District Energy Optimization Software. Termis District Energy Optimization Software reduces the energy costs and amounts of energy used by a utility to provide the appropriate cooling / heating service; minimizes heat losses; and streamlines the network operation.
+subject_label:			2
+query_id:			1045227

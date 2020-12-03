@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1479826
+query:			effects hot stone has on the circulatory system
+passage:			Passage: dog circulatory system; circulatory system of a dog; dogs circulatory system; circulatory system in dogs; dog\s circulatory system; canine circulatory system; circulatory system of dog; circulatory system of dogs; circulatory system dog; circulatory system in a dog; the circulatory system of a dog; a dogs circulatory system; circulatory system for dogs; circulatory system dogs
+subject_label:			1
+query_id:			178468

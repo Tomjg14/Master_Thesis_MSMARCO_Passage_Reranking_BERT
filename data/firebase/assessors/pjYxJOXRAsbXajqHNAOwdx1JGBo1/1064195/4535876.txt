@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4535876
+query:			what is aircraft ram air
+passage:			Passage: The Air Force provided Wheeler with cost-per-flight-hour for dozens of aircraft. Hereâs a sample of what it costs to keep these Air Force aircraft airborne for one hour last year (the so-called âownershipâ cost-per-flight-hour, which includes modifications): A-10C Warthog Attack Plane â $17,716.he Air Force provided Wheeler with cost-per-flight-hour for dozens of aircraft. Hereâs a sample of what it costs to keep these Air Force aircraft airborne for one hour last year (the so-called âownershipâ cost-per-flight-hour, which includes modifications): A-10C Warthog Attack Plane â $17,716.
+subject_label:			1
+query_id:			1064195

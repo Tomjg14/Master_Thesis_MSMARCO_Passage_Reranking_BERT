@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3807461
+query:			apartment cost in phoenix az
+passage:			Passage: More trip calculations. 1 driving time from Phoenix, AZ to San Francisco, CA. 2 cost of driving from Phoenix, AZ to San Francisco, CA. 3 reverse drive distance from San Francisco, CA to Phoenix, AZ. 4 halfway between Phoenix, AZ and San Francisco, CA.
+subject_label:			1
+query_id:			1100687

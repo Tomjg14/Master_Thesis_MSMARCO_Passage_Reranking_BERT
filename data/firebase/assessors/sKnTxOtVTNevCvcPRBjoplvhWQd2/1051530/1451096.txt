@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1451096
+query:			what is mastoidectomy
+passage:			Passage: What is an Otologist? An Otologist is a doctor who specializes in disorders of the ear and hearing, with special focus on surgery of the mastoid, ear drum and middle ear bones. These surgeries commonly include tympanoplasty, mastoidectomy for the treatment of infections and/or for hearing restoration. An Otologist is a surgeon who commonly performs stapedectomy for the treatment of otosclerosis. Some Otologists also have advanced training in Neurotology and Cranial Base Surgery.
+subject_label:			2
+query_id:			1051530

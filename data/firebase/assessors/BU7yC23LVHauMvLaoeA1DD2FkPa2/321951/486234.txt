@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			486234
+query:			how much is donald trump jr worth
+passage:			Passage: Donald Trump ethnicity is German, Scottish / White. Donald Trump net worth 2011 (forbes): 3 Billion Dollars. How much does Donald Trump make a year?: 60 Million Dollars.
+subject_label:			2
+query_id:			321951

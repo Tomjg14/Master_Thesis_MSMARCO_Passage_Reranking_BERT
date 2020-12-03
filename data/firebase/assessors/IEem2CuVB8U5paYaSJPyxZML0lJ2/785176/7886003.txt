@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7886003
+query:			what is polydextrose made from
+passage:			Passage: The fiber trend is different and more worrisome. The benefits of fiber nutrients like polydextrose are questionable. The makers of Cocoa Pebbles admitted as much when asked about the use and promotion of polydextrose as a dietary fiber.
+subject_label:			4
+query_id:			785176

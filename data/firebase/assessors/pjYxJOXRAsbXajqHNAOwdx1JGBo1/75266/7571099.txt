@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7571099
+query:			can vcenter standard manage essentials plus
+passage:			Passage: VMware vSphere Essentials Plus Kit Â£3333.48 with 1 Year basic Support and Subscription. (this includes 6 CPU Host Licenses and vCenter Server license) the equivalent for VMware vSphere Standard (6) and vCenter Server. VMware vSphere Standard - Â£ 6059.82 with 1 Year basic Support and Subscription.
+subject_label:			1
+query_id:			75266

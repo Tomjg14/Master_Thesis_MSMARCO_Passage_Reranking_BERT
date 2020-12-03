@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7115951
+query:			what company was skittles made by?
+passage:			Passage: Skittles now fall under the Wrigley umbrella. This is the first time since the Wrigley acquisition that U.S. production capacity for Skittles has expanded. Skittles for the United States are currently made in Waco, Texas, and will continue to be made there, Wrigley said. Over the past five years, the company has seen double-digit percentage sales growth globally for Skittles, the brightly-colored chewy candies with crisp shells. Sales in the United States continue to accelerate, Wrigley said. Skittles was recently announced as an official sponsor of the National Football League. Snickers, another candy made by Mars, has been an NFL sponsor since 2003. Skittles are made at six facilities around the world, including the one in Waco. Wrigley already added more capacity to make Skittles at a factory in Yonghe, China, in 2012 and plans to add production in a facility in Porici, Czech Republic, in 2015.
+subject_label:			2
+query_id:			1085796

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2329534
+query:			what is the parent company for adidas
+passage:			Passage: Adidas History. Adidas was founded in 1924 in Germany by two bothers Adi and Rudolf Dassler. The company was first named Dassler shoes and later became Adidas. By the Dassler shoes being seen in the Olympics this really helped the company get itâs name known. However, in 1948 Rudolf Dassler leaves to start his own company which is now known as Puma.
+subject_label:			4
+query_id:			838453

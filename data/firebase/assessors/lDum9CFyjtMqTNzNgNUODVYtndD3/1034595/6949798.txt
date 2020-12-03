@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6949798
+query:			what is the phone number to spe
+passage:			Passage: We've got 41 definitions for SPE Â» What does SPE stand for? What does SPE mean? This page is about the various possible meanings of the acronym, abbreviation, shorthand or slang term: SPE.
+subject_label:			3
+query_id:			1034595

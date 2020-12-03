@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6058054
+query:			how many calories in provolone cheese
+passage:			Passage: Youâll be surprised how good a reduced fat cheese can taste when itâs made our way. Our Provolone cheese makes a great sliced cheese for sandwiches or platters, and also melts well into authentic Italian dishes without adding extra calories. * Compared to Regular SargentoÂ® Provolone Cheese. See Nutrition Information for Saturated Fat Content. 33% Less Fat*. 100% real, natural cheese.
+subject_label:			3
+query_id:			1097449

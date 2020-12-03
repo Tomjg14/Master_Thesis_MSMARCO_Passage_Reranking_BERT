@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7531415
+query:			what are sensitive periods for brain development
+passage:			Passage: The concept of sensitive period is more applicable to language development and social and emotional development. Earlier, it was thought that the early years were a critical period for language development i.e the child was biologically ready at this time to acquire language skills.
+subject_label:			4
+query_id:			564668

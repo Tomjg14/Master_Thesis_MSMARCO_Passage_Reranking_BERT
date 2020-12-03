@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4866010
+query:			vainglory meaning
+passage:			Passage: Vainglory is the first mobile game to be a legitimate competitor with the best of the best PC MOBA âiPhone Life. 5/5 âVainglory is the first âgamerâsâ game on the iPad and I love it.â.
+subject_label:			1
+query_id:			1089051

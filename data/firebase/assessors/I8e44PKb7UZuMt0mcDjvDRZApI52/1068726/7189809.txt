@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7189809
+query:			why food products or food contaminated wastes cannot be recycled?
+passage:			Passage: Contamination occurs in recycling when non-recycables are placed in recycling. Contamination can include anything from food waste to plastic bags. Different recycling systems allow for different materials to be recycled and consider different materials as contaminants. This makes proper recycling difficult.
+subject_label:			3
+query_id:			1068726

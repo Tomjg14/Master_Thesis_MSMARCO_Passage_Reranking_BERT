@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5434180
+query:			what is a variable account in a annuity
+passage:			Passage: But be aware that if you hold an annuity in an IRA or another qualified retirement account, you would be subject to IRS contribution limits and required minimum distributions. Other advantages of a deferred annuity include: 1 Tax-free exchanges among investment portfolios (for variable deferred annuities).
+subject_label:			2
+query_id:			1065558

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5555694
+query:			what is termis
+passage:			Passage: In practice, the measurement error is different for the cable termination types of the instrument.High frequency 4TP instruments, such as the Agilent 4285A and the 4294A, which internally termi-nate cables with their characteristic impedance, differ from low frequency 4TP instruments withoutcable termination.
+subject_label:			1
+query_id:			1045227

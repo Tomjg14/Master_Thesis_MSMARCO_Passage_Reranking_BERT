@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8797783
+query:			who is the grinning man
+passage:			Passage: James Corden and Julia were seen sporting huge grins on their faces after becoming man and wife. The pair wed in a lavish Â£250,000 ceremony in Somerset. Just married: James Corden was seen beaming as he and new wife Julia made their way to the wedding reception in Somerset today. Julia, who gave birth to son Max in March last year, looked amazing in an elegant wedding gown covered in lace.
+subject_label:			2
+query_id:			1040461

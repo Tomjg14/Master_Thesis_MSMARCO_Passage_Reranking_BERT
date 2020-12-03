@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5472248
+query:			where do the ash borer come from
+passage:			Passage: It was first found to be attacking and killing ash trees in Michigan in 2002. Bright green in color and about a half inch in length, the Emerald Ash Borer (EAB) only attacks ash trees and is a devastating and destructive pest that greatly affects the urban forest.he Emerald Ash Borer (Agrilus planipennis) is an invasive wood boring beetle from Asia that is predicted to infest all unprotected ash trees in the United States and Canada.
+subject_label:			5
+query_id:			971653

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7396056
+query:			how old is lil moco
+passage:			Passage: Rapper Lil Niqo born on 23 11 1999 in . Until now, Lil Niqo's age is 16 year old and have Scorpio constellation.
+subject_label:			2
+query_id:			335710

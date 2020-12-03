@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			425816
+query:			what is the hormone that makes you fat
+passage:			Passage: Leptin is a hormone you may have heard of before, since itâs intricately related to insulin. In fact, leptin works opposite to insulin - insulin stores fat and leptin burns fat. Insulin is secreted when you eat food, especially foods high in sugar, and it stores energy from food as fat in your body. Leptin is the hormone that allows your body to use the energy from fat. Interestingly, what influences leptin is the amount of fat you have on your body. The more fat you have the more leptin will be available, so you can burn off the fat.
+subject_label:			3
+query_id:			825147

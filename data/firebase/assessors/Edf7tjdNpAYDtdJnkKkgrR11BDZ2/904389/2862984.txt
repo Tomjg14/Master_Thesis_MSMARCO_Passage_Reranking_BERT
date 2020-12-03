@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2862984
+query:			what time does chick-fil-a breakfast close
+passage:			Passage: If you want to jump to an individual Chick-fil-A Menu Price page, click one of these links below: 1 Chick-fil-A Breakfast Menu Prices. 2 Chick-fil-A Meal Prices. 3 Chick-fil-A Kids Meal Prices. Chick-fil-A Salad 1 Prices. Chick-fil-A Sides Prices. Chick-fil-A Dessert Prices.
+subject_label:			2
+query_id:			904389

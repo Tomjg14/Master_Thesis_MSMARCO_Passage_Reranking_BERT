@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7971658
+query:			what's the difference between jambalaya and paella
+passage:			Passage: Difference Between Gumbo & Jambalaya. The terms gumbo and jambalaya may be used interchangeably by the uninitiated, but the two dishes are distinctly different. Popularized by New Orleans cuisine, these two classics pack in flavor and heat, but one is a complete meal, while the other is a thickened soup that needs a side of rice added.
+subject_label:			2
+query_id:			931726

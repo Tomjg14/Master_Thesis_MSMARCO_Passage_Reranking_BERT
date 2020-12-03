@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4031295
+query:			where does lice come from
+passage:			Passage: Human lice need human blood to survive, dog lice need dog blood, and so on. Therefore, if your child comes home from school with a diagnosis of head lice, your dog, cat, or other pets in the household are not at risk from catching the lice or hatching eggs. Conversely, while not as common in dogs and cats, the species of lice that live on dogs and cats are not able to live on humans.
+subject_label:			2
+query_id:			973362

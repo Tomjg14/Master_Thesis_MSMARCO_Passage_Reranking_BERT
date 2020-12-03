@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6724429
+query:			what kind of match is necessary for an organ transplant
+passage:			Passage: To date, most donor organs have come from deceased donors. Kidney transplants are the most common type of transplant surgery; the least common single-organ transplants are the intestines. Depending on the organ needed, organs are matched using several characteristics, including blood type and size of the organ needed.
+subject_label:			3
+query_id:			1026799

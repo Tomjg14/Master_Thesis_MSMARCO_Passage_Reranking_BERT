@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			159911
+query:			what injectable meds treat cervical dystonia
+passage:			Passage: What is Botox? Botox (onabotulinumtoxinA), also called botulinum toxin type A, is made from the bacteria that causes botulism. Botulinum toxin blocks nerve activity in the muscles, causing a temporary reduction in muscle activity. Botox is used to treat cervical dystonia (severe spasms in the neck muscles).
+subject_label:			4
+query_id:			1077356

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7991201
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Normal, frequent or expectable temporary side effects of pregnancy: 1 exhaustion (weariness common from first weeks). 2 altered appetite and senses of taste and smell. 3 nausea and vomiting (50% of women, first trimester). 4 heartburn and indigestion. 5 constipation. 6 weight gain.
+subject_label:			4
+query_id:			414155

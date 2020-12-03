@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2556961
+query:			what is a hydromyelia
+passage:			Passage: Background: Syringomyelia is the development of a fluid-filled cavity or syrinx within the spinal cord. Hydromyelia is a dilatation of the central canal by cerebrospinal fluid (CSF) and may be included within the definition of syringomyelia. About 10% of syringomyelia cases are of this type.
+subject_label:			4
+query_id:			687375

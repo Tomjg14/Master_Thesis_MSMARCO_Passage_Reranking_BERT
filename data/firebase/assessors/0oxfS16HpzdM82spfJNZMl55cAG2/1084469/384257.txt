@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			384257
+query:			what does a grassroots organization mean
+passage:			Passage: thanks. 1 Posted by Blaine Wilkerson on 4/6/2004 at 8:29 AM Member. grassroots. 2 Posted by Michele on 4/6/2004 at 9:06 AM Accepted. Here, in South Africa, 'grassroots' has a particular connotation - appealing to the masses. I think the origination means what it says: from the bottom. Think of the roots of grass - do not really get lower than that. So 'grassroots' marketing would mean using mass market tactics to appeal to fundamental needs.
+subject_label:			3
+query_id:			1084469

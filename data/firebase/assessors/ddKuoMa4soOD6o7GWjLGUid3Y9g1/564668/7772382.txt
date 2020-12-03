@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7772382
+query:			what are sensitive periods for brain development
+passage:			Passage: A Time Frame of Critical/Sensitive Periods of Language Development. ROBERT J. RUBEN. From the Department of 0 tolaryngology, Albert Einstein College of Medicine, Montefiore Medical Center, Bronx, New York, USA. Ruben, R. J. A time frame of critical/sensitive periods of language development.
+subject_label:			2
+query_id:			564668

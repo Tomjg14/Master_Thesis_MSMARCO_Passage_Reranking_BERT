@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7641626
+query:			molar mass of phenol
+passage:			Passage: Figure 2 shows the elugram of an oligomeric phenol formaldehyde resign, separated into. three different peaks with 1, 2 and 3 repetition units. The mass spectra are then measured. online for each species. Figure 3 shows as example the mass spectrum of Peak n=1, while Table 1 summarizes the. masses possible in theory and identified (green) or not detected (grey). This combined. approach can be used for molar masses up to approx. 2 000 Da, higher degrees of. polymerization have also been investigated.
+subject_label:			4
+query_id:			455456

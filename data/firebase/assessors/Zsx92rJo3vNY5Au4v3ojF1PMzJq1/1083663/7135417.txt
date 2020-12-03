@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7135417
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: What does the phrase wear (one's) heart on (one's) sleeve mean? I would appreciate if you could also tell me the origin of the same.
+subject_label:			3
+query_id:			1083663

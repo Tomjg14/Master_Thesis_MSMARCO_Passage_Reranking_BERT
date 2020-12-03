@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3697717
+query:			head turner meaning
+passage:			Passage: If you are conducting some Turner family history research then you can view the Turner coat of arms and the name meaning and origin of the name as well as the meaning of symbols below.URNER. The name Turner in Ireland was brought to the country by settlers from both England and Scotland as early as the fifteenth century. Ulster was the main settlement point. It is also an abbreviation of the Scottish name Macinturner, or Mac and Tuirneir in Gaelic.
+subject_label:			1
+query_id:			1100070

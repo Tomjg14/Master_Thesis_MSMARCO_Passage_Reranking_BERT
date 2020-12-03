@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			391875
+query:			highest mileage crossover india
+passage:			Passage: Renault will launch the Captur crossover in India tomorrow. It is the French automakerâs new flagship vehicle Renault will launch the Captur crossover in India tomorrow. It is the French automakerâs new flagship vehicle that will slot in above the Duster in their hierarchy. We have already driven the car and here is our first drive review or you can also find it in the reviews section of our mobile app.
+subject_label:			2
+query_id:			202306

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2292184
+query:			where is berrimah
+passage:			Passage: Where is Soka: Where is Suita: Where is Sukumo: Where is Suzuka: Where is Tachikawa: Where is Takahashi: Where is Takamatsu: Where is Takaoka: Where is Takarazuka: Where is Takasaki: Where is Takatsuki: Where is Takikawa: Where is Tama: Where is Tokorozawa: Where is Tokushima: Where is Tokyo: Where is Tomakomai: Where is Tottori: Where is Toyama: Where is Toyohashi: Where is Toyokawa
+subject_label:			1
+query_id:			978057

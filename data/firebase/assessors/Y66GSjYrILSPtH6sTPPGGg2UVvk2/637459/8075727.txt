@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8075727
+query:			what does fdg mean
+passage:			Passage: Re: Mild increased FDG uptake on PET/CT - what's it mean? by Multibilly on Tue Mar 08, 2016 5:17 pm The first time I had a PET/CT about 3 1/2 years ago, I had to drink a barium sulfate contrast milkÂ­shake (they offered me different flavors) and then was later injected with FDG via a forÂ­miÂ­dable looking radioactive shielded syringe like this one:
+subject_label:			1
+query_id:			637459

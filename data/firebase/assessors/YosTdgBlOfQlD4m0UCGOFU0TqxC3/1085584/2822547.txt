@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2822547
+query:			carbon reactivation facilities california
+passage:			Passage: Metals above Carbon in the Reactivity Series. A metal above carbon in the reactivity series (potassium, sodium, lithium, calcium, magnesium and aluminium) can be extracted by electrolysis. Extraction of the metal from its ore involves reduction of the metal ions.
+subject_label:			2
+query_id:			1085584

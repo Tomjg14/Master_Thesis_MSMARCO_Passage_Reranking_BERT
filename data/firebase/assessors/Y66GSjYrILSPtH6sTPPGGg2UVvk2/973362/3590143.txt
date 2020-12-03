@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3590143
+query:			where does lice come from
+passage:			Passage: Head lice. Overview Head lice: This magnified picture of head lice on a fine-tooth comb shows that these bugs are tiny. Having head lice does not mean you are dirty. Most people get head lice when they have head-to-head contact with someone who has head lice. Head-to-head contact lets the lice crawl from one head to another head.
+subject_label:			4
+query_id:			973362

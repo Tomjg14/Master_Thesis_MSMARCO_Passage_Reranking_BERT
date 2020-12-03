@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7371897
+query:			what is mastoidectomy
+passage:			Passage: He did not perform a mastoidectomy or ossicular chain reconstruction. He inserted a canal tube. How should I bill this?Nebraska Subscriber Answer: Because your otolaryngologist performs tympanoplasty alone, you should report 69631 (Tympanoplasty without mastoidectomy [including canalplasty, atticotomy and/or middle [...]
+subject_label:			2
+query_id:			1051530

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1470216
+query:			circulation money definition
+passage:			Passage: Definition of monetary. : of or relating to money or to the mechanisms by which it is supplied to and circulates in the economy a crime committed for monetary gain a government's monetary policy.
+subject_label:			1
+query_id:			92542

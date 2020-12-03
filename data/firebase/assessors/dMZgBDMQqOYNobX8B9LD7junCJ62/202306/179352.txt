@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			179352
+query:			highest mileage crossover india
+passage:			Passage: Renault Captur Overview. Crossovers are the future in cars and Renault, the pioneer of the compact SUVs in India is set to bring another one to the country. Based on the Duster platform, Renault has built the Kaptur crossover for the emerging markets and the car is expected to hit the Indian market by mid-2017.
+subject_label:			3
+query_id:			202306

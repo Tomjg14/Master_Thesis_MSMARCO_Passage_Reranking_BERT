@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1746805
+query:			who played fiddle for boxcar willie
+passage:			Passage: What is a Violin Made out of. 21 Sep, 2011 what is 1. A violin is a popular string instrument that is played with a bow. The violin is also called a fiddle and someone who plays the instrument is known as a violinist or a fiddler.The instrument is used in a wide variety of musical styles and genres. The modern violin was invented in the early 16th century in Italy.he violin is also called a fiddle and someone who plays the instrument is known as a violinist or a fiddler. The instrument is used in a wide variety of musical styles and genres. The modern violin was invented in the early 16th century in Italy.
+subject_label:			1
+query_id:			1046648

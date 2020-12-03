@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7994418
+query:			definition of purse
+passage:			Passage: noun. verb. The definition of a purse is a small bag or pouch to carry money, or a sum of prize money. 1 An example of a purse is a wristlet. 2 An example of a purse is the amount of money that can be won at a horse race.
+subject_label:			5
+query_id:			137508

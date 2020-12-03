@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5804543
+query:			average money market interest rates
+passage:			Passage: For the type of mutual fund, see Money market fund. A money market account (MMA) or money market deposit account (MMDA) is a non-financial account that pays interest based on current interest rates in the money markets.oney market accounts typically have a relatively high rate of interest and require a higher minimum balance (anywhere from $1,000 to $10,000 or $25,000) to earn interest or avoid monthly fees.
+subject_label:			3
+query_id:			38946

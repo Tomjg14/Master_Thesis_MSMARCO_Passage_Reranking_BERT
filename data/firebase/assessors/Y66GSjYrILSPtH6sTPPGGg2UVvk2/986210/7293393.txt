@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7293393
+query:			who was the basket of apples by
+passage:			Passage: This decorative wire-mesh apple shape basket safely stores and displays ... 12 Mini Chalkboards 2X4- For Wedding Place Cards Party Favors, & Crafts by Unknown by Decorator & Craft Corp
+subject_label:			1
+query_id:			986210

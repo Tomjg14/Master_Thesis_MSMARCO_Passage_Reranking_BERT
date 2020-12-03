@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7815867
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Scott's Seafood on The River: 10 year anniversary - See 287 traveler reviews, 69 candid photos, and great deals for Sacramento, CA, at TripAdvisor. Sacramento Sacramento Tourism
+subject_label:			1
+query_id:			891565

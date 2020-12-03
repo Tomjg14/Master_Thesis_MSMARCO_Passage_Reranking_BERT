@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8770852
+query:			what county is stacy minnesota
+passage:			Passage: This is what happened to the little girl from Fountains of Wayne's Stacy's Mom music video. STACY'S Mom has got it going on - and so has Stacy herself, now. Thirteen years since Fountains of Wayne released their hit single, Stacy's mom, the girl who played Stacy in the music video has blossomed into a total babe. Gianna Distenca played Stacy in the music video[YouTube] Now in her mid 20s, Gianna Distenca is living in Beirut, Lebanon, where she works as an artist and sculptor.
+subject_label:			1
+query_id:			1085279

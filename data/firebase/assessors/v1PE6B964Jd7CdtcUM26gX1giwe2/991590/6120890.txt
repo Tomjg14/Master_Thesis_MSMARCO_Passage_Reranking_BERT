@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6120890
+query:			where is ridgewood ny located
+passage:			Passage: Ridgewood, NJ. Sponsored Topics. Ridgewood is a village in Bergen County, New Jersey, United States. As of the 2010 United States Census, the village population was 24,958. Ridgewood is an affluent suburban bedroom community of New York City, located approximately 20 miles (32 km) northwest of Midtown Manhattan.
+subject_label:			2
+query_id:			991590

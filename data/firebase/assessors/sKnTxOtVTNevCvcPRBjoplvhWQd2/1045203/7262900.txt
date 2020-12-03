@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7262900
+query:			who owns cnn cable news network
+passage:			Passage: She moved to Atlanta, Georgia in 1997, joining Cable News Network (CNN), there she changed her professional name to Linda Stouffer. At CNN, she co-anchored the morning news program Ahead of the Curve, which aired simultaneously on CNN/U.S. and CNNfn, CNN's former financial news network.
+subject_label:			1
+query_id:			1045203

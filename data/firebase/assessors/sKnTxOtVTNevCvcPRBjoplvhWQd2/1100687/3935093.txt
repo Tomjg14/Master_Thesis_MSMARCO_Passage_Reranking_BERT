@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			3935093
+query:			apartment cost in phoenix az
+passage:			Passage: As of June 2017, average apartment rent within the city of of Phoenix, AZ is $1064. One bedroom apartments in Phoenix rent for $936 a month on average and two bedroom apartment rents average $1139. See our listings of Phoenix Apartments.
+subject_label:			5
+query_id:			1100687

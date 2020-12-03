@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7677234
+query:			neonatal hemochromatosis causes
+passage:			Passage: In a detailed review of the neonatal hemochromatosis, Whitington (2007) noted that liver disease is generally apparent within hours of birth and is one of the most commonly recognized causes of liver failure in the neonate.
+subject_label:			3
+query_id:			463230

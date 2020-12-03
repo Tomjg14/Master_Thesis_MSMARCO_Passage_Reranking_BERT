@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			598643
+query:			average amount of money stna make
+passage:			Passage: Making the world better, one answer at a time. If a teenager from 15-17 works part-time over the summer, the average amount of money made in those 3 months is $1,000. If a teenager from 15-17 works part-time over the summer, the average amount of money made in those 3 months is $1,000.
+subject_label:			1
+query_id:			30860

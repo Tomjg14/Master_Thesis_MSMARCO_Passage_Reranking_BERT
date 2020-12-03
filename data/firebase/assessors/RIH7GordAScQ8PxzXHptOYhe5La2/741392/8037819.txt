@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8037819
+query:			what is drop in baseball bat selection
+passage:			Passage: How to Choose the Correct Baseball or Softball Bat Weight. Before looking at weights, itâs important to first understand a little bit more: Bat weight is measured by the minus or drop weight; Drop weight is the difference between the length and weight of the bat, so a bat that is 30 inches long and has a drop weight of -10 will weigh 20 ounces
+subject_label:			5
+query_id:			741392

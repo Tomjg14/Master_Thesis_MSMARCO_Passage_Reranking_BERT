@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7099015
+query:			what is dockpanel used for
+passage:			Passage: What is fentanyl used for and what is fentanyl used to treat? These are two common questions regarding fentanyl, which is a highly powerful prescription synthetic opioid. The following will look what fentanyl is used for and what itâs used to treat.
+subject_label:			1
+query_id:			1056446

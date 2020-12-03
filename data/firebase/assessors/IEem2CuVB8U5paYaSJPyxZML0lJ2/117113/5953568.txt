@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5953568
+query:			define abraham lincoln during civil war
+passage:			Passage: Abraham Lincolnâs Two Vice Presidents. Posted by: admin in Civil War People. Abraham Lincoln was had an astute political mind. This was amply demonstrated when during the course of the American Civil War, he chose to select a new Vice President for his second term.For Abraham Lincoln âs first term, he chose as Vice President Hannibal Hamlin.Hamlin was chosen for political reasons both because he could deliver votes from the nascent Republican party in the Northeast and his ardent stance against slavery.osted by: admin in Civil War People. Abraham Lincoln was had an astute political mind. This was amply demonstrated when during the course of the American Civil War, he chose to select a new Vice President for his second term.
+subject_label:			5
+query_id:			117113

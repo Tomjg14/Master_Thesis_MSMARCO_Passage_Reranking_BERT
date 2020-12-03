@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3936347
+query:			what is polydextrose made from
+passage:			Passage: It is also used as a humectant, stabiliser, and thickening agent. Polydextrose is a form of soluble fiber and has shown healthful prebiotic benefits when tested in animals. It contains only 1 kcal per gram and, therefore, is able to help reduce calories. However, polydextrose is not universally well tolerated.t is frequently used to increase the non-dietary fiber content of food, to replace sugar, and to reduce calories and fat content. It is a multi-purpose food ingredient synthesized from dextrose (glucose), plus about 10 percent sorbitol and 1 percent citric acid. Its E number is E1200. The FDA approved it in 1981.
+subject_label:			5
+query_id:			785176

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6101335
+query:			where is ridgewood ny located
+passage:			Passage: Ridgewood, New York. Ridgewood, New York refers to different places: Ridgewood, Queens, in the borough of Queens in New York City. Ridgewood, Niagara County, New York, a hamlet in Niagara County, New York.
+subject_label:			5
+query_id:			991590

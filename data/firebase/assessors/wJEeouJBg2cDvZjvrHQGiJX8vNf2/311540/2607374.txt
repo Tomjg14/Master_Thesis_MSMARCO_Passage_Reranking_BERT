@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2607374
+query:			how much does a spectacled bear weigh
+passage:			Passage: How much does the toro 3180 snowblower weigh, We purchased. How much does the toro 3180 snowblower weigh, We purchased it in 1990 and it is small and listed for small jobs.Submitted: 4 years ago.ow much does the toro 3180 snowblower weigh, We purchased. How much does the toro 3180 snowblower weigh, We purchased it in 1990 and it is small and listed for small jobs.
+subject_label:			1
+query_id:			311540

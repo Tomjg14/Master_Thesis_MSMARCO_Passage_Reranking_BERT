@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1066038
+query:			what is postulate in algebra
+passage:			Passage: Definition: A branch of mathematics that substitutes letters for numbers. An algebraic equation represents a scale, what is done on one side of the scale with a number is also done to the other side of the scale. The numbers are the constants. Examples: Algebra is an abstract concept in mathematics. For a complete overview of what Algebra is, please see the full article about Algebra. 1 Article. 2 Article. 3 Article. 4 Article. 5 Article. 6 Article. 7 Article. 8 List.
+subject_label:			5
+query_id:			785721

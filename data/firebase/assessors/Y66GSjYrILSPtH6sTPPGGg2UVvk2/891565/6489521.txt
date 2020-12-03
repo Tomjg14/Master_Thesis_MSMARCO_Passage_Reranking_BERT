@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6489521
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: What is altitude of Sacramento ca? Can you get from Sacramento CA to the ocean by boat? Yes, you can travel by boat to the ocean from Sacramento. There is a man-made canal leading from the port of Sacramento to the Sacramento river which empties into San Franciscâ¦o Bay.
+subject_label:			1
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7760371
+query:			what is the plural of kohlrabies
+passage:			Passage: Why don't we start with what we know. Kohlrabi is a member of the cabbage family, and as such, comes with this family's signature sweet-but-peppery flavor profile. We usually eat the bulbous bottom, but the entire kohlrabi plant is actually edible. The skin has the rubbery texture of broccoli stems and can be white, light green, or bright purple. The insides are usually a creamy white.
+subject_label:			3
+query_id:			839488

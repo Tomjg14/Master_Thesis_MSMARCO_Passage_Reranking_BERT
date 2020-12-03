@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8500683
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: -Jobs pay a little less in Tucson than Phoenix. I also believe living expenses are less in Tucson however. Now letâs move to the Phoenix, AZ area and what it offers residents. Phoenix Arizona is a metropolis in every way one thinks of a metropolis.It offers literally everything a person could want at any time. also believe living expenses are less in Tucson however. Now letâs move to the Phoenix, AZ area and what it offers residents. Phoenix Arizona is a metropolis in every way one thinks of a metropolis. It offers literally everything a person could want at any time.
+subject_label:			1
+query_id:			933236

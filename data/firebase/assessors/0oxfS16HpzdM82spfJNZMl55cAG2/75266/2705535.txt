@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2705535
+query:			can vcenter standard manage essentials plus
+passage:			Passage: VSA Manager is the component used to manage the VSA cluster. VSA Manager is a vCenter Server 5.0 extension that you install on a vCenter Server machine. After you install it & the VSA Manager plugin is enabled, you can see the VSA Manager tab in the vSphere Client.
+subject_label:			1
+query_id:			75266

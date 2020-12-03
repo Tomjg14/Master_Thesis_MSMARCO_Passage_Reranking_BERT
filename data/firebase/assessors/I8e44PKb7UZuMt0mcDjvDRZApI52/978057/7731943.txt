@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7731943
+query:			where is berrimah
+passage:			Passage: Berrimah, Northern Territory. Berrimah is an Eastern Suburb in the city of Darwin, in the Northern Territory of Australia.
+subject_label:			5
+query_id:			978057

@@ -1,0 +1,7 @@
+msmarco_label:			irrelevant
+passage_id:			4445555
+query:			how could the courts check the bureaucracy
+
+passage:			Passage: The bureaucracy is often termed the âFourth Branchâ of. government. While federal agencies serve Congress, the courts, and the president, their. ultimate responsibility is to provide for the needs of the people. Q2 How have the size and role of the federal bureaucracy changed over the course of American.
+subject_label:			2
+query_id:			212195

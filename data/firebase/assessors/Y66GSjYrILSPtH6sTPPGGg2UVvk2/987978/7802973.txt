@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7802973
+query:			where is miralago
+passage:			Passage: B&B Romantic and cozy. Miralago is a little family run bed and breakfast located a few steps from the lake in the suggestive hamlet of Pescallo. Here you can feel the stillness and enjoy the sun from early morning in a fresh atmosphere.
+subject_label:			5
+query_id:			987978

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4898861
+query:			_______ sediments originate from elements in seawater that precipitate out of solution.
+passage:			Passage: After deposition, sediments are compacted as they are buried beneath successive layers of sediment and cemented by minerals that precipitate from solution. Grains of sediment, rock fragments and fossils can be replaced by other minerals during diagenesis.
+subject_label:			2
+query_id:			1007473

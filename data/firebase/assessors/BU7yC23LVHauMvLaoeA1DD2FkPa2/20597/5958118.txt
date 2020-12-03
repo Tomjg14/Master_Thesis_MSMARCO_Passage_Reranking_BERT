@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5958118
+query:			architectural design
+passage:			Passage: Company Profile. MCG Architecture provides commercial architectural solutions and services throughout the United States. The Company offers interior design, graphic design, design/build, and master planning services. MCG Architecture covers signage, architectural illustrations, space planning, design and decor selection, site analysis and planning, and program and project management.
+subject_label:			4
+query_id:			20597

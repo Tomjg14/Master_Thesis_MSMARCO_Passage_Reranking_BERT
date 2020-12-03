@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			275026
+query:			what is the hormone that makes you fat
+passage:			Passage: For men, a low fat diet means low testosteroneâ¦ and you know what that means, guys! Low fat diets also undermine balanced hormones by preventing the detox of excess hormones, particularly estrogen. When there is excess estrogen in the body, it is packaged into the bile so it can be excreted with food waste.
+subject_label:			2
+query_id:			825147

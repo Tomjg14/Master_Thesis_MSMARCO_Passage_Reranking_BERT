@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3744184
+query:			who owns cnn cable news network
+passage:			Passage: Contacting CNN Customer Service Center. CNN, or Cable News Network, broadcasts multiple news programs and shows. CNN accepts breaking news from the crowd via phone, email or text message. Depending on the current news stories, CNN may provide detailed or specialized coverage.
+subject_label:			1
+query_id:			1045203

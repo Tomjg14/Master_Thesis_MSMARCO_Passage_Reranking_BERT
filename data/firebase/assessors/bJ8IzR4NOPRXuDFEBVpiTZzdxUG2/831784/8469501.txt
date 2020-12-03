@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8469501
+query:			what is the meaning of the root shared by the words project and eject? weegy
+passage:			Passage: The words telepathy, telephone, and television share a root that means? What is the meaning of television? How do you synchronize your television's controls to your cable box remote control?
+subject_label:			1
+query_id:			831784

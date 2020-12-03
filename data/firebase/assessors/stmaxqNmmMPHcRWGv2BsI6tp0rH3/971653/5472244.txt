@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5472244
+query:			where do the ash borer come from
+passage:			Passage: All of the native North American ash trees are highly susceptible to a new invasive species of beetle, the Emerald Ash Borer or EAB. Emerald ash borers destroy an ash tree's ability to store water and nutrients, killing the tree from the top down.he European Mountain Ash (Sorbus aucuparia) is not affected by the EAB infestation. A native of Europe and northern Asia, the European Mountain Ash is not related to the true ash tree although the leaves are similar in structure.
+subject_label:			2
+query_id:			971653

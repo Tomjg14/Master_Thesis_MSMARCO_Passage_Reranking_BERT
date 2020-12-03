@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1100161
+query:			how long can i keep cooked italian sausage in refrigerator
+passage:			Passage: Sealed, prepackaged, fresh pork cuts can be kept in the refrigerator 2 to 4 days; sealed ground pork will keep in the refrigerator for 1 to 2 days.If you do plan on keeping fresh pork longer than 2 to 3 days before cooking it, store it well-wrapped in the freezer.. How long can I store ham or other smoked products in the refrigerator? Whole smoked ham and whole ham slices can be stored in the refrigerator for 3 to 4 days or until the use by date on the label. Smoked bacon and sausages can be kept for up to 7 days.
+subject_label:			2
+query_id:			242107

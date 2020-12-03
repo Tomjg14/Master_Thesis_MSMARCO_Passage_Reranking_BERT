@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8090625
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Do you know what to expect in the first trimester of pregnancy? We've partnered with the American Institute of Ultrasound Medicine (AIUM), Johns Hopkins, and the March of Dimes to create this unique peak into Baby's development inside the womb during the first trimester. These images reveal all the intricate details of your baby's growth. While most women normally receive one or two ultrasounds during pregnancy, this slideshow of the first trimester of pregnancy gives you a look at each week of development.
+subject_label:			2
+query_id:			414155

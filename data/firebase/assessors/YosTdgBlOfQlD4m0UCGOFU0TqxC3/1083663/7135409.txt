@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7135409
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: Originally Answered: What does the saying 'wearing your heart on your sleeve mean? You donât hide your emotions. Itâs as if they are prominently pinned to your clothing for all the world to see.
+subject_label:			5
+query_id:			1083663

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4468700
+query:			does singing burn calories
+passage:			Passage: Does shaking your leg burn calories. Yes, any type of movement will help you burn calories. You need the energy from the calories to be able to move. CahCha! [ Source: http://www.chacha.com/question/does-shaking-your-leg-burn-calories ] More Answers to Does shaking your leg burn calories.
+subject_label:			2
+query_id:			171370

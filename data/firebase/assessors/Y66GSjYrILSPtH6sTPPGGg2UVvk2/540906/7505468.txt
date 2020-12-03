@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7505468
+query:			was the great wall of china breached
+passage:			Passage: Actually at the time of the mongol invasion of china there was a a great wall ghengis khan had to send three armies in order to find a sucessful way of breaching it, the wall you mention during the ming era was just an extension of what was already built.
+subject_label:			5
+query_id:			540906

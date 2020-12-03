@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3136460
+query:			architectural design
+passage:			Passage: Web architecture is a distillation of several academic fields: 1 web usability, 2 information architecture, 3 user experience design, 4 interaction design, 5 user interface design,6 human-computer interaction, 7 information design, 8 web design, and. 9 graphic design.eb architecture is a distillation of several academic fields: 1 web usability, 2 information architecture, 3 user experience design, 4 interaction design, 5 user interface design,
+subject_label:			1
+query_id:			20597

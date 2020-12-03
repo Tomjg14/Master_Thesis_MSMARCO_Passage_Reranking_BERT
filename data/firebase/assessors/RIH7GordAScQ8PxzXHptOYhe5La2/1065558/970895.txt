@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			970895
+query:			what is a variable account in a annuity
+passage:			Passage: By the issuer to the annuitant in varying amounts in accordance with the performance of the separate account. There is no guarantee with a variable annuity, and the annuitant assumes all investment risks of the portfolio.
+subject_label:			2
+query_id:			1065558

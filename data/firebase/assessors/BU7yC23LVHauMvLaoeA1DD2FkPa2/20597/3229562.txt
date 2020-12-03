@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3229562
+query:			architectural design
+passage:			Passage: The top creative designs picked up for you, it is your best source of website design inspiration & website awards. Offbox Architecture by creotive.co. Offbox Architecture is a architecture company from Kosovo who provides various services in the architecture and interior design.
+subject_label:			4
+query_id:			20597

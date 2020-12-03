@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8480197
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Internal Auditor make in Seattle?The average Senior Internal Auditor salary is $83,423. In Seattle, a Senior Internal Auditor can make $80,442, which is 3.6% lower than the national median. Filter by location to see Senior Internal Auditor salaries in your area.
+subject_label:			3
+query_id:			1096257

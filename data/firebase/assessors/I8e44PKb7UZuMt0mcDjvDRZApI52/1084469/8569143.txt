@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8569143
+query:			what does a grassroots organization mean
+passage:			Passage: What is another word for grassy? What is another word for grass up? What is another word for grass script? What is another word for grass sawfly? What is another word for grassroots organizing? What is another word for grassroots movement? What is another word for grassy field? What is another word for grat? What is another word for grate? What is another word for grated? What is another word for grateful? What is another word for gratefuller?
+subject_label:			1
+query_id:			1084469

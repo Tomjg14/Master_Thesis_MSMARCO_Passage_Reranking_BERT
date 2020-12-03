@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4059861
+query:			what is the phone number to spe
+passage:			Passage: Best Answer: Short answer would be spes as a noun or sperare as a verb. Here's a long answer, though, in case you're interested. It depends on how you use it, of course. Latin has some pretty specific declensions. Spes, -ei f. is the noun. spes, spei, spem, spe, sperum, or spebus.
+subject_label:			1
+query_id:			1034595

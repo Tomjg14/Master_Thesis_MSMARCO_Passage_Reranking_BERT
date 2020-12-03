@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3188821
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: The Henry Doorly Zoo and Aquarium is a zoo in Omaha, Nebraska. The zoo has been developed from what was once the Riverview Park Zoo, which was built in 1864, and now sprawls over 130 acres. Home to 962 different species of animals, this zoo is notable for housing the largest cat complex in North America.
+subject_label:			1
+query_id:			866251

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8579395
+query:			what is crossfit?
+passage:			Passage: Ultimately, youâll find out why Reebok CrossFit shoes are, in fact, great shoes, and more importantly, which model is best for your needs. Reebok CrossFit Nano. Reebok CrossFit OLY. Reebok makes two models of CrossFit shoes, the CrossFit Nano and the Reebok CrossFit shoe has a minimalist design.
+subject_label:			1
+query_id:			736125

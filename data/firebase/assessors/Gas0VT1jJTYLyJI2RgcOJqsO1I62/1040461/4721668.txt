@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4721668
+query:			who is the grinning man
+passage:			Passage: The coin bank in the shape of the grinning black man (Chapter 15) and Tod Cliftonâs dancing Sambo doll (Chapter 20) serve similar purposes in the novel, each representing degrading black stereotypes and the damaging power of prejudice.
+subject_label:			1
+query_id:			1040461

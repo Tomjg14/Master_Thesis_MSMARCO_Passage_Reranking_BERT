@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8714519
+query:			how much does a audit senior make
+passage:			Passage: How much does a Senior Benefits Specialist make in Seattle?The average Senior Benefits Specialist salary is $54,127. In Seattle, a Senior Benefits Specialist can make $64,546, which is 19.2% higher than the national median. Filter by location to see Senior Benefits Specialist salaries in your area.
+subject_label:			1
+query_id:			1096257

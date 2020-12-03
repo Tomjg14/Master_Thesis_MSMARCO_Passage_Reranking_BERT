@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7595985
+query:			what is included in a clutch kit
+passage:			Passage: Checking the Flywheel. The one part not included in standard clutch kits is a flywheel, which needs to be assessed and if necessary, purchased separately. Some later model vehicles have a dual mass flywheel which can take the price of an average clutch kit through the roof.
+subject_label:			3
+query_id:			758519

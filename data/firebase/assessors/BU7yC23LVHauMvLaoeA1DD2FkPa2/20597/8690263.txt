@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8690263
+query:			architectural design
+passage:			Passage: Study a Bachelor of Architectural studies and develop a sound understanding of architectural design, urban housing design, and the history and theory of architecture. Explore different styles of architecture, and become knowledgeable about architectural site analysis and ways to achieve sustainability.
+subject_label:			3
+query_id:			20597

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7864215
+query:			who is the grinning man
+passage:			Passage: Possible Explanations Edit. It is commonly believed that the Grinning Man may be an alien entity, and is supported by its close connection with UFO activity and with Derenberger's sighting. It is also said by Derenberger that the Grinning Man is in fact a species of aliens with multiple grinning men.
+subject_label:			3
+query_id:			1040461

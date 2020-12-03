@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7919556
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Cavaliers vs. Warriors 2016 final score: LeBron James brings a title back to Cleveland in thrilling Game 7 win. By Liam Boylan-Pett ï @liam_bp on Jun 19, 2016, 10:40p 115. Kyrie Irving hit the shot of the playoffs to lead the Cavaliers to a 93-89 win in Game 7.
+subject_label:			5
+query_id:			846082

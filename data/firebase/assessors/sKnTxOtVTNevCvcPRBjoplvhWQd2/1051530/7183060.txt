@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7183060
+query:			what is mastoidectomy
+passage:			Passage: In Carol's case, she went to Mr Madkour, aged 23, for a mastoidectomy operation to remove diseased bone from the ear in 1994.
+subject_label:			3
+query_id:			1051530

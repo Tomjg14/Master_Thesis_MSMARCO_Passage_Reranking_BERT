@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7810607
+query:			what kind of animals are at the franklin park zoo
+passage:			Passage: Franklin Park Zoo. Walk on the wild side, craft beer in hand, at Franklin Park Zoo's seventh annual Brew at the Zoo. Visit pygmy hippos, ring-tailed lemurs, western lowland gorillas along with kangaroos, giraffes, zebras and more. Nearly the entire zoo will be open for this event, so be sure not to miss the Aussie Aviary, a free-flight walk through experience with a variety of colorful budgies.
+subject_label:			4
+query_id:			866251

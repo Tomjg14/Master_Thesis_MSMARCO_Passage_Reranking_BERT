@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8315641
+query:			what county is stacy minnesota
+passage:			Passage: Explore Hennepin County, Minnesota Salaries See Hennepin County, Minnesota Hourly Pay, Hennepin County, Minnesota Bonuses, or check out salaries for Hennepin County, Minnesota Internship or Hennepin County, Minnesota Contractor.
+subject_label:			1
+query_id:			1085279

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4104821
+query:			who is the grinning man
+passage:			Passage: Nigel Cockerton, a Scottish forensic artist, used his skills to reconstruct a human face based on the shape of the glass skull. His work shows a man with a wide grin. Dan Aykroyd, who helped create Crystal Head Vodka, said he was surprised to see the skull was that of a man.(Danny Moloshok/Reuters).hen the company saw the photos of Cockerton's work, it shared them with its 95,000 Facebook followers. Wherever Crystal Head Vodka can help science, we're happy to pitch in, Aykroyd said in an interview.
+subject_label:			1
+query_id:			1040461

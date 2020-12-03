@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1298434
+query:			what is impact ratio analysis
+passage:			Passage: A comprehensive analysis of a company should include looking at both the qualitative and quantitative factors that would impact decision making. Common quantitative factors include calculating different ratios (debt/equity, current ratio) and considering different financial metrics (net income, net assets).
+subject_label:			2
+query_id:			757644

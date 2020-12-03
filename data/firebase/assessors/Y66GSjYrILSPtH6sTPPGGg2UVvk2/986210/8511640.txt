@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8511640
+query:			who was the basket of apples by
+passage:			Passage: A basket of apples next to a bottle of apple cider vinegar. Apple cider vinegar provides benefits that may reduce or prevent acid reflux. Although apple cider vinegar contains acetic acid that can trigger reflux for some people, others use apple cider as a remedy for heartburn, the pain and burning in the upper chest and throat from acid reflux. The effectiveness of a treatment may depend on the person and the cause of heartburn.
+subject_label:			1
+query_id:			986210

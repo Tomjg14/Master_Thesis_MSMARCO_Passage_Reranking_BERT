@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7111937
+query:			what causes a prickly itchy feeling all over
+passage:			Passage: Itchy Skin No Rash â Causes of Burning, Prickly Skin at Night without Rash Do you have itchy burning skin no rash symptoms? Find out what the symptoms for this type of itching are and their cause.
+subject_label:			1
+query_id:			1086248

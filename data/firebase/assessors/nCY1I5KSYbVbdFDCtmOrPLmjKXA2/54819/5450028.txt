@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5450028
+query:			blue sky charge controller price
+passage:			Passage: Valet and self service at no additional Charge Shuttle FREE no charge 24/7 Convenient Location Blue Sky Parking is just 5 minutes from O'Hare international airport ORD Short and Long-term parking available.
+subject_label:			1
+query_id:			54819

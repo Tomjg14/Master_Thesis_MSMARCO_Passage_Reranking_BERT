@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1770910
+query:			what is drop in baseball bat selection
+passage:			Passage: A baseball bat is a smooth wooden or metal club used in the sport of baseball to hit the ball after it is thrown by the pitcher.By regulation it may be no more than 2.75 inches in diameter at the thickest part and no more than 42 inches (1,100 mm) long.he bat drop of a bat is its weight, in ounces, minus its length, in inches. For example, a 30-ounce, 33-inch-long bat has a bat drop of minus 3 (30 â 33 = â3). Larger bat drops help to increase swing speed.
+subject_label:			5
+query_id:			741392

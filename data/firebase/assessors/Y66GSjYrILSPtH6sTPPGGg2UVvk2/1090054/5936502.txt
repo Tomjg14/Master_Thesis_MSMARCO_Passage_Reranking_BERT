@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5936502
+query:			temperature diode
+passage:			Passage: There are numerous sensors available for temperature measurement under the name thermal sensors. Popular ones are the thermistor, thermocouple, RTD. Diodes can be used to sense temperature due to the change in their forward voltage with change in temperature. One of the advantage of using diodes is they have a nearly linear relationship between temperature and voltage applied.
+subject_label:			4
+query_id:			1090054

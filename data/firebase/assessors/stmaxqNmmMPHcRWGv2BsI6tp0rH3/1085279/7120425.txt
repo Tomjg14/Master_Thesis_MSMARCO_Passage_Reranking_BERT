@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7120425
+query:			what county is stacy minnesota
+passage:			Passage: The City of Stacy had a population of 1,583 as of July 1, 2017. The primary coordinate point for Stacy is located at latitude 45.3765 and longitude -92.9903 in Chisago County. The formal boundaries for the City of Stacy (see map below) encompass a land area of 3.17 sq. miles and a water area of 0.07 sq. miles. Chisago County is in the Central time zone (GMT -6). The elevation is 899 feet.
+subject_label:			3
+query_id:			1085279

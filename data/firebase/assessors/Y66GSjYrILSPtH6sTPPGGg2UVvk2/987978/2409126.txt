@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2409126
+query:			where is miralago
+passage:			Passage: Where is Bielsko-Biala: Where is Bydgoszcz: Where is Bytom: Where is Chelm: Where is Chorzow: Where is Czestochowa: Where is Dabrowa Gornicza: Where is Elblag: Where is Elk: Where is Gdansk: Where is Gdynia: Where is Gliwice: Where is Glogow: Where is Gniezno: Where is Gorzow Wielkopolski: Where is Grudziadz: Where is Inowroclaw: Where is Jastrzebie Zdroj: Where is Jaworzno
+subject_label:			1
+query_id:			987978

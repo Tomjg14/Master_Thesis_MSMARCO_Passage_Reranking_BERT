@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5632502
+query:			carbon reactivation facilities california
+passage:			Passage: (s) Volatile organic compounds (VOC) means any compound of carbon, excluding carbon monoxide, carbon dioxide, carbonic acid, metallic carbides or carbonates, and ammonium carbonate, which participates in atmospheric photochemical reactions.herefore, the compounds identified in paragraph (s) of this section as negligibly reactive and excluded from EPA's definition of VOCs are to be counted towards a product's reactivity limit for the purposes of determining compliance with California's aerosol coatings reactivity-based regulation.
+subject_label:			3
+query_id:			1085584

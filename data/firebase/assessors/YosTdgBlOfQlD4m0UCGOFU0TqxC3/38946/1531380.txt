@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1531380
+query:			average money market interest rates
+passage:			Passage: Jumbo Money Market Jumbo Money Market Accounts come with higher minimum initial deposit and minimum balance requirements, but can sometimes be a great way to safely reach for extra yield on your cash. Jumbo Money Market Account interest rates are regularly twice as much (on average) as standard, non-Jumbo, Money Market rates. The Money Market instrument is very similar to a savings account in that it serves as an easily accessible account that bears interest and is insured by the financial institution (every institution listed on DepositAccounts is backed by the FDIC or NCUA).
+subject_label:			2
+query_id:			38946

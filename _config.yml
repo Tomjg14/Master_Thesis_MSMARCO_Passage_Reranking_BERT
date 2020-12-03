@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: 'Master Thesis'
+decription: 'Re-ranking BERT; A Thorough Analysis on MS MARCO Document Re-ranking with BERT'
+logo: 'images/bert-logo.jpg'
+show_downloads: 'true'

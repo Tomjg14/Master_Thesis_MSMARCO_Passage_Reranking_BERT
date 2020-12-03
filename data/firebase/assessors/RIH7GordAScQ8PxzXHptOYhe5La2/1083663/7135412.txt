@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7135412
+query:			what does i mean to wear your heart on your sleeve
+passage:			Passage: Like you are wearing your heart on your sleeve, where the whole world can see how you feel. Bobby gets walked all over by every girl that he dates because he wears his heart on his sleeve and they realize that he is a pushover. Not to say everyone with their heart on the sleeve, thats just an example for context.
+subject_label:			5
+query_id:			1083663

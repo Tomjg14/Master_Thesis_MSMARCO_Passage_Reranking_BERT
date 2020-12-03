@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7789598
+query:			who paul clark
+passage:			Passage: he pressed on to lexington where he found hancock and adams at the home of jonas clark paul revere was joined by dawes who had successfully slipped past the guards on boston neck and a third man dr samuel prescott a resident of concord
+subject_label:			1
+query_id:			988142

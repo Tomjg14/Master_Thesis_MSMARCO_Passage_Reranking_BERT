@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4396568
+query:			is cortana smart???
+passage:			Passage: While smart AI are not carbon copies of their 'parents', Cortana chose a young representation of Halsey to act as her physical avatar, while also retaining some of Halsey's mannerisms. In Fall 2552, in preparation for RED FLAG, Cortana was asked by Dr. Halsey to pick a soldier that would act as her carrier.
+subject_label:			4
+query_id:			407274

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8563856
+query:			what's the temperature in tucson arizona right now?
+passage:			Passage: Arizona Weather > Tucson Weather. Tucson, AZ climate is hot during summer when temperatures tend to be in the 80's and cool during winter when temperatures tend to be in the 50's.
+subject_label:			2
+query_id:			933236

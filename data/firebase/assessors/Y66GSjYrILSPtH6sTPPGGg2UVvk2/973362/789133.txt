@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			789133
+query:			where does lice come from
+passage:			Passage: Head lice are parasites that can be found on the heads of people. Infection with head lice is called pediculosis. (The head louse, Pediculus humanus capitis, is different from the lice that cause body and pubic-hair infections.).nyone who comes in close contact with someone who already has head lice, or even their contaminated clothing and other belongings, is at risk for acquiring head lice. So it is easy to transmit head lice from one person to another.
+subject_label:			4
+query_id:			973362

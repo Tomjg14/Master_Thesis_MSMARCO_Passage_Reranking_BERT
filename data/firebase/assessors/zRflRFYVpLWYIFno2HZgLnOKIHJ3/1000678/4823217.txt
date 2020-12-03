@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4823217
+query:			where did captain james cook explore?
+passage:			Passage: Captain James Cook's last stop was in February, 1779 at the Sandwich Islands (Hawaii) where he was killed in a fight with islanders over the theft of a boat. Cook's explorations dramatically increased European knowledge of the world.
+subject_label:			4
+query_id:			1000678

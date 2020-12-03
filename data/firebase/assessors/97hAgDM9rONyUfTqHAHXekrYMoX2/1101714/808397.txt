@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			808397
+query:			definition, nepotism
+passage:			Passage: Freebase(3.00 / 1 vote)Rate this definition: Nepotism is favoritism granted to relatives regardless of merit. The word nepotism is from the Latin word nepos, nepotis, from which modern Romanian nepot and Italian nipote and Catalan nebot, nephew or grandchild are also descended.
+subject_label:			4
+query_id:			1101714

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			529954
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: William Richard Baynham Wyatt married Martha Francis Scott (dau. of Robert and Ann [Coleman] Scott) on September 5, 1832. They lived at Edgewood on the North Anna river in Hanover County, Virginia. Note that Edgewood was across the river from, but near to, Plain Dealing in Caroline County.
+subject_label:			1
+query_id:			891565

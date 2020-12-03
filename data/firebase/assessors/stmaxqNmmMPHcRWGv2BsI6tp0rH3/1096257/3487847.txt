@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3487847
+query:			how much does a audit senior make
+passage:			Passage: Audit Senior Manager Salary By State. If youâve worked your way up to the position of an Audit Senior Manager then you should be concerned with how much youâre being paid. Audit Managers can get paid a wide range of salaries depending on if they live in one of the highest paying states for their field.Different states can pay significantly different wages to Audit Senior Managers depending on if they are in a high demand area for the skills of an Audit Manager.ur state by state breakdown allows you to see which state is best to get a job as an Audit Senior Manager. The salary information provided below is off of real-world job listings for Audit Senior Manager and the pay offered for those jobs. We source Indeed, Simply Hired, PayScale and GlassDoor.com.
+subject_label:			5
+query_id:			1096257

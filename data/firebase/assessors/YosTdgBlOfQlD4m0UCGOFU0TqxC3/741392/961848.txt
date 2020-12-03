@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			961848
+query:			what is drop in baseball bat selection
+passage:			Passage: Bat Size Chart-Guide to selecting correct bat size. Use this bat size guide (courtesy Louisville Slugger) to help you select the best bat size for little league baseball, senior league baseball, high school/college baseball or fastpitch softball. Click the link below to see bat chart.
+subject_label:			4
+query_id:			741392

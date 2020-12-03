@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6901390
+query:			what is a variable account in a annuity
+passage:			Passage: Good afternoon and Thank you for your question. Here is a prospectus for this annuity, I believe. PRUDENTIAL PREMIERÂ® RETIREMENT - Variable Annuity. This is a variable annuity that has what is called a benefits value and contract value. Here is how it works as an example, if you invest 100$k in to this annuity, at the future age, let's say 65 this annuity will pay you, let's say, 5% of the highest daily value between now and then.
+subject_label:			1
+query_id:			1065558

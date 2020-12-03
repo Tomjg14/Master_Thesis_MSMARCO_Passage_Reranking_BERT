@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3252983
+query:			what hormone secretion causes goiter
+passage:			Passage: Goiter is an enlargement of the thyroid gland. The resulting bulge on the neck may become extremely large, but most simple goiters are brought under control before this happens.Occasionally a simple goiter may cause some difficulty in breathing and swallowing.ne or more nodules can be recognised. The most frequent cause of multinodular goitre is iodine deficiency. Nonâtoxic goitre means that the nodules do not secret thyroid hormones in an uncontrolled way. Total thyroidectomy is an operation that involves the surgical removal of the whole thyroid gland.
+subject_label:			2
+query_id:			669427

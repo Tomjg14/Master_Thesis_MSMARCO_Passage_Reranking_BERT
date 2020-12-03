@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7888800
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: 300 HP and aS 260. Seadoo has 300HP while Yamahaâ¢ does not. The closet thing in HP Yamahaâ¢ has to what Seadoo has is any of the models with 260HP. The 300HP models Seadoo have are just crazy in power, Iâve wrote more about it here.
+subject_label:			1
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3145361
+query:			what does it mean when someone sign a document under duress
+passage:			Passage: Duress is defined as making someone do something against his will, or making someone perform an illegal act, by using threats, coercion or other illicit means. An example of duress is when you torture a prisoner until he confesses.
+subject_label:			3
+query_id:			641156

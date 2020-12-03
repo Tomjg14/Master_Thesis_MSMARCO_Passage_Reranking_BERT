@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3634260
+query:			how big is a micron
+passage:			Passage: Conversion for how many inches ( in ) of length are contained in a micron ( 1 Âµ ). Or, how much in inches of length is in 1 micron? To link to this length micron to inches online converter simply cut and paste the following. The link to this tool will appear as: length from micron (Âµ) to inches (in) conversion.
+subject_label:			4
+query_id:			208822

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			5419376
+query:			molar mass of phenol
+passage:			Passage: Base-catalysed phenol-formaldehyde resins are made with a formaldehyde to phenol ratio of greater than one (usually around 1.5). These resins are called resoles. Phenol, formaldehyde, water and catalyst are mixed in the desired amount, depending on the resin to be formed, and are then heated.ovolacs are phenol-formaldehyde resins with a formaldehyde to phenol molar ratio of less than one. The polymerization is brought to completion using acid-catalysis such as oxalic acid, hydrochloric acid or sulfonate acids.
+subject_label:			4
+query_id:			455456

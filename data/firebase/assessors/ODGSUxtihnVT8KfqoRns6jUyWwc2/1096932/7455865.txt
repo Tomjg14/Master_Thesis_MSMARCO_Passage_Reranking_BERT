@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7455865
+query:			how many miles has pastor arthur blessitt ever walked?
+passage:			Passage: Arthur Blessitt is still walking and carrying the Cross around the world in 2014! One of the Top Ten Incredible Travel Feats MSN.ca Travel Surely the toughest endurance exercise ever undertaken by The Independent Newspaper UK Worldâs Longest Walk Reaches 41,000 Miles on Christian Newswire âThe Crossâ movie detailing the first forty years of Blessittâs journey Brother Blessitt originally appeared on TRUNEWS on November 20, 2012. From Arthur Blessitt: âI want to ask a profound question.
+subject_label:			3
+query_id:			1096932

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7802974
+query:			where is miralago
+passage:			Passage: You will love Club MiraLago, the grand, two-story 24,000 sq. ft., resort-style clubhouse that will be situated at the heart of the community featuring a resident ballroom, party room, billiard room, aerobic/yoga and kids room, as well as a fitness center and private locker room with saunas.
+subject_label:			2
+query_id:			987978

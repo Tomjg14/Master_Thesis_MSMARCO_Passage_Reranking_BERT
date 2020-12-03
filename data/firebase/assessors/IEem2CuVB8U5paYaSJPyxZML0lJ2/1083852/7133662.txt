@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7133662
+query:			what does extravert mean
+passage:			Passage: What does extravert mean in Urban Dictionary?: An Extravert is somebody who does not get stressed or shy when confronted with talking to strangers. They are usually easy-going consequently they are frequentlyâ¦
+subject_label:			5
+query_id:			1083852

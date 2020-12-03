@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			407970
+query:			average temp in fort worth in march
+passage:			Passage: The average salary of an occupational therapy assistant working in Fort Worth, Texas is $76,710.he average salary of an occupational therapy assistant working in Fort Worth, Texas is $76,710.
+subject_label:			1
+query_id:			1095278

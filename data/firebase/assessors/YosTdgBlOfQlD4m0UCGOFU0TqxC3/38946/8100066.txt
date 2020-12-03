@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8100066
+query:			average money market interest rates
+passage:			Passage: Unfortunately, even the best money market accounts havenât been immune to sinking interest rates. According to Bankrate, the average MMA interest rate has sunk from 0.52% at the beginning of 2012 to 0.26% in 2016.
+subject_label:			4
+query_id:			38946

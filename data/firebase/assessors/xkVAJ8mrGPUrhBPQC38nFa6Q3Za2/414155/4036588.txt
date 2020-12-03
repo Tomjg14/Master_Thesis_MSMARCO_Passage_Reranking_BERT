@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4036588
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: Brown spotting during the first trimester of pregnancy is a completely normal phenomenon. Many women experience this during the first 3-6 weeks of pregnancy, without any negative effect. Normal brown spotting will often last around 2-3 days and should not be a heavy flow.
+subject_label:			1
+query_id:			414155

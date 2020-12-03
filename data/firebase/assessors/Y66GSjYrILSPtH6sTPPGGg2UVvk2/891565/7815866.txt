@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7815866
+query:			what river is near scotts seadoos in sacramento
+passage:			Passage: Read reviews from Scott's Seafood on the River at Riverside Blvd in Little Pocket Sacramento 95822 from trusted Sacramento restaurant reviewers. Includes the menu, 1 review, 6 photos, and 178 dishes from Scott's Seafood on the River. Read reviews from Scott's Seafood on the River at Riverside Blvd in Little Pocket Sacramento 95822 from trusted Sacramento restaurant reviewers.
+subject_label:			1
+query_id:			891565

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			2800791
+query:			has a mlb team ever gone undefeated in the regular season
+passage:			Passage: The last time a team went undefeated in the regular season was the UNLV Runninâ Rebels, in 1991, who eventually lost in the Final Four to Duke, the champions that season. The last team to go both undefeated in the regular season and ultimately win the championship was the 1976 Indiana Hoosiers. After twenty-three years we finally get to see another team enter the Tournament undefeated.
+subject_label:			4
+query_id:			198807

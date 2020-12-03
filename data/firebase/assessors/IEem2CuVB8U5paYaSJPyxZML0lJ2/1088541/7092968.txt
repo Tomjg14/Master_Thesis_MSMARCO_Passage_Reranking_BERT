@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7092968
+query:			weather in fletcher,nc
+passage:			Passage: Weather for Fletcher, NC - Fletcher, NC 28732 Weather, Current Weather in Fletcher, NC. Local weather report for Fletcher, NC, Local Fletcher, NC 28732 weather. Forecast for Fletcher, North Carolina, Fletcher, NC weather forecast. Find your local Fletcher weather forecast. Fletcher, NC weather conditions. Weather outlook for Fletcher, NC. Weather report for Fletcher, NC. Weather Maps and Driving Directions fletcher nc weather.
+subject_label:			5
+query_id:			1088541

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6968090
+query:			is it normal to have heartburn during the first trimester pregnancy
+passage:			Passage: If you are positive that you are pregnant but donât experience any of the symptoms or major changes, it can be worrying. The reality is that all women respond to pregnancy differently. While many will experience breast tenderness, exhaustion, heartburn, or morning sickness during their first trimester, you may be pregnant but no symptoms at all. There is no reason to think that you will necessarily be nauseous during your entire first trimester.
+subject_label:			4
+query_id:			414155

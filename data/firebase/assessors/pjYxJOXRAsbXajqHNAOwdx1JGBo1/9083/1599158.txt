@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1599158
+query:			____________________ is considered the father of modern medicine.
+passage:			Passage: Hippocrates was a Greek physician. He is considered as one of the greatest figures in the history of medicine and referred to as the 'Father of Western Medicine'. This biography profiles his childhood, life, works, achievements and timeline. Hippocrates was a Greek physician of the Classical Greece age. He is considered as one of the greatest figures in the history of medicine. As the founder of the Hippocratic School of Medicine, he is referred to as the 'Father of Western Medicine'. Hippocratic School of Medicine radically changed the system of medicine in ancient Greece.
+subject_label:			5
+query_id:			9083

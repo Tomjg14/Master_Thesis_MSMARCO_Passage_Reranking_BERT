@@ -1,0 +1,6 @@
+msmarco_label:			relevant
+passage_id:			7669618
+query:			is callahan an irish name
+passage:			Passage: Callahan is a well-known Irish surname. The Callahan name means descendent of CeallachÃ¡n. He was the EÃ³ganachta King of Munster from AD 935 until 954. The personal name Cellach means 'bright-headed.' These Irish counties claim Callahans: Armagh, Louth, Meath, and Monaghan.
+subject_label:			5
+query_id:			405238

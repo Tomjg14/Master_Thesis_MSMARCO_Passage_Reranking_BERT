@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			1292692
+query:			average amount of money stna make
+passage:			Passage: However, there are a lot of opportunities overseas. I know a good amount of average basketball players making great money in Europe. My advice is go to Europe. Make around a $100,000 a year for ten years and then retire and come back with a substantial amount of money heading into life after basketball.
+subject_label:			2
+query_id:			30860

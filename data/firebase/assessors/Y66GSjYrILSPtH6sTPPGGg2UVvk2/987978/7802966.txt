@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7802966
+query:			where is miralago
+passage:			Passage: Miralago B&B a piece of paradise in Bellagio a family run B&B, located in the picturesque Pescallo bay, 10 minutes walking from Bellagio centre. Few steps from the lake, you can feel the fresh and peaceful atmosphere of the fishing village.
+subject_label:			5
+query_id:			987978

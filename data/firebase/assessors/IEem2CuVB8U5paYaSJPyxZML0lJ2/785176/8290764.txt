@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			8290764
+query:			what is polydextrose made from
+passage:			Passage: Several manufacturers of low-carb products, including Atkins Nutritionals, Keto, and Biochem, say that carb counters should count only what they call net carbs or net impact carbs. Their definition of these terms is total carbohydrates less fiber, glycerin(e), the sugar alcohols, and polydextrose. They say that glycerin(e), the sugar alcohols, and polydextrose have âa negligible effect on blood glucoseâ or âa minimal impact on blood sugar.â. This is a fairly new development.
+subject_label:			3
+query_id:			785176

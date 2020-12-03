@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			4461074
+query:			what are sensitive periods for brain development
+passage:			Passage: According to supporters of the idea of sensitive periods, this occurs because it is very easy for children to acquire certain abilities during a specific sensitive period. Also, once a sensitive period is passed, the development of the brain has progressed past the point where that particular ability can be easily absorbed. After this, the ability must be formally taught, it will take a great deal of effort to learn, and will not be as readily acquired by the child.
+subject_label:			1
+query_id:			564668

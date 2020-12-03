@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3691085
+query:			who paul clark
+passage:			Passage: Pope John Paul II and President Reagan Brought Down the âEvil Empireâ Together. William P. Clark, one of President Ronald Reaganâs most trusted advisers, was also an acquaintance of Pope John Paul II, who died April 2 at age 84. During Reaganâs eight years in the White House, Clark helped the two world leaders form a lasting bond that played a significant role in the fall of communism. Clark is a fourth-generation Californian who was Governor Reaganâs chief of staff.
+subject_label:			1
+query_id:			988142

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7194257
+query:			what is termis
+passage:			Passage: Termis Temperature Optimization Module. The Termis Temperature Optimization Module minimizes heat loss and operational costs in the district heating network. The inlet temperature is adjusted to be as low as possible, taking into account the amount of heat that has to be supplied to the consumers in the net.
+subject_label:			2
+query_id:			1045227

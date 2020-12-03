@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7144945
+query:			is the hawb the tracking number
+passage:			Passage: Track a single shipment, or up to 25 shipments, by sending your UPS tracking numbers in an e-mail message. A detailed tracking response will be automatically returned to you. To find this e-mail address, select Track by E-mail on the Tracking page, or select the link below. 1 To track a single tracking number, type the number in the subject line of the e-mail or in the body of the message. To track multiple tracking numbers, enter all of the numbers in the body of the e-mail message.
+subject_label:			1
+query_id:			426442

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			7434235
+query:			is the hawb the tracking number
+passage:			Passage: A House Air Waybill (HAWB) could act as a multimodal transport document. Therefore, HAWB or air consignment refers to a receipt issued by freight forwarder for goods and an evidence of the contract of carriage, but it is not a document of title to the goods. Hence, the HAWB is non-negotiable. There are two reference numbers on HAWB, one is on the top left with eleven digits is the Master Air Waybill and another one is on the top right is the HAWB number. HAWB number is always different from one freight forwarder to another without limitation or standard digit.
+subject_label:			4
+query_id:			426442

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			826687
+query:			what are stand up paddle boards made of
+passage:			Passage: This article covers the basics of stand up paddle boarding (SUP) and includes info on essential gear and basic techniques on the water. Stand up paddle boarding is a fun way to play on the water. This article teaches you how to gear up and get out there for the first time.
+subject_label:			2
+query_id:			566174

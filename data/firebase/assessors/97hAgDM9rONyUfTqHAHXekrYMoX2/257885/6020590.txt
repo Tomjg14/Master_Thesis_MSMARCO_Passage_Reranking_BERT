@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6020590
+query:			how long does it take to process your request for ssa retirement benefits?
+passage:			Passage: The period from when you submit your application to when you learn if youâre approved or denied varies. It can take the SSA about six weeks to process your application and start your benefits.It might take longer if you supply incorrect information or the SSA needs more information. The number of applications sent to the SSA for retirement benefits could also contribute to a longer processing time.f you have previously submitted an application or claim for other Social Security benefits or Medicare, it may not be necessary to provide certain information as it is already on file. When supplying your documents, the SSA needs the originals or copies certified by the government agency that issued them.
+subject_label:			5
+query_id:			257885

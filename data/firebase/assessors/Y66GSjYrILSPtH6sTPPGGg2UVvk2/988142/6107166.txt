@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			6107166
+query:			who paul clark
+passage:			Passage: Best Answer: The wrestler who died this week was Playboy Buddy Rose, and he was like 56, and hasn't wrestled in years. According to the Clark County Medical Examiner's office, Paul R. Perschmann, better known as Playboy Buddy Rose, passed away from natural causes. He was 56. Well, I heard that Buddy Rose had died.
+subject_label:			no_input
+query_id:			988142

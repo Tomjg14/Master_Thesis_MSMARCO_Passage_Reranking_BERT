@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			3556609
+query:			what is the score of the cavaliers and the warriors?
+passage:			Passage: Warriors: 103. Cavaliers: 82. LIVE BOX SCORE. The Golden State Warriors evened out the series 2-2 much to the disappointment of the Cleveland fans. Cleveland fell to the Warriors in Game 4 by a 21 point deficit, by far the largest difference in score so far in this yearâs NBA Finals. LeBron James and MVP Steph Curry laid low and let their teammates do a lot of the work.
+subject_label:			3
+query_id:			846082

@@ -1,0 +1,6 @@
+msmarco_label:			irrelevant
+passage_id:			12424
+query:			phone number for bc transit junction
+passage:			Passage: Alcaeus (4th century BC), Athenian comic poet whose comedies marked the transition between Old Comedy and Middle Comedy. Alcaeus of Messene (fl. late 3rd/early 2nd century BC), Greek author of a number of epigrams in the Greek Anthology.
+subject_label:			1
+query_id:			1091688
