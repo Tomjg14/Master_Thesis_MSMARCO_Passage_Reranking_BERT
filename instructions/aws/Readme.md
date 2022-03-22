@@ -2,7 +2,7 @@
 
 Part of my master thesis focuses on passage reranking with BERT. As I did not possess computationally strong enough equipment to be able to run BERT, I decided to utilize the products offered by Amazon Web Services. To be precise I made use of [Amazon SageMaker](https://aws.amazon.com/sagemaker/) and [Amazon EC2](https://aws.amazon.com/ec2/). 
 
-In this section I will go in detail on how I made use of those services. How to initialize and configure your workspace, how to get started within SageMaker, and how to be able to run scripts (in the background) on Amazon's cloud EC2. My code can be found [here](https://github.com/Tomjg14/Master_Thesis_CoAs_BM25_BERT/tree/master/src/aws).
+In this section I will go in detail on how I made use of those services. How to initialize and configure your workspace, how to get started within SageMaker, and how to be able to run scripts (in the background) on Amazon's cloud EC2. My code can be found [here](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Reranking_BERT/tree/master/src/aws).
 
 Page Content:
 - [Important Information](#important-information)
@@ -302,4 +302,4 @@ Next to open the preferred session type "screen -r <pid.tty.host>" where you typ
 More information on screen can be found [here](https://www.tecmint.com/keep-remote-ssh-sessions-running-after-disconnection/).
 
 
-[Homepage](http://tomjanssengroesbeek.nl/Master_Thesis_CoAs_BM25_BERT/)
+[Homepage](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/)
