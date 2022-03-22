@@ -12,11 +12,11 @@ Below you can find all the data that is needed to reproduce the score on the MSM
 | :-------------: |:-------------:| :-----:|
 | [BERT BASE](https://drive.google.com/open?id=1cyUrhs7JaCJTTu-DjFUqP6Bs4f8a6JTX)| BERT BASE model pretrained on MSMARCO | 1.1 GB |
 | [MS MARCO Data](https://msmarco.blob.core.windows.net/msmarcoranking/collectionandqueries.tar.gz)| Queries, Passages, and Relevance Labels (05/03/2019) |   1 GB |
-| [Anserini's BM25 Output](https://github.com/Tomjg14/Master_Thesis_CoAs_BM25_BERT/raw/master/data/aws/anserini_output/run_development_small_top1000.tsv) | Anserini's BM25 top 1000 ranking MSMARCO dev set | 126 MB |
+| [Anserini's BM25 Output](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Reranking_BERT/raw/master/data/aws/anserini_output/run_development_small_top1000.tsv) | Anserini's BM25 top 1000 ranking MSMARCO dev set | 126 MB |
 
 ## Initial BM25 Top 1000 Ranking
 
-Before you can start re-ranking with BERT you will need to produce a top 1000 per query with BM25. I made use of Anserini's implementation of BM25 to produce this initial ranking. In a previous tutorial I go over the details on how to initialize Anserini and perform document ranking with BM25. You can find this detailed tutorial [here](http://tomjanssengroesbeek.nl/Master_Thesis_CoAs_BM25_BERT/instructions/rurevm_setup/anserini_bm25). That tutorial shows you exactly how to perform document ranking with BM25 on the development set of MSMARCO with 1000 hits per query. Which is exactly what we need to reproduce the work of Rodgrio Nogueira & Kyunghyun Cho. You could also just download the ranking from the link under the Data section.
+Before you can start re-ranking with BERT you will need to produce a top 1000 per query with BM25. I made use of Anserini's implementation of BM25 to produce this initial ranking. In a previous tutorial I go over the details on how to initialize Anserini and perform document ranking with BM25. You can find this detailed tutorial [here](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/rurevm_setup/anserini_bm25). That tutorial shows you exactly how to perform document ranking with BM25 on the development set of MSMARCO with 1000 hits per query. Which is exactly what we need to reproduce the work of Rodgrio Nogueira & Kyunghyun Cho. You could also just download the ranking from the link under the Data section.
 
 ## Re-ranking with BERT
 
@@ -29,7 +29,7 @@ After downloading all needed MSMARCO files and running BM25 on the development s
 
 Next I will explain how to work with the pre-trained BERT model by Rodrigo Nogueira and Kyunghyun Cho to achieve their results on the development set.
 
-I made use of AWS SageMaker notebook instances to run my code. A tutorial on how to use SageMaker can be found [here](http://tomjanssengroesbeek.nl/Master_Thesis_CoAs_BM25_BERT/instructions/aws/). As I am running BERT, the Jupyter notebook that I launched inside SageMaker is of type **conda_pytorch_p36**. The SageMaker instance itself is **ml.p2.xlarge** which includes a GPU. 
+I made use of AWS SageMaker notebook instances to run my code. A tutorial on how to use SageMaker can be found [here](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/aws/). As I am running BERT, the Jupyter notebook that I launched inside SageMaker is of type **conda_pytorch_p36**. The SageMaker instance itself is **ml.p2.xlarge** which includes a GPU. 
 
 ### Install/Import Libraries
 
