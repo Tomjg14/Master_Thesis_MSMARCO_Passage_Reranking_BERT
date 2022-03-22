@@ -22,4 +22,4 @@ ssh 'rurevm_username@rure-vm.cs.ru.nl'
 ```
 Again, you will be asked for your password after which you will be redirected to the rurevm server.
 
-[Homepage](http://tomjanssengroesbeek.nl/Master_Thesis_CoAs_BM25_BERT/)
+[Homepage](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/)
