@@ -110,7 +110,7 @@ The first Firebase product I incorporated in my project was authentication. I de
 
 To include Email Link Authentication you will need to ask your users for their email. Below is a simple example of how to add this to your website. You have an input element and a button on which the user can press to submit their email and it is all part of a form with the action set to pass the submitted email to a javascript function that will make use of Firebase.
 
-![simple user input layout](https://github.com/Tomjg14/Master_Thesis_CoAs_BM25_BERT/blob/master/instructions/firebase/simple_email_input.PNG "simple user input example")
+![simple user input layout](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Reranking_BERT/blob/master/instructions/firebase/simple_email_input.PNG "simple user input example")
 
 ```html
 <form action="javascript:emailLinkLogin(document.getElementById('email').value)">
@@ -506,4 +506,4 @@ In the above example you query for all cities that are a capital. You can find m
 
 For my thesis I primarily made use of Firestore to store user input and did not really need to retrieve data for my website to work. 
 
-[Repository Homepage](http://tomjanssengroesbeek.nl/Master_Thesis_CoAs_BM25_BERT/)
+[Repository Homepage](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/)
