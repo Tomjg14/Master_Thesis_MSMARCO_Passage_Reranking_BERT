@@ -8,12 +8,12 @@ Any questions related to this repository or my thesis can be send to [tomjg@hotm
 
 I included instructions on:
 
-- How to connect to the rure-vm server (for Radboud University students): [Getting Started](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Ranking_BERT/instructions/rurevm_setup/).
-- How to transfer files between your local machine and the rure-vm server: [File Transfer](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Ranking_BERT/instructions/rurevm_setup/file_transfer).
-- How to initialize Anserini to use BM25 for document ranking: [Anserini BM25](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Ranking_BERT/instructions/rurevm_setup/anserini_bm25).
-- How to use Google Firebase to set up an environment to authenticate users and to collect and store user data: [Firebase](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Ranking_BERT/instructions/firebase/).
-- How to use Amazon Web Services (AWS) to set up and run BERT on the cloud: [AWS](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Ranking_BERT/instructions/aws/).
-- How to reproduce the results with BERT by [Rodrigo Nogueira and Kyunghyun Cho](https://arxiv.org/abs/1901.04085): [BERT](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Ranking_BERT/instructions/bert/).
+- How to connect to the rure-vm server (for Radboud University students): [Getting Started](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/rurevm_setup/).
+- How to transfer files between your local machine and the rure-vm server: [File Transfer](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/rurevm_setup/file_transfer).
+- How to initialize Anserini to use BM25 for document ranking: [Anserini BM25](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/rurevm_setup/anserini_bm25).
+- How to use Google Firebase to set up an environment to authenticate users and to collect and store user data: [Firebase](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/firebase/).
+- How to use Amazon Web Services (AWS) to set up and run BERT on the cloud: [AWS](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/aws/).
+- How to reproduce the results with BERT by [Rodrigo Nogueira and Kyunghyun Cho](https://arxiv.org/abs/1901.04085): [BERT](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/instructions/bert/).
 
 Below you will find:
 - [Thesis Outline](#thesis-outline).
@@ -32,7 +32,7 @@ In contrast to the original relevancy labels which were binary (irrelevant or re
 
 The main goal of my thesis is to take a closer look at the performance of BERT on the MS MARCO passage ranking task. To see if its performance on this task truly reflects the state-of-the-art status that BERT receives from the community or if the scarce number of relevancy labels causes a distorted picture of reality.
 
-[Initial Thesis Proposal](https://tomjg14.github.io//Master_Thesis_MSMARCO_Passage_Ranking_BERT/files/Master_Thesis_Proposal.pdf) (26-03-2020)
+[Initial Thesis Proposal](https://tomjg14.github.io/Master_Thesis_MSMARCO_Passage_Reranking_BERT/files/Master_Thesis_Proposal.pdf) (26-03-2020)
 
 ## Methods
 
@@ -154,8 +154,8 @@ In order to evaluate BERT's performance on the passage ranking task I make use o
 
 ## Files
 
-**Query Subset Thesis**: [experiment_query_subset.tsv](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Ranking_BERT/raw/master/data/firebase/additional_files/experiment_query_subset.tsv)
+**Query Subset Thesis**: [experiment_query_subset.tsv](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Reranking_BERT/raw/master/data/firebase/additional_files/experiment_query_subset.tsv)
 
-**Thesis Code**: [src/local/local_used_code/](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Ranking_BERT/raw/master/src/local/local_used_code)
+**Thesis Code**: [src/local/local_used_code/](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Reranking_BERT/raw/master/src/local/local_used_code)
 
-**Thesis Data**: [data/local/local_used_data/](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Ranking_BERT/raw/master/data/local/local_used_data)
+**Thesis Data**: [data/local/local_used_data/](https://github.com/Tomjg14/Master_Thesis_MSMARCO_Passage_Reranking_BERT/raw/master/data/local/local_used_data)
